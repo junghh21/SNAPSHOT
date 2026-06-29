@@ -30,3 +30,19 @@ job_30min
 {'ok': True, 'result': {'message_id': 129750, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1782707503, 'text': 'NG Futures capture failed'}}
 {'ok': True, 'result': {'message_id': 37946, 'from': {'id': 8490037832, 'is_bot': True, 'first_name': '🚀', 'username': 'Coin_vn1_bot'}, 'chat': {'id': -1003016231971, 'title': '코인그룹', 'type': 'supergroup'}, 'date': 1782707505, 'text': '3VqSS:  0H/s (268401)'}}
 ```
+
+## 30m @ 2026-06-29 13:32:33 KST — ok (run #3)
+```
+{'ok': True, 'result': {'message_id': 37947, 'from': {'id': 8490037832, 'is_bot': True, 'first_name': '🚀', 'username': 'Coin_vn1_bot'}, 'chat': {'id': -1003016231971, 'title': '코인그룹', 'type': 'supergroup'}, 'date': 1782707539, 'text': 'Bitcoin: $59,839.12'}}
+{'ok': True, 'result': {'message_id': 37948, 'from': {'id': 8490037832, 'is_bot': True, 'first_name': '🚀', 'username': 'Coin_vn1_bot'}, 'chat': {'id': -1003016231971, 'title': '코인그룹', 'type': 'supergroup'}, 'date': 1782707541, 'text': 'Ethereum: $1,579.52'}}
+job_30min
+{'ok': True, 'result': {'message_id': 129751, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1782707542, 'text': 'S&P Futures'}}
+{'ok': True, 'result': {'message_id': 129752, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1782707544, 'text': 'S&P Futures capture failed'}}
+{'ok': True, 'result': {'message_id': 129753, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1782707545, 'text': 'finance.yahoo. capture failed', 'entities': [{'offset': 0, 'length': 13, 'type': 'url'}]}}
+{'ok': True, 'result': {'message_id': 129754, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1782707546, 'text': 'VIX'}}
+{'ok': True, 'result': {'message_id': 129755, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1782707547, 'text': 'VIX capture failed'}}
+{'ok': True, 'result': {'message_id': 129756, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1782707548, 'text': 'vixcentral capture failed'}}
+{'ok': True, 'result': {'message_id': 129757, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1782707549, 'text': 'NG Futures'}}
+{'ok': True, 'result': {'message_id': 129758, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1782707550, 'text': 'NG Futures capture failed'}}
+{'ok': True, 'result': {'message_id': 37949, 'from': {'id': 8490037832, 'is_bot': True, 'first_name': '🚀', 'username': 'Coin_vn1_bot'}, 'chat': {'id': -1003016231971, 'title': '코인그룹', 'type': 'supergroup'}, 'date': 1782707552, 'text': '3VqSS:  0H/s (268401)'}}
+```
