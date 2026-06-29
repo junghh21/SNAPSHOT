@@ -240,3 +240,32 @@ Workflow completed with status: completed
 ============================================================
 [SITE] wrote index.html (16 images, 4 summaries)
 ```
+
+## 3h @ 2026-06-30 01:06:15 KST — ok (run #11)
+```
+{'ok': True, 'result': {'message_id': 130228, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1782749160, 'photo': [{'file_id': 'AgACAgUAAyEGAASPJ3n-AAEB_LRqQpfnOH-sOIa3kdgpPwg4dpW_gwACnBBrG7hEGVayFUc-WL4DmQEAAwIAA3MAAzwE', 'file_unique_id': 'AQADnBBrG7hEGVZ4', 'file_size': 1393, 'width': 90, 'height': 50}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEB_LRqQpfnOH-sOIa3kdgpPwg4dpW_gwACnBBrG7hEGVayFUc-WL4DmQEAAwIAA20AAzwE', 'file_unique_id': 'AQADnBBrG7hEGVZy', 'file_size': 22646, 'width': 320, 'height': 178}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEB_LRqQpfnOH-sOIa3kdgpPwg4dpW_gwACnBBrG7hEGVayFUc-WL4DmQEAAwIAA3gAAzwE', 'file_unique_id': 'AQADnBBrG7hEGVZ9', 'file_size': 110209, 'width': 800, 'height': 444}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEB_LRqQpfnOH-sOIa3kdgpPwg4dpW_gwACnBBrG7hEGVayFUc-WL4DmQEAAwIAA3kAAzwE', 'file_unique_id': 'AQADnBBrG7hEGVZ-', 'file_size': 238430, 'width': 1280, 'height': 711}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEB_LRqQpfnOH-sOIa3kdgpPwg4dpW_gwACnBBrG7hEGVayFUc-WL4DmQEAAwIAA3cAAzwE', 'file_unique_id': 'AQADnBBrG7hEGVZ8', 'file_size': 297421, 'width': 1504, 'height': 835}]}}
+{'ok': True, 'result': {'message_id': 130229, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1782749161, 'text': '📊 te-us-stock-market'}}
+{'ok': True, 'result': {'message_id': 130230, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1782749162, 'text': 'AI 주식 재평가와 경제 전망 개선으로 미국 증시 상승.\n유가 하락은 기업 신용 개선, AI 주식 재부상하며 엔비디아 등 상승.\n컴캐스트는 NBC유니버설 분사로 20% 이상 급등.'}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 35', 'parameters': {'retry_after': 35}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 34', 'parameters': {'retry_after': 34}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 33', 'parameters': {'retry_after': 33}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 32', 'parameters': {'retry_after': 32}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 32', 'parameters': {'retry_after': 32}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 31', 'parameters': {'retry_after': 31}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 30', 'parameters': {'retry_after': 30}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 30', 'parameters': {'retry_after': 30}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 29', 'parameters': {'retry_after': 29}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 28', 'parameters': {'retry_after': 28}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 28', 'parameters': {'retry_after': 28}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 27', 'parameters': {'retry_after': 27}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 26', 'parameters': {'retry_after': 26}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 26', 'parameters': {'retry_after': 26}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 25', 'parameters': {'retry_after': 25}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 25', 'parameters': {'retry_after': 25}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 24', 'parameters': {'retry_after': 24}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 24', 'parameters': {'retry_after': 24}}
+============================================================
+Workflow completed with status: completed
+============================================================
+[SITE] wrote index.html (16 images, 4 summaries)
+```
