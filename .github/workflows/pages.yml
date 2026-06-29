@@ -1,0 +1,71 @@
+name: SNAPSHOT dashboard (GitHub Pages)
+
+# Builds the static market dashboard with the __GET LangGraph workflow and
+# publishes it to this repo's GitHub Pages site.
+
+on:
+  schedule:
+    - cron: '15 */6 * * *'
+  workflow_dispatch:
+    inputs:
+      targets:
+        description: 'Comma-separated target names (blank = all)'
+        required: false
+        default: ''
+  repository_dispatch:
+    types: [deploy-dashboard]
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+  packages: read
+
+concurrency:
+  group: snap-pages
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: docker/login-action@v3
+        with:
+          registry: ghcr.io
+          username: ${{ github.actor }}
+          password: ${{ secrets.PAT3 }}
+
+      - name: Clone __GET source
+        run: |
+          rm -rf src
+          git clone --depth 1 https://github.com/junghh21/__GET.git src
+
+      - name: Build dashboard (capture -> site/)
+        env:
+          LG_TARGETS: ${{ github.event.inputs.targets }}
+        run: |
+          docker run --rm \
+            -e LG_TARGETS \
+            -e LG_NO_TELEGRAM=1 \
+            -e LG_DASHBOARD_DIR=site \
+            -v "$PWD/src":/app -w /app \
+            ghcr.io/junghh21/venv_get:latest \
+            python -m __LANGGRAPH.runner
+          test -f src/site/index.html
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: src/site
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4
