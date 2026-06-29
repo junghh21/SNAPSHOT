@@ -1,7 +1,8 @@
 name: SNAPSHOT dashboard (GitHub Pages)
 
-# Builds the static market dashboard with the __GET LangGraph workflow and
-# publishes it to this repo's GitHub Pages site.
+# __MON-style: build the dashboard inside the GHCR image, then publish it by
+# force-pushing site/ to the gh-pages branch (git only — no Node actions, so it
+# runs entirely inside the python image). Pages serves from the gh-pages branch.
 
 on:
   schedule:
@@ -16,10 +17,8 @@ on:
     types: [deploy-dashboard]
 
 permissions:
-  contents: read
-  pages: write
-  id-token: write
-  packages: read
+  contents: write      # push gh-pages
+  packages: read       # pull venv_get image
 
 concurrency:
   group: snap-pages
@@ -29,43 +28,43 @@ jobs:
   build:
     runs-on: ubuntu-latest
     timeout-minutes: 40
+
+    container:
+      image: ghcr.io/${{ github.repository_owner }}/venv_get:latest
+      credentials:
+        username: ${{ github.actor }}
+        password: ${{ secrets.PAT3 }}
+
+    env:
+      TZ: Asia/Seoul
+      LG_TARGETS: ${{ github.event.inputs.targets }}
+      LG_NO_TELEGRAM: '1'
+      LG_DASHBOARD_DIR: site
+
     steps:
-      - uses: actions/checkout@v4
-
-      - uses: docker/login-action@v3
-        with:
-          registry: ghcr.io
-          username: ${{ github.actor }}
-          password: ${{ secrets.PAT3 }}
-
       - name: Clone __GET source
         run: |
-          rm -rf src
+          git config --global --add safe.directory '*'
           git clone --depth 1 https://github.com/junghh21/__GET.git src
 
       - name: Build dashboard (capture -> site/)
-        env:
-          LG_TARGETS: ${{ github.event.inputs.targets }}
+        working-directory: src
         run: |
-          docker run --rm \
-            -e LG_TARGETS \
-            -e LG_NO_TELEGRAM=1 \
-            -e LG_DASHBOARD_DIR=site \
-            -v "$PWD/src":/app -w /app \
-            ghcr.io/junghh21/venv_get:latest \
-            python -m __LANGGRAPH.runner
-          test -f src/site/index.html
+          python3 -m __LANGGRAPH.runner
+          test -f site/index.html
 
-      - uses: actions/upload-pages-artifact@v3
-        with:
-          path: src/site
-
-  deploy:
-    needs: build
-    runs-on: ubuntu-latest
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-    steps:
-      - id: deployment
-        uses: actions/deploy-pages@v4
+      - name: Publish to gh-pages
+        run: |
+          ts="$(TZ=Asia/Seoul date '+%Y-%m-%d %H:%M:%S KST')"
+          mkdir gh && cd gh
+          git init -q
+          git checkout -q -b gh-pages
+          cp -r ../src/site/* .
+          touch .nojekyll
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -qm "dashboard ${ts}"
+          git push -f \
+            https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git \
+            gh-pages

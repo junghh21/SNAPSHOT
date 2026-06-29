@@ -1,7 +1,8 @@
 name: SNAPSHOT 6h capture
 
-# Pulls the __GET runtime image, clones the latest __GET source, runs the
-# 6-hour capture job (main1.py), then records a CI log line back into this repo.
+# __MON-style: the GHCR image (built by __GET) IS the runtime container.
+# Clone the latest __GET source inside it, run the 6h capture (main1.py), then
+# record a CI log back into this repo.
 
 on:
   schedule:
@@ -22,36 +23,35 @@ jobs:
   capture:
     runs-on: ubuntu-latest
     timeout-minutes: 20
+
+    container:
+      image: ghcr.io/${{ github.repository_owner }}/venv_get:latest
+      credentials:
+        username: ${{ github.actor }}
+        password: ${{ secrets.PAT3 }}
+
+    env:
+      TZ: Asia/Seoul
+      TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+      TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+
     steps:
-      - uses: actions/checkout@v4
-
-      - uses: docker/login-action@v3
-        with:
-          registry: ghcr.io
-          username: ${{ github.actor }}
-          password: ${{ secrets.PAT3 }}
-
       - name: Clone __GET source
         run: |
-          rm -rf src
+          git config --global --add safe.directory '*'
           git clone --depth 1 https://github.com/junghh21/__GET.git src
 
-      - name: Run 6h capture
-        env:
-          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
-          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+      - name: Run 6h capture (latest source)
+        working-directory: src
         run: |
           set -o pipefail
-          docker run --rm \
-            -e TELEGRAM_BOT_TOKEN -e TELEGRAM_CHAT_ID \
-            -v "$PWD/src":/app -w /app \
-            ghcr.io/junghh21/venv_get:latest \
-            python main1.py 2>&1 | tee run.log || echo "RUN_FAILED=1" >> "$GITHUB_ENV"
+          python3 main1.py 2>&1 | tee ../run.log || echo "RUN_FAILED=1" >> "$GITHUB_ENV"
 
       - name: Record CI log and push
         if: always()
         run: |
-          mkdir -p logs
+          git clone https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git out
+          mkdir -p out/logs
           ts="$(TZ=Asia/Seoul date '+%Y-%m-%d %H:%M:%S KST')"
           status="ok"; [ -n "${RUN_FAILED:-}" ] && status="FAILED"
           {
@@ -60,7 +60,8 @@ jobs:
             echo '```'
             tail -n 25 run.log 2>/dev/null || echo "(no output)"
             echo '```'
-          } >> logs/ci-6h.md
+          } >> out/logs/ci-6h.md
+          cd out
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add logs/ci-6h.md
