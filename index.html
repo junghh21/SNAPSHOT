@@ -6,40 +6,138 @@
 <meta http-equiv="refresh" content="900">
 <title>Market Capture Dashboard</title>
 <style>
-  :root { color-scheme: dark; }
-  * { box-sizing: border-box; }
-  body { margin: 0; background: #0d1117; color: #e6edf3;
-         font: 15px/1.5 -apple-system, "Segoe UI", Roboto, "Noto Sans KR", sans-serif; }
-  header { position: sticky; top: 0; background: #161b22; border-bottom: 1px solid #30363d;
-           padding: 14px 20px; display: flex; align-items: baseline; gap: 16px; flex-wrap: wrap; }
-  header h1 { font-size: 18px; margin: 0; }
-  header .meta { color: #8b949e; font-size: 13px; }
-  header .badge { background: #238636; color: #fff; border-radius: 12px; padding: 2px 10px; font-size: 12px; }
-  header .home { margin-left: auto; color: #58a6ff; text-decoration: none; font-size: 13px; }
-  header .home:hover { text-decoration: underline; }
-  main { display: grid; gap: 16px; padding: 20px;
-         grid-template-columns: repeat(auto-fill, minmax(360px, 1fr)); }
-  .card { background: #161b22; border: 1px solid #30363d; border-radius: 10px; overflow: hidden; }
-  .card h2 { font-size: 14px; margin: 0; padding: 10px 14px; border-bottom: 1px solid #21262d;
-             background: #1c2128; word-break: break-all; }
-  .imgs img { width: 100%; display: block; background: #fff; }
-  footer { padding: 16px 20px; color: #8b949e; font-size: 12px; text-align: center; }
+  :root {
+    --bg:#0a0e14; --bg2:#0f1620; --panel:#121a26; --panel2:#16202e;
+    --line:#1f2b3a; --line2:#27374a; --txt:#e6edf3; --mut:#8aa0b6;
+    --accent:#37d39a; --accent2:#3aa0ff; --shadow:0 8px 30px rgba(0,0,0,.45);
+  }
+  * { box-sizing:border-box; }
+  html { scroll-behavior:smooth; }
+  body { margin:0; color:var(--txt); background:
+      radial-gradient(1200px 600px at 80% -10%, #15324a33, transparent 60%),
+      radial-gradient(900px 500px at -10% 10%, #1c3b2e33, transparent 55%), var(--bg);
+    font:15px/1.55 "Inter",-apple-system,"Segoe UI",Roboto,"Noto Sans KR",sans-serif;
+    -webkit-font-smoothing:antialiased; }
+
+  header { position:sticky; top:0; z-index:20; backdrop-filter:blur(14px);
+    background:linear-gradient(180deg, #0a0e14e6, #0a0e14b3);
+    border-bottom:1px solid var(--line); }
+  .bar { max-width:1500px; margin:0 auto; padding:16px 24px;
+    display:flex; align-items:center; gap:18px; flex-wrap:wrap; }
+  .brand { display:flex; align-items:center; gap:11px; }
+  .brand .logo { width:34px; height:34px; border-radius:9px; display:grid; place-items:center;
+    background:linear-gradient(135deg,var(--accent),var(--accent2)); color:#06131d; font-size:18px;
+    box-shadow:0 4px 14px #37d39a55; }
+  .brand h1 { font-size:18px; font-weight:700; margin:0; letter-spacing:.2px; }
+  .brand .sub { display:block; font-size:11px; font-weight:500; color:var(--mut); letter-spacing:.4px; text-transform:uppercase; }
+  .stats { display:flex; gap:10px; margin-left:8px; }
+  .stat { background:var(--panel); border:1px solid var(--line); border-radius:10px;
+    padding:6px 12px; font-size:12px; color:var(--mut); }
+  .stat b { color:var(--txt); font-size:15px; margin-right:4px; }
+  .spacer { flex:1; }
+  .updated { font-size:12px; color:var(--mut); display:flex; align-items:center; gap:7px; }
+  .live { width:8px; height:8px; border-radius:50%; background:var(--accent);
+    box-shadow:0 0 0 0 #37d39a99; animation:pulse 2s infinite; }
+  @keyframes pulse { 0%{box-shadow:0 0 0 0 #37d39a99} 70%{box-shadow:0 0 0 7px #37d39a00} 100%{box-shadow:0 0 0 0 #37d39a00} }
+  .home-btn { text-decoration:none; color:#06131d; font-weight:600; font-size:13px;
+    background:linear-gradient(135deg,var(--accent),var(--accent2)); padding:8px 14px;
+    border-radius:10px; transition:transform .15s, box-shadow .15s; }
+  .home-btn:hover { transform:translateY(-1px); box-shadow:0 6px 18px #3aa0ff55; }
+
+  main { max-width:1500px; margin:0 auto; padding:26px 24px 60px; }
+  .cat { margin:0 0 30px; }
+  .cat h2 { display:flex; align-items:center; gap:10px; font-size:13px; font-weight:700;
+    letter-spacing:1.4px; text-transform:uppercase; color:var(--mut); margin:0 0 14px;
+    padding-bottom:10px; border-bottom:1px solid var(--line); }
+  .cat .dot { width:9px; height:9px; border-radius:50%;
+    background:linear-gradient(135deg,var(--accent),var(--accent2)); }
+  .cat .count { margin-left:6px; background:var(--panel2); color:var(--mut);
+    border:1px solid var(--line); border-radius:20px; padding:1px 9px; font-size:11px; letter-spacing:0; }
+  .grid { display:grid; gap:18px; grid-template-columns:repeat(auto-fill,minmax(380px,1fr)); }
+
+  .card { margin:0; background:linear-gradient(180deg,var(--panel),var(--bg2));
+    border:1px solid var(--line); border-radius:14px; overflow:hidden;
+    box-shadow:var(--shadow); transition:transform .18s, border-color .18s, box-shadow .18s; }
+  .card:hover { transform:translateY(-3px); border-color:var(--line2);
+    box-shadow:0 14px 40px rgba(0,0,0,.55); }
+  .thumb { display:block; width:100%; padding:0; border:0; cursor:zoom-in; background:#fff;
+    line-height:0; }
+  .thumb img { width:100%; display:block; transition:transform .35s ease; }
+  .card:hover .thumb img { transform:scale(1.025); }
+  figcaption { display:flex; align-items:center; justify-content:space-between; gap:10px;
+    padding:11px 14px; border-top:1px solid var(--line); background:var(--panel2); }
+  figcaption .ct { font-size:13.5px; font-weight:600; color:var(--txt); }
+  figcaption time { font-size:11.5px; color:var(--mut); font-variant-numeric:tabular-nums; white-space:nowrap; }
+
+  footer { max-width:1500px; margin:0 auto; padding:24px; color:var(--mut);
+    font-size:12px; text-align:center; border-top:1px solid var(--line); }
+  footer a { color:var(--accent2); text-decoration:none; }
+
+  /* lightbox */
+  #lb { position:fixed; inset:0; z-index:50; display:none; place-items:center;
+    background:#04070bf2; backdrop-filter:blur(6px); padding:30px; cursor:zoom-out; }
+  #lb.on { display:grid; }
+  #lb img { max-width:96vw; max-height:92vh; border-radius:10px;
+    box-shadow:0 20px 70px rgba(0,0,0,.7); border:1px solid var(--line2); }
+
+  /* tablet */
+  @media (max-width:900px) {
+    .bar { padding:13px 16px; gap:12px; }
+    main { padding:20px 16px 50px; }
+    .grid { grid-template-columns:repeat(auto-fill,minmax(300px,1fr)); gap:14px; }
+  }
+  /* phone */
+  @media (max-width:600px) {
+    .bar { padding:11px 14px; gap:9px 12px; }
+    .brand { flex:1 1 auto; }
+    .brand h1 { font-size:16px; }
+    .brand .sub { display:none; }
+    .home-btn { order:3; flex:1 1 100%; text-align:center; }  /* full-width tap target */
+    .stats { order:4; margin-left:0; }
+    .updated { order:5; }
+    .spacer { display:none; }
+    main { padding:16px 12px 44px; }
+    .cat { margin-bottom:22px; }
+    .grid { grid-template-columns:1fr; gap:14px; }
+    .card { border-radius:12px; }
+    .card:hover { transform:none; }        /* no hover-lift on touch */
+    figcaption .ct { font-size:13px; }
+    #lb { padding:12px; }
+  }
+  @media (hover:none) { .thumb { cursor:default; } .card:hover .thumb img { transform:none; } }
 </style>
 </head>
 <body>
 <header>
-  <h1>📊 Market Capture Dashboard</h1>
-  <span class="badge">5 images</span>
-  <span class="meta">updated 2026-06-29 15:21:05 KST</span>
-  <a class="home" href="https://ifpksec.github.io/brief" target="_blank" rel="noopener">ifpksec.github.io ↗</a>
+  <div class="bar">
+    <div class="brand">
+      <span class="logo">📈</span>
+      <div><h1>Market Capture Dashboard<span class="sub">automated market intelligence</span></h1></div>
+    </div>
+    <div class="stats">
+      <span class="stat"><b>21</b>captures</span>
+      <span class="stat"><b>8</b>sections</span>
+    </div>
+    <span class="spacer"></span>
+    <span class="updated"><span class="live"></span>updated 2026-06-29 16:39:04 KST</span>
+    <a class="home-btn" href="https://ifpksec.github.io/brief" target="_blank" rel="noopener">ifpksec.github.io/brief ↗</a>
+  </div>
 </header>
 <main>
-<article class="card"><h2>cboe vix</h2><div class="imgs"><a href="img/cboe-vix_0.png" target="_blank"><img loading="lazy" src="img/cboe-vix_0.png" alt="cboe vix"></a></div></article>
-<article class="card"><h2>tradingview es futures</h2><div class="imgs"><a href="img/tradingview-es-futures_0.png" target="_blank"><img loading="lazy" src="img/tradingview-es-futures_0.png" alt="tradingview es futures"></a></div></article>
-<article class="card"><h2>tradingview ng futures</h2><div class="imgs"><a href="img/tradingview-ng-futures_0.png" target="_blank"><img loading="lazy" src="img/tradingview-ng-futures_0.png" alt="tradingview ng futures"></a></div></article>
-<article class="card"><h2>vixcentral term</h2><div class="imgs"><a href="img/vixcentral-term_0.png" target="_blank"><img loading="lazy" src="img/vixcentral-term_0.png" alt="vixcentral term"></a></div></article>
-<article class="card"><h2>yahoo finance markets</h2><div class="imgs"><a href="img/yahoo-finance-markets_0.png" target="_blank"><img loading="lazy" src="img/yahoo-finance-markets_0.png" alt="yahoo finance markets"></a></div></article>
+<section class="cat"><h2><span class="dot"></span>Futures<span class="count">2</span></h2><div class="grid"><figure class="card"><button class="thumb" onclick="lb('img/tradingview-ng-futures_0.png')" aria-label="Natural Gas Futures"><img loading="lazy" src="img/tradingview-ng-futures_0.png" alt="Natural Gas Futures"></button><figcaption><span class="ct">Natural Gas Futures</span><time>06-29 16:38 KST</time></figcaption></figure><figure class="card"><button class="thumb" onclick="lb('img/tradingview-es-futures_0.png')" aria-label="S&amp;P 500 E-mini Futures"><img loading="lazy" src="img/tradingview-es-futures_0.png" alt="S&amp;P 500 E-mini Futures"></button><figcaption><span class="ct">S&amp;P 500 E-mini Futures</span><time>06-29 16:38 KST</time></figcaption></figure></div></section>
+<section class="cat"><h2><span class="dot"></span>Volatility<span class="count">2</span></h2><div class="grid"><figure class="card"><button class="thumb" onclick="lb('img/cboe-vix_0.png')" aria-label="CBOE VIX"><img loading="lazy" src="img/cboe-vix_0.png" alt="CBOE VIX"></button><figcaption><span class="ct">CBOE VIX</span><time>06-29 16:38 KST</time></figcaption></figure><figure class="card"><button class="thumb" onclick="lb('img/vixcentral-term_0.png')" aria-label="VIX Term Structure"><img loading="lazy" src="img/vixcentral-term_0.png" alt="VIX Term Structure"></button><figcaption><span class="ct">VIX Term Structure</span><time>06-29 16:33 KST</time></figcaption></figure></div></section>
+<section class="cat"><h2><span class="dot"></span>Equities<span class="count">3</span></h2><div class="grid"><figure class="card"><button class="thumb" onclick="lb('img/finviz-sec-map_0.png')" aria-label="Finviz Sector Map"><img loading="lazy" src="img/finviz-sec-map_0.png" alt="Finviz Sector Map"></button><figcaption><span class="ct">Finviz Sector Map</span><time>06-29 16:38 KST</time></figcaption></figure><figure class="card"><button class="thumb" onclick="lb('img/yahoo-finance-markets-id_0.png')" aria-label="S&amp;P 500 Sector Heatmap"><img loading="lazy" src="img/yahoo-finance-markets-id_0.png" alt="S&amp;P 500 Sector Heatmap"></button><figcaption><span class="ct">S&amp;P 500 Sector Heatmap</span><time>06-29 16:38 KST</time></figcaption></figure><figure class="card"><button class="thumb" onclick="lb('img/yahoo-finance-markets_0.png')" aria-label="Yahoo Markets — Americas"><img loading="lazy" src="img/yahoo-finance-markets_0.png" alt="Yahoo Markets — Americas"></button><figcaption><span class="ct">Yahoo Markets — Americas</span><time>06-29 16:38 KST</time></figcaption></figure></div></section>
+<section class="cat"><h2><span class="dot"></span>Macro<span class="count">4</span></h2><div class="grid"><figure class="card"><button class="thumb" onclick="lb('img/te-us-bond-yield_0.png')" aria-label="US 10Y Bond Yield"><img loading="lazy" src="img/te-us-bond-yield_0.png" alt="US 10Y Bond Yield"></button><figcaption><span class="ct">US 10Y Bond Yield</span><time>06-29 16:39 KST</time></figcaption></figure><figure class="card"><button class="thumb" onclick="lb('img/te-us-bond-yield_1.png')" aria-label="US 10Y Bond Yield"><img loading="lazy" src="img/te-us-bond-yield_1.png" alt="US 10Y Bond Yield"></button><figcaption><span class="ct">US 10Y Bond Yield</span><time>06-29 16:39 KST</time></figcaption></figure><figure class="card"><button class="thumb" onclick="lb('img/te-us-stock-market_0.png')" aria-label="US Stock Market"><img loading="lazy" src="img/te-us-stock-market_0.png" alt="US Stock Market"></button><figcaption><span class="ct">US Stock Market</span><time>06-29 16:38 KST</time></figcaption></figure><figure class="card"><button class="thumb" onclick="lb('img/te-us-stock-market_1.png')" aria-label="US Stock Market"><img loading="lazy" src="img/te-us-stock-market_1.png" alt="US Stock Market"></button><figcaption><span class="ct">US Stock Market</span><time>06-29 16:38 KST</time></figcaption></figure></div></section>
+<section class="cat"><h2><span class="dot"></span>Commodities<span class="count">2</span></h2><div class="grid"><figure class="card"><button class="thumb" onclick="lb('img/te-gold_0.png')" aria-label="Gold"><img loading="lazy" src="img/te-gold_0.png" alt="Gold"></button><figcaption><span class="ct">Gold</span><time>06-29 16:38 KST</time></figcaption></figure><figure class="card"><button class="thumb" onclick="lb('img/te-gold_1.png')" aria-label="Gold"><img loading="lazy" src="img/te-gold_1.png" alt="Gold"></button><figcaption><span class="ct">Gold</span><time>06-29 16:38 KST</time></figcaption></figure></div></section>
+<section class="cat"><h2><span class="dot"></span>Energy<span class="count">5</span></h2><div class="grid"><figure class="card"><button class="thumb" onclick="lb('img/te-eu-natural-gas_0.png')" aria-label="EU Natural Gas — TTF"><img loading="lazy" src="img/te-eu-natural-gas_0.png" alt="EU Natural Gas — TTF"></button><figcaption><span class="ct">EU Natural Gas — TTF</span><time>06-29 16:38 KST</time></figcaption></figure><figure class="card"><button class="thumb" onclick="lb('img/natgasweather-temp_0.png')" aria-label="NatGas Weather"><img loading="lazy" src="img/natgasweather-temp_0.png" alt="NatGas Weather"></button><figcaption><span class="ct">NatGas Weather</span><time>06-29 16:38 KST</time></figcaption></figure><figure class="card"><button class="thumb" onclick="lb('img/te-natural-gas_0.png')" aria-label="Natural Gas (TE)"><img loading="lazy" src="img/te-natural-gas_0.png" alt="Natural Gas (TE)"></button><figcaption><span class="ct">Natural Gas (TE)</span><time>06-29 16:38 KST</time></figcaption></figure><figure class="card"><button class="thumb" onclick="lb('img/te-natural-gas_1.png')" aria-label="Natural Gas (TE)"><img loading="lazy" src="img/te-natural-gas_1.png" alt="Natural Gas (TE)"></button><figcaption><span class="ct">Natural Gas (TE)</span><time>06-29 16:38 KST</time></figcaption></figure><figure class="card"><button class="thumb" onclick="lb('img/eia-grid-generation_0.png')" aria-label="US Grid Generation Mix"><img loading="lazy" src="img/eia-grid-generation_0.png" alt="US Grid Generation Mix"></button><figcaption><span class="ct">US Grid Generation Mix</span><time>06-29 16:38 KST</time></figcaption></figure></div></section>
+<section class="cat"><h2><span class="dot"></span>Sentiment<span class="count">2</span></h2><div class="grid"><figure class="card"><button class="thumb" onclick="lb('img/cnn-fear-greed_0.png')" aria-label="CNN Fear &amp; Greed"><img loading="lazy" src="img/cnn-fear-greed_0.png" alt="CNN Fear &amp; Greed"></button><figcaption><span class="ct">CNN Fear &amp; Greed</span><time>06-29 16:38 KST</time></figcaption></figure><figure class="card"><button class="thumb" onclick="lb('img/hull-sentiment-meter_0.png')" aria-label="Hull Market Sentiment"><img loading="lazy" src="img/hull-sentiment-meter_0.png" alt="Hull Market Sentiment"></button><figcaption><span class="ct">Hull Market Sentiment</span><time>06-29 16:38 KST</time></figcaption></figure></div></section>
+<section class="cat"><h2><span class="dot"></span>Crypto<span class="count">1</span></h2><div class="grid"><figure class="card"><button class="thumb" onclick="lb('img/coingecko-top_0.png')" aria-label="Crypto — CoinGecko"><img loading="lazy" src="img/coingecko-top_0.png" alt="Crypto — CoinGecko"></button><figcaption><span class="ct">Crypto — CoinGecko</span><time>06-29 16:39 KST</time></figcaption></figure></div></section>
 </main>
-<footer>Auto-refreshes every 15 min · published by the capture workflow</footer>
+<footer>Auto-refreshes every 15 min · 30-minute &amp; 3-hour capture cadences · published by the LangGraph capture workflow</footer>
+<div id="lb" onclick="this.classList.remove('on')"><img id="lbi" src="" alt=""></div>
+<script>
+  function lb(src){ var l=document.getElementById('lb'); document.getElementById('lbi').src=src; l.classList.add('on'); }
+  addEventListener('keydown',function(e){ if(e.key==='Escape') document.getElementById('lb').classList.remove('on'); });
+</script>
 </body>
 </html>
