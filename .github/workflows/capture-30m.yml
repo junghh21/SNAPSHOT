@@ -33,6 +33,9 @@ jobs:
 
     env:
       TZ: Asia/Seoul
+      # container: jobs set HOME=/github/home, but the image baked chromium under
+      # /root/.cache; point Playwright at it so the browser is found.
+      PLAYWRIGHT_BROWSERS_PATH: /root/.cache/ms-playwright
       REPO_URL: https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
       TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
       TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
