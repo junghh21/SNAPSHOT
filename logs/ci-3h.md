@@ -95,3 +95,32 @@ Workflow completed with status: completed
 ============================================================
 [SITE] wrote index.html (24 images, 4 summaries)
 ```
+
+## 3h @ 2026-06-29 17:37:32 KST — ok (run #6)
+```
+{'ok': True, 'result': {'message_id': 129917, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1782722232, 'photo': [{'file_id': 'AgACAgUAAyEGAASPJ3n-AAEB-yZqQiEElEMiHikl6w5ciaTtgdm5RAACgA5rG7hEEVaWBw9WzI0zTAEAAwIAA3MAAzwE', 'file_unique_id': 'AQADgA5rG7hEEVZ4', 'file_size': 1387, 'width': 90, 'height': 50}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEB-yZqQiEElEMiHikl6w5ciaTtgdm5RAACgA5rG7hEEVaWBw9WzI0zTAEAAwIAA20AAzwE', 'file_unique_id': 'AQADgA5rG7hEEVZy', 'file_size': 23145, 'width': 320, 'height': 178}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEB-yZqQiEElEMiHikl6w5ciaTtgdm5RAACgA5rG7hEEVaWBw9WzI0zTAEAAwIAA3gAAzwE', 'file_unique_id': 'AQADgA5rG7hEEVZ9', 'file_size': 113387, 'width': 800, 'height': 444}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEB-yZqQiEElEMiHikl6w5ciaTtgdm5RAACgA5rG7hEEVaWBw9WzI0zTAEAAwIAA3kAAzwE', 'file_unique_id': 'AQADgA5rG7hEEVZ-', 'file_size': 247077, 'width': 1280, 'height': 711}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEB-yZqQiEElEMiHikl6w5ciaTtgdm5RAACgA5rG7hEEVaWBw9WzI0zTAEAAwIAA3cAAzwE', 'file_unique_id': 'AQADgA5rG7hEEVZ8', 'file_size': 307717, 'width': 1504, 'height': 835}]}}
+{'ok': True, 'result': {'message_id': 129918, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1782722233, 'text': '📊 te-us-stock-market'}}
+{'ok': True, 'result': {'message_id': 129919, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1782722234, 'text': '미국 증시 선물 상승, 양국 간 공습 중단 합의 영향\n지난주 기술주 하락, S&P 500, 나스닥 약세, 다우 강세\n엔비디아, 알파벳 등 대형 기술주 큰 폭 하락, 스페이스X도 급락'}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 34', 'parameters': {'retry_after': 34}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 33', 'parameters': {'retry_after': 33}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 33', 'parameters': {'retry_after': 33}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 32', 'parameters': {'retry_after': 32}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 31', 'parameters': {'retry_after': 31}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 30', 'parameters': {'retry_after': 30}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 29', 'parameters': {'retry_after': 29}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 29', 'parameters': {'retry_after': 29}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 28', 'parameters': {'retry_after': 28}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 27', 'parameters': {'retry_after': 27}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 26', 'parameters': {'retry_after': 26}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 26', 'parameters': {'retry_after': 26}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 25', 'parameters': {'retry_after': 25}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 24', 'parameters': {'retry_after': 24}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 23', 'parameters': {'retry_after': 23}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 23', 'parameters': {'retry_after': 23}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 22', 'parameters': {'retry_after': 22}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 21', 'parameters': {'retry_after': 21}}
+============================================================
+Workflow completed with status: completed
+============================================================
+[SITE] wrote index.html (16 images, 4 summaries)
+```
