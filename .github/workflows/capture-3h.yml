@@ -1,21 +1,23 @@
-name: SNAPSHOT 4h capture
+name: SNAPSHOT 3h capture
 
-# Every 4 hours, aligned to 07:00 KST (07/11/15/19/23/03 KST = 22/02/06/10/14/18 UTC).
-# Runs main1.py in the GHCR image, publishes the dashboard to gh-pages, logs to main.
+# Every 3 hours, aligned to 07:00 KST (07/10/13/16/19/22/01/04 KST).
+# 0 1,4,7,10,13,16,19,22 * * * holds in both UTC and KST (9h offset is a
+# multiple of 3). Runs main1.py in the GHCR image, publishes the dashboard to
+# gh-pages, logs to main.
 
 on:
   schedule:
-    - cron: '0 2,6,10,14,18,22 * * *'
+    - cron: '0 1,4,7,10,13,16,19,22 * * *'
   workflow_dispatch:
   repository_dispatch:
-    types: [deploy-4h]
+    types: [deploy-3h]
 
 permissions:
   contents: write
   packages: read
 
 concurrency:
-  group: snap-4h
+  group: snap-3h
   cancel-in-progress: false
 
 jobs:
@@ -45,7 +47,7 @@ jobs:
         run: |
           git clone --depth 1 -b gh-pages "$REPO_URL" src/site || mkdir -p src/site/img
 
-      - name: Run 4h capture (latest source)
+      - name: Run 3h capture (latest source)
         working-directory: src
         env:
           SITE_DIR: site
@@ -66,7 +68,7 @@ jobs:
           fi
           touch .nojekyll
           git add -A
-          git commit -qm "dashboard(4h): ${ts}" || { echo "no dashboard change"; exit 0; }
+          git commit -qm "dashboard(3h): ${ts}" || { echo "no dashboard change"; exit 0; }
           git pull --rebase origin gh-pages || true
           git push origin gh-pages
 
@@ -79,15 +81,15 @@ jobs:
           status="ok"; [ -n "${RUN_FAILED:-}" ] && status="FAILED"
           {
             echo ""
-            echo "## 4h @ ${ts} — ${status} (run #${GITHUB_RUN_NUMBER})"
+            echo "## 3h @ ${ts} — ${status} (run #${GITHUB_RUN_NUMBER})"
             echo '```'
             tail -n 25 run.log 2>/dev/null || echo "(no output)"
             echo '```'
-          } >> out/logs/ci-4h.md
+          } >> out/logs/ci-3h.md
           cd out
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add logs/ci-4h.md
-          git commit -m "ci(4h): ${ts} ${status} [skip ci]" || exit 0
+          git add logs/ci-3h.md
+          git commit -m "ci(3h): ${ts} ${status} [skip ci]" || exit 0
           git pull --rebase --autostash origin main || true
           git push
