@@ -44,7 +44,7 @@ jobs:
       - name: Clone __GET source
         run: |
           git config --global --add safe.directory '*'
-          git clone --depth 1 https://github.com/junghh21/__GET.git src
+          git clone --depth 1 https://x-access-token:${{ secrets.PAT3 }}@github.com/junghh21/__GET.git src
 
       - name: Seed dashboard from gh-pages
         run: |
