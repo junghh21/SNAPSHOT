@@ -49,13 +49,17 @@ jobs:
         run: |
           git clone --depth 1 -b gh-pages "$REPO_URL" src/site || mkdir -p src/site/img
 
-      - name: Run 30m capture (latest source)
+      - name: Run 30m capture (LangGraph workflow)
         working-directory: src
         env:
           SITE_DIR: site
+          LG_TARGETS: tradingview-es-futures,yahoo-finance-markets,cboe-vix,vixcentral-term,tradingview-ng-futures
+          LG_MAX_RETRIES: '2'
         run: |
           set -o pipefail
-          python3 main.py 2>&1 | tee ../run.log || echo "RUN_FAILED=1" >> "$GITHUB_ENV"
+          python3 -m __LANGGRAPH.runner 2>&1 | tee ../run.log || echo "RUN_FAILED=1" >> "$GITHUB_ENV"
+          # coin alerts (mining pool + coingecko + CMC) — not part of the capture graph
+          python3 -c "import main; main.job_coin()" 2>&1 | tee -a ../run.log || true
 
       - name: Publish dashboard to gh-pages
         if: always()

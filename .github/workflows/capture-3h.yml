@@ -47,13 +47,14 @@ jobs:
         run: |
           git clone --depth 1 -b gh-pages "$REPO_URL" src/site || mkdir -p src/site/img
 
-      - name: Run 3h capture (latest source)
+      - name: Run 3h capture (LangGraph workflow — all targets)
         working-directory: src
         env:
           SITE_DIR: site
+          LG_MAX_RETRIES: '2'
         run: |
           set -o pipefail
-          python3 main1.py 2>&1 | tee ../run.log || echo "RUN_FAILED=1" >> "$GITHUB_ENV"
+          python3 -m __LANGGRAPH.runner 2>&1 | tee ../run.log || echo "RUN_FAILED=1" >> "$GITHUB_ENV"
 
       - name: Publish dashboard to gh-pages
         if: always()
