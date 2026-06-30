@@ -733,3 +733,32 @@ Workflow completed with status: completed
 ============================================================
 [SITE] wrote index.html (16 images, 4 summaries)
 ```
+
+## 3h @ 2026-07-01 05:55:01 KST — ok (run #28)
+```
+{'ok': True, 'result': {'message_id': 131378, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1782852878, 'photo': [{'file_id': 'AgACAgUAAyEGAASPJ3n-AAECATJqRC0OfAh1-SAHUNw5ylx7I9fpdwACpA9rGy1AIVbRwXb02wd8vwEAAwIAA3MAAzwE', 'file_unique_id': 'AQADpA9rGy1AIVZ4', 'file_size': 1376, 'width': 90, 'height': 50}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECATJqRC0OfAh1-SAHUNw5ylx7I9fpdwACpA9rGy1AIVbRwXb02wd8vwEAAwIAA20AAzwE', 'file_unique_id': 'AQADpA9rGy1AIVZy', 'file_size': 22855, 'width': 320, 'height': 178}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECATJqRC0OfAh1-SAHUNw5ylx7I9fpdwACpA9rGy1AIVbRwXb02wd8vwEAAwIAA3gAAzwE', 'file_unique_id': 'AQADpA9rGy1AIVZ9', 'file_size': 111629, 'width': 800, 'height': 444}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECATJqRC0OfAh1-SAHUNw5ylx7I9fpdwACpA9rGy1AIVbRwXb02wd8vwEAAwIAA3kAAzwE', 'file_unique_id': 'AQADpA9rGy1AIVZ-', 'file_size': 242277, 'width': 1280, 'height': 711}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECATJqRC0OfAh1-SAHUNw5ylx7I9fpdwACpA9rGy1AIVbRwXb02wd8vwEAAwIAA3cAAzwE', 'file_unique_id': 'AQADpA9rGy1AIVZ8', 'file_size': 302645, 'width': 1504, 'height': 835}]}}
+{'ok': True, 'result': {'message_id': 131379, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1782852879, 'text': '📊 te-us-stock-market'}}
+{'ok': True, 'result': {'message_id': 131380, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1782852881, 'text': '기술주 강세와 인플레이션 우려 완화로 미국 증시 상승.\n주요 지수들은 긍정적인 마감, 특히 나스닥과 다우존스 두드러짐.\n2분기 S&P와 나스닥은 2020년 이후 최고 분기 성적 기록.'}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 29', 'parameters': {'retry_after': 29}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 28', 'parameters': {'retry_after': 28}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 28', 'parameters': {'retry_after': 28}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 26', 'parameters': {'retry_after': 26}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 26', 'parameters': {'retry_after': 26}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 25', 'parameters': {'retry_after': 25}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 24', 'parameters': {'retry_after': 24}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 23', 'parameters': {'retry_after': 23}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 22', 'parameters': {'retry_after': 22}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 21', 'parameters': {'retry_after': 21}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 20', 'parameters': {'retry_after': 20}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 19', 'parameters': {'retry_after': 19}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 18', 'parameters': {'retry_after': 18}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 18', 'parameters': {'retry_after': 18}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 17', 'parameters': {'retry_after': 17}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 16', 'parameters': {'retry_after': 16}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 16', 'parameters': {'retry_after': 16}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 15', 'parameters': {'retry_after': 15}}
+============================================================
+Workflow completed with status: completed
+============================================================
+[SITE] wrote index.html (16 images, 4 summaries)
+```
