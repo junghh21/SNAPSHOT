@@ -646,3 +646,32 @@ Workflow completed with status: completed
 ============================================================
 [SITE] wrote index.html (16 images, 4 summaries)
 ```
+
+## 3h @ 2026-07-01 01:06:05 KST — ok (run #25)
+```
+{'ok': True, 'result': {'message_id': 131187, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1782835544, 'photo': [{'file_id': 'AgACAgUAAyEGAASPJ3n-AAECAAFzakPpWGLxBu0-v6klx0RuvD2_xBIAAiYPaxstQCFWS9-CQkvhMtYBAAMCAANzAAM8BA', 'file_unique_id': 'AQADJg9rGy1AIVZ4', 'file_size': 1363, 'width': 90, 'height': 50}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECAAFzakPpWGLxBu0-v6klx0RuvD2_xBIAAiYPaxstQCFWS9-CQkvhMtYBAAMCAANtAAM8BA', 'file_unique_id': 'AQADJg9rGy1AIVZy', 'file_size': 22585, 'width': 320, 'height': 178}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECAAFzakPpWGLxBu0-v6klx0RuvD2_xBIAAiYPaxstQCFWS9-CQkvhMtYBAAMCAAN4AAM8BA', 'file_unique_id': 'AQADJg9rGy1AIVZ9', 'file_size': 109670, 'width': 800, 'height': 444}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECAAFzakPpWGLxBu0-v6klx0RuvD2_xBIAAiYPaxstQCFWS9-CQkvhMtYBAAMCAAN5AAM8BA', 'file_unique_id': 'AQADJg9rGy1AIVZ-', 'file_size': 237082, 'width': 1280, 'height': 711}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECAAFzakPpWGLxBu0-v6klx0RuvD2_xBIAAiYPaxstQCFWS9-CQkvhMtYBAAMCAAN3AAM8BA', 'file_unique_id': 'AQADJg9rGy1AIVZ8', 'file_size': 296560, 'width': 1504, 'height': 835}]}}
+{'ok': True, 'result': {'message_id': 131188, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1782835545, 'text': '📊 te-us-stock-market'}}
+{'ok': True, 'result': {'message_id': 131189, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1782835546, 'text': '기술주 안정과 인플레이션 위험 감소로 미국 증시 상승.\nAI 기업들 칩 제조사 실적 호조에 힘입어 강세 유지.\n유가 안정과 기업 환경 개선으로 다우 지수 사상 최고치 경신.'}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 29', 'parameters': {'retry_after': 29}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 28', 'parameters': {'retry_after': 28}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 27', 'parameters': {'retry_after': 27}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 26', 'parameters': {'retry_after': 26}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 25', 'parameters': {'retry_after': 25}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 25', 'parameters': {'retry_after': 25}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 23', 'parameters': {'retry_after': 23}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 22', 'parameters': {'retry_after': 22}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 21', 'parameters': {'retry_after': 21}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 20', 'parameters': {'retry_after': 20}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 19', 'parameters': {'retry_after': 19}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 19', 'parameters': {'retry_after': 19}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 17', 'parameters': {'retry_after': 17}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 17', 'parameters': {'retry_after': 17}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 16', 'parameters': {'retry_after': 16}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 16', 'parameters': {'retry_after': 16}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 15', 'parameters': {'retry_after': 15}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 14', 'parameters': {'retry_after': 14}}
+============================================================
+Workflow completed with status: completed
+============================================================
+[SITE] wrote index.html (16 images, 4 summaries)
+```
