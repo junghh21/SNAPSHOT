@@ -588,3 +588,32 @@ Workflow completed with status: completed
 ============================================================
 [SITE] wrote index.html (16 images, 4 summaries)
 ```
+
+## 3h @ 2026-06-30 22:06:41 KST — ok (run #23)
+```
+{'ok': True, 'result': {'message_id': 131065, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1782824786, 'photo': [{'file_id': 'AgACAgUAAyEGAASPJ3n-AAEB_3FqQ5VrORnzZp9LAooEFbH80rgeTwACXA9rG7hEIVb1H9J--6bCngEAAwIAA3MAAzwE', 'file_unique_id': 'AQADXA9rG7hEIVZ4', 'file_size': 1403, 'width': 90, 'height': 50}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEB_3FqQ5VrORnzZp9LAooEFbH80rgeTwACXA9rG7hEIVb1H9J--6bCngEAAwIAA20AAzwE', 'file_unique_id': 'AQADXA9rG7hEIVZy', 'file_size': 22812, 'width': 320, 'height': 178}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEB_3FqQ5VrORnzZp9LAooEFbH80rgeTwACXA9rG7hEIVb1H9J--6bCngEAAwIAA3gAAzwE', 'file_unique_id': 'AQADXA9rG7hEIVZ9', 'file_size': 110939, 'width': 800, 'height': 444}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEB_3FqQ5VrORnzZp9LAooEFbH80rgeTwACXA9rG7hEIVb1H9J--6bCngEAAwIAA3kAAzwE', 'file_unique_id': 'AQADXA9rG7hEIVZ-', 'file_size': 240321, 'width': 1280, 'height': 711}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEB_3FqQ5VrORnzZp9LAooEFbH80rgeTwACXA9rG7hEIVb1H9J--6bCngEAAwIAA3cAAzwE', 'file_unique_id': 'AQADXA9rG7hEIVZ8', 'file_size': 299470, 'width': 1504, 'height': 835}]}}
+{'ok': True, 'result': {'message_id': 131066, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1782824787, 'text': '📊 te-us-stock-market'}}
+{'ok': True, 'result': {'message_id': 131067, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1782824788, 'text': '기술주 안정과 인플레이션 위험 감소로 미국 증시 상승.\nAI 기업 회복과 칩 제조사 호실적, 유가 안정으로 증시 견인.\nS&P 500, 2분기 14% 상승 전망, 6년래 최고 분기 예상.'}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 36', 'parameters': {'retry_after': 36}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 35', 'parameters': {'retry_after': 35}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 35', 'parameters': {'retry_after': 35}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 34', 'parameters': {'retry_after': 34}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 33', 'parameters': {'retry_after': 33}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 33', 'parameters': {'retry_after': 33}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 32', 'parameters': {'retry_after': 32}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 31', 'parameters': {'retry_after': 31}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 30', 'parameters': {'retry_after': 30}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 30', 'parameters': {'retry_after': 30}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 29', 'parameters': {'retry_after': 29}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 29', 'parameters': {'retry_after': 29}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 28', 'parameters': {'retry_after': 28}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 27', 'parameters': {'retry_after': 27}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 27', 'parameters': {'retry_after': 27}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 26', 'parameters': {'retry_after': 26}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 26', 'parameters': {'retry_after': 26}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 25', 'parameters': {'retry_after': 25}}
+============================================================
+Workflow completed with status: completed
+============================================================
+[SITE] wrote index.html (16 images, 4 summaries)
+```
