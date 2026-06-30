@@ -791,3 +791,32 @@ Workflow completed with status: completed
 ============================================================
 [SITE] wrote index.html (16 images, 4 summaries)
 ```
+
+## 3h @ 2026-07-01 08:06:48 KST — ok (run #30)
+```
+{'ok': True, 'result': {'message_id': 131498, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1782860792, 'photo': [{'file_id': 'AgACAgUAAyEGAASPJ3n-AAECATJqRC0OfAh1-SAHUNw5ylx7I9fpdwACpA9rGy1AIVbRwXb02wd8vwEAAwIAA3MAAzwE', 'file_unique_id': 'AQADpA9rGy1AIVZ4', 'file_size': 1376, 'width': 90, 'height': 50}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECATJqRC0OfAh1-SAHUNw5ylx7I9fpdwACpA9rGy1AIVbRwXb02wd8vwEAAwIAA20AAzwE', 'file_unique_id': 'AQADpA9rGy1AIVZy', 'file_size': 22855, 'width': 320, 'height': 178}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECATJqRC0OfAh1-SAHUNw5ylx7I9fpdwACpA9rGy1AIVbRwXb02wd8vwEAAwIAA3gAAzwE', 'file_unique_id': 'AQADpA9rGy1AIVZ9', 'file_size': 111629, 'width': 800, 'height': 444}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECATJqRC0OfAh1-SAHUNw5ylx7I9fpdwACpA9rGy1AIVbRwXb02wd8vwEAAwIAA3kAAzwE', 'file_unique_id': 'AQADpA9rGy1AIVZ-', 'file_size': 242277, 'width': 1280, 'height': 711}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECATJqRC0OfAh1-SAHUNw5ylx7I9fpdwACpA9rGy1AIVbRwXb02wd8vwEAAwIAA3cAAzwE', 'file_unique_id': 'AQADpA9rGy1AIVZ8', 'file_size': 302645, 'width': 1504, 'height': 835}]}}
+{'ok': True, 'result': {'message_id': 131499, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1782860793, 'text': '📊 te-us-stock-market'}}
+{'ok': True, 'result': {'message_id': 131500, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1782860794, 'text': '기술주 강세와 물가상승 우려 완화로 뉴욕 증시 상승.\n반도체 기업 강세 속 다우존스, 나스닥, S&P500 모두 상승 마감.\n유가 안정과 물가 하락세가 경기 회복 기대감을 높이며 증시 견인.'}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 37', 'parameters': {'retry_after': 37}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 37', 'parameters': {'retry_after': 37}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 36', 'parameters': {'retry_after': 36}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 35', 'parameters': {'retry_after': 35}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 35', 'parameters': {'retry_after': 35}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 34', 'parameters': {'retry_after': 34}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 33', 'parameters': {'retry_after': 33}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 33', 'parameters': {'retry_after': 33}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 32', 'parameters': {'retry_after': 32}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 32', 'parameters': {'retry_after': 32}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 31', 'parameters': {'retry_after': 31}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 30', 'parameters': {'retry_after': 30}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 29', 'parameters': {'retry_after': 29}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 29', 'parameters': {'retry_after': 29}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 28', 'parameters': {'retry_after': 28}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 28', 'parameters': {'retry_after': 28}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 27', 'parameters': {'retry_after': 27}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 26', 'parameters': {'retry_after': 26}}
+============================================================
+Workflow completed with status: completed
+============================================================
+[SITE] wrote index.html (16 images, 4 summaries)
+```
