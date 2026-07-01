@@ -1081,3 +1081,32 @@ Workflow completed with status: completed
 ============================================================
 [SITE] wrote index.html (16 images, 4 summaries)
 ```
+
+## 3h @ 2026-07-02 02:50:19 KST — ok (run #40)
+```
+{'ok': True, 'result': {'message_id': 132210, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1782928201, 'photo': [{'file_id': 'AgACAgUAAyEGAASPJ3n-AAECBHJqRVNIkOvwUzxLNsot8w3WVq07AQACNBRrGy1AKVba2haNSzbwMwEAAwIAA3MAAzwE', 'file_unique_id': 'AQADNBRrGy1AKVZ4', 'file_size': 1397, 'width': 90, 'height': 50}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECBHJqRVNIkOvwUzxLNsot8w3WVq07AQACNBRrGy1AKVba2haNSzbwMwEAAwIAA20AAzwE', 'file_unique_id': 'AQADNBRrGy1AKVZy', 'file_size': 23238, 'width': 320, 'height': 178}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECBHJqRVNIkOvwUzxLNsot8w3WVq07AQACNBRrGy1AKVba2haNSzbwMwEAAwIAA3gAAzwE', 'file_unique_id': 'AQADNBRrGy1AKVZ9', 'file_size': 110904, 'width': 800, 'height': 444}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECBHJqRVNIkOvwUzxLNsot8w3WVq07AQACNBRrGy1AKVba2haNSzbwMwEAAwIAA3kAAzwE', 'file_unique_id': 'AQADNBRrGy1AKVZ-', 'file_size': 244980, 'width': 1280, 'height': 711}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECBHJqRVNIkOvwUzxLNsot8w3WVq07AQACNBRrGy1AKVba2haNSzbwMwEAAwIAA3cAAzwE', 'file_unique_id': 'AQADNBRrGy1AKVZ8', 'file_size': 305528, 'width': 1504, 'height': 835}]}}
+{'ok': True, 'result': {'message_id': 132211, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1782928202, 'text': '📊 te-us-stock-market'}}
+{'ok': True, 'result': {'message_id': 132212, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1782928203, 'text': '증시, 연준 금리 인상 가능성 및 AI 주도권 전망 주시.\n대형 기술주 강세, 마이크로소프트 등 2% 이상 상승.\nAI 관련주, 과대평가 우려 속에 차익 실현 매물 출현.'}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 34', 'parameters': {'retry_after': 34}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 33', 'parameters': {'retry_after': 33}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 32', 'parameters': {'retry_after': 32}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 31', 'parameters': {'retry_after': 31}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 31', 'parameters': {'retry_after': 31}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 30', 'parameters': {'retry_after': 30}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 30', 'parameters': {'retry_after': 30}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 29', 'parameters': {'retry_after': 29}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 28', 'parameters': {'retry_after': 28}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 28', 'parameters': {'retry_after': 28}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 27', 'parameters': {'retry_after': 27}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 26', 'parameters': {'retry_after': 26}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 25', 'parameters': {'retry_after': 25}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 25', 'parameters': {'retry_after': 25}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 24', 'parameters': {'retry_after': 24}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 24', 'parameters': {'retry_after': 24}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 23', 'parameters': {'retry_after': 23}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 23', 'parameters': {'retry_after': 23}}
+============================================================
+Workflow completed with status: completed
+============================================================
+[SITE] wrote index.html (16 images, 4 summaries)
+```
