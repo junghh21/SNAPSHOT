@@ -1052,3 +1052,32 @@ Workflow completed with status: completed
 ============================================================
 [SITE] wrote index.html (16 images, 4 summaries)
 ```
+
+## 3h @ 2026-07-02 01:05:37 KST — ok (run #39)
+```
+{'ok': True, 'result': {'message_id': 132142, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1782921915, 'photo': [{'file_id': 'AgACAgUAAyEGAASPJ3n-AAECBC5qRTq7jbjZo-bF_TJSrgoYaxOkjAACDhRrGy1AKVbYNQj2GpbmsgEAAwIAA3MAAzwE', 'file_unique_id': 'AQADDhRrGy1AKVZ4', 'file_size': 1408, 'width': 90, 'height': 50}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECBC5qRTq7jbjZo-bF_TJSrgoYaxOkjAACDhRrGy1AKVbYNQj2GpbmsgEAAwIAA20AAzwE', 'file_unique_id': 'AQADDhRrGy1AKVZy', 'file_size': 23142, 'width': 320, 'height': 178}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECBC5qRTq7jbjZo-bF_TJSrgoYaxOkjAACDhRrGy1AKVbYNQj2GpbmsgEAAwIAA3gAAzwE', 'file_unique_id': 'AQADDhRrGy1AKVZ9', 'file_size': 112411, 'width': 800, 'height': 444}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECBC5qRTq7jbjZo-bF_TJSrgoYaxOkjAACDhRrGy1AKVbYNQj2GpbmsgEAAwIAA3kAAzwE', 'file_unique_id': 'AQADDhRrGy1AKVZ-', 'file_size': 244239, 'width': 1280, 'height': 711}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECBC5qRTq7jbjZo-bF_TJSrgoYaxOkjAACDhRrGy1AKVbYNQj2GpbmsgEAAwIAA3cAAzwE', 'file_unique_id': 'AQADDhRrGy1AKVZ8', 'file_size': 305526, 'width': 1504, 'height': 835}]}}
+{'ok': True, 'result': {'message_id': 132143, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1782921916, 'text': '📊 te-us-stock-market'}}
+{'ok': True, 'result': {'message_id': 132144, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1782921917, 'text': '미국 증시, Fed 금리 인상 가능성 및 AI 테마 전망에 상승.\n대형 기술주 반등, 마이크로소프트 등 AI 관련 기업 주가 상승.\n그러나 나스닥 100 하락, 반도체 주식은 과대평가 우려로 하락.'}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 30', 'parameters': {'retry_after': 30}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 28', 'parameters': {'retry_after': 28}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 28', 'parameters': {'retry_after': 28}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 27', 'parameters': {'retry_after': 27}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 26', 'parameters': {'retry_after': 26}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 25', 'parameters': {'retry_after': 25}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 24', 'parameters': {'retry_after': 24}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 23', 'parameters': {'retry_after': 23}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 22', 'parameters': {'retry_after': 22}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 22', 'parameters': {'retry_after': 22}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 20', 'parameters': {'retry_after': 20}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 20', 'parameters': {'retry_after': 20}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 18', 'parameters': {'retry_after': 18}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 18', 'parameters': {'retry_after': 18}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 17', 'parameters': {'retry_after': 17}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 16', 'parameters': {'retry_after': 16}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 16', 'parameters': {'retry_after': 16}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 15', 'parameters': {'retry_after': 15}}
+============================================================
+Workflow completed with status: completed
+============================================================
+[SITE] wrote index.html (16 images, 4 summaries)
+```
