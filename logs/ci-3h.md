@@ -1458,3 +1458,32 @@ Workflow completed with status: completed
 ============================================================
 [SITE] wrote index.html (16 images, 4 summaries)
 ```
+
+## 3h @ 2026-07-03 00:09:09 KST — ok (run #53)
+```
+{'ok': True, 'result': {'message_id': 133088, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1783004928, 'photo': [{'file_id': 'AgACAgUAAyEGAASPJ3n-AAECB-BqRn8AAT6Q-wlhGubhAjpZIrqXp7MAAlUTaxtOyzFWaBTpCI1KL2IBAAMCAANzAAM8BA', 'file_unique_id': 'AQADVRNrG07LMVZ4', 'file_size': 1360, 'width': 90, 'height': 50}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECB-BqRn8AAT6Q-wlhGubhAjpZIrqXp7MAAlUTaxtOyzFWaBTpCI1KL2IBAAMCAANtAAM8BA', 'file_unique_id': 'AQADVRNrG07LMVZy', 'file_size': 22896, 'width': 320, 'height': 178}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECB-BqRn8AAT6Q-wlhGubhAjpZIrqXp7MAAlUTaxtOyzFWaBTpCI1KL2IBAAMCAAN4AAM8BA', 'file_unique_id': 'AQADVRNrG07LMVZ9', 'file_size': 109366, 'width': 800, 'height': 444}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECB-BqRn8AAT6Q-wlhGubhAjpZIrqXp7MAAlUTaxtOyzFWaBTpCI1KL2IBAAMCAAN5AAM8BA', 'file_unique_id': 'AQADVRNrG07LMVZ-', 'file_size': 241358, 'width': 1280, 'height': 711}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECB-BqRn8AAT6Q-wlhGubhAjpZIrqXp7MAAlUTaxtOyzFWaBTpCI1KL2IBAAMCAAN3AAM8BA', 'file_unique_id': 'AQADVRNrG07LMVZ8', 'file_size': 301637, 'width': 1504, 'height': 835}]}}
+{'ok': True, 'result': {'message_id': 133089, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1783004929, 'text': '📊 te-us-stock-market'}}
+{'ok': True, 'result': {'message_id': 133090, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1783004930, 'text': '미국 증시 상승, 약한 고용 지표로 금리 인상 기대 후퇴.\nS&P 500 0.5%↑, 다우 사상 최고치 경신.\nAI주, 전통주 강세 속 일부 반도체주 하락.'}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 33', 'parameters': {'retry_after': 33}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 32', 'parameters': {'retry_after': 32}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 31', 'parameters': {'retry_after': 31}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 30', 'parameters': {'retry_after': 30}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 30', 'parameters': {'retry_after': 30}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 29', 'parameters': {'retry_after': 29}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 28', 'parameters': {'retry_after': 28}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 27', 'parameters': {'retry_after': 27}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 27', 'parameters': {'retry_after': 27}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 26', 'parameters': {'retry_after': 26}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 25', 'parameters': {'retry_after': 25}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 24', 'parameters': {'retry_after': 24}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 23', 'parameters': {'retry_after': 23}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 23', 'parameters': {'retry_after': 23}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 22', 'parameters': {'retry_after': 22}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 22', 'parameters': {'retry_after': 22}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 21', 'parameters': {'retry_after': 21}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 20', 'parameters': {'retry_after': 20}}
+============================================================
+Workflow completed with status: completed
+============================================================
+[SITE] wrote index.html (16 images, 4 summaries)
+```
