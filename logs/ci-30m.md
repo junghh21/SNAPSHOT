@@ -5514,3 +5514,32 @@ Workflow completed with status: completed
 {'ok': True, 'result': {'message_id': 38516, 'from': {'id': 8490037832, 'is_bot': True, 'first_name': '🚀', 'username': 'Coin_vn1_bot'}, 'chat': {'id': -1003016231971, 'title': '코인그룹', 'type': 'supergroup'}, 'date': 1782993733, 'text': '3VqSS:  0H/s (268401)'}}
 [SITE] wrote index.html (16 images, 4 summaries)
 ```
+
+## 30m @ 2026-07-02 21:05:26 KST — ok (run #193)
+```
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/requests/models.py", line 937, in generate
+    yield from self.raw.stream(chunk_size, decode_content=True)
+  File "/usr/local/lib/python3.10/site-packages/urllib3/response.py", line 1260, in stream
+    yield from self.read_chunked(amt, decode_content=decode_content)
+  File "/usr/local/lib/python3.10/site-packages/urllib3/response.py", line 1430, in read_chunked
+    self._update_chunk_length()
+  File "/usr/local/lib/python3.10/site-packages/urllib3/response.py", line 1354, in _update_chunk_length
+    raise ProtocolError("Response ended prematurely") from None
+urllib3.exceptions.ProtocolError: Response ended prematurely
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+  File "/__w/SNAPSHOT/SNAPSHOT/src/main.py", line 182, in job_coin
+    for line in response.iter_lines():
+  File "/usr/local/lib/python3.10/site-packages/requests/models.py", line 1008, in iter_lines
+    for chunk in self.iter_content(
+  File "/usr/local/lib/python3.10/site-packages/requests/models.py", line 939, in generate
+    raise ChunkedEncodingError(e)
+requests.exceptions.ChunkedEncodingError: Response ended prematurely
+{'ok': True, 'result': {'message_id': 38517, 'from': {'id': 8490037832, 'is_bot': True, 'first_name': '🚀', 'username': 'Coin_vn1_bot'}, 'chat': {'id': -1003016231971, 'title': '코인그룹', 'type': 'supergroup'}, 'date': 1782993848, 'text': 'Bitcoin: $61,248.25'}}
+{'ok': True, 'result': {'message_id': 38518, 'from': {'id': 8490037832, 'is_bot': True, 'first_name': '🚀', 'username': 'Coin_vn1_bot'}, 'chat': {'id': -1003016231971, 'title': '코인그룹', 'type': 'supergroup'}, 'date': 1782993851, 'text': 'Ethereum: $1,646.08'}}
+[SITE] wrote index.html (16 images, 4 summaries)
+```
