@@ -1545,3 +1545,32 @@ Workflow completed with status: completed
 ============================================================
 [SITE] wrote index.html (16 images, 4 summaries)
 ```
+
+## 3h @ 2026-07-03 04:05:41 KST — ok (run #56)
+```
+{'ok': True, 'result': {'message_id': 133267, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1783019119, 'photo': [{'file_id': 'AgACAgUAAyEGAASPJ3n-AAECCJNqRrZvl5FPcwFi4LaXBQuHa7I-JwACBBRrG07LMVZ0NNMPkxDcBwEAAwIAA3MAAzwE', 'file_unique_id': 'AQADBBRrG07LMVZ4', 'file_size': 1396, 'width': 90, 'height': 50}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECCJNqRrZvl5FPcwFi4LaXBQuHa7I-JwACBBRrG07LMVZ0NNMPkxDcBwEAAwIAA20AAzwE', 'file_unique_id': 'AQADBBRrG07LMVZy', 'file_size': 23226, 'width': 320, 'height': 178}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECCJNqRrZvl5FPcwFi4LaXBQuHa7I-JwACBBRrG07LMVZ0NNMPkxDcBwEAAwIAA3gAAzwE', 'file_unique_id': 'AQADBBRrG07LMVZ9', 'file_size': 111969, 'width': 800, 'height': 444}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECCJNqRrZvl5FPcwFi4LaXBQuHa7I-JwACBBRrG07LMVZ0NNMPkxDcBwEAAwIAA3kAAzwE', 'file_unique_id': 'AQADBBRrG07LMVZ-', 'file_size': 248164, 'width': 1280, 'height': 711}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECCJNqRrZvl5FPcwFi4LaXBQuHa7I-JwACBBRrG07LMVZ0NNMPkxDcBwEAAwIAA3cAAzwE', 'file_unique_id': 'AQADBBRrG07LMVZ8', 'file_size': 309956, 'width': 1504, 'height': 835}]}}
+{'ok': True, 'result': {'message_id': 133268, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1783019121, 'text': '📊 te-us-stock-market'}}
+{'ok': True, 'result': {'message_id': 133269, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1783019122, 'text': '기술주 하락, AI 관련주 급락으로 증시 혼조세\n경기 민감주 상승, 경기 둔화 신호에 국채 금리 하락\n다우지수는 사상 최고치 경신, 기술주와 대조적 모습'}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 31', 'parameters': {'retry_after': 31}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 30', 'parameters': {'retry_after': 30}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 30', 'parameters': {'retry_after': 30}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 28', 'parameters': {'retry_after': 28}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 28', 'parameters': {'retry_after': 28}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 27', 'parameters': {'retry_after': 27}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 26', 'parameters': {'retry_after': 26}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 25', 'parameters': {'retry_after': 25}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 24', 'parameters': {'retry_after': 24}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 24', 'parameters': {'retry_after': 24}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 23', 'parameters': {'retry_after': 23}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 22', 'parameters': {'retry_after': 22}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 21', 'parameters': {'retry_after': 21}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 20', 'parameters': {'retry_after': 20}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 20', 'parameters': {'retry_after': 20}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 19', 'parameters': {'retry_after': 19}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 18', 'parameters': {'retry_after': 18}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 17', 'parameters': {'retry_after': 17}}
+============================================================
+Workflow completed with status: completed
+============================================================
+[SITE] wrote index.html (16 images, 4 summaries)
+```
