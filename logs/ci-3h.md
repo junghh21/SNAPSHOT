@@ -1487,3 +1487,32 @@ Workflow completed with status: completed
 ============================================================
 [SITE] wrote index.html (16 images, 4 summaries)
 ```
+
+## 3h @ 2026-07-03 01:05:43 KST — ok (run #54)
+```
+{'ok': True, 'result': {'message_id': 133132, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1783008327, 'photo': [{'file_id': 'AgACAgUAAyEGAASPJ3n-AAECCAxqRoxGm51bfVI5ftP4o4tEIp0g6gACkhNrG07LMVb1LjaWrQ-28gEAAwIAA3MAAzwE', 'file_unique_id': 'AQADkhNrG07LMVZ4', 'file_size': 1371, 'width': 90, 'height': 50}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECCAxqRoxGm51bfVI5ftP4o4tEIp0g6gACkhNrG07LMVb1LjaWrQ-28gEAAwIAA20AAzwE', 'file_unique_id': 'AQADkhNrG07LMVZy', 'file_size': 22903, 'width': 320, 'height': 178}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECCAxqRoxGm51bfVI5ftP4o4tEIp0g6gACkhNrG07LMVb1LjaWrQ-28gEAAwIAA3gAAzwE', 'file_unique_id': 'AQADkhNrG07LMVZ9', 'file_size': 110061, 'width': 800, 'height': 444}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECCAxqRoxGm51bfVI5ftP4o4tEIp0g6gACkhNrG07LMVb1LjaWrQ-28gEAAwIAA3kAAzwE', 'file_unique_id': 'AQADkhNrG07LMVZ-', 'file_size': 243390, 'width': 1280, 'height': 711}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECCAxqRoxGm51bfVI5ftP4o4tEIp0g6gACkhNrG07LMVb1LjaWrQ-28gEAAwIAA3cAAzwE', 'file_unique_id': 'AQADkhNrG07LMVZ8', 'file_size': 304617, 'width': 1504, 'height': 835}]}}
+{'ok': True, 'result': {'message_id': 133133, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1783008328, 'text': '📊 te-us-stock-market'}}
+{'ok': True, 'result': {'message_id': 133134, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1783008329, 'text': '미국 증시 상승, 금리 인상 기대 완화\nS&P 500, 다우 지수 상승 기록 경신\nAI 관련주는 상승, 일부 반도체주는 하락'}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 36', 'parameters': {'retry_after': 36}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 35', 'parameters': {'retry_after': 35}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 35', 'parameters': {'retry_after': 35}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 34', 'parameters': {'retry_after': 34}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 33', 'parameters': {'retry_after': 33}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 33', 'parameters': {'retry_after': 33}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 32', 'parameters': {'retry_after': 32}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 32', 'parameters': {'retry_after': 32}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 31', 'parameters': {'retry_after': 31}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 30', 'parameters': {'retry_after': 30}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 30', 'parameters': {'retry_after': 30}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 29', 'parameters': {'retry_after': 29}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 28', 'parameters': {'retry_after': 28}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 28', 'parameters': {'retry_after': 28}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 27', 'parameters': {'retry_after': 27}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 27', 'parameters': {'retry_after': 27}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 26', 'parameters': {'retry_after': 26}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 26', 'parameters': {'retry_after': 26}}
+============================================================
+Workflow completed with status: completed
+============================================================
+[SITE] wrote index.html (16 images, 4 summaries)
+```
