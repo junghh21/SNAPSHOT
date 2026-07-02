@@ -1371,3 +1371,32 @@ Workflow completed with status: completed
 ============================================================
 [SITE] wrote index.html (16 images, 4 summaries)
 ```
+
+## 3h @ 2026-07-02 19:05:04 KST — ok (run #50)
+```
+{'ok': True, 'result': {'message_id': 132886, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1782986688, 'photo': [{'file_id': 'AgACAgUAAyEGAASPJ3n-AAECBPdqRX2r-NwOpwsCxHPTAX6l3G6epgACgBRrGy1AKVZqpHQvsz5cFQEAAwIAA3MAAzwE', 'file_unique_id': 'AQADgBRrGy1AKVZ4', 'file_size': 1392, 'width': 90, 'height': 50}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECBPdqRX2r-NwOpwsCxHPTAX6l3G6epgACgBRrGy1AKVZqpHQvsz5cFQEAAwIAA20AAzwE', 'file_unique_id': 'AQADgBRrGy1AKVZy', 'file_size': 23328, 'width': 320, 'height': 178}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECBPdqRX2r-NwOpwsCxHPTAX6l3G6epgACgBRrGy1AKVZqpHQvsz5cFQEAAwIAA3gAAzwE', 'file_unique_id': 'AQADgBRrGy1AKVZ9', 'file_size': 111292, 'width': 800, 'height': 444}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECBPdqRX2r-NwOpwsCxHPTAX6l3G6epgACgBRrGy1AKVZqpHQvsz5cFQEAAwIAA3kAAzwE', 'file_unique_id': 'AQADgBRrGy1AKVZ-', 'file_size': 245558, 'width': 1280, 'height': 711}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECBPdqRX2r-NwOpwsCxHPTAX6l3G6epgACgBRrGy1AKVZqpHQvsz5cFQEAAwIAA3cAAzwE', 'file_unique_id': 'AQADgBRrGy1AKVZ8', 'file_size': 306544, 'width': 1504, 'height': 835}]}}
+{'ok': True, 'result': {'message_id': 132887, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1782986689, 'text': '📊 te-us-stock-market'}}
+{'ok': True, 'result': {'message_id': 132888, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1782986690, 'text': '6월 고용 보고서 발표를 앞두고 투자자들의 경계심이 높아졌습니다.\nAI 랠리 지속 가능성에 대한 의문으로 기술주 중심 나스닥이 하락했습니다.\n연준의 인플레이션 완화 및 가격 안정화 의지가 확인되었습니다.'}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 37', 'parameters': {'retry_after': 37}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 36', 'parameters': {'retry_after': 36}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 36', 'parameters': {'retry_after': 36}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 35', 'parameters': {'retry_after': 35}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 34', 'parameters': {'retry_after': 34}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 34', 'parameters': {'retry_after': 34}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 33', 'parameters': {'retry_after': 33}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 33', 'parameters': {'retry_after': 33}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 32', 'parameters': {'retry_after': 32}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 32', 'parameters': {'retry_after': 32}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 31', 'parameters': {'retry_after': 31}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 30', 'parameters': {'retry_after': 30}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 29', 'parameters': {'retry_after': 29}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 29', 'parameters': {'retry_after': 29}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 28', 'parameters': {'retry_after': 28}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 28', 'parameters': {'retry_after': 28}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 27', 'parameters': {'retry_after': 27}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 26', 'parameters': {'retry_after': 26}}
+============================================================
+Workflow completed with status: completed
+============================================================
+[SITE] wrote index.html (16 images, 4 summaries)
+```
