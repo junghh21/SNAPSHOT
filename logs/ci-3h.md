@@ -1951,3 +1951,32 @@ Workflow completed with status: completed
 ============================================================
 [SITE] wrote index.html (16 images, 4 summaries)
 ```
+
+## 3h @ 2026-07-04 02:24:11 KST — ok (run #70)
+```
+{'ok': True, 'result': {'message_id': 134168, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1783099426, 'text': '📊 te-us-stock-market'}}
+{'ok': True, 'result': {'message_id': 134169, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1783099427, 'text': '우\n리는 사용\n자가 미국 증시 마\n감 상황을 한국어 \n3줄로 요\n약해 달라고 요\n청했습니다. 각 줄에\n 핵심 하나\n씩, 3\n줄로 요약해야\n 합니다. 본문 내용\n을 바탕으로\n 핵심을 추려\n야 합니다.\n\n1. 첫\n 번째 핵심: 전\n반적인 시장\n 혼조와 기술주\n 변동성, 특히\n AI 관련주 하락.\n\n2. 두 번째 핵\n심: 다우존\n스 신고가,\n 전통주 강세,\n 연준 금리 인\n상 우려 완화.\n\n3. 세 번째\n 핵심: 주요 종\n목별 움직\n임 (애플 상\n승, 테슬\n라 하락 등) 및 주\n간 성과.\n\n3줄\n로 간결하게 작성\n하며, 불필요한\n 서론 없이 바로\n 요약합니다.\n미국 증시는 혼조 마감, 기술주 변동성 확대와 AI 고평가 우려로 나스닥 0.8% 하락.  \n다우지수는 595포인트 급등해 신고가 경신, 전통주 강세와 연준 금리인상 우려 완화에 힘입음.  \n애플 4.8% 상승, 테슬라 7.5% 하락, 주간 S&P 1.8%·나스닥 2.1%·다우 2% 상승.'}}
+{'ok': True, 'result': {'message_id': 134170, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1783099428, 'text': '📊 cnn-fear-greed'}}
+{'ok': True, 'result': {'message_id': 134171, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1783099430, 'photo': [{'file_id': 'AgACAgUAAyEGAASPJ3n-AAECBPtqRX2we25XSNiqXFDdN25bIh-OQgACgRRrGy1AKVbYaTwhHMLYcAEAAwIAA3MAAzwE', 'file_unique_id': 'AQADgRRrGy1AKVZ4', 'file_size': 844, 'width': 90, 'height': 48}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECBPtqRX2we25XSNiqXFDdN25bIh-OQgACgRRrGy1AKVbYaTwhHMLYcAEAAwIAA20AAzwE', 'file_unique_id': 'AQADgRRrGy1AKVZy', 'file_size': 8014, 'width': 320, 'height': 170}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECBPtqRX2we25XSNiqXFDdN25bIh-OQgACgRRrGy1AKVbYaTwhHMLYcAEAAwIAA3gAAzwE', 'file_unique_id': 'AQADgRRrGy1AKVZ9', 'file_size': 20248, 'width': 650, 'height': 346}]}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 31', 'parameters': {'retry_after': 31}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 29', 'parameters': {'retry_after': 29}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 29', 'parameters': {'retry_after': 29}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 28', 'parameters': {'retry_after': 28}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 26', 'parameters': {'retry_after': 26}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 26', 'parameters': {'retry_after': 26}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 25', 'parameters': {'retry_after': 25}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 24', 'parameters': {'retry_after': 24}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 23', 'parameters': {'retry_after': 23}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 22', 'parameters': {'retry_after': 22}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 21', 'parameters': {'retry_after': 21}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 20', 'parameters': {'retry_after': 20}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 19', 'parameters': {'retry_after': 19}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 19', 'parameters': {'retry_after': 19}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 18', 'parameters': {'retry_after': 18}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 17', 'parameters': {'retry_after': 17}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 16', 'parameters': {'retry_after': 16}}
+============================================================
+Workflow completed with status: completed
+============================================================
+[SITE] wrote index.html (16 images, 4 summaries)
+```
