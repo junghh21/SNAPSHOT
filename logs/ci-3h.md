@@ -2357,3 +2357,32 @@ Workflow completed with status: completed
 ============================================================
 [SITE] wrote index.html (16 images, 4 summaries)
 ```
+
+## 3h @ 2026-07-05 01:11:53 KST — ok (run #84)
+```
+{'ok': True, 'result': {'message_id': 135139, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1783181490, 'photo': [{'file_id': 'AgACAgUAAyEGAASPJ3n-AAECCRhqRuBmdGHTv8ENlrNhm4hplSX7jAACSRRrG07LMVa1MKihHvpgkgEAAwIAA3MAAzwE', 'file_unique_id': 'AQADSRRrG07LMVZ4', 'file_size': 1413, 'width': 90, 'height': 50}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECCRhqRuBmdGHTv8ENlrNhm4hplSX7jAACSRRrG07LMVa1MKihHvpgkgEAAwIAA20AAzwE', 'file_unique_id': 'AQADSRRrG07LMVZy', 'file_size': 23251, 'width': 320, 'height': 178}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECCRhqRuBmdGHTv8ENlrNhm4hplSX7jAACSRRrG07LMVa1MKihHvpgkgEAAwIAA3gAAzwE', 'file_unique_id': 'AQADSRRrG07LMVZ9', 'file_size': 111929, 'width': 800, 'height': 444}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECCRhqRuBmdGHTv8ENlrNhm4hplSX7jAACSRRrG07LMVa1MKihHvpgkgEAAwIAA3kAAzwE', 'file_unique_id': 'AQADSRRrG07LMVZ-', 'file_size': 248302, 'width': 1280, 'height': 711}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECCRhqRuBmdGHTv8ENlrNhm4hplSX7jAACSRRrG07LMVa1MKihHvpgkgEAAwIAA3cAAzwE', 'file_unique_id': 'AQADSRRrG07LMVZ8', 'file_size': 309642, 'width': 1504, 'height': 835}]}}
+{'ok': True, 'result': {'message_id': 135140, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1783181490, 'text': '📊 te-us-stock-market'}}
+{'ok': True, 'result': {'message_id': 135141, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1783181492, 'text': '우\n리는 사용\n자가\n "\n다\n음\n 내용\n을 한국\n어 \n3줄로\n, 각\n 줄에\n 핵\n심 하나\n씩\n 요약\n"하\n라고 했\n고,\n 그\n 다음\n에\n 긴\n 영문\n 텍\n스트가\n 주\n어졌\n다.\n 요약\n은 각\n 줄에\n 하나의\n 핵\n심 내용\n을 담\n아 \n3줄로\n 작성해야\n 한다.\n\n\n주어진\n 텍\n스트의\n \n핵심\n 요소\n를\n 추출\n해야\n 한다.\n 내용\n은 미국\n 증\n시 \n혼조\n, 기술\n주 변\n동성\n, AI\n 과\n대\n평가\n 우려\n, 다\n우지\n수 신\n고가\n, 연\n준 금\n리 인\n하\n 기\n대 등\n이다\n.\n 3\n줄\n로 요\n약하\n라\n 했\n으므로\n 가장\n 중요한 세\n 가지 포\n인트\n를 \n뽑\n아야\n 한다.\n\n\n1.\n 첫\n 번째 \n핵심\n: 기술\n주 중심\n으로 \n혼조\n세\n,\n AI\n 관련주\n 하락\n \n(엔비\n디아\n 등 \n칩 제\n조사\n \n2일\n 연속\n 하락\n, 메\n타,\n 테\n슬\n라 등\n 하락\n)\n \n2\n. 두\n 번째 \n핵심\n: 다\n우지\n수는\n 전\n통주\n 강세\n로 신\n고가\n,\n 애\n플·\n비자\n·월\n마트\n 상승\n \n\n3.\n 세 번째\n 핵\n심:\n 고용\n보\n고서\n가\n 예\n상보다\n \n낮아\n 금\n리 인\n상 우\n려 완\n화,\n 주간\n 지수\n 상승\n 마감\n\n\n하\n지만 각\n 줄에\n 하나의\n 핵\n심만\n 넣\n어야\n 하\n므로,\n 각\n 문\n장을\n 간결\n하게 정\n리해야\n 한다.\n 또한 한국\n어로\n \n3줄이\n니까\n 각각\n \n1\n문장\n 정도로\n.\n\n가\n능한\n 요약\n:\n\n- 미국\n 증\n시는\n 혼\n조 마\n감,\n 기술주\n 변\n동성\n 속 AI\n 과\n대평\n가 우\n려로\n 나\n스닥 하\n락.\n\n- 다\n우지\n수는\n 전통\n주 강\n세로\n 사\n상 최\n고치\n 경신\n, 애\n플·\n비자\n 등\n 상승\n.\n-\n 예\n상보다\n 약\n한 고\n용보\n고서\n로 금\n리 인\n상 우\n려 완\n화,\n 주간\n 주요\n 지수\n 상승\n.\n\n하\n지만 문\n장을\n 더 간\n결하게\n 다\n듬\n고\n, \n3줄 각\n각 독\n립적으로\n 핵\n심을\n 담도록\n.\n\n또한\n 주\n어진 \n텍스트\n에는\n 특\n정 이\n벤\n트(\nOpenAI\n 지\n분 매\n각,\n 메\n타의\n 수\n익화\n 등)\n도 있\n지만,\n 3\n줄\n로 \n압축\n할\n 때는\n 가장 큰\n 그림\n을\n \n잡아\n야 한다\n. \n\n\n최\n종 \n3줄:\n\n1.\n 기술주\n \n혼조\n 속\n 나\n스닥 하\n락,\n AI 관련\n주 과\n대평\n가 우\n려 지\n속.\n\n2.\n 다우\n지수\n \n595포\n인트\n 상\n승 신\n고가\n, 전\n통 산\n업군\n 강세\n.\n3\n. 고\n용지\n표 부\n진에\n 금리\n 인상\n 우려\n 완화\n, 주\n간 증\n시 상\n승 마\n감.\n\n\n이정\n도면\n 각\n 줄이\n 하나의\n 핵\n심을\n 담고\n 있다.\n 확인:\n 첫\n 줄은\n 기술주\n와\n AI\n, \n둘째\n 줄은\n 다우\n지\n수와\n 전통\n주,\n \n셋째\n 줄은\n 금\n리와\n 주간\n 성\n과.\n 좋\n다\n.\n기술주 혼조세 속 AI 과대평가 우려로 나스닥 하락.  \n다우지수는 전통 산업 강세로 신고가 경신, 애플·비자 등 상승.  \n고용지표 부진에 금리 인상 우려 완화, 주간 주요 지수 상승 마감.'}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 32', 'parameters': {'retry_after': 32}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 31', 'parameters': {'retry_after': 31}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 31', 'parameters': {'retry_after': 31}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 29', 'parameters': {'retry_after': 29}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 28', 'parameters': {'retry_after': 28}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 28', 'parameters': {'retry_after': 28}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 27', 'parameters': {'retry_after': 27}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 26', 'parameters': {'retry_after': 26}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 25', 'parameters': {'retry_after': 25}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 24', 'parameters': {'retry_after': 24}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 23', 'parameters': {'retry_after': 23}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 22', 'parameters': {'retry_after': 22}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 21', 'parameters': {'retry_after': 21}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 20', 'parameters': {'retry_after': 20}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 19', 'parameters': {'retry_after': 19}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 19', 'parameters': {'retry_after': 19}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 18', 'parameters': {'retry_after': 18}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 17', 'parameters': {'retry_after': 17}}
+============================================================
+Workflow completed with status: completed
+============================================================
+[SITE] wrote index.html (16 images, 4 summaries)
+```
