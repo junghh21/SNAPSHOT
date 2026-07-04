@@ -2473,3 +2473,32 @@ Workflow completed with status: completed
 ============================================================
 [SITE] wrote index.html (16 images, 4 summaries)
 ```
+
+## 3h @ 2026-07-05 07:13:02 KST — ok (run #88)
+```
+{'ok': True, 'result': {'message_id': 135407, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1783203162, 'text': '📊 te-us-stock-market'}}
+{'ok': True, 'result': {'message_id': 135408, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1783203163, 'text': '금리 인상 우려가 완화됐으나 독립기념일 휴일을 앞두고 기술주 변동성이 확산하며 미국 증시가 혼조 마감했고, S&P500은 보합, 나스닥100은 0.8% 하락했다.\nAI 낙관론이 반도체 등 기술주 밸류에이션을 과도하게 높였다는 투자자 우려가 커지며 해당 섹터가 이틀 연속 하락했고, 오픈AI가 미국 정부에 5% 지분 매각을 협의 중이라는 소식과 메타의 여유 컴퓨팅 자원 수익화 발표가 있었으나 테슬라(-7.5%)·마이크론(-7%) 등이 급락한 반면 애플(+4.8%)은 오름세를 보였다.\n전통 산업군의 강세로 다우존스30산업평균지수가 595포인트 오르며 사상 최고치를 경신했고, 주간으로 3대 지수가 모두 상승했으며 5일은 독립기념일 휴일로 미국 증시가 폐장된다.'}}
+{'ok': True, 'result': {'message_id': 135409, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1783203164, 'text': '📊 cnn-fear-greed'}}
+{'ok': True, 'result': {'message_id': 135410, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1783203165, 'photo': [{'file_id': 'AgACAgUAAyEGAASPJ3n-AAECBPtqRX2we25XSNiqXFDdN25bIh-OQgACgRRrGy1AKVbYaTwhHMLYcAEAAwIAA3MAAzwE', 'file_unique_id': 'AQADgRRrGy1AKVZ4', 'file_size': 844, 'width': 90, 'height': 48}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECBPtqRX2we25XSNiqXFDdN25bIh-OQgACgRRrGy1AKVbYaTwhHMLYcAEAAwIAA20AAzwE', 'file_unique_id': 'AQADgRRrGy1AKVZy', 'file_size': 8014, 'width': 320, 'height': 170}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECBPtqRX2we25XSNiqXFDdN25bIh-OQgACgRRrGy1AKVbYaTwhHMLYcAEAAwIAA3gAAzwE', 'file_unique_id': 'AQADgRRrGy1AKVZ9', 'file_size': 20248, 'width': 650, 'height': 346}]}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 37', 'parameters': {'retry_after': 37}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 35', 'parameters': {'retry_after': 35}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 35', 'parameters': {'retry_after': 35}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 34', 'parameters': {'retry_after': 34}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 33', 'parameters': {'retry_after': 33}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 33', 'parameters': {'retry_after': 33}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 32', 'parameters': {'retry_after': 32}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 31', 'parameters': {'retry_after': 31}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 30', 'parameters': {'retry_after': 30}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 30', 'parameters': {'retry_after': 30}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 29', 'parameters': {'retry_after': 29}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 28', 'parameters': {'retry_after': 28}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 28', 'parameters': {'retry_after': 28}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 27', 'parameters': {'retry_after': 27}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 27', 'parameters': {'retry_after': 27}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 26', 'parameters': {'retry_after': 26}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 25', 'parameters': {'retry_after': 25}}
+============================================================
+Workflow completed with status: completed
+============================================================
+[SITE] wrote index.html (16 images, 4 summaries)
+```
