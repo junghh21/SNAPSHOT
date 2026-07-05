@@ -2647,3 +2647,32 @@ Workflow completed with status: completed
 ============================================================
 [SITE] wrote index.html (16 images, 4 summaries)
 ```
+
+## 3h @ 2026-07-05 18:46:02 KST — ok (run #94)
+```
+{'ok': True, 'result': {'message_id': 135852, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1783244734, 'text': '📊 te-us-stock-market'}}
+{'ok': True, 'result': {'message_id': 135853, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1783244735, 'text': 'We\n need to\n summarize the\n given text\n in\n Korean,\n three\n lines\n, each\n line\n one\n key point\n. The\n text is\n about US stocks\n mixed\n,\n tech volatility\n, chip\nmakers\n down\n, some\n gains\n in\n Dow, jobs\n report\n, etc\n.\n\n\nKey points\n:\n\n1.\n US\n stocks\n mixed\n:\n S\n&P\n flat, Nasdaq\n down \n0.8\n%, Dow\n up\n \n595 points\n to\n record.\n\n2\n. Tech\n weakness\n: chip\nmakers fell\n (Mic\nron, Applied\n Materials, AMD\n), Meta\n, Tesla\n down;\n AI\n optimism\n questioned\n.\n\n3.\n Positive factors\n: softer\n jobs report\n eased\n rate\n hike fears\n,\n Apple,\n Visa,\n Walmart gained\n;\n weekly gains\n.\n\n\nBut\n need\n three lines\n,\n each line\n one core\n point\n. Let\n\'s pick\n:\n\n- Line\n 1: \n혼조\n 마감: S\n&P 500 보\n합,\n \n나스닥 \n0.8\n% 하\n락, 다\n우 \n595포\n인트\n 상승 신\n고가\n.\n-\n Line 2:\n 기술주 약\n세:\n 반도체\n株\n 2일\n 연\n속 하\n락, AI\n \n낙관\n론 과\n도\n 평가 우\n려,\n 메타·\n테슬\n라 \n급락\n.\n- Line\n 3: 고\n용보\n고서 완\n화로 금\n리인\n상 우\n려 감\n소,\n 애플·\n비자\n·월\n마트 상\n승, 주\n간 S\n&P 1.\n8%↑\n.\n\nBut\n need to be\n concise.\n Also note\n that\n the text\n says "\ndes\npite easing concerns\n over rate hikes\n" and "\nsofter-than\n-expected June\n jobs report pushed\n back expectations\n of an\n imminent Fed hike."\n So that\'s a\n key point\n.\n\nAlso\n include\n that\n market\n closed Friday for\n holiday.\n\nBut\n three lines only\n. Let\n\'s write\n in\n Korean.\n- 혼조 마감: S&P 500 보합, 나스닥 0.8% 하락, 다우 595포인트 급등 신고가.\n- 기술주 약세: 반도체·AI 관련주 2일 연속 하락, 메타·테슬라 급락하며 낙관론 과도 우려.\n- 고용보고서 호재로 금리인상 우려 완화, 애플·비자·월마트 상승, 주간 지수 일제히 상승.'}}
+{'ok': True, 'result': {'message_id': 135854, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1783244737, 'text': '📊 cnn-fear-greed'}}
+{'ok': True, 'result': {'message_id': 135855, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1783244738, 'photo': [{'file_id': 'AgACAgUAAyEGAASPJ3n-AAECBPtqRX2we25XSNiqXFDdN25bIh-OQgACgRRrGy1AKVbYaTwhHMLYcAEAAwIAA3MAAzwE', 'file_unique_id': 'AQADgRRrGy1AKVZ4', 'file_size': 844, 'width': 90, 'height': 48}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECBPtqRX2we25XSNiqXFDdN25bIh-OQgACgRRrGy1AKVbYaTwhHMLYcAEAAwIAA20AAzwE', 'file_unique_id': 'AQADgRRrGy1AKVZy', 'file_size': 8014, 'width': 320, 'height': 170}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECBPtqRX2we25XSNiqXFDdN25bIh-OQgACgRRrGy1AKVbYaTwhHMLYcAEAAwIAA3gAAzwE', 'file_unique_id': 'AQADgRRrGy1AKVZ9', 'file_size': 20248, 'width': 650, 'height': 346}]}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 33', 'parameters': {'retry_after': 33}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 31', 'parameters': {'retry_after': 31}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 30', 'parameters': {'retry_after': 30}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 30', 'parameters': {'retry_after': 30}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 28', 'parameters': {'retry_after': 28}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 28', 'parameters': {'retry_after': 28}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 27', 'parameters': {'retry_after': 27}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 26', 'parameters': {'retry_after': 26}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 24', 'parameters': {'retry_after': 24}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 24', 'parameters': {'retry_after': 24}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 22', 'parameters': {'retry_after': 22}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 21', 'parameters': {'retry_after': 21}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 21', 'parameters': {'retry_after': 21}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 20', 'parameters': {'retry_after': 20}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 19', 'parameters': {'retry_after': 19}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 16', 'parameters': {'retry_after': 16}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 15', 'parameters': {'retry_after': 15}}
+============================================================
+Workflow completed with status: completed
+============================================================
+[SITE] wrote index.html (16 images, 4 summaries)
+```
