@@ -2560,3 +2560,32 @@ Workflow completed with status: completed
 ============================================================
 [SITE] wrote index.html (16 images, 4 summaries)
 ```
+
+## 3h @ 2026-07-05 13:11:17 KST — ok (run #91)
+```
+{'ok': True, 'result': {'message_id': 135641, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1783224659, 'photo': [{'file_id': 'AgACAgUAAyEGAASPJ3n-AAECCRhqRuBmdGHTv8ENlrNhm4hplSX7jAACSRRrG07LMVa1MKihHvpgkgEAAwIAA3MAAzwE', 'file_unique_id': 'AQADSRRrG07LMVZ4', 'file_size': 1413, 'width': 90, 'height': 50}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECCRhqRuBmdGHTv8ENlrNhm4hplSX7jAACSRRrG07LMVa1MKihHvpgkgEAAwIAA20AAzwE', 'file_unique_id': 'AQADSRRrG07LMVZy', 'file_size': 23251, 'width': 320, 'height': 178}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECCRhqRuBmdGHTv8ENlrNhm4hplSX7jAACSRRrG07LMVa1MKihHvpgkgEAAwIAA3gAAzwE', 'file_unique_id': 'AQADSRRrG07LMVZ9', 'file_size': 111929, 'width': 800, 'height': 444}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECCRhqRuBmdGHTv8ENlrNhm4hplSX7jAACSRRrG07LMVa1MKihHvpgkgEAAwIAA3kAAzwE', 'file_unique_id': 'AQADSRRrG07LMVZ-', 'file_size': 248302, 'width': 1280, 'height': 711}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECCRhqRuBmdGHTv8ENlrNhm4hplSX7jAACSRRrG07LMVa1MKihHvpgkgEAAwIAA3cAAzwE', 'file_unique_id': 'AQADSRRrG07LMVZ8', 'file_size': 309642, 'width': 1504, 'height': 835}]}}
+{'ok': True, 'result': {'message_id': 135642, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1783224660, 'text': '📊 te-us-stock-market'}}
+{'ok': True, 'result': {'message_id': 135643, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1783224661, 'text': '- 기술주 변동성 속에 나스닥이 하락하고 반도체·테슬라 등 주요 성장주가 크게 조정받음  \n- 전통 산업 강세로 다우가 595포인트 급등하며 사상 최고치 기록, 고용 둔화로 금리 인상 우려 완화  \n- 주간 기준 S&P·나스닥·다우 모두 상승 마감, 7월 4일 독립기념일로 금요일 시장 휴장'}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 38', 'parameters': {'retry_after': 38}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 37', 'parameters': {'retry_after': 37}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 37', 'parameters': {'retry_after': 37}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 35', 'parameters': {'retry_after': 35}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 35', 'parameters': {'retry_after': 35}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 34', 'parameters': {'retry_after': 34}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 33', 'parameters': {'retry_after': 33}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 32', 'parameters': {'retry_after': 32}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 32', 'parameters': {'retry_after': 32}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 31', 'parameters': {'retry_after': 31}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 30', 'parameters': {'retry_after': 30}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 29', 'parameters': {'retry_after': 29}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 28', 'parameters': {'retry_after': 28}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 28', 'parameters': {'retry_after': 28}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 27', 'parameters': {'retry_after': 27}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 27', 'parameters': {'retry_after': 27}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 27', 'parameters': {'retry_after': 27}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 26', 'parameters': {'retry_after': 26}}
+============================================================
+Workflow completed with status: completed
+============================================================
+[SITE] wrote index.html (16 images, 4 summaries)
+```
