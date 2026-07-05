@@ -2850,3 +2850,32 @@ Workflow completed with status: completed
 ============================================================
 [SITE] wrote index.html (16 images, 4 summaries)
 ```
+
+## 3h @ 2026-07-06 04:13:04 KST — ok (run #101)
+```
+{'ok': True, 'result': {'message_id': 136294, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1783278759, 'text': '📊 te-us-stock-market'}}
+{'ok': True, 'result': {'message_id': 136295, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1783278760, 'text': '우\n리는\n 사용\n자의\n 요\n청\n을\n 분석\n해야\n 합니다\n:\n "\n다\n음\n 내용\n을\n 한국\n어\n \n3\n줄\n로\n,\n 각\n 줄\n에\n 핵\n심\n 하나\n씩\n 요\n약\n"\n 그리고\n 주\n어진\n 영어\n 텍\n스트\n가\n 있습니다\n.\n 사용\n자는\n \n3\n줄\n로\n 요\n약\n하\n라고\n 했\n고\n,\n 각\n 줄\n에\n 하나\n의\n 핵\n심\n을\n 담\n아\n야\n 합니다\n.\n 그래\n서\n 우리\n는\n 텍\n스트\n에서\n 가장\n 중요한\n 세\n 가지\n 포\n인\n트\n를\n 추\n출\n해야\n 합니다\n.\n\n\n텍\n스트\n 내용\n:\n\n-\n US\n stocks\n mixed\n,\n tech\n volatility\n,\n S\n&P\n flat\n,\n Nasdaq\n down\n \n0\n.\n8\n%.\n\n-\n Chip\nmakers\n fell\n due\n to\n AI\n valuation\n concerns\n;\n specific\n stocks\n:\n Mic\nron\n,\n Applied\n Materials\n,\n AMD\n,\n Tesla\n down\n;\n Apple\n,\n Visa\n,\n Walmart\n up\n.\n\n-\n Dow\n hit\n record\n high\n (+\n595\n pts\n)\n on\n traditional\n sectors\n;\n softer\n jobs\n report\n pushed\n back\n rate\n hike\n expectations\n;\n weekly\n gains\n:\n S\n&P\n +\n1\n.\n8\n%,\n Nasdaq\n +\n2\n.\n1\n%,\n Dow\n +\n2\n%;\n market\n closed\n Friday\n for\n holiday\n.\n\n\n핵\n심\n을\n 세\n 가지\n로\n 압\n축\n:\n\n1\n.\n 기술\n주\n 변\n동\n성\n과\n 혼\n조\n 마\n감\n:\n S\n&P\n500\n 보\n합\n,\n 나\n스\n닥\n 하\n락\n,\n 반\n도\n체\n株\n 이\n틀\n째\n 하\n락\n (\nAI\n 거\n품\n 우\n려\n).\n\n2\n.\n 다\n우\n지\n수\n 신\n고\n가\n 경\n신\n:\n 전\n통\n 섹\n터\n 강\n세\n,\n \n595\n포\n인\n트\n 상\n승\n;\n 고\n용\n보\n고\n서\n 약\n화\n로\n 금\n리\n인\n상\n 우\n려\n 완\n화\n.\n\n3\n.\n 주요\n 종\n목\n 움\n직\n임\n:\n 메\n타\n,\n 테\n슬\n라\n,\n 마\n이\n크\n론\n 등\n 하\n락\n;\n 애\n플\n,\n 비\n자\n,\n 월\n마\n트\n 상\n승\n;\n 주\n간\n 지\n수\n 상\n승\n.\n\n\n하\n지만\n \n3\n줄\n로\n 요\n약\n하\n라고\n 했\n으\n니\n 각\n 줄\n이\n 너\n무\n 길\n지\n 않\n게\n 핵\n심\n을\n 간\n결\n하게\n.\n 또한\n 한국\n어\n로\n,\n 각\n 줄\n에\n 핵\n심\n 하나\n씩\n.\n\n\n가\n능\n한\n 요\n약\n:\n\n1\n.\n 기술\n주\n 변\n동\n성\n 속\n S\n&P\n500\n 보\n합\n,\n 나\n스\n닥\n \n0\n.\n8\n%\n 하\n락\n,\n 반\n도\n체\n株\n AI\n 거\n품\n 우\n려\n로\n 이\n틀\n째\n 약\n세\n.\n\n2\n.\n 다\n우\n지\n수\n \n595\n포\n인\n트\n 급\n등\n해\n 신\n고\n가\n,\n 전\n통\n 섹\n터\n 강\n세\n와\n 고\n용\n지\n표\n 둔\n화\n로\n 금\n리\n인\n상\n 우\n려\n 완\n화\n.\n\n3\n.\n 메\n타\n·\n테\n슬\n라\n·\n마\n이\n크\n론\n 하\n락\n,\n 애\n플\n·\n비\n자\n·\n월\n마\n트\n 상\n승\n,\n 주\n간\n S\n&P\n \n1\n.\n8\n%\n·\n나\n스\n닥\n \n2\n.\n1\n%\n·\n다\n우\n \n2\n%\n 상\n승\n.\n\n\n이\n렇게\n 하\n면\n 각\n 줄\n에\n 핵\n심\n 하나\n씩\n 담\n겼\n습니다\n.\n 추가\n로\n "\n시\n장\n은\n 금\n요\n일\n 휴\n장\n"\n은\n 덜\n 중요\n하\n므로\n 생\n략\n 가능\n.\n\n\n답\n변\n은\n 간\n결\n하게\n,\n 서\n론\n 없\n이\n 바로\n 요\n약\n.\n- 기술주 변동성 속 S&P500 보합, 나스닥 0.8% 하락, 반도체株 AI 거품 우려로 이틀째 약세  \n- 다우지수 595포인트 급등 신고가, 전통 섹터 강세와 고용지표 둔화로 금리인상 우려 완화  \n- 메타·테슬라·마이크론 하락, 애플·비자·월마트 상승, 주간 S&P 1.8%·나스닥 2.1%·다우 2% 상승'}}
+{'ok': True, 'result': {'message_id': 136296, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1783278762, 'text': '📊 cnn-fear-greed'}}
+{'ok': True, 'result': {'message_id': 136297, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1783278763, 'photo': [{'file_id': 'AgACAgUAAyEGAASPJ3n-AAECBPtqRX2we25XSNiqXFDdN25bIh-OQgACgRRrGy1AKVbYaTwhHMLYcAEAAwIAA3MAAzwE', 'file_unique_id': 'AQADgRRrGy1AKVZ4', 'file_size': 844, 'width': 90, 'height': 48}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECBPtqRX2we25XSNiqXFDdN25bIh-OQgACgRRrGy1AKVbYaTwhHMLYcAEAAwIAA20AAzwE', 'file_unique_id': 'AQADgRRrGy1AKVZy', 'file_size': 8014, 'width': 320, 'height': 170}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECBPtqRX2we25XSNiqXFDdN25bIh-OQgACgRRrGy1AKVbYaTwhHMLYcAEAAwIAA3gAAzwE', 'file_unique_id': 'AQADgRRrGy1AKVZ9', 'file_size': 20248, 'width': 650, 'height': 346}]}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 32', 'parameters': {'retry_after': 32}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 30', 'parameters': {'retry_after': 30}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 29', 'parameters': {'retry_after': 29}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 29', 'parameters': {'retry_after': 29}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 27', 'parameters': {'retry_after': 27}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 27', 'parameters': {'retry_after': 27}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 26', 'parameters': {'retry_after': 26}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 25', 'parameters': {'retry_after': 25}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 24', 'parameters': {'retry_after': 24}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 23', 'parameters': {'retry_after': 23}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 22', 'parameters': {'retry_after': 22}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 21', 'parameters': {'retry_after': 21}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 21', 'parameters': {'retry_after': 21}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 20', 'parameters': {'retry_after': 20}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 19', 'parameters': {'retry_after': 19}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 18', 'parameters': {'retry_after': 18}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 17', 'parameters': {'retry_after': 17}}
+============================================================
+Workflow completed with status: completed
+============================================================
+[SITE] wrote index.html (16 images, 4 summaries)
+```
