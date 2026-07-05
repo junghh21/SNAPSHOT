@@ -2821,3 +2821,32 @@ Workflow completed with status: completed
 ============================================================
 [SITE] wrote index.html (16 images, 4 summaries)
 ```
+
+## 3h @ 2026-07-06 02:06:41 KST — ok (run #100)
+```
+{'ok': True, 'result': {'message_id': 136204, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1783271181, 'text': '📊 te-us-stock-market'}}
+{'ok': True, 'result': {'message_id': 136205, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1783271182, 'text': '우\n선\n 사용\n자\n 요청은\n 미국\n 증\n시\n 혼조\n 마감을\n 한국\n어 \n3줄\n로 각\n 줄에\n 핵심\n 하나씩\n 요약하는\n 것이다\n. 내용\n을 보\n면 기술\n주 변\n동성\n, AI\n 과\n대\n평가\n 우려,\n 연\n준 금\n리 인\n상 우\n려 완\n화,\n 다\n우 신\n고\n가 등\n 여러\n 요소가 있다\n.\n \n\n\n3줄\n로 요약\n하려면 각\n 줄에\n 가장 중요한\n 핵심\n을 하나\n씩 담\n아야 한다\n. 첫 번째\n 줄은\n 전\n반적인\n 시장\n 혼조\n와 기술\n주 하\n락 원\n인을\n 간\n결\n하게.\n 두 번째 줄\n은 주요 종\n목별\n 움직\n임과\n 다\n우 상\n승.\n 세 번째 줄\n은 고\n용 보고\n서 영향\n과 주\n간\n 성과\n 및\n 휴\n장 정보\n를\n 넣으면\n 될\n 것 같다\n.\n\n사\n용자가\n "be\n concise and to\n the point"\n라고 했으\n므로\n 불필요\n한 설명 없\n이\n 핵심\n만 나\n열한다\n. 줄\n바\n꿈\n으로 구분\n하고 각\n 줄은 완\n전한\n 문장보다\n는\n 핵심\n어\n구\n로 구성하는\n 게\n 나\n을\n 듯하다\n.\n- 기술주 변동성과 AI 거품 우려로 나스닥 0.8% 하락, S&P500은 보합.\n- 다우는 전통주 강세로 595포인트 급등하며 신고가 경신, 애플·비자·월마트 상승.\n- 연준 금리 인상 우려 완화 속 주간 S&P 1.8%·나스닥 2.1% 상승, 금요일 휴장.'}}
+{'ok': True, 'result': {'message_id': 136206, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1783271183, 'text': '📊 cnn-fear-greed'}}
+{'ok': True, 'result': {'message_id': 136207, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1783271184, 'photo': [{'file_id': 'AgACAgUAAyEGAASPJ3n-AAECBPtqRX2we25XSNiqXFDdN25bIh-OQgACgRRrGy1AKVbYaTwhHMLYcAEAAwIAA3MAAzwE', 'file_unique_id': 'AQADgRRrGy1AKVZ4', 'file_size': 844, 'width': 90, 'height': 48}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECBPtqRX2we25XSNiqXFDdN25bIh-OQgACgRRrGy1AKVbYaTwhHMLYcAEAAwIAA20AAzwE', 'file_unique_id': 'AQADgRRrGy1AKVZy', 'file_size': 8014, 'width': 320, 'height': 170}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECBPtqRX2we25XSNiqXFDdN25bIh-OQgACgRRrGy1AKVbYaTwhHMLYcAEAAwIAA3gAAzwE', 'file_unique_id': 'AQADgRRrGy1AKVZ9', 'file_size': 20248, 'width': 650, 'height': 346}]}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 35', 'parameters': {'retry_after': 35}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 34', 'parameters': {'retry_after': 34}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 33', 'parameters': {'retry_after': 33}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 33', 'parameters': {'retry_after': 33}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 31', 'parameters': {'retry_after': 31}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 31', 'parameters': {'retry_after': 31}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 30', 'parameters': {'retry_after': 30}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 30', 'parameters': {'retry_after': 30}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 29', 'parameters': {'retry_after': 29}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 28', 'parameters': {'retry_after': 28}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 27', 'parameters': {'retry_after': 27}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 27', 'parameters': {'retry_after': 27}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 26', 'parameters': {'retry_after': 26}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 26', 'parameters': {'retry_after': 26}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 25', 'parameters': {'retry_after': 25}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 24', 'parameters': {'retry_after': 24}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 24', 'parameters': {'retry_after': 24}}
+============================================================
+Workflow completed with status: completed
+============================================================
+[SITE] wrote index.html (16 images, 4 summaries)
+```
