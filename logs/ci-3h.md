@@ -2705,3 +2705,32 @@ Workflow completed with status: completed
 ============================================================
 [SITE] wrote index.html (16 images, 4 summaries)
 ```
+
+## 3h @ 2026-07-05 20:34:43 KST — ok (run #96)
+```
+{'ok': True, 'result': {'message_id': 135950, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1783251263, 'text': '📊 te-us-stock-market'}}
+{'ok': True, 'result': {'message_id': 135951, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1783251264, 'text': "We\n need to summarize the\n given content into\n 3 lines\n in Korean, each\n line containing one key point\n. The content is about\n US stock market mixed\n close, tech volatility, chip\nmakers fall, AI valuation\n concerns, some specific stocks\n movements, and a\n holiday. Let's extract three\n core points.\n\n1\n. Mixed close: S\n&P flat, Nasdaq down\n, Dow up on traditional\n sectors.\n2. Tech\n weakness: chipmakers\n fell on AI valuation\n concerns, Meta, Mic\nron, AMD, Tesla down\n.\n3. Positive\n factors: easing rate\n hike fears due to soft jobs report\n, Dow record high\n, Apple and others\n up.\n\nBut we need\n to be concise and\n in Korean. Also\n note the holiday closure\n. Let's produce\n three lines.\n\nLine\n 1: US\n stocks mixed, with\n Dow up to record\n high but Nasdaq fell\n due to tech weakness.\nLine\n 2: Chipmakers and\n AI stocks dropped on valuation\n concerns, Tesla also\n fell.\nLine 3:\n Soft jobs report eased rate\n hike fears, market\n closed for holiday.\n\nRef\nine in Korean.\n미국 증시는 혼조 마감, 다우는 신고가 경신했으나 나스닥은 기술주 약세로 하락.  \nAI 낙관론에 따른 밸류에이션 우려로 반도체주와 메타·테슬라 등이 급락.  \n연준 금리 인상 우려가 완화된 고용 보고서에 힘입어 주간 상승 마감, 금요일 휴장."}}
+{'ok': True, 'result': {'message_id': 135952, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1783251265, 'text': '📊 cnn-fear-greed'}}
+{'ok': True, 'result': {'message_id': 135953, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1783251266, 'photo': [{'file_id': 'AgACAgUAAyEGAASPJ3n-AAECBPtqRX2we25XSNiqXFDdN25bIh-OQgACgRRrGy1AKVbYaTwhHMLYcAEAAwIAA3MAAzwE', 'file_unique_id': 'AQADgRRrGy1AKVZ4', 'file_size': 844, 'width': 90, 'height': 48}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECBPtqRX2we25XSNiqXFDdN25bIh-OQgACgRRrGy1AKVbYaTwhHMLYcAEAAwIAA20AAzwE', 'file_unique_id': 'AQADgRRrGy1AKVZy', 'file_size': 8014, 'width': 320, 'height': 170}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECBPtqRX2we25XSNiqXFDdN25bIh-OQgACgRRrGy1AKVbYaTwhHMLYcAEAAwIAA3gAAzwE', 'file_unique_id': 'AQADgRRrGy1AKVZ9', 'file_size': 20248, 'width': 650, 'height': 346}]}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 39', 'parameters': {'retry_after': 39}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 37', 'parameters': {'retry_after': 37}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 37', 'parameters': {'retry_after': 37}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 36', 'parameters': {'retry_after': 36}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 35', 'parameters': {'retry_after': 35}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 34', 'parameters': {'retry_after': 34}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 34', 'parameters': {'retry_after': 34}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 33', 'parameters': {'retry_after': 33}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 32', 'parameters': {'retry_after': 32}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 32', 'parameters': {'retry_after': 32}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 31', 'parameters': {'retry_after': 31}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 30', 'parameters': {'retry_after': 30}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 30', 'parameters': {'retry_after': 30}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 29', 'parameters': {'retry_after': 29}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 29', 'parameters': {'retry_after': 29}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 28', 'parameters': {'retry_after': 28}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 27', 'parameters': {'retry_after': 27}}
+============================================================
+Workflow completed with status: completed
+============================================================
+[SITE] wrote index.html (16 images, 4 summaries)
+```
