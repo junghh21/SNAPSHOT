@@ -3169,3 +3169,32 @@ Workflow completed with status: completed
 ============================================================
 [SITE] wrote index.html (16 images, 4 summaries)
 ```
+
+## 3h @ 2026-07-07 01:11:47 KST — ok (run #112)
+```
+{'ok': True, 'result': {'message_id': 137082, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1783354288, 'photo': [{'file_id': 'AgACAgUAAyEGAASPJ3n-AAECF3pqS9OwL_6CZsE3q_dyD2u3xEzcFwACYRBrG1raYFbDr-daDzbguAEAAwIAA3MAAzwE', 'file_unique_id': 'AQADYRBrG1raYFZ4', 'file_size': 1387, 'width': 90, 'height': 50}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECF3pqS9OwL_6CZsE3q_dyD2u3xEzcFwACYRBrG1raYFbDr-daDzbguAEAAwIAA20AAzwE', 'file_unique_id': 'AQADYRBrG1raYFZy', 'file_size': 22706, 'width': 320, 'height': 178}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECF3pqS9OwL_6CZsE3q_dyD2u3xEzcFwACYRBrG1raYFbDr-daDzbguAEAAwIAA3gAAzwE', 'file_unique_id': 'AQADYRBrG1raYFZ9', 'file_size': 110021, 'width': 800, 'height': 444}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECF3pqS9OwL_6CZsE3q_dyD2u3xEzcFwACYRBrG1raYFbDr-daDzbguAEAAwIAA3kAAzwE', 'file_unique_id': 'AQADYRBrG1raYFZ-', 'file_size': 243278, 'width': 1280, 'height': 711}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECF3pqS9OwL_6CZsE3q_dyD2u3xEzcFwACYRBrG1raYFbDr-daDzbguAEAAwIAA3cAAzwE', 'file_unique_id': 'AQADYRBrG1raYFZ8', 'file_size': 304163, 'width': 1504, 'height': 835}]}}
+{'ok': True, 'result': {'message_id': 137083, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1783354289, 'text': '📊 te-us-stock-market'}}
+{'ok': True, 'result': {'message_id': 137084, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1783354290, 'text': 'sorry, 您的ip已由于触发防滥用检测而被封禁，如果你使用代理 请关闭代理后再试,本服务网址是https://iai.aichatos8.com.cn/ 如果你不在本网站，请前往本网站使用即可 如需合作接口调用请联系微信kelemm220 或者前往 https://binjie09.shop 自助购买key, 认为是误封需要解封的请前往https://www.ip.cn/ 查询ip信息,并发送信息至邮件 admin@binjie.site ，站长会定期看邮件并处理解封和合作问题，如需调用接口请见接口文档https://apifox.com/apidoc/shared-803d9df6-a071-4b3e-9d69-ea1281614d82，如需合作接口调用请联系微信chatkf123 或者前往 https://cat.chatavx.com/  注册使用（可付费使用gpt4 注册可免费使用3.5）', 'entities': [{'offset': 49, 'length': 29, 'type': 'url'}, {'offset': 127, 'length': 21, 'type': 'url'}, {'offset': 171, 'length': 18, 'type': 'url'}, {'offset': 206, 'length': 17, 'type': 'email'}, {'offset': 256, 'length': 92, 'type': 'url'}, {'offset': 354, 'length': 24, 'type': 'url'}], 'link_preview_options': {'url': 'https://binjie09.shop/'}}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 34', 'parameters': {'retry_after': 34}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 33', 'parameters': {'retry_after': 33}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 32', 'parameters': {'retry_after': 32}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 31', 'parameters': {'retry_after': 31}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 31', 'parameters': {'retry_after': 31}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 31', 'parameters': {'retry_after': 31}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 30', 'parameters': {'retry_after': 30}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 29', 'parameters': {'retry_after': 29}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 28', 'parameters': {'retry_after': 28}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 28', 'parameters': {'retry_after': 28}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 27', 'parameters': {'retry_after': 27}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 27', 'parameters': {'retry_after': 27}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 26', 'parameters': {'retry_after': 26}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 25', 'parameters': {'retry_after': 25}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 25', 'parameters': {'retry_after': 25}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 24', 'parameters': {'retry_after': 24}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 24', 'parameters': {'retry_after': 24}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 23', 'parameters': {'retry_after': 23}}
+============================================================
+Workflow completed with status: completed
+============================================================
+[SITE] wrote index.html (16 images, 4 summaries)
+```
