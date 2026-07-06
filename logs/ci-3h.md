@@ -3227,3 +3227,32 @@ Workflow completed with status: completed
 ============================================================
 [SITE] wrote index.html (16 images, 4 summaries)
 ```
+
+## 3h @ 2026-07-07 04:11:39 KST — ok (run #114)
+```
+{'ok': True, 'result': {'message_id': 137206, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1783365080, 'photo': [{'file_id': 'AgACAgUAAyEGAASPJ3n-AAECF_ZqS_3YD6ng973E7du_6SHTMNujHgACxRBrG1raYFakd7S5fgE__wEAAwIAA3MAAzwE', 'file_unique_id': 'AQADxRBrG1raYFZ4', 'file_size': 1378, 'width': 90, 'height': 50}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECF_ZqS_3YD6ng973E7du_6SHTMNujHgACxRBrG1raYFakd7S5fgE__wEAAwIAA20AAzwE', 'file_unique_id': 'AQADxRBrG1raYFZy', 'file_size': 22784, 'width': 320, 'height': 178}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECF_ZqS_3YD6ng973E7du_6SHTMNujHgACxRBrG1raYFakd7S5fgE__wEAAwIAA3gAAzwE', 'file_unique_id': 'AQADxRBrG1raYFZ9', 'file_size': 109421, 'width': 800, 'height': 444}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECF_ZqS_3YD6ng973E7du_6SHTMNujHgACxRBrG1raYFakd7S5fgE__wEAAwIAA3kAAzwE', 'file_unique_id': 'AQADxRBrG1raYFZ-', 'file_size': 241810, 'width': 1280, 'height': 711}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECF_ZqS_3YD6ng973E7du_6SHTMNujHgACxRBrG1raYFakd7S5fgE__wEAAwIAA3cAAzwE', 'file_unique_id': 'AQADxRBrG1raYFZ8', 'file_size': 301972, 'width': 1504, 'height': 835}]}}
+{'ok': True, 'result': {'message_id': 137207, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1783365081, 'text': '📊 te-us-stock-market'}}
+{'ok': True, 'result': {'message_id': 137208, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1783365082, 'text': 'We\n need to\n summarize the\n given text\n into\n \n3 lines\n in\n Korean,\n each line\n containing one\n key point\n. The\n text covers\n:\n US stock\n indices up\n, chip\n sector\n boost\n,\n memory\n chip\n producers\n up\n ahead\n of\n Samsung/S\nK\n Hyn\nix,\n volatile momentum\n,\n AI sector\n concerns,\n Meta and\n SpaceX issues\n, Mic\nron\n/Sand\nisk up\n, N\nvidia up\n on\n Hon H\nain\n,\n broader\n sectors steady\n, F\nOM\nC\n minutes due\n. Three\n key points\n: \n1)\n US indices\n rise\n led\n by\n chip sector\n.\n 2\n) Memory\n chip stocks\n surge ahead\n of\n Samsung and\n SK H\nynix\n events.\n 3\n) Market\n volatility\n continues\n amid AI\n optimism and\n caution\n,\n with F\nOMC\n minutes upcoming\n. Keep\n concise.\n미국 증시는 반도체 업종 강세에 힘입어 상승 마감, S&P 500과 나스닥 100이 각각 0.4%, 1% 가까이 올랐다.  \n삼성전자 실적 발표와 SK하이닉스 ADR 발행을 앞두고 메모리 반도체株가 급등했으며, 마이크론과 샌디스크는 2.5% 이상 상승했다.  \nAI 수요 확대 신호 속 엔비디아도 올랐으나, AI 과열 우려와 메타·스페이스X 이슈 등으로 변동성 장세가 이어지며 분기된 FOMC 의사록에 시선이 쏠린다.', 'entities': [{'offset': 313, 'length': 5, 'type': 'bot_command'}]}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 34', 'parameters': {'retry_after': 34}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 33', 'parameters': {'retry_after': 33}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 33', 'parameters': {'retry_after': 33}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 32', 'parameters': {'retry_after': 32}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 31', 'parameters': {'retry_after': 31}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 31', 'parameters': {'retry_after': 31}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 30', 'parameters': {'retry_after': 30}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 29', 'parameters': {'retry_after': 29}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 29', 'parameters': {'retry_after': 29}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 28', 'parameters': {'retry_after': 28}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 27', 'parameters': {'retry_after': 27}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 27', 'parameters': {'retry_after': 27}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 26', 'parameters': {'retry_after': 26}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 26', 'parameters': {'retry_after': 26}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 25', 'parameters': {'retry_after': 25}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 25', 'parameters': {'retry_after': 25}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 24', 'parameters': {'retry_after': 24}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 23', 'parameters': {'retry_after': 23}}
+============================================================
+Workflow completed with status: completed
+============================================================
+[SITE] wrote index.html (16 images, 4 summaries)
+```
