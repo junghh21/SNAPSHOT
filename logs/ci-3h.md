@@ -3111,3 +3111,32 @@ Workflow completed with status: completed
 ============================================================
 [SITE] wrote index.html (16 images, 4 summaries)
 ```
+
+## 3h @ 2026-07-06 20:32:36 KST — ok (run #110)
+```
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 22', 'parameters': {'retry_after': 22}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 22', 'parameters': {'retry_after': 22}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 21', 'parameters': {'retry_after': 21}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 21', 'parameters': {'retry_after': 21}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 19', 'parameters': {'retry_after': 19}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 19', 'parameters': {'retry_after': 19}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 17', 'parameters': {'retry_after': 17}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 17', 'parameters': {'retry_after': 17}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 16', 'parameters': {'retry_after': 16}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 15', 'parameters': {'retry_after': 15}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 14', 'parameters': {'retry_after': 14}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 14', 'parameters': {'retry_after': 14}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 13', 'parameters': {'retry_after': 13}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 12', 'parameters': {'retry_after': 12}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 12', 'parameters': {'retry_after': 12}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 10', 'parameters': {'retry_after': 10}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 10', 'parameters': {'retry_after': 10}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 9', 'parameters': {'retry_after': 9}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 9', 'parameters': {'retry_after': 9}}
+{'ok': True, 'result': {'message_id': 136923, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1783337548, 'text': '📊 coingecko-top'}}
+{'ok': True, 'result': {'message_id': 136924, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1783337549, 'photo': [{'file_id': 'AgACAgUAAyEGAASPJ3n-AAECFtxqS5JNSaNMMNqssBp-g2lzi6lh8QACixFrG1hxYVafa2IM4cg3KwEAAwIAA3MAAzwE', 'file_unique_id': 'AQADixFrG1hxYVZ4', 'file_size': 914, 'width': 90, 'height': 41}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECFtxqS5JNSaNMMNqssBp-g2lzi6lh8QACixFrG1hxYVafa2IM4cg3KwEAAwIAA20AAzwE', 'file_unique_id': 'AQADixFrG1hxYVZy', 'file_size': 9796, 'width': 320, 'height': 146}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECFtxqS5JNSaNMMNqssBp-g2lzi6lh8QACixFrG1hxYVafa2IM4cg3KwEAAwIAA3gAAzwE', 'file_unique_id': 'AQADixFrG1hxYVZ9', 'file_size': 12952, 'width': 407, 'height': 186}]}}
+============================================================
+Workflow completed with status: completed
+============================================================
+[SITE] wrote index.html (16 images, 4 summaries)
+```
