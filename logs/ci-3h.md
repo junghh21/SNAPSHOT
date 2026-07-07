@@ -3517,3 +3517,32 @@ Workflow completed with status: completed
 ============================================================
 [SITE] wrote index.html (16 images, 4 summaries)
 ```
+
+## 3h @ 2026-07-07 22:13:08 KST — ok (run #124)
+```
+{'ok': True, 'result': {'message_id': 137922, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1783429968, 'photo': [{'file_id': 'AgACAgUAAyEGAASPJ3n-AAECGDdqTBb_UYl0a4E9aPZGHA8TRb_NhwAC6RBrG1raYFZPonU2G6YJlgEAAwIAA3MAAzwE', 'file_unique_id': 'AQAD6RBrG1raYFZ4', 'file_size': 1403, 'width': 90, 'height': 50}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECGDdqTBb_UYl0a4E9aPZGHA8TRb_NhwAC6RBrG1raYFZPonU2G6YJlgEAAwIAA20AAzwE', 'file_unique_id': 'AQAD6RBrG1raYFZy', 'file_size': 22810, 'width': 320, 'height': 178}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECGDdqTBb_UYl0a4E9aPZGHA8TRb_NhwAC6RBrG1raYFZPonU2G6YJlgEAAwIAA3gAAzwE', 'file_unique_id': 'AQAD6RBrG1raYFZ9', 'file_size': 109432, 'width': 800, 'height': 444}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECGDdqTBb_UYl0a4E9aPZGHA8TRb_NhwAC6RBrG1raYFZPonU2G6YJlgEAAwIAA3kAAzwE', 'file_unique_id': 'AQAD6RBrG1raYFZ-', 'file_size': 241420, 'width': 1280, 'height': 711}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECGDdqTBb_UYl0a4E9aPZGHA8TRb_NhwAC6RBrG1raYFZPonU2G6YJlgEAAwIAA3cAAzwE', 'file_unique_id': 'AQAD6RBrG1raYFZ8', 'file_size': 301251, 'width': 1504, 'height': 835}]}}
+{'ok': True, 'result': {'message_id': 137923, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1783429969, 'text': '📊 te-us-stock-market'}}
+{'ok': True, 'result': {'message_id': 137924, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1783429970, 'text': '- 미 증시 지수 선물은 혼조였고, 반도체주 급락 속에서도 전통 경기 섹터는 강세를 유지했다.  \n- 마이크론·샌디스크 급락과 AI 투자 회의론으로 나스닥 100이 1.5% 하락한 반면, 다우는 사상 최고치를 경신했다.  \n- 은행·제약주는 상승세를 이어갔고, 중동 LNG 탱커 공격 여파로 에너지 인플레이션 우려가 커지며 금리가 소폭 올랐다.'}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 34', 'parameters': {'retry_after': 34}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 34', 'parameters': {'retry_after': 34}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 33', 'parameters': {'retry_after': 33}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 31', 'parameters': {'retry_after': 31}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 31', 'parameters': {'retry_after': 31}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 31', 'parameters': {'retry_after': 31}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 29', 'parameters': {'retry_after': 29}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 29', 'parameters': {'retry_after': 29}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 28', 'parameters': {'retry_after': 28}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 28', 'parameters': {'retry_after': 28}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 27', 'parameters': {'retry_after': 27}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 26', 'parameters': {'retry_after': 26}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 25', 'parameters': {'retry_after': 25}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 25', 'parameters': {'retry_after': 25}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 24', 'parameters': {'retry_after': 24}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 24', 'parameters': {'retry_after': 24}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 23', 'parameters': {'retry_after': 23}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 22', 'parameters': {'retry_after': 22}}
+============================================================
+Workflow completed with status: completed
+============================================================
+[SITE] wrote index.html (16 images, 4 summaries)
+```
