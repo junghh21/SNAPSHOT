@@ -3546,3 +3546,32 @@ Workflow completed with status: completed
 ============================================================
 [SITE] wrote index.html (16 images, 4 summaries)
 ```
+
+## 3h @ 2026-07-08 00:51:15 KST — ok (run #125)
+```
+{'ok': True, 'result': {'message_id': 138014, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1783439449, 'photo': [{'file_id': 'AgACAgUAAyEGAASPJ3n-AAECGx5qTSBZ7h_o9-mt2B158k1Ji3K0YgACpRFrG1raaFbcnJ1HsFwGkAEAAwIAA3MAAzwE', 'file_unique_id': 'AQADpRFrG1raaFZ4', 'file_size': 1399, 'width': 90, 'height': 50}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECGx5qTSBZ7h_o9-mt2B158k1Ji3K0YgACpRFrG1raaFbcnJ1HsFwGkAEAAwIAA20AAzwE', 'file_unique_id': 'AQADpRFrG1raaFZy', 'file_size': 23061, 'width': 320, 'height': 178}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECGx5qTSBZ7h_o9-mt2B158k1Ji3K0YgACpRFrG1raaFbcnJ1HsFwGkAEAAwIAA3gAAzwE', 'file_unique_id': 'AQADpRFrG1raaFZ9', 'file_size': 110549, 'width': 800, 'height': 444}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECGx5qTSBZ7h_o9-mt2B158k1Ji3K0YgACpRFrG1raaFbcnJ1HsFwGkAEAAwIAA3kAAzwE', 'file_unique_id': 'AQADpRFrG1raaFZ-', 'file_size': 244954, 'width': 1280, 'height': 711}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECGx5qTSBZ7h_o9-mt2B158k1Ji3K0YgACpRFrG1raaFbcnJ1HsFwGkAEAAwIAA3cAAzwE', 'file_unique_id': 'AQADpRFrG1raaFZ8', 'file_size': 305960, 'width': 1504, 'height': 835}]}}
+{'ok': True, 'result': {'message_id': 138015, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1783439450, 'text': '📊 te-us-stock-market'}}
+{'ok': True, 'result': {'message_id': 138016, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1783439451, 'text': '- S&P 500 보합, 나스닥 1.5% 하락, 다우지수는 신고가 경신.\n- 마이크론·샌디스크 7% 급락, AI 인프라 투자 회의감 확산.\n- JP모건·J&J 등 경기방어주 강세, 중동 유가 불안에 국채금리 상승.'}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 33', 'parameters': {'retry_after': 33}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 32', 'parameters': {'retry_after': 32}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 31', 'parameters': {'retry_after': 31}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 30', 'parameters': {'retry_after': 30}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 30', 'parameters': {'retry_after': 30}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 29', 'parameters': {'retry_after': 29}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 23', 'parameters': {'retry_after': 23}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 23', 'parameters': {'retry_after': 23}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 22', 'parameters': {'retry_after': 22}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 21', 'parameters': {'retry_after': 21}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 20', 'parameters': {'retry_after': 20}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 20', 'parameters': {'retry_after': 20}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 19', 'parameters': {'retry_after': 19}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 18', 'parameters': {'retry_after': 18}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 18', 'parameters': {'retry_after': 18}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 17', 'parameters': {'retry_after': 17}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 17', 'parameters': {'retry_after': 17}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 16', 'parameters': {'retry_after': 16}}
+============================================================
+Workflow completed with status: completed
+============================================================
+[SITE] wrote index.html (16 images, 4 summaries)
+```
