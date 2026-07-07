@@ -3720,3 +3720,32 @@ Workflow completed with status: completed
 ============================================================
 [SITE] wrote index.html (16 images, 4 summaries)
 ```
+
+## 3h @ 2026-07-08 07:54:40 KST — ok (run #131)
+```
+{'ok': True, 'result': {'message_id': 138344, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1783464857, 'photo': [{'file_id': 'AgACAgUAAyEGAASPJ3n-AAECG_ZqTWaXwJwvAvlLX4v0euIpWjpnPgACTBJrG1raaFZRbZSREmQizAEAAwIAA3MAAzwE', 'file_unique_id': 'AQADTBJrG1raaFZ4', 'file_size': 1406, 'width': 90, 'height': 50}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECG_ZqTWaXwJwvAvlLX4v0euIpWjpnPgACTBJrG1raaFZRbZSREmQizAEAAwIAA20AAzwE', 'file_unique_id': 'AQADTBJrG1raaFZy', 'file_size': 23103, 'width': 320, 'height': 178}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECG_ZqTWaXwJwvAvlLX4v0euIpWjpnPgACTBJrG1raaFZRbZSREmQizAEAAwIAA3gAAzwE', 'file_unique_id': 'AQADTBJrG1raaFZ9', 'file_size': 110086, 'width': 800, 'height': 444}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECG_ZqTWaXwJwvAvlLX4v0euIpWjpnPgACTBJrG1raaFZRbZSREmQizAEAAwIAA3kAAzwE', 'file_unique_id': 'AQADTBJrG1raaFZ-', 'file_size': 242885, 'width': 1280, 'height': 711}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECG_ZqTWaXwJwvAvlLX4v0euIpWjpnPgACTBJrG1raaFZRbZSREmQizAEAAwIAA3cAAzwE', 'file_unique_id': 'AQADTBJrG1raaFZ8', 'file_size': 303030, 'width': 1504, 'height': 835}]}}
+{'ok': True, 'result': {'message_id': 138345, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1783464858, 'text': '📊 te-us-stock-market'}}
+{'ok': True, 'result': {'message_id': 138346, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1783464859, 'text': '1. 반도체 기업의 대량 매도로 미국 주요 주가지수가 사상 최고치에서 후퇴하며 하락 마감했다.\n2. AI 초대형 기업의 과도한 인프라 투자 타당성에 대한 의구심과 중국 딥시크의 AI 칩 개발 보도로 대부분 반도체주가 하락했고 삼성전자의 19배 분기 이익 급증도 시장 심리에 영향을 미치지 못했으며 엔비디아만 소폭 상승했다.\n3. 호르무즈 해협 유조선 공격으로 에너지 인플레이션 우려가 커지며 국채 금리가 상승한 점이 전반 시장에 부담으로 작용해 비자, 캐터필러 등도 동반 하락했다.'}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 35', 'parameters': {'retry_after': 35}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 35', 'parameters': {'retry_after': 35}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 34', 'parameters': {'retry_after': 34}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 33', 'parameters': {'retry_after': 33}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 32', 'parameters': {'retry_after': 32}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 32', 'parameters': {'retry_after': 32}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 30', 'parameters': {'retry_after': 30}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 29', 'parameters': {'retry_after': 29}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 28', 'parameters': {'retry_after': 28}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 27', 'parameters': {'retry_after': 27}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 26', 'parameters': {'retry_after': 26}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 26', 'parameters': {'retry_after': 26}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 25', 'parameters': {'retry_after': 25}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 24', 'parameters': {'retry_after': 24}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 23', 'parameters': {'retry_after': 23}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 23', 'parameters': {'retry_after': 23}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 22', 'parameters': {'retry_after': 22}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 22', 'parameters': {'retry_after': 22}}
+============================================================
+Workflow completed with status: completed
+============================================================
+[SITE] wrote index.html (16 images, 4 summaries)
+```
