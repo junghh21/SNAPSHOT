@@ -3604,3 +3604,32 @@ Workflow completed with status: completed
 ============================================================
 [SITE] wrote index.html (16 images, 4 summaries)
 ```
+
+## 3h @ 2026-07-08 03:02:18 KST — ok (run #127)
+```
+{'ok': True, 'result': {'message_id': 138114, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1783447318, 'photo': [{'file_id': 'AgACAgUAAyEGAASPJ3n-AAECG4JqTT8WkvIdppvNXRRY4EZYj3ARHQAC_hFrG1raaFa2vOYLgr_kjQEAAwIAA3MAAzwE', 'file_unique_id': 'AQAD_hFrG1raaFZ4', 'file_size': 1374, 'width': 90, 'height': 50}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECG4JqTT8WkvIdppvNXRRY4EZYj3ARHQAC_hFrG1raaFa2vOYLgr_kjQEAAwIAA20AAzwE', 'file_unique_id': 'AQAD_hFrG1raaFZy', 'file_size': 22981, 'width': 320, 'height': 178}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECG4JqTT8WkvIdppvNXRRY4EZYj3ARHQAC_hFrG1raaFa2vOYLgr_kjQEAAwIAA3gAAzwE', 'file_unique_id': 'AQAD_hFrG1raaFZ9', 'file_size': 109490, 'width': 800, 'height': 444}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECG4JqTT8WkvIdppvNXRRY4EZYj3ARHQAC_hFrG1raaFa2vOYLgr_kjQEAAwIAA3kAAzwE', 'file_unique_id': 'AQAD_hFrG1raaFZ-', 'file_size': 242559, 'width': 1280, 'height': 711}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECG4JqTT8WkvIdppvNXRRY4EZYj3ARHQAC_hFrG1raaFa2vOYLgr_kjQEAAwIAA3cAAzwE', 'file_unique_id': 'AQAD_hFrG1raaFZ8', 'file_size': 302541, 'width': 1504, 'height': 835}]}}
+{'ok': True, 'result': {'message_id': 138115, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1783447319, 'text': '📊 te-us-stock-market'}}
+{'ok': True, 'result': {'message_id': 138116, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1783447320, 'text': '미국 주요 증시는 반도체 대형주 약세와 악화된 거시경제 배경으로 전반적으로 하락했으며 S&P500은 0.7%, 나스닥100은 2.7% 급락하고 다우존스는 장중 기록한 사상 최고치에서 밀려났다.\n반도체·AI·신기술 관련 기업은 개별 악재로 대폭 하락해 삼성이 지난 분기 영업이익을 19배 늘렸음에도 메모리 반도체 제조사와 장비주는 8~10% 떨어졌고, 스페이스X는 나스닥100 편입에도 6% 하락했으며 엔비디아·AMD도 각각 1.5%·8%의 낙폭을 보였다.\n호르무즈 해협 유조선 공격으로 에너지 인플레이션 우려가 재점화되며 국채금리가 상승하자 산업주도 동반 하락해 캐터필러·디어·GE 버노비아 등 주요 산업주는 5~10%의 낙폭을 기록했다.'}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 30', 'parameters': {'retry_after': 30}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 29', 'parameters': {'retry_after': 29}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 29', 'parameters': {'retry_after': 29}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 28', 'parameters': {'retry_after': 28}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 28', 'parameters': {'retry_after': 28}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 27', 'parameters': {'retry_after': 27}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 26', 'parameters': {'retry_after': 26}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 25', 'parameters': {'retry_after': 25}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 24', 'parameters': {'retry_after': 24}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 23', 'parameters': {'retry_after': 23}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 22', 'parameters': {'retry_after': 22}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 22', 'parameters': {'retry_after': 22}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 21', 'parameters': {'retry_after': 21}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 21', 'parameters': {'retry_after': 21}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 20', 'parameters': {'retry_after': 20}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 20', 'parameters': {'retry_after': 20}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 19', 'parameters': {'retry_after': 19}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 18', 'parameters': {'retry_after': 18}}
+============================================================
+Workflow completed with status: completed
+============================================================
+[SITE] wrote index.html (16 images, 4 summaries)
+```
