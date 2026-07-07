@@ -3459,3 +3459,32 @@ Workflow completed with status: completed
 ============================================================
 [SITE] wrote index.html (16 images, 4 summaries)
 ```
+
+## 3h @ 2026-07-07 19:12:34 KST — ok (run #122)
+```
+{'ok': True, 'result': {'message_id': 137790, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1783419125, 'photo': [{'file_id': 'AgACAgUAAyEGAASPJ3n-AAECGDdqTBb_UYl0a4E9aPZGHA8TRb_NhwAC6RBrG1raYFZPonU2G6YJlgEAAwIAA3MAAzwE', 'file_unique_id': 'AQAD6RBrG1raYFZ4', 'file_size': 1403, 'width': 90, 'height': 50}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECGDdqTBb_UYl0a4E9aPZGHA8TRb_NhwAC6RBrG1raYFZPonU2G6YJlgEAAwIAA20AAzwE', 'file_unique_id': 'AQAD6RBrG1raYFZy', 'file_size': 22810, 'width': 320, 'height': 178}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECGDdqTBb_UYl0a4E9aPZGHA8TRb_NhwAC6RBrG1raYFZPonU2G6YJlgEAAwIAA3gAAzwE', 'file_unique_id': 'AQAD6RBrG1raYFZ9', 'file_size': 109432, 'width': 800, 'height': 444}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECGDdqTBb_UYl0a4E9aPZGHA8TRb_NhwAC6RBrG1raYFZPonU2G6YJlgEAAwIAA3kAAzwE', 'file_unique_id': 'AQAD6RBrG1raYFZ-', 'file_size': 241420, 'width': 1280, 'height': 711}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECGDdqTBb_UYl0a4E9aPZGHA8TRb_NhwAC6RBrG1raYFZPonU2G6YJlgEAAwIAA3cAAzwE', 'file_unique_id': 'AQAD6RBrG1raYFZ8', 'file_size': 301251, 'width': 1504, 'height': 835}]}}
+{'ok': True, 'result': {'message_id': 137791, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1783419126, 'text': '📊 te-us-stock-market'}}
+{'ok': True, 'result': {'message_id': 137792, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1783419127, 'text': '- 미국 증시 선물은 다우가 사상 최고치로 마감하며 주초 강세를 보인 뒤 소폭 하락.  \n- 테슬라·AMD 등 기술주가 큰 폭 상승했으며 리비안은 시간외 거래에서 공모 소식으로 9% 이상 급락.  \n- 삼성전자는 AI 데이터센터용 메모리 호조로 실적은 좋았지만 한국 프리마켓에서 주가 하락.'}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 35', 'parameters': {'retry_after': 35}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 29', 'parameters': {'retry_after': 29}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 29', 'parameters': {'retry_after': 29}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 25', 'parameters': {'retry_after': 25}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 25', 'parameters': {'retry_after': 25}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 24', 'parameters': {'retry_after': 24}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 23', 'parameters': {'retry_after': 23}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 23', 'parameters': {'retry_after': 23}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 22', 'parameters': {'retry_after': 22}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 21', 'parameters': {'retry_after': 21}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 20', 'parameters': {'retry_after': 20}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 20', 'parameters': {'retry_after': 20}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 19', 'parameters': {'retry_after': 19}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 18', 'parameters': {'retry_after': 18}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 18', 'parameters': {'retry_after': 18}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 17', 'parameters': {'retry_after': 17}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 16', 'parameters': {'retry_after': 16}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 16', 'parameters': {'retry_after': 16}}
+============================================================
+Workflow completed with status: completed
+============================================================
+[SITE] wrote index.html (16 images, 4 summaries)
+```
