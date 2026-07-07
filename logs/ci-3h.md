@@ -3662,3 +3662,32 @@ Workflow completed with status: completed
 ============================================================
 [SITE] wrote index.html (16 images, 4 summaries)
 ```
+
+## 3h @ 2026-07-08 05:51:02 KST — ok (run #129)
+```
+{'ok': True, 'result': {'message_id': 138231, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1783457432, 'text': '📊 te-us-stock-market'}}
+{'ok': True, 'result': {'message_id': 138232, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1783457433, 'text': "We\n need to\n summarize given\n text\n into\n 3\n Korean lines\n, each\n with one\n key\n point.\n The text\n is\n about US\n stock indices\n closing lower\n, chip\nmaker\n selloff\n, specific\n stocks\n moves\n, bond\n yields,\n etc\n. \n\n\nFirst key\n point:\n US stock\n indices fell\n due to\n chipmaker\n selloff\n. S\n&P \n500,\n Nasdaq \n100,\n Dow down\n.\n \nSecond\n key point\n: Semiconductor\n stocks under\n pressure from\n AI spending\n concerns and\n DeepSe\nek's\n own AI\n chip;\n specific\n stocks\n like Broad\ncom,\n Micron\n, AMD\n, Intel\n fell\n, but\n Nvidia\n up.\n \nThird\n key point\n: Higher\n bond yields\n from tank\ner attacks\n weighed\n on broader\n market\n;\n Visa,\n Caterpill\nar down\n.\n\nBut\n must\n be concise\n 3\n lines.\n Let's\n write:\n\n\n1\n. 미국\n 주\n가지수가\n 반\n도체\n 업종\n 매도\n로\n 하락\n 마감\n했다.\n\n2.\n AI\n 투자\n 수\n익성\n 의문\n과 중국\n 딥\n시크\n의 자\n체 AI\n칩\n 개발 소\n식에\n 반도\n체주\n가 약\n세를\n 보였\n으나 \n엔비\n디아\n는 소\n폭\n 상승\n했다.\n\n3.\n 호르\n무즈\n 해협\n 유조\n선 공\n격으로\n 국\n채\n 수익\n률이\n 상승\n하며 에\n너지\n 인플\n레이션\n 우려\n가 시\n장을\n 압\n박했\n고,\n 비자\n와 \n캐터\n필러\n도\n 하락\n했다.\n\n\nCheck:\n Line\n 1\n covers indices\n.\n Line \n2 covers\n chipmakers\n and Deep\nSeek\n. Line\n 3\n covers bond\n yields and\n specific\n stocks.\n Good\n.\n- 미국 주가지수가 반도체 업종 매도로 하락 마감했다.  \n- AI 투자 수익성 의문과 중국 딥시크의 자체 AI칩 개발 소식에 반도체주가 약세를 보였으나 엔비디아는 소폭 상승했다.  \n- 호르무즈 해협 유조선 공격으로 국채 수익률이 상승하며 에너지 인플레이션 우려가 시장을 압박했고, 비자와 캐터필러도 하락했다."}}
+{'ok': True, 'result': {'message_id': 138233, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1783457434, 'text': '📊 cnn-fear-greed'}}
+{'ok': True, 'result': {'message_id': 138234, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1783457436, 'photo': [{'file_id': 'AgACAgUAAyEGAASPJ3n-AAECG_pqTWacJHhZqkhsWsqsa1hjrDCjUwACTRJrG1raaFb9a6E_w2zpIQEAAwIAA3MAAzwE', 'file_unique_id': 'AQADTRJrG1raaFZ4', 'file_size': 844, 'width': 90, 'height': 48}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECG_pqTWacJHhZqkhsWsqsa1hjrDCjUwACTRJrG1raaFb9a6E_w2zpIQEAAwIAA20AAzwE', 'file_unique_id': 'AQADTRJrG1raaFZy', 'file_size': 7799, 'width': 320, 'height': 170}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECG_pqTWacJHhZqkhsWsqsa1hjrDCjUwACTRJrG1raaFb9a6E_w2zpIQEAAwIAA3gAAzwE', 'file_unique_id': 'AQADTRJrG1raaFZ9', 'file_size': 19858, 'width': 650, 'height': 346}]}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 29', 'parameters': {'retry_after': 29}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 27', 'parameters': {'retry_after': 27}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 26', 'parameters': {'retry_after': 26}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 26', 'parameters': {'retry_after': 26}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 25', 'parameters': {'retry_after': 25}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 24', 'parameters': {'retry_after': 24}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 23', 'parameters': {'retry_after': 23}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 22', 'parameters': {'retry_after': 22}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 21', 'parameters': {'retry_after': 21}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 20', 'parameters': {'retry_after': 20}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 18', 'parameters': {'retry_after': 18}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 18', 'parameters': {'retry_after': 18}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 17', 'parameters': {'retry_after': 17}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 16', 'parameters': {'retry_after': 16}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 16', 'parameters': {'retry_after': 16}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 15', 'parameters': {'retry_after': 15}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 14', 'parameters': {'retry_after': 14}}
+============================================================
+Workflow completed with status: completed
+============================================================
+[SITE] wrote index.html (16 images, 4 summaries)
+```
