@@ -3575,3 +3575,32 @@ Workflow completed with status: completed
 ============================================================
 [SITE] wrote index.html (16 images, 4 summaries)
 ```
+
+## 3h @ 2026-07-08 01:12:29 KST — ok (run #126)
+```
+{'ok': True, 'result': {'message_id': 138046, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1783440724, 'photo': [{'file_id': 'AgACAgUAAyEGAASPJ3n-AAECGz5qTSVU-f3z28Vy8JzA3Jq9P3282AACvRFrG1raaFazN3YI5ZMCqwEAAwIAA3MAAzwE', 'file_unique_id': 'AQADvRFrG1raaFZ4', 'file_size': 1397, 'width': 90, 'height': 50}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECGz5qTSVU-f3z28Vy8JzA3Jq9P3282AACvRFrG1raaFazN3YI5ZMCqwEAAwIAA20AAzwE', 'file_unique_id': 'AQADvRFrG1raaFZy', 'file_size': 23083, 'width': 320, 'height': 178}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECGz5qTSVU-f3z28Vy8JzA3Jq9P3282AACvRFrG1raaFazN3YI5ZMCqwEAAwIAA3gAAzwE', 'file_unique_id': 'AQADvRFrG1raaFZ9', 'file_size': 110396, 'width': 800, 'height': 444}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECGz5qTSVU-f3z28Vy8JzA3Jq9P3282AACvRFrG1raaFazN3YI5ZMCqwEAAwIAA3kAAzwE', 'file_unique_id': 'AQADvRFrG1raaFZ-', 'file_size': 244476, 'width': 1280, 'height': 711}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECGz5qTSVU-f3z28Vy8JzA3Jq9P3282AACvRFrG1raaFazN3YI5ZMCqwEAAwIAA3cAAzwE', 'file_unique_id': 'AQADvRFrG1raaFZ8', 'file_size': 305202, 'width': 1504, 'height': 835}]}}
+{'ok': True, 'result': {'message_id': 138047, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1783440725, 'text': '📊 te-us-stock-market'}}
+{'ok': True, 'result': {'message_id': 138048, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1783440726, 'text': '- 미 증시는 반도체 약세와 거시 환경 악화로 하락했으며, 나스닥 100은 2.7% 급락했다.  \n- 삼성의 실적 급증에도 메모리·AI 관련 종목들이 8~10% 하락했고, 중국 Deepseek의 자체 AI칩 개발 소식에 엔비디아·AMD도 약세를 보였다.  \n- 호르무즈 해협 유조선 피격으로 에너지 인플레이션 우려가 커지며 국채 금리가 상승했고, 캐터필러·디어·GE Vernova 등 산업주가 5~10% 떨어졌다.'}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 30', 'parameters': {'retry_after': 30}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 29', 'parameters': {'retry_after': 29}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 29', 'parameters': {'retry_after': 29}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 27', 'parameters': {'retry_after': 27}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 27', 'parameters': {'retry_after': 27}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 26', 'parameters': {'retry_after': 26}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 25', 'parameters': {'retry_after': 25}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 25', 'parameters': {'retry_after': 25}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 24', 'parameters': {'retry_after': 24}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 23', 'parameters': {'retry_after': 23}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 22', 'parameters': {'retry_after': 22}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 21', 'parameters': {'retry_after': 21}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 20', 'parameters': {'retry_after': 20}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 20', 'parameters': {'retry_after': 20}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 19', 'parameters': {'retry_after': 19}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 18', 'parameters': {'retry_after': 18}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 18', 'parameters': {'retry_after': 18}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 17', 'parameters': {'retry_after': 17}}
+============================================================
+Workflow completed with status: completed
+============================================================
+[SITE] wrote index.html (16 images, 4 summaries)
+```
