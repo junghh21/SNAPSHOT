@@ -4068,3 +4068,32 @@ Workflow completed with status: completed
 ============================================================
 [SITE] wrote index.html (16 images, 4 summaries)
 ```
+
+## 3h @ 2026-07-09 04:12:20 KST — ok (run #143)
+```
+{'ok': True, 'result': {'message_id': 139157, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1783537920, 'photo': [{'file_id': 'AgACAgUAAyEGAASPJ3n-AAECH5VqTqEAAUJim5RZzfoVvSmLNV5gF0MAApIPaxuPk3lWtg8CwvNXzW0BAAMCAANzAAM8BA', 'file_unique_id': 'AQADkg9rG4-TeVZ4', 'file_size': 1355, 'width': 90, 'height': 50}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECH5VqTqEAAUJim5RZzfoVvSmLNV5gF0MAApIPaxuPk3lWtg8CwvNXzW0BAAMCAANtAAM8BA', 'file_unique_id': 'AQADkg9rG4-TeVZy', 'file_size': 23016, 'width': 320, 'height': 178}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECH5VqTqEAAUJim5RZzfoVvSmLNV5gF0MAApIPaxuPk3lWtg8CwvNXzW0BAAMCAAN4AAM8BA', 'file_unique_id': 'AQADkg9rG4-TeVZ9', 'file_size': 110570, 'width': 800, 'height': 444}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECH5VqTqEAAUJim5RZzfoVvSmLNV5gF0MAApIPaxuPk3lWtg8CwvNXzW0BAAMCAAN5AAM8BA', 'file_unique_id': 'AQADkg9rG4-TeVZ-', 'file_size': 243967, 'width': 1280, 'height': 711}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECH5VqTqEAAUJim5RZzfoVvSmLNV5gF0MAApIPaxuPk3lWtg8CwvNXzW0BAAMCAAN3AAM8BA', 'file_unique_id': 'AQADkg9rG4-TeVZ8', 'file_size': 305100, 'width': 1504, 'height': 835}]}}
+{'ok': True, 'result': {'message_id': 139158, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1783537921, 'text': '📊 te-us-stock-market'}}
+{'ok': True, 'result': {'message_id': 139159, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1783537922, 'text': '- 에너지 가격 상승과 트럼프 대통령의 이란 관련 발언으로 인플레이션 우려가 커지며 미 증시는 전반적으로 하락했다.  \n- FOMC 의사록에서 일부 위원들이 금리 인상을 주장한 가운데 금리 민감 업종과 빅테크·AI 기업들이 약세를 보였다.  \n- 반면 브로드컴은 애플과의 미국산 부품 계약 확대 소식으로 5% 상승했고, 엔비디아는 중국 기업의 H200 수요 증가로 1% 올랐다.'}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 35', 'parameters': {'retry_after': 35}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 34', 'parameters': {'retry_after': 34}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 34', 'parameters': {'retry_after': 34}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 33', 'parameters': {'retry_after': 33}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 32', 'parameters': {'retry_after': 32}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 32', 'parameters': {'retry_after': 32}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 31', 'parameters': {'retry_after': 31}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 30', 'parameters': {'retry_after': 30}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 30', 'parameters': {'retry_after': 30}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 29', 'parameters': {'retry_after': 29}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 28', 'parameters': {'retry_after': 28}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 28', 'parameters': {'retry_after': 28}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 27', 'parameters': {'retry_after': 27}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 26', 'parameters': {'retry_after': 26}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 26', 'parameters': {'retry_after': 26}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 26', 'parameters': {'retry_after': 26}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 25', 'parameters': {'retry_after': 25}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 24', 'parameters': {'retry_after': 24}}
+============================================================
+Workflow completed with status: completed
+============================================================
+[SITE] wrote index.html (16 images, 4 summaries)
+```
