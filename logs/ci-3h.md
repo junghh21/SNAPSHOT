@@ -4039,3 +4039,32 @@ Workflow completed with status: completed
 ============================================================
 [SITE] wrote index.html (16 images, 4 summaries)
 ```
+
+## 3h @ 2026-07-09 02:28:58 KST — ok (run #142)
+```
+{'ok': True, 'result': {'message_id': 139080, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1783531710, 'photo': [{'file_id': 'AgACAgUAAyEGAASPJ3n-AAECH0hqToi-lepnQgif_bSXnLdlc0MBRAACSQ9rG4-TeVaqZHfsb4O0xwEAAwIAA3MAAzwE', 'file_unique_id': 'AQADSQ9rG4-TeVZ4', 'file_size': 1340, 'width': 90, 'height': 50}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECH0hqToi-lepnQgif_bSXnLdlc0MBRAACSQ9rG4-TeVaqZHfsb4O0xwEAAwIAA20AAzwE', 'file_unique_id': 'AQADSQ9rG4-TeVZy', 'file_size': 22887, 'width': 320, 'height': 178}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECH0hqToi-lepnQgif_bSXnLdlc0MBRAACSQ9rG4-TeVaqZHfsb4O0xwEAAwIAA3gAAzwE', 'file_unique_id': 'AQADSQ9rG4-TeVZ9', 'file_size': 110265, 'width': 800, 'height': 444}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECH0hqToi-lepnQgif_bSXnLdlc0MBRAACSQ9rG4-TeVaqZHfsb4O0xwEAAwIAA3kAAzwE', 'file_unique_id': 'AQADSQ9rG4-TeVZ-', 'file_size': 243100, 'width': 1280, 'height': 711}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECH0hqToi-lepnQgif_bSXnLdlc0MBRAACSQ9rG4-TeVaqZHfsb4O0xwEAAwIAA3cAAzwE', 'file_unique_id': 'AQADSQ9rG4-TeVZ8', 'file_size': 304037, 'width': 1504, 'height': 835}]}}
+{'ok': True, 'result': {'message_id': 139081, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1783531711, 'text': '📊 te-us-stock-market'}}
+{'ok': True, 'result': {'message_id': 139082, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1783531712, 'text': '미국 증시는 에너지 가격 상승과 지정학적 긴장으로 S&P 500·나스닥 100 약 1%, 다우 1.5% 하락.  \n트럼프 대통령의 이란 휴전 무효화로 유가 급등·금리 상승하며 인플레이션 우려가 재부각.  \nAI 인프라 투자 둔화 우려와 중국 기업의 신규 반도체 프로젝트로 금융·반도체·빅테크 전반 약세.'}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 28', 'parameters': {'retry_after': 28}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 27', 'parameters': {'retry_after': 27}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 27', 'parameters': {'retry_after': 27}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 25', 'parameters': {'retry_after': 25}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 25', 'parameters': {'retry_after': 25}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 24', 'parameters': {'retry_after': 24}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 23', 'parameters': {'retry_after': 23}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 22', 'parameters': {'retry_after': 22}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 21', 'parameters': {'retry_after': 21}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 20', 'parameters': {'retry_after': 20}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 19', 'parameters': {'retry_after': 19}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 18', 'parameters': {'retry_after': 18}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 17', 'parameters': {'retry_after': 17}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 17', 'parameters': {'retry_after': 17}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 16', 'parameters': {'retry_after': 16}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 15', 'parameters': {'retry_after': 15}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 15', 'parameters': {'retry_after': 15}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 14', 'parameters': {'retry_after': 14}}
+============================================================
+Workflow completed with status: completed
+============================================================
+[SITE] wrote index.html (16 images, 4 summaries)
+```
