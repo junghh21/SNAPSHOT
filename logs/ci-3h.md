@@ -4010,3 +4010,32 @@ Workflow completed with status: completed
 ============================================================
 [SITE] wrote index.html (16 images, 4 summaries)
 ```
+
+## 3h @ 2026-07-09 01:12:36 KST — ok (run #141)
+```
+{'ok': True, 'result': {'message_id': 139024, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1783527134, 'photo': [{'file_id': 'AgACAgUAAyEGAASPJ3n-AAECHxBqTnbdINwabDbjUytDgeTiIyyl_QACEA9rG4-TeVZE9gfzg9lFIQEAAwIAA3MAAzwE', 'file_unique_id': 'AQADEA9rG4-TeVZ4', 'file_size': 1341, 'width': 90, 'height': 50}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECHxBqTnbdINwabDbjUytDgeTiIyyl_QACEA9rG4-TeVZE9gfzg9lFIQEAAwIAA20AAzwE', 'file_unique_id': 'AQADEA9rG4-TeVZy', 'file_size': 22968, 'width': 320, 'height': 178}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECHxBqTnbdINwabDbjUytDgeTiIyyl_QACEA9rG4-TeVZE9gfzg9lFIQEAAwIAA3gAAzwE', 'file_unique_id': 'AQADEA9rG4-TeVZ9', 'file_size': 110121, 'width': 800, 'height': 444}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECHxBqTnbdINwabDbjUytDgeTiIyyl_QACEA9rG4-TeVZE9gfzg9lFIQEAAwIAA3kAAzwE', 'file_unique_id': 'AQADEA9rG4-TeVZ-', 'file_size': 243542, 'width': 1280, 'height': 711}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECHxBqTnbdINwabDbjUytDgeTiIyyl_QACEA9rG4-TeVZE9gfzg9lFIQEAAwIAA3cAAzwE', 'file_unique_id': 'AQADEA9rG4-TeVZ8', 'file_size': 305095, 'width': 1504, 'height': 835}]}}
+{'ok': True, 'result': {'message_id': 139025, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1783527135, 'text': '📊 te-us-stock-market'}}
+{'ok': True, 'result': {'message_id': 139026, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1783527135, 'text': '1. 미국 증시는 에너지 가격 상승과 트럼프 대통령의 이란 휴전 무효화로 거시경제 여건이 악화되며 하락해 S&P500·나스닥100은 1% 미만, 다우존스30 산업평균지수는 1.5% 떨어졌다.\n2. 이란과의 교전으로 유가가 급등하자 국채 수익률이 상승하며 인플레이션 리스크가 재부각됐고, 곧 공개될 6월 FOMC 회의 의사록에서 연준의 금리 인상 의지 관련 단서가 확인될 것으로 예상된다.\n3. JPMorgan·비자 등 신용 민감 섹터와 마이크론·샌디스크·인텔 등 반도체 기업이 동반 하락했으며, 빅테크의 AI 인프라 투자 둔화 우려와 중국 기업들의 반도체 자체 프로젝트 진출 소식이 반도체 업종 전망에 부정적으로 작용했다.'}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 35', 'parameters': {'retry_after': 35}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 34', 'parameters': {'retry_after': 34}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 33', 'parameters': {'retry_after': 33}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 32', 'parameters': {'retry_after': 32}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 32', 'parameters': {'retry_after': 32}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 31', 'parameters': {'retry_after': 31}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 30', 'parameters': {'retry_after': 30}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 30', 'parameters': {'retry_after': 30}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 29', 'parameters': {'retry_after': 29}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 29', 'parameters': {'retry_after': 29}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 28', 'parameters': {'retry_after': 28}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 27', 'parameters': {'retry_after': 27}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 26', 'parameters': {'retry_after': 26}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 26', 'parameters': {'retry_after': 26}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 26', 'parameters': {'retry_after': 26}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 25', 'parameters': {'retry_after': 25}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 25', 'parameters': {'retry_after': 25}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 24', 'parameters': {'retry_after': 24}}
+============================================================
+Workflow completed with status: completed
+============================================================
+[SITE] wrote index.html (16 images, 4 summaries)
+```
