@@ -3894,3 +3894,32 @@ Workflow completed with status: completed
 ============================================================
 [SITE] wrote index.html (16 images, 4 summaries)
 ```
+
+## 3h @ 2026-07-08 19:13:14 KST — ok (run #137)
+```
+{'ok': True, 'result': {'message_id': 138789, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1783505567, 'photo': [{'file_id': 'AgACAgUAAyEGAASPJ3n-AAECHSNqTc4UGdUI3fhhnXQ8r86VaGgZYwACTBJrG1raaFZRbZSREmQizAEAAwIAA3MAAzwE', 'file_unique_id': 'AQADTBJrG1raaFZ4', 'file_size': 1406, 'width': 90, 'height': 50}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECHSNqTc4UGdUI3fhhnXQ8r86VaGgZYwACTBJrG1raaFZRbZSREmQizAEAAwIAA20AAzwE', 'file_unique_id': 'AQADTBJrG1raaFZy', 'file_size': 23103, 'width': 320, 'height': 178}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECHSNqTc4UGdUI3fhhnXQ8r86VaGgZYwACTBJrG1raaFZRbZSREmQizAEAAwIAA3gAAzwE', 'file_unique_id': 'AQADTBJrG1raaFZ9', 'file_size': 110086, 'width': 800, 'height': 444}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECHSNqTc4UGdUI3fhhnXQ8r86VaGgZYwACTBJrG1raaFZRbZSREmQizAEAAwIAA3kAAzwE', 'file_unique_id': 'AQADTBJrG1raaFZ-', 'file_size': 242885, 'width': 1280, 'height': 711}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECHSNqTc4UGdUI3fhhnXQ8r86VaGgZYwACTBJrG1raaFZRbZSREmQizAEAAwIAA3cAAzwE', 'file_unique_id': 'AQADTBJrG1raaFZ8', 'file_size': 303030, 'width': 1504, 'height': 835}]}}
+{'ok': True, 'result': {'message_id': 138790, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1783505568, 'text': '📊 te-us-stock-market'}}
+{'ok': True, 'result': {'message_id': 138791, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1783505569, 'text': '우\n선\n 사용자가 요청한\n 내용은 주식 시장 관련\n 뉴스를 한국어 \n3줄로,\n 각 줄에 핵심\n 하나씩 요약하는\n 것이다. 질문을\n 반복하지 말고\n 불필요한 서론\n이나 결론 없이 바로\n 요약해야 한다.\n\n원\n문을 분석해보자.\n 첫 번째 핵심\n은 미국 주식 선물이\n 하락한 이유로 반\n도체 주의 재\n매도와 중동\n 긴장, 원\n유 가격 상승이\n 있다. 두 번째 핵\n심은 투자자\n들이 연준 회의록\n을 기다리고 있다\n는 점. 세 번째 핵\n심은 AI 관련 지\n출 지속 가능성에\n 대한 의문과 삼\n성 실적, 중국 DeepSe\nek의 AI 칩 개발\n이 섹터에 우려\n를 더했다는 점이다\n.\n\n각 줄을 하나의\n 핵심으로\n 압축해야 한다.\n 첫째 줄은 "\n미국 주식 선\n물 하락, 반도체\n주 약세와 중동\n 긴장 고조 영향\n" 둘째 줄은\n "투자자들\n, 연준 6월\n 회의록 통해 통\n화정책 방향 주\n시" 셋\n째 줄은 "AI\n 인프라 투자 지\n속성 의문 및\n 중국발 AI칩 개발\n 우려로 반도체\n 업종 압박\n" 이렇게 정리할\n 수 있겠다.\n\n\n한국어로 자연\n스럽게, 불\n필요한 설명 없이 간\n결하게 작성해야 한다.\n미국 주식 선물 하락, 반도체주 재매도와 중동 긴장 고조 영향  \n투자자들, 연준 6월 회의록 통해 통화정책 방향 주시  \nAI 인프라 투자 지속성 의문 및 중국발 AI칩 개발 우려로 반도체 업종 압박'}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 31', 'parameters': {'retry_after': 31}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 29', 'parameters': {'retry_after': 29}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 29', 'parameters': {'retry_after': 29}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 27', 'parameters': {'retry_after': 27}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 27', 'parameters': {'retry_after': 27}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 26', 'parameters': {'retry_after': 26}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 25', 'parameters': {'retry_after': 25}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 24', 'parameters': {'retry_after': 24}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 23', 'parameters': {'retry_after': 23}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 23', 'parameters': {'retry_after': 23}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 21', 'parameters': {'retry_after': 21}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 20', 'parameters': {'retry_after': 20}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 19', 'parameters': {'retry_after': 19}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 18', 'parameters': {'retry_after': 18}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 18', 'parameters': {'retry_after': 18}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 17', 'parameters': {'retry_after': 17}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 16', 'parameters': {'retry_after': 16}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 15', 'parameters': {'retry_after': 15}}
+============================================================
+Workflow completed with status: completed
+============================================================
+[SITE] wrote index.html (16 images, 4 summaries)
+```
