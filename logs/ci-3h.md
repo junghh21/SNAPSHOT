@@ -3952,3 +3952,32 @@ Workflow completed with status: completed
 ============================================================
 [SITE] wrote index.html (16 images, 4 summaries)
 ```
+
+## 3h @ 2026-07-08 22:12:18 KST — ok (run #139)
+```
+{'ok': True, 'result': {'message_id': 138900, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1783516314, 'photo': [{'file_id': 'AgACAgUAAyEGAASPJ3n-AAECHSNqTc4UGdUI3fhhnXQ8r86VaGgZYwACTBJrG1raaFZRbZSREmQizAEAAwIAA3MAAzwE', 'file_unique_id': 'AQADTBJrG1raaFZ4', 'file_size': 1406, 'width': 90, 'height': 50}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECHSNqTc4UGdUI3fhhnXQ8r86VaGgZYwACTBJrG1raaFZRbZSREmQizAEAAwIAA20AAzwE', 'file_unique_id': 'AQADTBJrG1raaFZy', 'file_size': 23103, 'width': 320, 'height': 178}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECHSNqTc4UGdUI3fhhnXQ8r86VaGgZYwACTBJrG1raaFZRbZSREmQizAEAAwIAA3gAAzwE', 'file_unique_id': 'AQADTBJrG1raaFZ9', 'file_size': 110086, 'width': 800, 'height': 444}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECHSNqTc4UGdUI3fhhnXQ8r86VaGgZYwACTBJrG1raaFZRbZSREmQizAEAAwIAA3kAAzwE', 'file_unique_id': 'AQADTBJrG1raaFZ-', 'file_size': 242885, 'width': 1280, 'height': 711}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECHSNqTc4UGdUI3fhhnXQ8r86VaGgZYwACTBJrG1raaFZRbZSREmQizAEAAwIAA3cAAzwE', 'file_unique_id': 'AQADTBJrG1raaFZ8', 'file_size': 303030, 'width': 1504, 'height': 835}]}}
+{'ok': True, 'result': {'message_id': 138901, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1783516315, 'text': '📊 te-us-stock-market'}}
+{'ok': True, 'result': {'message_id': 138902, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1783516316, 'text': '- 미국 증시 선물지수는 유가 급등과 지정학적 긴장 고조로 하락세가 이어지며 S&P 500·다우 1%대, 나스닥 100은 1.6% 떨어짐.  \n- 트럼프 대통령의 이란 휴전 무효 선언 이후 국채금리가 상승하고 인플레이션 우려가 재부각되며 은행·산업·반도체 등 신용·기술 섹터가 약세.  \n- FOMC 6월 회의록 공개를 앞두고 금리 인상 가능성에 관심이 집중되는 가운데, 마이크론·샌디스크·엔비디아 등 주요 칩 기업과 메타·아마존·MS가 프리마켓에서 큰 폭 하락.'}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 34', 'parameters': {'retry_after': 34}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 32', 'parameters': {'retry_after': 32}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 32', 'parameters': {'retry_after': 32}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 30', 'parameters': {'retry_after': 30}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 30', 'parameters': {'retry_after': 30}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 29', 'parameters': {'retry_after': 29}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 28', 'parameters': {'retry_after': 28}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 28', 'parameters': {'retry_after': 28}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 27', 'parameters': {'retry_after': 27}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 26', 'parameters': {'retry_after': 26}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 25', 'parameters': {'retry_after': 25}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 25', 'parameters': {'retry_after': 25}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 24', 'parameters': {'retry_after': 24}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 23', 'parameters': {'retry_after': 23}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 22', 'parameters': {'retry_after': 22}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 22', 'parameters': {'retry_after': 22}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 21', 'parameters': {'retry_after': 21}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 20', 'parameters': {'retry_after': 20}}
+============================================================
+Workflow completed with status: completed
+============================================================
+[SITE] wrote index.html (16 images, 4 summaries)
+```
