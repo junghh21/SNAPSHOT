@@ -4097,3 +4097,32 @@ Workflow completed with status: completed
 ============================================================
 [SITE] wrote index.html (16 images, 4 summaries)
 ```
+
+## 3h @ 2026-07-09 05:28:03 KST — ok (run #144)
+```
+{'ok': True, 'result': {'message_id': 139201, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1783542462, 'photo': [{'file_id': 'AgACAgUAAyEGAASPJ3n-AAECH8FqTrK-UgkTWErHR6c_K4md-CRN1AACpw9rG4-TeVagbIIAAWkt6kYBAAMCAANzAAM8BA', 'file_unique_id': 'AQADpw9rG4-TeVZ4', 'file_size': 1349, 'width': 90, 'height': 50}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECH8FqTrK-UgkTWErHR6c_K4md-CRN1AACpw9rG4-TeVagbIIAAWkt6kYBAAMCAANtAAM8BA', 'file_unique_id': 'AQADpw9rG4-TeVZy', 'file_size': 22981, 'width': 320, 'height': 178}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECH8FqTrK-UgkTWErHR6c_K4md-CRN1AACpw9rG4-TeVagbIIAAWkt6kYBAAMCAAN4AAM8BA', 'file_unique_id': 'AQADpw9rG4-TeVZ9', 'file_size': 110928, 'width': 800, 'height': 444}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECH8FqTrK-UgkTWErHR6c_K4md-CRN1AACpw9rG4-TeVagbIIAAWkt6kYBAAMCAAN5AAM8BA', 'file_unique_id': 'AQADpw9rG4-TeVZ-', 'file_size': 244744, 'width': 1280, 'height': 711}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECH8FqTrK-UgkTWErHR6c_K4md-CRN1AACpw9rG4-TeVagbIIAAWkt6kYBAAMCAAN3AAM8BA', 'file_unique_id': 'AQADpw9rG4-TeVZ8', 'file_size': 305843, 'width': 1504, 'height': 835}]}}
+{'ok': True, 'result': {'message_id': 139202, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1783542463, 'text': '📊 te-us-stock-market'}}
+{'ok': True, 'result': {'message_id': 139203, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1783542464, 'text': '우\n리는 사용\n자\n에게 \n3줄\n 요\n약\n을 제공\n해야\n 하\n며\n, 각\n 줄\n은 하나\n의\n 핵\n심\n 포\n인\n트\n를\n 담\n아\n야 합니다\n. 원\n문\n은 US\n 주\n식\n 시\n장 \n혼\n조,\n 유\n가\n 상승\n,\n 연\n준\n 의\n사\n록\n,\n AI\n/반\n도\n체\n 관련\n 내용\n입니다\n.\n\n첫\n째\n 줄\n: 시\n장 \n혼\n조와\n 원\n인\n -\n 유\n가\n 상승\n으로\n 거\n시\n경제\n 악\n화,\n S\n&P\n500/\n다\n우\n 하락\n, 나\n스\n닥\n 상승\n.\n둘\n째 줄\n: 트\n럼\n프 이\n란\n \n휴\n전 철\n회\n 발언\n과\n 연\n준 의\n사록\n이\n 인플\n레이션\n 우려\n加剧\n.\n셋째\n 줄:\n 반도\n체 업\n종 반\n등 (\n브\n로드\n컴\n, \n엔비\n디아\n 상승\n)이\n 나스\n닥\n 지지\n.\n\n한\n국어\n로 간\n결하게\n \n3줄 작성\n. 각\n 줄에\n 핵\n심 하나\n씩.\n 불\n필요\n한 설명\n 생\n략.\n미국 증시 혼조 마감, 유가 상승이 거시경제 부담을 가중시켰다.  \n트럼프의 이란 휴전 철회 발언과 연준 의사록 속 추가 금리 인상 가능성이 인플레이션 우려를 키웠다.  \n반도체 업종 반등이 나스닥을 견인했고, 브로드컴과 엔비디아가 각각 4.8%, 3.6% 상승했다.'}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 34', 'parameters': {'retry_after': 34}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 33', 'parameters': {'retry_after': 33}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 33', 'parameters': {'retry_after': 33}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 32', 'parameters': {'retry_after': 32}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 31', 'parameters': {'retry_after': 31}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 31', 'parameters': {'retry_after': 31}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 30', 'parameters': {'retry_after': 30}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 29', 'parameters': {'retry_after': 29}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 29', 'parameters': {'retry_after': 29}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 28', 'parameters': {'retry_after': 28}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 27', 'parameters': {'retry_after': 27}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 27', 'parameters': {'retry_after': 27}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 26', 'parameters': {'retry_after': 26}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 25', 'parameters': {'retry_after': 25}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 25', 'parameters': {'retry_after': 25}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 25', 'parameters': {'retry_after': 25}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 24', 'parameters': {'retry_after': 24}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 23', 'parameters': {'retry_after': 23}}
+============================================================
+Workflow completed with status: completed
+============================================================
+[SITE] wrote index.html (16 images, 4 summaries)
+```
