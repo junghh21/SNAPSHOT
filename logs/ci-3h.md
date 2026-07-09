@@ -4184,3 +4184,32 @@ Workflow completed with status: completed
 ============================================================
 [SITE] wrote index.html (16 images, 4 summaries)
 ```
+
+## 3h @ 2026-07-09 10:14:09 KST — ok (run #147)
+```
+{'ok': True, 'result': {'message_id': 139416, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1783559628, 'photo': [{'file_id': 'AgACAgUAAyEGAASPJ3n-AAECIJhqTvXMyt4fUEvwt6kpwoZ3srLp0AACyw9rG4-TeVYPYSpPdEUf9QEAAwIAA3MAAzwE', 'file_unique_id': 'AQADyw9rG4-TeVZ4', 'file_size': 1343, 'width': 90, 'height': 50}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECIJhqTvXMyt4fUEvwt6kpwoZ3srLp0AACyw9rG4-TeVYPYSpPdEUf9QEAAwIAA20AAzwE', 'file_unique_id': 'AQADyw9rG4-TeVZy', 'file_size': 22971, 'width': 320, 'height': 178}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECIJhqTvXMyt4fUEvwt6kpwoZ3srLp0AACyw9rG4-TeVYPYSpPdEUf9QEAAwIAA3gAAzwE', 'file_unique_id': 'AQADyw9rG4-TeVZ9', 'file_size': 110911, 'width': 800, 'height': 444}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECIJhqTvXMyt4fUEvwt6kpwoZ3srLp0AACyw9rG4-TeVYPYSpPdEUf9QEAAwIAA3kAAzwE', 'file_unique_id': 'AQADyw9rG4-TeVZ-', 'file_size': 244518, 'width': 1280, 'height': 711}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECIJhqTvXMyt4fUEvwt6kpwoZ3srLp0AACyw9rG4-TeVYPYSpPdEUf9QEAAwIAA3cAAzwE', 'file_unique_id': 'AQADyw9rG4-TeVZ8', 'file_size': 305461, 'width': 1504, 'height': 835}]}}
+{'ok': True, 'result': {'message_id': 139417, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1783559629, 'text': '📊 te-us-stock-market'}}
+{'ok': True, 'result': {'message_id': 139418, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1783559630, 'text': '- 미군의 이란 공습으로 중동 긴장이 고조되며 미국 증시 선물이 보합세를 보임.  \n- 에너지 가격 상승에 따른 인플레이션 재압력과 연준의 조기 금리 인상 가능성이 시장 우려로 부각됨.  \n- 주요 지수 혼조 속 투자자들은 실업수당·주택판매 지표와 펩시코 등 기업 실적 발표를 주시하는 중.'}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 25', 'parameters': {'retry_after': 25}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 25', 'parameters': {'retry_after': 25}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 24', 'parameters': {'retry_after': 24}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 23', 'parameters': {'retry_after': 23}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 23', 'parameters': {'retry_after': 23}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 22', 'parameters': {'retry_after': 22}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 21', 'parameters': {'retry_after': 21}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 21', 'parameters': {'retry_after': 21}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 20', 'parameters': {'retry_after': 20}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 19', 'parameters': {'retry_after': 19}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 18', 'parameters': {'retry_after': 18}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 18', 'parameters': {'retry_after': 18}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 17', 'parameters': {'retry_after': 17}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 16', 'parameters': {'retry_after': 16}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 16', 'parameters': {'retry_after': 16}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 15', 'parameters': {'retry_after': 15}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 15', 'parameters': {'retry_after': 15}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 14', 'parameters': {'retry_after': 14}}
+============================================================
+Workflow completed with status: completed
+============================================================
+[SITE] wrote index.html (16 images, 4 summaries)
+```
