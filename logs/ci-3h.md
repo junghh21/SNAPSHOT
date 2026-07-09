@@ -4416,3 +4416,32 @@ Workflow completed with status: completed
 ============================================================
 [SITE] wrote index.html (16 images, 4 summaries)
 ```
+
+## 3h @ 2026-07-10 01:21:28 KST — ok (run #155)
+```
+{'ok': True, 'result': {'message_id': 139954, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1783614062, 'photo': [{'file_id': 'AgACAgUAAyEGAASPJ3n-AAECIrJqT8pu4CwPX0W1ygR22_bLY_yCzwACvBFrG7lQgVZKDCVLMj0IkwEAAwIAA3MAAzwE', 'file_unique_id': 'AQADvBFrG7lQgVZ4', 'file_size': 696, 'width': 90, 'height': 38}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECIrJqT8pu4CwPX0W1ygR22_bLY_yCzwACvBFrG7lQgVZKDCVLMj0IkwEAAwIAA20AAzwE', 'file_unique_id': 'AQADvBFrG7lQgVZy', 'file_size': 7351, 'width': 320, 'height': 134}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECIrJqT8pu4CwPX0W1ygR22_bLY_yCzwACvBFrG7lQgVZKDCVLMj0IkwEAAwIAA3gAAzwE', 'file_unique_id': 'AQADvBFrG7lQgVZ9', 'file_size': 28896, 'width': 800, 'height': 335}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECIrJqT8pu4CwPX0W1ygR22_bLY_yCzwACvBFrG7lQgVZKDCVLMj0IkwEAAwIAA3kAAzwE', 'file_unique_id': 'AQADvBFrG7lQgVZ-', 'file_size': 60248, 'width': 1280, 'height': 536}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECIrJqT8pu4CwPX0W1ygR22_bLY_yCzwACvBFrG7lQgVZKDCVLMj0IkwEAAwIAA3cAAzwE', 'file_unique_id': 'AQADvBFrG7lQgVZ8', 'file_size': 81871, 'width': 1720, 'height': 720}]}}
+{'ok': True, 'result': {'message_id': 139955, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1783614063, 'text': '📊 hull-sentiment-meter'}}
+{'ok': True, 'result': {'message_id': 139956, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1783614064, 'photo': [{'file_id': 'AgACAgUAAyEGAASPJ3n-AAECIJZqTvXIgHaDXuzORzcmrIO4kxz6EwACyg9rG4-TeVZPNFg0_GJW4gEAAwIAA3MAAzwE', 'file_unique_id': 'AQADyg9rG4-TeVZ4', 'file_size': 667, 'width': 90, 'height': 15}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECIJZqTvXIgHaDXuzORzcmrIO4kxz6EwACyg9rG4-TeVZPNFg0_GJW4gEAAwIAA20AAzwE', 'file_unique_id': 'AQADyg9rG4-TeVZy', 'file_size': 5273, 'width': 320, 'height': 54}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECIJZqTvXIgHaDXuzORzcmrIO4kxz6EwACyg9rG4-TeVZPNFg0_GJW4gEAAwIAA3gAAzwE', 'file_unique_id': 'AQADyg9rG4-TeVZ9', 'file_size': 17949, 'width': 800, 'height': 135}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECIJZqTvXIgHaDXuzORzcmrIO4kxz6EwACyg9rG4-TeVZPNFg0_GJW4gEAAwIAA3kAAzwE', 'file_unique_id': 'AQADyg9rG4-TeVZ-', 'file_size': 31568, 'width': 1280, 'height': 216}]}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 36', 'parameters': {'retry_after': 36}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 34', 'parameters': {'retry_after': 34}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 33', 'parameters': {'retry_after': 33}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 33', 'parameters': {'retry_after': 33}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 32', 'parameters': {'retry_after': 32}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 31', 'parameters': {'retry_after': 31}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 30', 'parameters': {'retry_after': 30}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 29', 'parameters': {'retry_after': 29}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 29', 'parameters': {'retry_after': 29}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 28', 'parameters': {'retry_after': 28}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 27', 'parameters': {'retry_after': 27}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 26', 'parameters': {'retry_after': 26}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 26', 'parameters': {'retry_after': 26}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 25', 'parameters': {'retry_after': 25}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 24', 'parameters': {'retry_after': 24}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 23', 'parameters': {'retry_after': 23}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 22', 'parameters': {'retry_after': 22}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 22', 'parameters': {'retry_after': 22}}
+============================================================
+Workflow completed with status: completed
+============================================================
+[SITE] wrote index.html (16 images, 4 summaries)
+```
