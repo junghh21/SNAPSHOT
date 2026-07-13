@@ -6156,3 +6156,32 @@ Workflow completed with status: completed
 ============================================================
 [SITE] wrote index.html (16 images, 4 summaries)
 ```
+
+## 3h @ 2026-07-14 03:02:40 KST — ok (run #215)
+```
+{'ok': True, 'result': {'message_id': 144371, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1783965730, 'photo': [{'file_id': 'AgACAgUAAyEGAASPJ3n-AAECM_NqVSgieyFXkjJKdvu4Aut-dGIwQAAC-xBrG1ecqVYcKetM0ODfLQEAAwIAA3MAAzwE', 'file_unique_id': 'AQAD-xBrG1ecqVZ4', 'file_size': 720, 'width': 90, 'height': 38}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECM_NqVSgieyFXkjJKdvu4Aut-dGIwQAAC-xBrG1ecqVYcKetM0ODfLQEAAwIAA20AAzwE', 'file_unique_id': 'AQAD-xBrG1ecqVZy', 'file_size': 7917, 'width': 320, 'height': 134}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECM_NqVSgieyFXkjJKdvu4Aut-dGIwQAAC-xBrG1ecqVYcKetM0ODfLQEAAwIAA3gAAzwE', 'file_unique_id': 'AQAD-xBrG1ecqVZ9', 'file_size': 31080, 'width': 800, 'height': 335}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECM_NqVSgieyFXkjJKdvu4Aut-dGIwQAAC-xBrG1ecqVYcKetM0ODfLQEAAwIAA3kAAzwE', 'file_unique_id': 'AQAD-xBrG1ecqVZ-', 'file_size': 64288, 'width': 1280, 'height': 536}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECM_NqVSgieyFXkjJKdvu4Aut-dGIwQAAC-xBrG1ecqVYcKetM0ODfLQEAAwIAA3cAAzwE', 'file_unique_id': 'AQAD-xBrG1ecqVZ8', 'file_size': 88690, 'width': 1720, 'height': 720}]}}
+{'ok': True, 'result': {'message_id': 144372, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1783965731, 'text': '📊 hull-sentiment-meter'}}
+{'ok': True, 'result': {'message_id': 144373, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1783965733, 'photo': [{'file_id': 'AgACAgUAAyEGAASPJ3n-AAECJ8pqUW9IlyXPP3lFuQI5KE6coX-z1gACRw5rG7lQkVak1nItk8Y-XQEAAwIAA3MAAzwE', 'file_unique_id': 'AQADRw5rG7lQkVZ4', 'file_size': 672, 'width': 90, 'height': 15}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECJ8pqUW9IlyXPP3lFuQI5KE6coX-z1gACRw5rG7lQkVak1nItk8Y-XQEAAwIAA20AAzwE', 'file_unique_id': 'AQADRw5rG7lQkVZy', 'file_size': 5305, 'width': 320, 'height': 54}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECJ8pqUW9IlyXPP3lFuQI5KE6coX-z1gACRw5rG7lQkVak1nItk8Y-XQEAAwIAA3gAAzwE', 'file_unique_id': 'AQADRw5rG7lQkVZ9', 'file_size': 17990, 'width': 800, 'height': 135}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECJ8pqUW9IlyXPP3lFuQI5KE6coX-z1gACRw5rG7lQkVak1nItk8Y-XQEAAwIAA3kAAzwE', 'file_unique_id': 'AQADRw5rG7lQkVZ-', 'file_size': 31777, 'width': 1280, 'height': 216}]}}
+{'ok': True, 'result': {'message_id': 144374, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1783965734, 'text': '📊 finviz-sec-map'}}
+{'ok': True, 'result': {'message_id': 144377, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1783965736, 'photo': [{'file_id': 'AgACAgUAAyEGAASPJ3n-AAECM_lqVSgoJyfT6NZsPSHhHL0tGWqfTAAC_BBrG1ecqVYngOhA4RShrgEAAwIAA3MAAzwE', 'file_unique_id': 'AQAD_BBrG1ecqVZ4', 'file_size': 1354, 'width': 90, 'height': 50}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECM_lqVSgoJyfT6NZsPSHhHL0tGWqfTAAC_BBrG1ecqVYngOhA4RShrgEAAwIAA20AAzwE', 'file_unique_id': 'AQAD_BBrG1ecqVZy', 'file_size': 22919, 'width': 320, 'height': 178}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECM_lqVSgoJyfT6NZsPSHhHL0tGWqfTAAC_BBrG1ecqVYngOhA4RShrgEAAwIAA3gAAzwE', 'file_unique_id': 'AQAD_BBrG1ecqVZ9', 'file_size': 109530, 'width': 800, 'height': 444}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECM_lqVSgoJyfT6NZsPSHhHL0tGWqfTAAC_BBrG1ecqVYngOhA4RShrgEAAwIAA3kAAzwE', 'file_unique_id': 'AQAD_BBrG1ecqVZ-', 'file_size': 241714, 'width': 1280, 'height': 711}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECM_lqVSgoJyfT6NZsPSHhHL0tGWqfTAAC_BBrG1ecqVYngOhA4RShrgEAAwIAA3cAAzwE', 'file_unique_id': 'AQAD_BBrG1ecqVZ8', 'file_size': 302069, 'width': 1504, 'height': 835}]}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 34', 'parameters': {'retry_after': 34}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 33', 'parameters': {'retry_after': 33}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 33', 'parameters': {'retry_after': 33}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 32', 'parameters': {'retry_after': 32}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 31', 'parameters': {'retry_after': 31}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 30', 'parameters': {'retry_after': 30}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 30', 'parameters': {'retry_after': 30}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 29', 'parameters': {'retry_after': 29}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 28', 'parameters': {'retry_after': 28}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 27', 'parameters': {'retry_after': 27}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 27', 'parameters': {'retry_after': 27}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 26', 'parameters': {'retry_after': 26}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 25', 'parameters': {'retry_after': 25}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 25', 'parameters': {'retry_after': 25}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 24', 'parameters': {'retry_after': 24}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 24', 'parameters': {'retry_after': 24}}
+============================================================
+Workflow completed with status: completed
+============================================================
+[SITE] wrote index.html (16 images, 4 summaries)
+```
