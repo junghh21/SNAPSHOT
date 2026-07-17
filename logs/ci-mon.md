@@ -30709,3 +30709,32 @@
   재시도 횟수: 0
   상태 파일: monitor_state.json
 ```
+
+## MON @ 2026-07-17 23:03:14 KST — ok (run #1061)
+```
+🔄 [94m[TEMP CHECK][0m 시스템 온도/리소스 조회 중...
+  ❌ Temperature API: [93mWARN[0m
+
+⚠️ 재시도합니다... (3/3, 4.0s 대기)
+
+🔄 [94m[WEB CHECK][0m 모니터링 대상: 2개
+  ❌ https://www.okkjc.co.kr:5001: [91mERROR[0m (-)
+  ❌ https://www.okkjc.co.kr:5002: [91mERROR[0m (-)
+🔄 [94m[TEMP CHECK][0m 시스템 온도/리소스 조회 중...
+  ❌ Temperature API: [93mWARN[0m
+🔄 [94m[REPORT][0m 최종 보고서 생성
+
+┌─────────────────────────────────────────────────────────────┐
+│ Component            │   Status   │   Value    │  Latency   │
+├─────────────────────────────────────────────────────────────┤
+│ ❌ www.okkjc.co.kr:5001 │ [91mFAIL[0m │            │          - │
+│ ❌ www.okkjc.co.kr:5002 │ [91mFAIL[0m │            │          - │
+└─────────────────────────────────────────────────────────────┘
+
+💾 상태가 저장되었습니다: monitor_state.json
+
+📊 최종 결과:
+  에러 메시지: 3개
+  재시도 횟수: 3
+  상태 파일: monitor_state.json
+```
