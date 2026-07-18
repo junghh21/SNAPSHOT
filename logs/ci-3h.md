@@ -8157,3 +8157,32 @@ Workflow completed with status: completed
 ============================================================
 [SITE] wrote index.html (16 images, 4 summaries)
 ```
+
+## 3h @ 2026-07-18 13:03:52 KST — ok (run #284)
+```
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 22', 'parameters': {'retry_after': 22}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 21', 'parameters': {'retry_after': 21}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 21', 'parameters': {'retry_after': 21}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 20', 'parameters': {'retry_after': 20}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 18', 'parameters': {'retry_after': 18}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 18', 'parameters': {'retry_after': 18}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 17', 'parameters': {'retry_after': 17}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 16', 'parameters': {'retry_after': 16}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 15', 'parameters': {'retry_after': 15}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 14', 'parameters': {'retry_after': 14}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 13', 'parameters': {'retry_after': 13}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 12', 'parameters': {'retry_after': 12}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 11', 'parameters': {'retry_after': 11}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 10', 'parameters': {'retry_after': 10}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 9', 'parameters': {'retry_after': 9}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 3', 'parameters': {'retry_after': 3}}
+{'ok': True, 'result': {'message_id': 149091, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1784347409, 'photo': [{'file_id': 'AgACAgUAAyEGAASPJ3n-AAECRmNqWvsRfS43IKyulL6JjEfNiWeFEAAChRFrG24x2VagPsP_0FaYqwEAAwIAA3MAAz0E', 'file_unique_id': 'AQADhRFrG24x2VZ4', 'file_size': 908, 'width': 90, 'height': 48}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECRmNqWvsRfS43IKyulL6JjEfNiWeFEAAChRFrG24x2VagPsP_0FaYqwEAAwIAA20AAz0E', 'file_unique_id': 'AQADhRFrG24x2VZy', 'file_size': 11131, 'width': 320, 'height': 171}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECRmNqWvsRfS43IKyulL6JjEfNiWeFEAAChRFrG24x2VagPsP_0FaYqwEAAwIAA3gAAz0E', 'file_unique_id': 'AQADhRFrG24x2VZ9', 'file_size': 41623, 'width': 800, 'height': 427}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECRmNqWvsRfS43IKyulL6JjEfNiWeFEAAChRFrG24x2VagPsP_0FaYqwEAAwIAA3kAAz0E', 'file_unique_id': 'AQADhRFrG24x2VZ-', 'file_size': 53789, 'width': 967, 'height': 516}]}}
+{'ok': True, 'result': {'message_id': 149092, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1784347410, 'text': '📊 coingecko-top'}}
+{'ok': True, 'result': {'message_id': 149093, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1784347412, 'photo': [{'file_id': 'AgACAgUAAyEGAASPJ3n-AAECRmVqWvsUcRa51HXTk9PhS2EoRVYUewAChhFrG24x2VbIi_wMVECBwwEAAwIAA3MAAz0E', 'file_unique_id': 'AQADhhFrG24x2VZ4', 'file_size': 969, 'width': 90, 'height': 41}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECRmVqWvsUcRa51HXTk9PhS2EoRVYUewAChhFrG24x2VbIi_wMVECBwwEAAwIAA20AAz0E', 'file_unique_id': 'AQADhhFrG24x2VZy', 'file_size': 10235, 'width': 320, 'height': 146}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECRmVqWvsUcRa51HXTk9PhS2EoRVYUewAChhFrG24x2VbIi_wMVECBwwEAAwIAA3gAAz0E', 'file_unique_id': 'AQADhhFrG24x2VZ9', 'file_size': 13518, 'width': 407, 'height': 186}]}}
+{'ok': True, 'result': {'message_id': 149094, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1784347413, 'text': '❌ te-us-stock-market: summary returned empty'}}
+{'ok': True, 'result': {'message_id': 149095, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1784347414, 'text': '❌ te-us-bond-yield: summary returned empty'}}
+============================================================
+Workflow completed with status: completed
+============================================================
+[SITE] wrote index.html (16 images, 4 summaries)
+```
