@@ -11144,3 +11144,32 @@ Workflow completed with status: completed
 ============================================================
 [SITE] wrote index.html (16 images, 4 summaries)
 ```
+
+## 3h @ 2026-07-25 05:13:50 KST — ok (run #386)
+```
+{'ok': True, 'result': {'message_id': 156341, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1784923984, 'photo': [{'file_id': 'AgACAgUAAyEGAASPJ3n-AAECYrVqY8dQPN-uOlK6DW68bg-2S_DQvAACeRFrGwm2IFfbKc0MbnJaoAEAAwIAA3MAAz0E', 'file_unique_id': 'AQADeRFrGwm2IFd4', 'file_size': 1388, 'width': 90, 'height': 50}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECYrVqY8dQPN-uOlK6DW68bg-2S_DQvAACeRFrGwm2IFfbKc0MbnJaoAEAAwIAA20AAz0E', 'file_unique_id': 'AQADeRFrGwm2IFdy', 'file_size': 22585, 'width': 320, 'height': 178}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECYrVqY8dQPN-uOlK6DW68bg-2S_DQvAACeRFrGwm2IFfbKc0MbnJaoAEAAwIAA3gAAz0E', 'file_unique_id': 'AQADeRFrGwm2IFd9', 'file_size': 110185, 'width': 800, 'height': 444}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECYrVqY8dQPN-uOlK6DW68bg-2S_DQvAACeRFrGwm2IFfbKc0MbnJaoAEAAwIAA3kAAz0E', 'file_unique_id': 'AQADeRFrGwm2IFd-', 'file_size': 241630, 'width': 1280, 'height': 710}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECYrVqY8dQPN-uOlK6DW68bg-2S_DQvAACeRFrGwm2IFfbKc0MbnJaoAEAAwIAA3cAAz0E', 'file_unique_id': 'AQADeRFrGwm2IFd8', 'file_size': 298932, 'width': 1508, 'height': 837}]}}
+{'ok': True, 'result': {'message_id': 156342, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1784923986, 'text': '📊 te-us-stock-market'}}
+{'ok': True, 'result': {'message_id': 156343, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1784923987, 'text': '미국 주식시장은 혼조 마감, S&P는 소폭 상승, 나스닥은 1.1% 하락.  \n석유가격은 미국·이란 파업으로 급등, 연준 금리인상 기대돼 수익률 상승.  \n인텔·테슬라·메타 등 기술주가 AI·수익성 우려로 하락, 베라이즌은 가입자 증가로 상승.'}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 31', 'parameters': {'retry_after': 31}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 30', 'parameters': {'retry_after': 30}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 29', 'parameters': {'retry_after': 29}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 28', 'parameters': {'retry_after': 28}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 27', 'parameters': {'retry_after': 27}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 27', 'parameters': {'retry_after': 27}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 25', 'parameters': {'retry_after': 25}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 25', 'parameters': {'retry_after': 25}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 24', 'parameters': {'retry_after': 24}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 23', 'parameters': {'retry_after': 23}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 22', 'parameters': {'retry_after': 22}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 21', 'parameters': {'retry_after': 21}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 20', 'parameters': {'retry_after': 20}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 19', 'parameters': {'retry_after': 19}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 19', 'parameters': {'retry_after': 19}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 18', 'parameters': {'retry_after': 18}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 17', 'parameters': {'retry_after': 17}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 16', 'parameters': {'retry_after': 16}}
+============================================================
+Workflow completed with status: completed
+============================================================
+[SITE] wrote index.html (16 images, 4 summaries)
+```
