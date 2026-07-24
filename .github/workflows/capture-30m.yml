@@ -41,7 +41,7 @@ jobs:
       TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
       TELEGRAM_COIN_BOT_TOKEN: ${{ secrets.TELEGRAM_COIN_BOT_TOKEN }}
       TELEGRAM_COIN_CHAT_ID: ${{ secrets.TELEGRAM_COIN_CHAT_ID }}
-
+      GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
     steps:
       - name: Clone __GET source
         run: |
