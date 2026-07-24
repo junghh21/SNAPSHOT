@@ -11086,3 +11086,32 @@ Workflow completed with status: completed
 ============================================================
 [SITE] wrote index.html (16 images, 4 summaries)
 ```
+
+## 3h @ 2026-07-25 02:24:29 KST — ok (run #384)
+```
+{'ok': True, 'result': {'message_id': 156205, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1784913822, 'photo': [{'file_id': 'AgACAgUAAyEGAASPJ3n-AAECYi1qY5-ei0YCvRwKrcnrExgdiFi0LQACLBFrGwm2IFcmCTTIFE9ZrAEAAwIAA3MAAz0E', 'file_unique_id': 'AQADLBFrGwm2IFd4', 'file_size': 1376, 'width': 90, 'height': 50}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECYi1qY5-ei0YCvRwKrcnrExgdiFi0LQACLBFrGwm2IFcmCTTIFE9ZrAEAAwIAA20AAz0E', 'file_unique_id': 'AQADLBFrGwm2IFdy', 'file_size': 22339, 'width': 320, 'height': 178}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECYi1qY5-ei0YCvRwKrcnrExgdiFi0LQACLBFrGwm2IFcmCTTIFE9ZrAEAAwIAA3gAAz0E', 'file_unique_id': 'AQADLBFrGwm2IFd9', 'file_size': 108803, 'width': 800, 'height': 444}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECYi1qY5-ei0YCvRwKrcnrExgdiFi0LQACLBFrGwm2IFcmCTTIFE9ZrAEAAwIAA3kAAz0E', 'file_unique_id': 'AQADLBFrGwm2IFd-', 'file_size': 238409, 'width': 1280, 'height': 710}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECYi1qY5-ei0YCvRwKrcnrExgdiFi0LQACLBFrGwm2IFcmCTTIFE9ZrAEAAwIAA3cAAz0E', 'file_unique_id': 'AQADLBFrGwm2IFd8', 'file_size': 295326, 'width': 1508, 'height': 837}]}}
+{'ok': True, 'result': {'message_id': 156206, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1784913823, 'text': '📊 te-us-stock-market'}}
+{'ok': True, 'result': {'message_id': 156207, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1784913824, 'text': '미국 주식 시장은 변동성 없이 보합·소폭 상승·하락을 보이며 실적·금리 위험을 평가했다.  \n이란·미국 스트라이크로 유조선 흐름 차단돼 유가 상승, 국채 수익률도 에너지 가격에 연동.  \n인텔·아멕스·테슬라 등 주요 주식 급락·상승, AI 과다 지출 우려로 나스닥 0.5% 하락.'}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 28', 'parameters': {'retry_after': 28}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 27', 'parameters': {'retry_after': 27}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 27', 'parameters': {'retry_after': 27}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 25', 'parameters': {'retry_after': 25}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 25', 'parameters': {'retry_after': 25}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 24', 'parameters': {'retry_after': 24}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 23', 'parameters': {'retry_after': 23}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 22', 'parameters': {'retry_after': 22}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 21', 'parameters': {'retry_after': 21}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 21', 'parameters': {'retry_after': 21}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 19', 'parameters': {'retry_after': 19}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 19', 'parameters': {'retry_after': 19}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 17', 'parameters': {'retry_after': 17}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 17', 'parameters': {'retry_after': 17}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 16', 'parameters': {'retry_after': 16}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 16', 'parameters': {'retry_after': 16}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 15', 'parameters': {'retry_after': 15}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 14', 'parameters': {'retry_after': 14}}
+============================================================
+Workflow completed with status: completed
+============================================================
+[SITE] wrote index.html (16 images, 4 summaries)
+```
