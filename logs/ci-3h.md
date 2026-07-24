@@ -10941,3 +10941,32 @@ Workflow completed with status: completed
 ============================================================
 [SITE] wrote index.html (16 images, 4 summaries)
 ```
+
+## 3h @ 2026-07-24 19:05:22 KST — ok (run #379)
+```
+{'ok': True, 'result': {'message_id': 155846, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1784887477, 'photo': [{'file_id': 'AgACAgUAAyEGAASPJ3n-AAECYMZqYzi1Sg3MK7mlDYNxd_l-i-X_DgACyRNrGxUoGVePj_wBORmJawEAAwIAA3MAAz0E', 'file_unique_id': 'AQADyRNrGxUoGVd4', 'file_size': 1236, 'width': 90, 'height': 50}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECYMZqYzi1Sg3MK7mlDYNxd_l-i-X_DgACyRNrGxUoGVePj_wBORmJawEAAwIAA20AAz0E', 'file_unique_id': 'AQADyRNrGxUoGVdy', 'file_size': 21495, 'width': 320, 'height': 178}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECYMZqYzi1Sg3MK7mlDYNxd_l-i-X_DgACyRNrGxUoGVePj_wBORmJawEAAwIAA3gAAz0E', 'file_unique_id': 'AQADyRNrGxUoGVd9', 'file_size': 101868, 'width': 800, 'height': 444}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECYMZqYzi1Sg3MK7mlDYNxd_l-i-X_DgACyRNrGxUoGVePj_wBORmJawEAAwIAA3kAAz0E', 'file_unique_id': 'AQADyRNrGxUoGVd-', 'file_size': 224751, 'width': 1280, 'height': 711}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECYMZqYzi1Sg3MK7mlDYNxd_l-i-X_DgACyRNrGxUoGVePj_wBORmJawEAAwIAA3cAAz0E', 'file_unique_id': 'AQADyRNrGxUoGVd8', 'file_size': 280416, 'width': 1504, 'height': 835}]}}
+{'ok': True, 'result': {'message_id': 155847, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1784887478, 'text': '📊 te-us-stock-market'}}
+{'ok': True, 'result': {'message_id': 155848, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1784887480, 'text': '석유가격 급등·빅테크 실적 부진에 시장 급락, 미국 선물은 변동 없이 안정.  \n브렌트유, 사우디 유조선 적중 소식에 배럴당 100달러 넘어 공급 우려 확대.  \n테슬라 15% 급락·알파벳 7% 하락, 나스닥 주도 주간 손실 기록.'}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 31', 'parameters': {'retry_after': 31}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 30', 'parameters': {'retry_after': 30}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 30', 'parameters': {'retry_after': 30}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 28', 'parameters': {'retry_after': 28}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 28', 'parameters': {'retry_after': 28}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 27', 'parameters': {'retry_after': 27}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 26', 'parameters': {'retry_after': 26}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 25', 'parameters': {'retry_after': 25}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 24', 'parameters': {'retry_after': 24}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 24', 'parameters': {'retry_after': 24}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 22', 'parameters': {'retry_after': 22}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 22', 'parameters': {'retry_after': 22}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 21', 'parameters': {'retry_after': 21}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 20', 'parameters': {'retry_after': 20}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 19', 'parameters': {'retry_after': 19}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 19', 'parameters': {'retry_after': 19}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 18', 'parameters': {'retry_after': 18}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 17', 'parameters': {'retry_after': 17}}
+============================================================
+Workflow completed with status: completed
+============================================================
+[SITE] wrote index.html (16 images, 4 summaries)
+```
