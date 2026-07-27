@@ -12275,3 +12275,32 @@ Workflow completed with status: completed
 ============================================================
 [SITE] wrote index.html (16 images, 4 summaries)
 ```
+
+## 3h @ 2026-07-27 19:36:23 KST — ok (run #425)
+```
+{'ok': True, 'result': {'message_id': 159129, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1785148531, 'photo': [{'file_id': 'AgACAgUAAyEGAASPJ3n-AAECaF9qZYc8oSacGq3VlNnsJ-Y9MNd7QwACBBFrGwm2MFcOfCU1tFEX5wEAAwIAA3MAAz0E', 'file_unique_id': 'AQADBBFrGwm2MFd4', 'file_size': 669, 'width': 90, 'height': 15}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECaF9qZYc8oSacGq3VlNnsJ-Y9MNd7QwACBBFrGwm2MFcOfCU1tFEX5wEAAwIAA20AAz0E', 'file_unique_id': 'AQADBBFrGwm2MFdy', 'file_size': 5293, 'width': 320, 'height': 54}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECaF9qZYc8oSacGq3VlNnsJ-Y9MNd7QwACBBFrGwm2MFcOfCU1tFEX5wEAAwIAA3gAAz0E', 'file_unique_id': 'AQADBBFrGwm2MFd9', 'file_size': 17943, 'width': 800, 'height': 135}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECaF9qZYc8oSacGq3VlNnsJ-Y9MNd7QwACBBFrGwm2MFcOfCU1tFEX5wEAAwIAA3kAAz0E', 'file_unique_id': 'AQADBBFrGwm2MFd-', 'file_size': 31820, 'width': 1280, 'height': 216}]}}
+{'ok': True, 'result': {'message_id': 159130, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1785148532, 'text': '📊 finviz-sec-map'}}
+{'ok': True, 'result': {'message_id': 159131, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1785148535, 'photo': [{'file_id': 'AgACAgUAAyEGAASPJ3n-AAECbZtqZzR3nCQGaIkN4hK2P2sIHNQAAd0AAs0Taxso0DlXcQ9ZvvjB59kBAAMCAANzAAM9BA', 'file_unique_id': 'AQADzRNrGyjQOVd4', 'file_size': 1309, 'width': 90, 'height': 50}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECbZtqZzR3nCQGaIkN4hK2P2sIHNQAAd0AAs0Taxso0DlXcQ9ZvvjB59kBAAMCAANtAAM9BA', 'file_unique_id': 'AQADzRNrGyjQOVdy', 'file_size': 21671, 'width': 320, 'height': 178}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECbZtqZzR3nCQGaIkN4hK2P2sIHNQAAd0AAs0Taxso0DlXcQ9ZvvjB59kBAAMCAAN4AAM9BA', 'file_unique_id': 'AQADzRNrGyjQOVd9', 'file_size': 107166, 'width': 800, 'height': 444}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECbZtqZzR3nCQGaIkN4hK2P2sIHNQAAd0AAs0Taxso0DlXcQ9ZvvjB59kBAAMCAAN5AAM9BA', 'file_unique_id': 'AQADzRNrGyjQOVd-', 'file_size': 234537, 'width': 1280, 'height': 710}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECbZtqZzR3nCQGaIkN4hK2P2sIHNQAAd0AAs0Taxso0DlXcQ9ZvvjB59kBAAMCAAN3AAM9BA', 'file_unique_id': 'AQADzRNrGyjQOVd8', 'file_size': 289901, 'width': 1508, 'height': 837}]}}
+{'ok': True, 'result': {'message_id': 159132, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1785148536, 'text': '📊 te-us-stock-market'}}
+{'ok': True, 'result': {'message_id': 159133, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1785148537, 'text': '미국이 이란 공격을 자제하고 테헤란도 반격을 멈추면서 유가 급락, 주식선물 상승  \n대형 기술주와 비자·엑손·스타벅스·포드·페이팔 등 실적 발표 예정  \n연준은 이번 주 금리 동결 예상, 9월 인상 가능성 제기'}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 29', 'parameters': {'retry_after': 29}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 28', 'parameters': {'retry_after': 28}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 27', 'parameters': {'retry_after': 27}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 26', 'parameters': {'retry_after': 26}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 25', 'parameters': {'retry_after': 25}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 24', 'parameters': {'retry_after': 24}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 23', 'parameters': {'retry_after': 23}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 22', 'parameters': {'retry_after': 22}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 22', 'parameters': {'retry_after': 22}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 21', 'parameters': {'retry_after': 21}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 20', 'parameters': {'retry_after': 20}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 19', 'parameters': {'retry_after': 19}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 18', 'parameters': {'retry_after': 18}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 18', 'parameters': {'retry_after': 18}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 17', 'parameters': {'retry_after': 17}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 16', 'parameters': {'retry_after': 16}}
+============================================================
+Workflow completed with status: completed
+============================================================
+[SITE] wrote index.html (16 images, 4 summaries)
+```
