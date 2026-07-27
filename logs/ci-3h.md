@@ -12159,3 +12159,32 @@ Workflow completed with status: completed
 ============================================================
 [SITE] wrote index.html (16 images, 4 summaries)
 ```
+
+## 3h @ 2026-07-27 13:04:54 KST — ok (run #421)
+```
+{'ok': True, 'result': {'message_id': 158883, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1785125052, 'photo': [{'file_id': 'AgACAgUAAyEGAASPJ3n-AAECaGFqZYc__v3j13pGJ1E1ZR59i0V8ggACBRFrGwm2MFclpFBqyPQ4FwEAAwIAA3MAAz0E', 'file_unique_id': 'AQADBRFrGwm2MFd4', 'file_size': 1398, 'width': 90, 'height': 50}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECaGFqZYc__v3j13pGJ1E1ZR59i0V8ggACBRFrGwm2MFclpFBqyPQ4FwEAAwIAA20AAz0E', 'file_unique_id': 'AQADBRFrGwm2MFdy', 'file_size': 22601, 'width': 320, 'height': 178}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECaGFqZYc__v3j13pGJ1E1ZR59i0V8ggACBRFrGwm2MFclpFBqyPQ4FwEAAwIAA3gAAz0E', 'file_unique_id': 'AQADBRFrGwm2MFd9', 'file_size': 110174, 'width': 800, 'height': 444}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECaGFqZYc__v3j13pGJ1E1ZR59i0V8ggACBRFrGwm2MFclpFBqyPQ4FwEAAwIAA3kAAz0E', 'file_unique_id': 'AQADBRFrGwm2MFd-', 'file_size': 241661, 'width': 1280, 'height': 710}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECaGFqZYc__v3j13pGJ1E1ZR59i0V8ggACBRFrGwm2MFclpFBqyPQ4FwEAAwIAA3cAAz0E', 'file_unique_id': 'AQADBRFrGwm2MFd8', 'file_size': 298924, 'width': 1508, 'height': 837}]}}
+{'ok': True, 'result': {'message_id': 158884, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1785125052, 'text': '📊 te-us-stock-market'}}
+{'ok': True, 'result': {'message_id': 158885, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1785125053, 'text': '미국 주가지수 선물은 석유가격 급락에 상승, 미·이란 충돌 회피  \n예멘 후티가 사우디 해상시설 공격 주장, 공급 차질 우려 지속  \n대형 기업 실적 발표와 연준 금리 동결, 9월 인상 전망'}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 37', 'parameters': {'retry_after': 37}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 36', 'parameters': {'retry_after': 36}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 35', 'parameters': {'retry_after': 35}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 34', 'parameters': {'retry_after': 34}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 34', 'parameters': {'retry_after': 34}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 34', 'parameters': {'retry_after': 34}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 32', 'parameters': {'retry_after': 32}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 32', 'parameters': {'retry_after': 32}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 31', 'parameters': {'retry_after': 31}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 31', 'parameters': {'retry_after': 31}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 30', 'parameters': {'retry_after': 30}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 30', 'parameters': {'retry_after': 30}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 29', 'parameters': {'retry_after': 29}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 28', 'parameters': {'retry_after': 28}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 28', 'parameters': {'retry_after': 28}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 27', 'parameters': {'retry_after': 27}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 27', 'parameters': {'retry_after': 27}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 26', 'parameters': {'retry_after': 26}}
+============================================================
+Workflow completed with status: completed
+============================================================
+[SITE] wrote index.html (16 images, 4 summaries)
+```
