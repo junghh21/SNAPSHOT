@@ -12333,3 +12333,32 @@ Workflow completed with status: completed
 ============================================================
 [SITE] wrote index.html (16 images, 4 summaries)
 ```
+
+## 3h @ 2026-07-28 00:40:16 KST — ok (run #427)
+```
+{'ok': True, 'result': {'message_id': 159324, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1785166766, 'photo': [{'file_id': 'AgACAgUAAyEGAASPJ3n-AAECblxqZ3uubjFSuikK2nED21IEAZ9-mwACXBVrGyjQOVdJj4KkhrSVfAEAAwIAA3MAAz0E', 'file_unique_id': 'AQADXBVrGyjQOVd4', 'file_size': 1399, 'width': 90, 'height': 50}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECblxqZ3uubjFSuikK2nED21IEAZ9-mwACXBVrGyjQOVdJj4KkhrSVfAEAAwIAA20AAz0E', 'file_unique_id': 'AQADXBVrGyjQOVdy', 'file_size': 22610, 'width': 320, 'height': 178}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECblxqZ3uubjFSuikK2nED21IEAZ9-mwACXBVrGyjQOVdJj4KkhrSVfAEAAwIAA3gAAz0E', 'file_unique_id': 'AQADXBVrGyjQOVd9', 'file_size': 111645, 'width': 800, 'height': 444}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECblxqZ3uubjFSuikK2nED21IEAZ9-mwACXBVrGyjQOVdJj4KkhrSVfAEAAwIAA3kAAz0E', 'file_unique_id': 'AQADXBVrGyjQOVd-', 'file_size': 244831, 'width': 1280, 'height': 710}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECblxqZ3uubjFSuikK2nED21IEAZ9-mwACXBVrGyjQOVdJj4KkhrSVfAEAAwIAA3cAAz0E', 'file_unique_id': 'AQADXBVrGyjQOVd8', 'file_size': 302255, 'width': 1508, 'height': 837}]}}
+{'ok': True, 'result': {'message_id': 159325, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1785166767, 'text': '📊 te-us-stock-market'}}
+{'ok': True, 'result': {'message_id': 159326, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1785166768, 'text': '칩 매도세 속 미국 증시 흔들리며 S&P·나스닥 하락, 엔비디아 4.5% 급락  \n엔비디아·오픈AI 2500억 보증·AI 순환거래 우려, 마이크론·AMD·인텔·샌디스크 급락  \n연준 금리인상 기대 낮아 수익률 하락, Apple·Meta·Amazon·Microsoft상승'}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 33', 'parameters': {'retry_after': 33}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 32', 'parameters': {'retry_after': 32}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 31', 'parameters': {'retry_after': 31}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 30', 'parameters': {'retry_after': 30}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 30', 'parameters': {'retry_after': 30}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 29', 'parameters': {'retry_after': 29}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 28', 'parameters': {'retry_after': 28}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 28', 'parameters': {'retry_after': 28}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 27', 'parameters': {'retry_after': 27}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 27', 'parameters': {'retry_after': 27}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 26', 'parameters': {'retry_after': 26}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 25', 'parameters': {'retry_after': 25}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 24', 'parameters': {'retry_after': 24}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 24', 'parameters': {'retry_after': 24}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 24', 'parameters': {'retry_after': 24}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 23', 'parameters': {'retry_after': 23}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 23', 'parameters': {'retry_after': 23}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 22', 'parameters': {'retry_after': 22}}
+============================================================
+Workflow completed with status: completed
+============================================================
+[SITE] wrote index.html (16 images, 4 summaries)
+```
