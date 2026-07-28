@@ -12768,3 +12768,32 @@ Workflow completed with status: completed
 ============================================================
 [SITE] wrote index.html (16 images, 4 summaries)
 ```
+
+## 3h @ 2026-07-29 00:15:18 KST — ok (run #443)
+```
+{'ok': True, 'result': {'message_id': 160381, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1785251669, 'photo': [{'file_id': 'AgACAgUAAyEGAASPJ3n-AAECcn1qaMdVtCnGIX7vPyywYzn0BGzqNgACmQ9rG45dSFdHl8PQyFLJWgEAAwIAA3MAAz0E', 'file_unique_id': 'AQADmQ9rG45dSFd4', 'file_size': 1423, 'width': 90, 'height': 50}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECcn1qaMdVtCnGIX7vPyywYzn0BGzqNgACmQ9rG45dSFdHl8PQyFLJWgEAAwIAA20AAz0E', 'file_unique_id': 'AQADmQ9rG45dSFdy', 'file_size': 22733, 'width': 320, 'height': 178}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECcn1qaMdVtCnGIX7vPyywYzn0BGzqNgACmQ9rG45dSFdHl8PQyFLJWgEAAwIAA3gAAz0E', 'file_unique_id': 'AQADmQ9rG45dSFd9', 'file_size': 111759, 'width': 800, 'height': 444}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECcn1qaMdVtCnGIX7vPyywYzn0BGzqNgACmQ9rG45dSFdHl8PQyFLJWgEAAwIAA3kAAz0E', 'file_unique_id': 'AQADmQ9rG45dSFd-', 'file_size': 246047, 'width': 1280, 'height': 710}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECcn1qaMdVtCnGIX7vPyywYzn0BGzqNgACmQ9rG45dSFdHl8PQyFLJWgEAAwIAA3cAAz0E', 'file_unique_id': 'AQADmQ9rG45dSFd8', 'file_size': 302795, 'width': 1508, 'height': 837}]}}
+{'ok': True, 'result': {'message_id': 160382, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1785251670, 'text': '📊 te-us-stock-market'}}
+{'ok': True, 'result': {'message_id': 160383, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1785251672, 'text': '미국 증시는 혼조, 나스닥 -1%·다우 +300포인트, S&P는 변동 없음.  \nAI 지출 둔화와 중국 CXMT IPO 기대에 메모리·칩주가 급락, 마이크론·산디스크·엔비디아·AMD 하락.  \n소프트웨어·비기술주 상승, 마이크로소프트·메타·JPMorgan·Visa·코카콜라 실적·전망 호조.'}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 29', 'parameters': {'retry_after': 29}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 28', 'parameters': {'retry_after': 28}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 28', 'parameters': {'retry_after': 28}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 26', 'parameters': {'retry_after': 26}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 26', 'parameters': {'retry_after': 26}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 25', 'parameters': {'retry_after': 25}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 24', 'parameters': {'retry_after': 24}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 23', 'parameters': {'retry_after': 23}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 22', 'parameters': {'retry_after': 22}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 22', 'parameters': {'retry_after': 22}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 20', 'parameters': {'retry_after': 20}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 20', 'parameters': {'retry_after': 20}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 18', 'parameters': {'retry_after': 18}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 18', 'parameters': {'retry_after': 18}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 17', 'parameters': {'retry_after': 17}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 17', 'parameters': {'retry_after': 17}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 16', 'parameters': {'retry_after': 16}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 15', 'parameters': {'retry_after': 15}}
+============================================================
+Workflow completed with status: completed
+============================================================
+[SITE] wrote index.html (16 images, 4 summaries)
+```
