@@ -49739,3 +49739,32 @@ Workflow completed with status: completed
 {'ok': True, 'result': {'message_id': 43110, 'from': {'id': 8490037832, 'is_bot': True, 'first_name': '🚀', 'username': 'Coin_vn1_bot'}, 'chat': {'id': -1003016231971, 'title': '코인그룹', 'type': 'supergroup'}, 'date': 1785202975, 'text': '3VqSS:  0H/s (268401)'}}
 [SITE] wrote index.html (16 images, 4 summaries)
 ```
+
+## 30m @ 2026-07-28 11:03:04 KST — ok (run #1729)
+```
+    retries = retries.increment(
+  File "/usr/local/lib/python3.10/site-packages/urllib3/util/retry.py", line 543, in increment
+    raise MaxRetryError(_pool, url, reason) from reason  # type: ignore[arg-type]
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='pool.rplant.xyz', port=443): Max retries exceeded with url: /api2/poolminer2/microbitcoin/MdVtFbZSobabqiZL7P4Za4ZUZBWwm3VqSS/TWRWdEZiWlNvYmFicWlaTDdQNFphNFpVWkJXd20zVnFTU3w= (Caused by NewConnectionError("HTTPSConnection(host='pool.rplant.xyz', port=443): Failed to establish a new connection: [Errno 101] Network is unreachable"))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+  File "/__w/SNAPSHOT/SNAPSHOT/src/main.py", line 181, in job_coin
+    response = requests.get("https://pool.rplant.xyz/api2/poolminer2/microbitcoin/MdVtFbZSobabqiZL7P4Za4ZUZBWwm3VqSS/TWRWdEZiWlNvYmFicWlaTDdQNFphNFpVWkJXd20zVnFTU3w=", stream=True)
+  File "/usr/local/lib/python3.10/site-packages/requests/api.py", line 87, in get
+    return request("get", url, params=params, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/requests/api.py", line 71, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/requests/sessions.py", line 651, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/usr/local/lib/python3.10/site-packages/requests/sessions.py", line 784, in send
+    r = adapter.send(request, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/requests/adapters.py", line 729, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPSConnectionPool(host='pool.rplant.xyz', port=443): Max retries exceeded with url: /api2/poolminer2/microbitcoin/MdVtFbZSobabqiZL7P4Za4ZUZBWwm3VqSS/TWRWdEZiWlNvYmFicWlaTDdQNFphNFpVWkJXd20zVnFTU3w= (Caused by NewConnectionError("HTTPSConnection(host='pool.rplant.xyz', port=443): Failed to establish a new connection: [Errno 101] Network is unreachable"))
+{'ok': True, 'result': {'message_id': 43111, 'from': {'id': 8490037832, 'is_bot': True, 'first_name': '🚀', 'username': 'Coin_vn1_bot'}, 'chat': {'id': -1003016231971, 'title': '코인그룹', 'type': 'supergroup'}, 'date': 1785204145, 'text': 'Bitcoin: $63,162.19'}}
+{'ok': True, 'result': {'message_id': 43112, 'from': {'id': 8490037832, 'is_bot': True, 'first_name': '🚀', 'username': 'Coin_vn1_bot'}, 'chat': {'id': -1003016231971, 'title': '코인그룹', 'type': 'supergroup'}, 'date': 1785204148, 'text': 'Ethereum: $1,873.91'}}
+[SITE] wrote index.html (16 images, 4 summaries)
+```
