@@ -13464,3 +13464,32 @@ Workflow completed with status: completed
 ============================================================
 [SITE] wrote index.html (16 images, 4 summaries)
 ```
+
+## 3h @ 2026-07-30 12:54:24 KST — ok (run #467)
+```
+{'ok': True, 'result': {'message_id': 162088, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1785383609, 'photo': [{'file_id': 'AgACAgUAAyEGAASPJ3n-AAECeCRqanjy2RiYH6VloH6CVyqz0apGWQAC1RZrG_hqUVdJzC5l64F4zQEAAwIAA3MAAz0E', 'file_unique_id': 'AQAD1RZrG_hqUVd4', 'file_size': 1356, 'width': 90, 'height': 50}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECeCRqanjy2RiYH6VloH6CVyqz0apGWQAC1RZrG_hqUVdJzC5l64F4zQEAAwIAA20AAz0E', 'file_unique_id': 'AQAD1RZrG_hqUVdy', 'file_size': 22649, 'width': 320, 'height': 178}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECeCRqanjy2RiYH6VloH6CVyqz0apGWQAC1RZrG_hqUVdJzC5l64F4zQEAAwIAA3gAAz0E', 'file_unique_id': 'AQAD1RZrG_hqUVd9', 'file_size': 112257, 'width': 800, 'height': 444}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECeCRqanjy2RiYH6VloH6CVyqz0apGWQAC1RZrG_hqUVdJzC5l64F4zQEAAwIAA3kAAz0E', 'file_unique_id': 'AQAD1RZrG_hqUVd-', 'file_size': 245884, 'width': 1280, 'height': 710}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECeCRqanjy2RiYH6VloH6CVyqz0apGWQAC1RZrG_hqUVdJzC5l64F4zQEAAwIAA3cAAz0E', 'file_unique_id': 'AQAD1RZrG_hqUVd8', 'file_size': 304556, 'width': 1508, 'height': 837}]}}
+{'ok': True, 'result': {'message_id': 162089, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1785383610, 'text': '📊 te-us-stock-market'}}
+{'ok': True, 'result': {'message_id': 162090, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1785383611, 'text': '미국 주가지수 선물은 주요 기술기업 실적과 연준 정책을 주시하며 소폭 상승했다.  \n마이크로소프트는 9% 급등, 메타는 AI 수익성 우려로 6% 이상 하락했다.  \n아마존·애플 등 주요 기업 실적 발표와 연준 금리 동결이 시장에 영향한다.'}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 32', 'parameters': {'retry_after': 32}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 32', 'parameters': {'retry_after': 32}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 31', 'parameters': {'retry_after': 31}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 29', 'parameters': {'retry_after': 29}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 29', 'parameters': {'retry_after': 29}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 28', 'parameters': {'retry_after': 28}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 27', 'parameters': {'retry_after': 27}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 26', 'parameters': {'retry_after': 26}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 25', 'parameters': {'retry_after': 25}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 24', 'parameters': {'retry_after': 24}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 23', 'parameters': {'retry_after': 23}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 23', 'parameters': {'retry_after': 23}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 21', 'parameters': {'retry_after': 21}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 20', 'parameters': {'retry_after': 20}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 20', 'parameters': {'retry_after': 20}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 19', 'parameters': {'retry_after': 19}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 18', 'parameters': {'retry_after': 18}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 17', 'parameters': {'retry_after': 17}}
+============================================================
+Workflow completed with status: completed
+============================================================
+[SITE] wrote index.html (16 images, 4 summaries)
+```
