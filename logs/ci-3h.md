@@ -14189,3 +14189,32 @@ Workflow completed with status: completed
 ============================================================
 [SITE] wrote index.html (16 images, 4 summaries)
 ```
+
+## 3h @ 2026-08-01 02:24:09 KST — ok (run #492)
+```
+{'ok': True, 'result': {'message_id': 163768, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1785518596, 'photo': [{'file_id': 'AgACAgUAAyEGAASPJ3n-AAECf7hqbNoE0w629b1w9apfuUIxGdiEsgAC_hdrG8wdaFeP34r2Fv3sgwEAAwIAA3MAAz0E', 'file_unique_id': 'AQAD_hdrG8wdaFd4', 'file_size': 1381, 'width': 90, 'height': 50}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECf7hqbNoE0w629b1w9apfuUIxGdiEsgAC_hdrG8wdaFeP34r2Fv3sgwEAAwIAA20AAz0E', 'file_unique_id': 'AQAD_hdrG8wdaFdy', 'file_size': 22497, 'width': 320, 'height': 178}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECf7hqbNoE0w629b1w9apfuUIxGdiEsgAC_hdrG8wdaFeP34r2Fv3sgwEAAwIAA3gAAz0E', 'file_unique_id': 'AQAD_hdrG8wdaFd9', 'file_size': 109261, 'width': 800, 'height': 444}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECf7hqbNoE0w629b1w9apfuUIxGdiEsgAC_hdrG8wdaFeP34r2Fv3sgwEAAwIAA3kAAz0E', 'file_unique_id': 'AQAD_hdrG8wdaFd-', 'file_size': 237905, 'width': 1280, 'height': 710}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECf7hqbNoE0w629b1w9apfuUIxGdiEsgAC_hdrG8wdaFeP34r2Fv3sgwEAAwIAA3cAAz0E', 'file_unique_id': 'AQAD_hdrG8wdaFd8', 'file_size': 293125, 'width': 1508, 'height': 837}]}}
+{'ok': True, 'result': {'message_id': 163769, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1785518597, 'text': '📊 te-us-stock-market'}}
+{'ok': True, 'result': {'message_id': 163770, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1785518598, 'text': '미국 주식, AI 인프라 변동성에도 0.4% 상승, 아마존 15% 급등  \n애플은 반도체 부족으로 10% 하락, 넷플릭스·엘리릴리·엑슨도 각각 하락  \n30년물 국채 수익률 19년 최고치 기록, 금리 인상 여부에 시장 우려'}}
+{'ok': True, 'result': {'message_id': 163771, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1785518599, 'text': '📊 cnn-fear-greed'}}
+{'ok': True, 'result': {'message_id': 163772, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1785518600, 'photo': [{'file_id': 'AgACAgUAAyEGAASPJ3n-AAECf7xqbNoIY4RujHp5JkjNj6xv2aZd8wAC_xdrG8wdaFeIXaeb_Hy5pgEAAwIAA3MAAz0E', 'file_unique_id': 'AQAD_xdrG8wdaFd4', 'file_size': 844, 'width': 90, 'height': 48}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECf7xqbNoIY4RujHp5JkjNj6xv2aZd8wAC_xdrG8wdaFeIXaeb_Hy5pgEAAwIAA20AAz0E', 'file_unique_id': 'AQAD_xdrG8wdaFdy', 'file_size': 7799, 'width': 320, 'height': 170}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECf7xqbNoIY4RujHp5JkjNj6xv2aZd8wAC_xdrG8wdaFeIXaeb_Hy5pgEAAwIAA3gAAz0E', 'file_unique_id': 'AQAD_xdrG8wdaFd9', 'file_size': 19858, 'width': 650, 'height': 346}]}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 35', 'parameters': {'retry_after': 35}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 34', 'parameters': {'retry_after': 34}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 33', 'parameters': {'retry_after': 33}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 33', 'parameters': {'retry_after': 33}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 32', 'parameters': {'retry_after': 32}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 31', 'parameters': {'retry_after': 31}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 31', 'parameters': {'retry_after': 31}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 30', 'parameters': {'retry_after': 30}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 29', 'parameters': {'retry_after': 29}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 29', 'parameters': {'retry_after': 29}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 28', 'parameters': {'retry_after': 28}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 27', 'parameters': {'retry_after': 27}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 27', 'parameters': {'retry_after': 27}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 26', 'parameters': {'retry_after': 26}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 25', 'parameters': {'retry_after': 25}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 25', 'parameters': {'retry_after': 25}}
+============================================================
+Workflow completed with status: completed
+============================================================
+[SITE] wrote index.html (16 images, 4 summaries)
+```
