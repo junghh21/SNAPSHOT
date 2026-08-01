@@ -14711,3 +14711,32 @@ Workflow completed with status: completed
 ============================================================
 [SITE] wrote index.html (16 images, 4 summaries)
 ```
+
+## 3h @ 2026-08-02 07:05:37 KST — ok (run #510)
+```
+{'ok': True, 'result': {'message_id': 165081, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1785621884, 'photo': [{'file_id': 'AgACAgUAAyEGAASPJ3n-AAECgDlqbQL637wUd2J3RnsAAUvR0sCseBkAAkIYaxvMHWhXjEerXMJsUxcBAAMCAANzAAM9BA', 'file_unique_id': 'AQADQhhrG8wdaFd4', 'file_size': 1380, 'width': 90, 'height': 50}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECgDlqbQL637wUd2J3RnsAAUvR0sCseBkAAkIYaxvMHWhXjEerXMJsUxcBAAMCAANtAAM9BA', 'file_unique_id': 'AQADQhhrG8wdaFdy', 'file_size': 22733, 'width': 320, 'height': 178}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECgDlqbQL637wUd2J3RnsAAUvR0sCseBkAAkIYaxvMHWhXjEerXMJsUxcBAAMCAAN4AAM9BA', 'file_unique_id': 'AQADQhhrG8wdaFd9', 'file_size': 110049, 'width': 800, 'height': 444}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECgDlqbQL637wUd2J3RnsAAUvR0sCseBkAAkIYaxvMHWhXjEerXMJsUxcBAAMCAAN5AAM9BA', 'file_unique_id': 'AQADQhhrG8wdaFd-', 'file_size': 239019, 'width': 1280, 'height': 710}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECgDlqbQL637wUd2J3RnsAAUvR0sCseBkAAkIYaxvMHWhXjEerXMJsUxcBAAMCAAN3AAM9BA', 'file_unique_id': 'AQADQhhrG8wdaFd8', 'file_size': 294086, 'width': 1508, 'height': 837}]}}
+{'ok': True, 'result': {'message_id': 165082, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1785621884, 'text': '📊 te-us-stock-market'}}
+{'ok': True, 'result': {'message_id': 165083, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1785621885, 'text': 'S&P 0.7%·나스닥 0.6%·다우 277포인트 상승  \nAI 기대감으로 알파벳·마이크로소프트·메타 상승, 애플은 -7.3% 하락  \n다우는 4개월 연속 상승, 7월 S&P -0.1%·나스닥 -3.2%'}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 37', 'parameters': {'retry_after': 37}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 36', 'parameters': {'retry_after': 36}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 35', 'parameters': {'retry_after': 35}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 34', 'parameters': {'retry_after': 34}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 34', 'parameters': {'retry_after': 34}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 33', 'parameters': {'retry_after': 33}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 32', 'parameters': {'retry_after': 32}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 32', 'parameters': {'retry_after': 32}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 31', 'parameters': {'retry_after': 31}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 31', 'parameters': {'retry_after': 31}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 29', 'parameters': {'retry_after': 29}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 29', 'parameters': {'retry_after': 29}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 28', 'parameters': {'retry_after': 28}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 27', 'parameters': {'retry_after': 27}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 27', 'parameters': {'retry_after': 27}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 26', 'parameters': {'retry_after': 26}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 26', 'parameters': {'retry_after': 26}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 25', 'parameters': {'retry_after': 25}}
+============================================================
+Workflow completed with status: completed
+============================================================
+[SITE] wrote index.html (16 images, 4 summaries)
+```
