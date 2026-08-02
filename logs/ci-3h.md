@@ -14798,3 +14798,32 @@ Workflow completed with status: completed
 ============================================================
 [SITE] wrote index.html (16 images, 4 summaries)
 ```
+
+## 3h @ 2026-08-02 13:05:51 KST — ok (run #513)
+```
+{'ok': True, 'result': {'message_id': 165325, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1785643494, 'photo': [{'file_id': 'AgACAgUAAyEGAASPJ3n-AAEChc1qbsHmVFAMW8bKHWUsdAWaErGQYwACqBBrG0aIcFefGAXIg0SfRAEAAwIAA3MAAz0E', 'file_unique_id': 'AQADqBBrG0aIcFd4', 'file_size': 1380, 'width': 90, 'height': 50}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEChc1qbsHmVFAMW8bKHWUsdAWaErGQYwACqBBrG0aIcFefGAXIg0SfRAEAAwIAA20AAz0E', 'file_unique_id': 'AQADqBBrG0aIcFdy', 'file_size': 22733, 'width': 320, 'height': 178}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEChc1qbsHmVFAMW8bKHWUsdAWaErGQYwACqBBrG0aIcFefGAXIg0SfRAEAAwIAA3gAAz0E', 'file_unique_id': 'AQADqBBrG0aIcFd9', 'file_size': 110049, 'width': 800, 'height': 444}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEChc1qbsHmVFAMW8bKHWUsdAWaErGQYwACqBBrG0aIcFefGAXIg0SfRAEAAwIAA3kAAz0E', 'file_unique_id': 'AQADqBBrG0aIcFd-', 'file_size': 239019, 'width': 1280, 'height': 710}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEChc1qbsHmVFAMW8bKHWUsdAWaErGQYwACqBBrG0aIcFefGAXIg0SfRAEAAwIAA3cAAz0E', 'file_unique_id': 'AQADqBBrG0aIcFd8', 'file_size': 294086, 'width': 1508, 'height': 837}]}}
+{'ok': True, 'result': {'message_id': 165326, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1785643495, 'text': '📊 te-us-stock-market'}}
+{'ok': True, 'result': {'message_id': 165327, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1785643496, 'text': '기술주 상승으로 미국 주식 상승, S&P 0.7%·Nasdaq 0.6%·다우 277포인트  \nAmazon 클라우드 성장으로 15.3% 급등, AI 기대에 주요 기업 상승  \nApple 7.3% 급락·칩 부족·생산 감소, 다우는 월간 사상 최고 기록'}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 35', 'parameters': {'retry_after': 35}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 34', 'parameters': {'retry_after': 34}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 34', 'parameters': {'retry_after': 34}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 32', 'parameters': {'retry_after': 32}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 32', 'parameters': {'retry_after': 32}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 31', 'parameters': {'retry_after': 31}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 30', 'parameters': {'retry_after': 30}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 30', 'parameters': {'retry_after': 30}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 29', 'parameters': {'retry_after': 29}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 28', 'parameters': {'retry_after': 28}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 27', 'parameters': {'retry_after': 27}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 27', 'parameters': {'retry_after': 27}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 26', 'parameters': {'retry_after': 26}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 25', 'parameters': {'retry_after': 25}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 25', 'parameters': {'retry_after': 25}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 24', 'parameters': {'retry_after': 24}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 24', 'parameters': {'retry_after': 24}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 23', 'parameters': {'retry_after': 23}}
+============================================================
+Workflow completed with status: completed
+============================================================
+[SITE] wrote index.html (16 images, 4 summaries)
+```
