@@ -15059,3 +15059,32 @@ Workflow completed with status: completed
 ============================================================
 [SITE] wrote index.html (16 images, 4 summaries)
 ```
+
+## 3h @ 2026-08-03 01:49:13 KST — ok (run #522)
+```
+{'ok': True, 'result': {'message_id': 165945, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1785689307, 'photo': [{'file_id': 'AgACAgUAAyEGAASPJ3n-AAECiDlqb3Tbgvs7y8G8S2MIFSNug2G7rwACdhRrG0aIeFdWg_ogT2pOBgEAAwIAA3MAAz0E', 'file_unique_id': 'AQADdhRrG0aIeFd4', 'file_size': 775, 'width': 90, 'height': 38}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECiDlqb3Tbgvs7y8G8S2MIFSNug2G7rwACdhRrG0aIeFdWg_ogT2pOBgEAAwIAA20AAz0E', 'file_unique_id': 'AQADdhRrG0aIeFdy', 'file_size': 8690, 'width': 320, 'height': 134}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECiDlqb3Tbgvs7y8G8S2MIFSNug2G7rwACdhRrG0aIeFdWg_ogT2pOBgEAAwIAA3gAAz0E', 'file_unique_id': 'AQADdhRrG0aIeFd9', 'file_size': 34908, 'width': 800, 'height': 335}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECiDlqb3Tbgvs7y8G8S2MIFSNug2G7rwACdhRrG0aIeFdWg_ogT2pOBgEAAwIAA3kAAz0E', 'file_unique_id': 'AQADdhRrG0aIeFd-', 'file_size': 72524, 'width': 1280, 'height': 536}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECiDlqb3Tbgvs7y8G8S2MIFSNug2G7rwACdhRrG0aIeFdWg_ogT2pOBgEAAwIAA3cAAz0E', 'file_unique_id': 'AQADdhRrG0aIeFd8', 'file_size': 100567, 'width': 1720, 'height': 720}]}}
+{'ok': True, 'result': {'message_id': 165947, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1785689311, 'text': '📊 hull-sentiment-meter'}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 33', 'parameters': {'retry_after': 33}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 32', 'parameters': {'retry_after': 32}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 31', 'parameters': {'retry_after': 31}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 30', 'parameters': {'retry_after': 30}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 29', 'parameters': {'retry_after': 29}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 29', 'parameters': {'retry_after': 29}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 28', 'parameters': {'retry_after': 28}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 27', 'parameters': {'retry_after': 27}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 26', 'parameters': {'retry_after': 26}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 26', 'parameters': {'retry_after': 26}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 25', 'parameters': {'retry_after': 25}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 24', 'parameters': {'retry_after': 24}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 23', 'parameters': {'retry_after': 23}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 23', 'parameters': {'retry_after': 23}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 21', 'parameters': {'retry_after': 21}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 21', 'parameters': {'retry_after': 21}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 20', 'parameters': {'retry_after': 20}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 19', 'parameters': {'retry_after': 19}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 19', 'parameters': {'retry_after': 19}}
+============================================================
+Workflow completed with status: completed
+============================================================
+[SITE] wrote index.html (16 images, 4 summaries)
+```
