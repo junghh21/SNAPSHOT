@@ -15204,3 +15204,32 @@ Workflow completed with status: completed
 ============================================================
 [SITE] wrote index.html (16 images, 4 summaries)
 ```
+
+## 3h @ 2026-08-03 10:06:02 KST — ok (run #527)
+```
+{'ok': True, 'result': {'message_id': 166348, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1785719100, 'photo': [{'file_id': 'AgACAgUAAyEGAASPJ3n-AAEChc1qbsHmVFAMW8bKHWUsdAWaErGQYwACqBBrG0aIcFefGAXIg0SfRAEAAwIAA3MAAz0E', 'file_unique_id': 'AQADqBBrG0aIcFd4', 'file_size': 1380, 'width': 90, 'height': 50}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEChc1qbsHmVFAMW8bKHWUsdAWaErGQYwACqBBrG0aIcFefGAXIg0SfRAEAAwIAA20AAz0E', 'file_unique_id': 'AQADqBBrG0aIcFdy', 'file_size': 22733, 'width': 320, 'height': 178}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEChc1qbsHmVFAMW8bKHWUsdAWaErGQYwACqBBrG0aIcFefGAXIg0SfRAEAAwIAA3gAAz0E', 'file_unique_id': 'AQADqBBrG0aIcFd9', 'file_size': 110049, 'width': 800, 'height': 444}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEChc1qbsHmVFAMW8bKHWUsdAWaErGQYwACqBBrG0aIcFefGAXIg0SfRAEAAwIAA3kAAz0E', 'file_unique_id': 'AQADqBBrG0aIcFd-', 'file_size': 239019, 'width': 1280, 'height': 710}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEChc1qbsHmVFAMW8bKHWUsdAWaErGQYwACqBBrG0aIcFefGAXIg0SfRAEAAwIAA3cAAz0E', 'file_unique_id': 'AQADqBBrG0aIcFd8', 'file_size': 294086, 'width': 1508, 'height': 837}]}}
+{'ok': True, 'result': {'message_id': 166349, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1785719101, 'text': '📊 te-us-stock-market'}}
+{'ok': True, 'result': {'message_id': 166350, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1785719102, 'text': '미국 주식 선물 상승, 기업 실적과 AI 무역이 관심.  \n베어크셔, 엘리 릴리 등 주요 기업과 기술주 실적 발표 예정.  \n트럼프 대통령, 이란과 평화 회담 재개 발표로 유가 하락.'}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 33', 'parameters': {'retry_after': 33}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 33', 'parameters': {'retry_after': 33}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 32', 'parameters': {'retry_after': 32}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 31', 'parameters': {'retry_after': 31}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 30', 'parameters': {'retry_after': 30}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 29', 'parameters': {'retry_after': 29}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 28', 'parameters': {'retry_after': 28}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 27', 'parameters': {'retry_after': 27}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 27', 'parameters': {'retry_after': 27}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 26', 'parameters': {'retry_after': 26}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 24', 'parameters': {'retry_after': 24}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 24', 'parameters': {'retry_after': 24}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 22', 'parameters': {'retry_after': 22}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 22', 'parameters': {'retry_after': 22}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 21', 'parameters': {'retry_after': 21}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 20', 'parameters': {'retry_after': 20}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 20', 'parameters': {'retry_after': 20}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 19', 'parameters': {'retry_after': 19}}
+============================================================
+Workflow completed with status: completed
+============================================================
+[SITE] wrote index.html (16 images, 4 summaries)
+```
