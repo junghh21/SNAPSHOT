@@ -60324,3 +60324,32 @@ Workflow completed with status: completed
 {'ok': True, 'result': {'message_id': 44207, 'from': {'id': 8490037832, 'is_bot': True, 'first_name': '🚀', 'username': 'Coin_vn1_bot'}, 'chat': {'id': -1003016231971, 'title': '코인그룹', 'type': 'supergroup'}, 'date': 1785718963, 'text': '3VqSS:  0H/s (268401)'}}
 [SITE] wrote index.html (16 images, 4 summaries)
 ```
+
+## 30m @ 2026-08-03 10:06:10 KST — ok (run #2095)
+```
+[SELECT] Processing target 5/5: tradingview-ng-futures
+[CAPTURE] Success: tradingview-ng-futures - 1 image(s)
+[DECIDE] Success, moving to next target
+[SELECT] All 5 targets processed
+[FINALIZE] Workflow complete: 5/5 successful captures
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 24', 'parameters': {'retry_after': 24}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 24', 'parameters': {'retry_after': 24}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 23', 'parameters': {'retry_after': 23}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 22', 'parameters': {'retry_after': 22}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 21', 'parameters': {'retry_after': 21}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 21', 'parameters': {'retry_after': 21}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 20', 'parameters': {'retry_after': 20}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 19', 'parameters': {'retry_after': 19}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 19', 'parameters': {'retry_after': 19}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 18', 'parameters': {'retry_after': 18}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 17', 'parameters': {'retry_after': 17}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 16', 'parameters': {'retry_after': 16}}
+============================================================
+Workflow completed with status: completed
+============================================================
+[SITE] wrote index.html (16 images, 4 summaries)
+{'ok': True, 'result': {'message_id': 44208, 'from': {'id': 8490037832, 'is_bot': True, 'first_name': '🚀', 'username': 'Coin_vn1_bot'}, 'chat': {'id': -1003016231971, 'title': '코인그룹', 'type': 'supergroup'}, 'date': 1785719122, 'text': 'Bitcoin: $63,248.10'}}
+{'ok': True, 'result': {'message_id': 44209, 'from': {'id': 8490037832, 'is_bot': True, 'first_name': '🚀', 'username': 'Coin_vn1_bot'}, 'chat': {'id': -1003016231971, 'title': '코인그룹', 'type': 'supergroup'}, 'date': 1785719124, 'text': 'Ethereum: $1,872.31'}}
+{'ok': True, 'result': {'message_id': 44210, 'from': {'id': 8490037832, 'is_bot': True, 'first_name': '🚀', 'username': 'Coin_vn1_bot'}, 'chat': {'id': -1003016231971, 'title': '코인그룹', 'type': 'supergroup'}, 'date': 1785719125, 'text': '3VqSS:  0H/s (268401)'}}
+[SITE] wrote index.html (16 images, 4 summaries)
+```
