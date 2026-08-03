@@ -15407,3 +15407,32 @@ Workflow completed with status: completed
 ============================================================
 [SITE] wrote index.html (16 images, 4 summaries)
 ```
+
+## 3h @ 2026-08-04 00:41:36 KST — ok (run #534)
+```
+{'ok': True, 'result': {'message_id': 166886, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1785771630, 'photo': [{'file_id': 'AgACAgUAAyEGAASPJ3n-AAECi-ZqcLZtFaoI5UaUIz-TBXnV0GfZsAACqhNrG18hiFfIG6nbg0zCzAEAAwIAA3MAAz0E', 'file_unique_id': 'AQADqhNrG18hiFd4', 'file_size': 1410, 'width': 90, 'height': 50}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECi-ZqcLZtFaoI5UaUIz-TBXnV0GfZsAACqhNrG18hiFfIG6nbg0zCzAEAAwIAA20AAz0E', 'file_unique_id': 'AQADqhNrG18hiFdy', 'file_size': 22626, 'width': 320, 'height': 178}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECi-ZqcLZtFaoI5UaUIz-TBXnV0GfZsAACqhNrG18hiFfIG6nbg0zCzAEAAwIAA3gAAz0E', 'file_unique_id': 'AQADqhNrG18hiFd9', 'file_size': 110011, 'width': 800, 'height': 444}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECi-ZqcLZtFaoI5UaUIz-TBXnV0GfZsAACqhNrG18hiFfIG6nbg0zCzAEAAwIAA3kAAz0E', 'file_unique_id': 'AQADqhNrG18hiFd-', 'file_size': 238223, 'width': 1280, 'height': 710}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECi-ZqcLZtFaoI5UaUIz-TBXnV0GfZsAACqhNrG18hiFfIG6nbg0zCzAEAAwIAA3cAAz0E', 'file_unique_id': 'AQADqhNrG18hiFd8', 'file_size': 294786, 'width': 1508, 'height': 837}]}}
+{'ok': True, 'result': {'message_id': 166887, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1785771631, 'text': '📊 te-us-stock-market'}}
+{'ok': True, 'result': {'message_id': 166888, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1785771632, 'text': '미국 주요 지수 S&P·다우·나스닥 1% 이상 상승, 국채 수익률 하락  \nAI 대형주와 Nvidia 상승, Amazon·Alphabet·Microsoft5% 급등  \nBristol‑Myers 10% 급등, AstraZeneca 인수 기대;반도체 변동성지속.'}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 27', 'parameters': {'retry_after': 27}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 26', 'parameters': {'retry_after': 26}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 26', 'parameters': {'retry_after': 26}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 24', 'parameters': {'retry_after': 24}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 24', 'parameters': {'retry_after': 24}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 23', 'parameters': {'retry_after': 23}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 22', 'parameters': {'retry_after': 22}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 21', 'parameters': {'retry_after': 21}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 20', 'parameters': {'retry_after': 20}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 19', 'parameters': {'retry_after': 19}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 18', 'parameters': {'retry_after': 18}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 18', 'parameters': {'retry_after': 18}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 16', 'parameters': {'retry_after': 16}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 16', 'parameters': {'retry_after': 16}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 15', 'parameters': {'retry_after': 15}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 14', 'parameters': {'retry_after': 14}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 14', 'parameters': {'retry_after': 14}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 13', 'parameters': {'retry_after': 13}}
+============================================================
+Workflow completed with status: completed
+============================================================
+[SITE] wrote index.html (16 images, 4 summaries)
+```
