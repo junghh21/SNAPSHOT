@@ -15813,3 +15813,32 @@ Workflow completed with status: completed
 ============================================================
 [SITE] wrote index.html (16 images, 4 summaries)
 ```
+
+## 3h @ 2026-08-04 20:59:37 KST — ok (run #548)
+```
+{'ok': True, 'result': {'message_id': 167803, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1785844715, 'photo': [{'file_id': 'AgACAgUAAyEGAASPJ3n-AAECj3tqcdPrsHiYRD5PyGrUULLwxYVa5AACPRJrGwMXkVdvCMUD9EjPDwEAAwIAA3MAAz0E', 'file_unique_id': 'AQADPRJrGwMXkVd4', 'file_size': 1347, 'width': 90, 'height': 50}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECj3tqcdPrsHiYRD5PyGrUULLwxYVa5AACPRJrGwMXkVdvCMUD9EjPDwEAAwIAA20AAz0E', 'file_unique_id': 'AQADPRJrGwMXkVdy', 'file_size': 21792, 'width': 320, 'height': 178}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECj3tqcdPrsHiYRD5PyGrUULLwxYVa5AACPRJrGwMXkVdvCMUD9EjPDwEAAwIAA3gAAz0E', 'file_unique_id': 'AQADPRJrGwMXkVd9', 'file_size': 106483, 'width': 800, 'height': 444}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECj3tqcdPrsHiYRD5PyGrUULLwxYVa5AACPRJrGwMXkVdvCMUD9EjPDwEAAwIAA3kAAz0E', 'file_unique_id': 'AQADPRJrGwMXkVd-', 'file_size': 231682, 'width': 1280, 'height': 710}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECj3tqcdPrsHiYRD5PyGrUULLwxYVa5AACPRJrGwMXkVdvCMUD9EjPDwEAAwIAA3cAAz0E', 'file_unique_id': 'AQADPRJrGwMXkVd8', 'file_size': 286638, 'width': 1508, 'height': 837}]}}
+{'ok': True, 'result': {'message_id': 167804, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1785844716, 'text': '📊 te-us-stock-market'}}
+{'ok': True, 'result': {'message_id': 167805, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1785844717, 'text': '미국 주식 선물 상승, 나스닥 2.13% 급등, 주요 지수 모두 상승  \n메가캡 기술주 급등, 아마존 4.6% 상승해 시가총액 3조 달성  \n트럼프 대통령 이란 스트라이크 취소로 유가 5% 하락, 인플레이션·금리 우려 완화'}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 34', 'parameters': {'retry_after': 34}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 33', 'parameters': {'retry_after': 33}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 33', 'parameters': {'retry_after': 33}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 32', 'parameters': {'retry_after': 32}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 32', 'parameters': {'retry_after': 32}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 31', 'parameters': {'retry_after': 31}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 30', 'parameters': {'retry_after': 30}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 30', 'parameters': {'retry_after': 30}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 29', 'parameters': {'retry_after': 29}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 29', 'parameters': {'retry_after': 29}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 27', 'parameters': {'retry_after': 27}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 27', 'parameters': {'retry_after': 27}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 26', 'parameters': {'retry_after': 26}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 26', 'parameters': {'retry_after': 26}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 25', 'parameters': {'retry_after': 25}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 25', 'parameters': {'retry_after': 25}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 24', 'parameters': {'retry_after': 24}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 23', 'parameters': {'retry_after': 23}}
+============================================================
+Workflow completed with status: completed
+============================================================
+[SITE] wrote index.html (16 images, 4 summaries)
+```
