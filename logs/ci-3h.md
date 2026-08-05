@@ -16132,3 +16132,32 @@ Workflow completed with status: completed
 ============================================================
 [SITE] wrote index.html (16 images, 4 summaries)
 ```
+
+## 3h @ 2026-08-05 15:23:44 KST — ok (run #559)
+```
+{'ok': True, 'result': {'message_id': 168498, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1785910963, 'photo': [{'file_id': 'AgACAgUAAyEGAASPJ3n-AAECkTxqcmIoE6LP5dxdISUE4Fb0AAHi-mQAAsATaxsDF5FXo-LgUxnNvwIBAAMCAANzAAM9BA', 'file_unique_id': 'AQADwBNrGwMXkVd4', 'file_size': 1356, 'width': 90, 'height': 50}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECkTxqcmIoE6LP5dxdISUE4Fb0AAHi-mQAAsATaxsDF5FXo-LgUxnNvwIBAAMCAANtAAM9BA', 'file_unique_id': 'AQADwBNrGwMXkVdy', 'file_size': 22306, 'width': 320, 'height': 178}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECkTxqcmIoE6LP5dxdISUE4Fb0AAHi-mQAAsATaxsDF5FXo-LgUxnNvwIBAAMCAAN4AAM9BA', 'file_unique_id': 'AQADwBNrGwMXkVd9', 'file_size': 110423, 'width': 800, 'height': 444}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECkTxqcmIoE6LP5dxdISUE4Fb0AAHi-mQAAsATaxsDF5FXo-LgUxnNvwIBAAMCAAN5AAM9BA', 'file_unique_id': 'AQADwBNrGwMXkVd-', 'file_size': 241535, 'width': 1280, 'height': 710}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECkTxqcmIoE6LP5dxdISUE4Fb0AAHi-mQAAsATaxsDF5FXo-LgUxnNvwIBAAMCAAN3AAM9BA', 'file_unique_id': 'AQADwBNrGwMXkVd8', 'file_size': 298106, 'width': 1508, 'height': 837}]}}
+{'ok': True, 'result': {'message_id': 168499, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1785910964, 'text': '📊 te-us-stock-market'}}
+{'ok': True, 'result': {'message_id': 168500, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1785910965, 'text': '미국 주가지수 선물, 전일 사상 최고치 후 변동 거의 없음  \nSpaceX는 AI 투자 우려로 7% 급락, AMD는 9% 하락  \n다우·S&P·나스닥 사상 최고치 기록, 오늘 기업 실적 기대'}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 33', 'parameters': {'retry_after': 33}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 32', 'parameters': {'retry_after': 32}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 32', 'parameters': {'retry_after': 32}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 30', 'parameters': {'retry_after': 30}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 29', 'parameters': {'retry_after': 29}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 29', 'parameters': {'retry_after': 29}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 28', 'parameters': {'retry_after': 28}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 27', 'parameters': {'retry_after': 27}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 27', 'parameters': {'retry_after': 27}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 26', 'parameters': {'retry_after': 26}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 25', 'parameters': {'retry_after': 25}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 24', 'parameters': {'retry_after': 24}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 23', 'parameters': {'retry_after': 23}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 23', 'parameters': {'retry_after': 23}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 22', 'parameters': {'retry_after': 22}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 22', 'parameters': {'retry_after': 22}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 21', 'parameters': {'retry_after': 21}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 20', 'parameters': {'retry_after': 20}}
+============================================================
+Workflow completed with status: completed
+============================================================
+[SITE] wrote index.html (16 images, 4 summaries)
+```
