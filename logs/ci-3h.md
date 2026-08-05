@@ -16219,3 +16219,32 @@ Workflow completed with status: completed
 ============================================================
 [SITE] wrote index.html (16 images, 4 summaries)
 ```
+
+## 3h @ 2026-08-06 00:13:42 KST — ok (run #562)
+```
+{'ok': True, 'result': {'message_id': 168604, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1785942753, 'photo': [{'file_id': 'AgACAgUAAyEGAASPJ3n-AAECkpxqc1Lhv31mQygLL5rIOdlNO4KnrgACWhVrGwMXmVfsZLVC_v1ZHQEAAwIAA3MAAz0E', 'file_unique_id': 'AQADWhVrGwMXmVd4', 'file_size': 1357, 'width': 90, 'height': 50}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECkpxqc1Lhv31mQygLL5rIOdlNO4KnrgACWhVrGwMXmVfsZLVC_v1ZHQEAAwIAA20AAz0E', 'file_unique_id': 'AQADWhVrGwMXmVdy', 'file_size': 22286, 'width': 320, 'height': 178}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECkpxqc1Lhv31mQygLL5rIOdlNO4KnrgACWhVrGwMXmVfsZLVC_v1ZHQEAAwIAA3gAAz0E', 'file_unique_id': 'AQADWhVrGwMXmVd9', 'file_size': 108882, 'width': 800, 'height': 444}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECkpxqc1Lhv31mQygLL5rIOdlNO4KnrgACWhVrGwMXmVfsZLVC_v1ZHQEAAwIAA3kAAz0E', 'file_unique_id': 'AQADWhVrGwMXmVd-', 'file_size': 238407, 'width': 1280, 'height': 710}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECkpxqc1Lhv31mQygLL5rIOdlNO4KnrgACWhVrGwMXmVfsZLVC_v1ZHQEAAwIAA3cAAz0E', 'file_unique_id': 'AQADWhVrGwMXmVd8', 'file_size': 294529, 'width': 1508, 'height': 837}]}}
+{'ok': True, 'result': {'message_id': 168605, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1785942754, 'text': '📊 te-us-stock-market'}}
+{'ok': True, 'result': {'message_id': 168606, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1785942755, 'text': '미국 주식 사상 최고치, S&P·다우·나스닥 모두 상승  \n은행·AI 등 신용민감 섹터와 아리스트·엘리릴리 실적 호조  \n스페이스X·AMD 등 일부 종목은 AI 기대에도 불구하고 급락'}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 31', 'parameters': {'retry_after': 31}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 30', 'parameters': {'retry_after': 30}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 29', 'parameters': {'retry_after': 29}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 28', 'parameters': {'retry_after': 28}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 28', 'parameters': {'retry_after': 28}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 27', 'parameters': {'retry_after': 27}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 26', 'parameters': {'retry_after': 26}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 26', 'parameters': {'retry_after': 26}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 25', 'parameters': {'retry_after': 25}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 24', 'parameters': {'retry_after': 24}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 24', 'parameters': {'retry_after': 24}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 23', 'parameters': {'retry_after': 23}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 22', 'parameters': {'retry_after': 22}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 22', 'parameters': {'retry_after': 22}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 21', 'parameters': {'retry_after': 21}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 21', 'parameters': {'retry_after': 21}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 20', 'parameters': {'retry_after': 20}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 19', 'parameters': {'retry_after': 19}}
+============================================================
+Workflow completed with status: completed
+============================================================
+[SITE] wrote index.html (16 images, 4 summaries)
+```
