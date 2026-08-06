@@ -16364,3 +16364,32 @@ Workflow completed with status: completed
 ============================================================
 [SITE] wrote index.html (16 images, 4 summaries)
 ```
+
+## 3h @ 2026-08-06 15:29:09 KST — ok (run #567)
+```
+{'ok': True, 'result': {'message_id': 168804, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1785997687, 'photo': [{'file_id': 'AgACAgUAAyEGAASPJ3n-AAECkw9qc767PcoLnWFhaCRWd6huB615VQACwxBrG0bloVe0JrF_gTcTPwEAAwIAA3MAAz0E', 'file_unique_id': 'AQADwxBrG0bloVd4', 'file_size': 1373, 'width': 90, 'height': 50}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECkw9qc767PcoLnWFhaCRWd6huB615VQACwxBrG0bloVe0JrF_gTcTPwEAAwIAA20AAz0E', 'file_unique_id': 'AQADwxBrG0bloVdy', 'file_size': 22567, 'width': 320, 'height': 178}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECkw9qc767PcoLnWFhaCRWd6huB615VQACwxBrG0bloVe0JrF_gTcTPwEAAwIAA3gAAz0E', 'file_unique_id': 'AQADwxBrG0bloVd9', 'file_size': 109705, 'width': 800, 'height': 444}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECkw9qc767PcoLnWFhaCRWd6huB615VQACwxBrG0bloVe0JrF_gTcTPwEAAwIAA3kAAz0E', 'file_unique_id': 'AQADwxBrG0bloVd-', 'file_size': 239696, 'width': 1280, 'height': 710}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECkw9qc767PcoLnWFhaCRWd6huB615VQACwxBrG0bloVe0JrF_gTcTPwEAAwIAA3cAAz0E', 'file_unique_id': 'AQADwxBrG0bloVd8', 'file_size': 295786, 'width': 1508, 'height': 837}]}}
+{'ok': True, 'result': {'message_id': 168805, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1785997688, 'text': '📊 te-us-stock-market'}}
+{'ok': True, 'result': {'message_id': 168806, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1785997689, 'text': '머스크, AI 인프라엔 엔비디아 칩만 사용 선언해 엔비디아 3.4% 상승, 다우 사상 최고.  \n스페이스X 잠금해제와 자본지출 급증으로 주가 14% 급락, 대주주 매각 기대.  \n미국 주가지수 선물 상승, 투자자들은 콘코·에어비·워너 실적에 주목.'}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 33', 'parameters': {'retry_after': 33}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 33', 'parameters': {'retry_after': 33}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 32', 'parameters': {'retry_after': 32}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 31', 'parameters': {'retry_after': 31}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 30', 'parameters': {'retry_after': 30}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 29', 'parameters': {'retry_after': 29}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 28', 'parameters': {'retry_after': 28}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 27', 'parameters': {'retry_after': 27}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 26', 'parameters': {'retry_after': 26}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 26', 'parameters': {'retry_after': 26}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 25', 'parameters': {'retry_after': 25}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 24', 'parameters': {'retry_after': 24}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 23', 'parameters': {'retry_after': 23}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 23', 'parameters': {'retry_after': 23}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 22', 'parameters': {'retry_after': 22}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 22', 'parameters': {'retry_after': 22}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 21', 'parameters': {'retry_after': 21}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 20', 'parameters': {'retry_after': 20}}
+============================================================
+Workflow completed with status: completed
+============================================================
+[SITE] wrote index.html (16 images, 4 summaries)
+```
