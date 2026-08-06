@@ -16451,3 +16451,32 @@ Workflow completed with status: completed
 ============================================================
 [SITE] wrote index.html (16 images, 4 summaries)
 ```
+
+## 3h @ 2026-08-07 00:10:27 KST — ok (run #570)
+```
+{'ok': True, 'result': {'message_id': 168923, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1786028961, 'photo': [{'file_id': 'AgACAgUAAyEGAASPJ3n-AAECk9tqdKOhdSc91gj3FoC30OQOn-8YpAACZhFrG0blqVfor4VDQnOqCQEAAwIAA3MAAz0E', 'file_unique_id': 'AQADZhFrG0blqVd4', 'file_size': 1300, 'width': 90, 'height': 50}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECk9tqdKOhdSc91gj3FoC30OQOn-8YpAACZhFrG0blqVfor4VDQnOqCQEAAwIAA20AAz0E', 'file_unique_id': 'AQADZhFrG0blqVdy', 'file_size': 21858, 'width': 320, 'height': 178}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECk9tqdKOhdSc91gj3FoC30OQOn-8YpAACZhFrG0blqVfor4VDQnOqCQEAAwIAA3gAAz0E', 'file_unique_id': 'AQADZhFrG0blqVd9', 'file_size': 105882, 'width': 800, 'height': 444}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECk9tqdKOhdSc91gj3FoC30OQOn-8YpAACZhFrG0blqVfor4VDQnOqCQEAAwIAA3kAAz0E', 'file_unique_id': 'AQADZhFrG0blqVd-', 'file_size': 231887, 'width': 1280, 'height': 710}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECk9tqdKOhdSc91gj3FoC30OQOn-8YpAACZhFrG0blqVfor4VDQnOqCQEAAwIAA3cAAz0E', 'file_unique_id': 'AQADZhFrG0blqVd8', 'file_size': 289957, 'width': 1508, 'height': 837}]}}
+{'ok': True, 'result': {'message_id': 168924, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1786028962, 'text': '📊 te-us-stock-market'}}
+{'ok': True, 'result': {'message_id': 168925, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1786028963, 'text': '전통 섹터는 안정, AI 주식은 변동성으로 혼조  \nS&P 500은 2일 연속 보합, 다우는 사상 최고치 상승  \n웨스턴디지털·산디스크 급락, 스페이스X는 락업 해제로 1% 하락'}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 32', 'parameters': {'retry_after': 32}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 30', 'parameters': {'retry_after': 30}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 30', 'parameters': {'retry_after': 30}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 29', 'parameters': {'retry_after': 29}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 28', 'parameters': {'retry_after': 28}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 28', 'parameters': {'retry_after': 28}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 27', 'parameters': {'retry_after': 27}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 26', 'parameters': {'retry_after': 26}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 25', 'parameters': {'retry_after': 25}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 25', 'parameters': {'retry_after': 25}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 24', 'parameters': {'retry_after': 24}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 23', 'parameters': {'retry_after': 23}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 22', 'parameters': {'retry_after': 22}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 22', 'parameters': {'retry_after': 22}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 21', 'parameters': {'retry_after': 21}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 21', 'parameters': {'retry_after': 21}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 20', 'parameters': {'retry_after': 20}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 20', 'parameters': {'retry_after': 20}}
+============================================================
+Workflow completed with status: completed
+============================================================
+[SITE] wrote index.html (16 images, 4 summaries)
+```
