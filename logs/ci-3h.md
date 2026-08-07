@@ -16857,3 +16857,32 @@ Workflow completed with status: completed
 ============================================================
 [SITE] wrote index.html (16 images, 4 summaries)
 ```
+
+## 3h @ 2026-08-08 04:08:15 KST — ok (run #586)
+```
+{'ok': True, 'result': {'message_id': 169868, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1786129598, 'photo': [{'file_id': 'AgACAgUAAyEGAASPJ3n-AAECl4xqdiy-FjgwwmgygUi5lpf9xRpengACXhRrGxgxsVcIQKD-XyRGaAEAAwIAA3MAAz0E', 'file_unique_id': 'AQADXhRrGxgxsVd4', 'file_size': 1330, 'width': 90, 'height': 50}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECl4xqdiy-FjgwwmgygUi5lpf9xRpengACXhRrGxgxsVcIQKD-XyRGaAEAAwIAA20AAz0E', 'file_unique_id': 'AQADXhRrGxgxsVdy', 'file_size': 22076, 'width': 320, 'height': 178}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECl4xqdiy-FjgwwmgygUi5lpf9xRpengACXhRrGxgxsVcIQKD-XyRGaAEAAwIAA3gAAz0E', 'file_unique_id': 'AQADXhRrGxgxsVd9', 'file_size': 107235, 'width': 800, 'height': 444}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECl4xqdiy-FjgwwmgygUi5lpf9xRpengACXhRrGxgxsVcIQKD-XyRGaAEAAwIAA3kAAz0E', 'file_unique_id': 'AQADXhRrGxgxsVd-', 'file_size': 235915, 'width': 1280, 'height': 710}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECl4xqdiy-FjgwwmgygUi5lpf9xRpengACXhRrGxgxsVcIQKD-XyRGaAEAAwIAA3cAAz0E', 'file_unique_id': 'AQADXhRrGxgxsVd8', 'file_size': 293459, 'width': 1508, 'height': 837}]}}
+{'ok': True, 'result': {'message_id': 169869, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1786129599, 'text': '📊 te-us-stock-market'}}
+{'ok': True, 'result': {'message_id': 169870, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1786129601, 'text': '미국 증시 대부분 상승, S&P 사상 최고, 금리인상 위험 감소  \n비농업 고용 2만3천명 감소, 임금·실업률 하락으로 인플레이션 우려 완화  \n수익률 하락·신용주 상승, SpaceX·샌디스크·WD 주가 회복, 버크셔는 변동 없음'}}
+{'ok': True, 'result': {'message_id': 169871, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1786129602, 'text': '📊 cnn-fear-greed'}}
+{'ok': True, 'result': {'message_id': 169872, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1786129603, 'photo': [{'file_id': 'AgACAgUAAyEGAASPJ3n-AAECl0Jqdgu8PvHktkXdlYRdfEoYfd6yuQACFhRrGxgxsVfydE7ooNfmmQEAAwIAA3MAAz0E', 'file_unique_id': 'AQADFhRrGxgxsVd4', 'file_size': 842, 'width': 90, 'height': 48}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECl0Jqdgu8PvHktkXdlYRdfEoYfd6yuQACFhRrGxgxsVfydE7ooNfmmQEAAwIAA20AAz0E', 'file_unique_id': 'AQADFhRrGxgxsVdy', 'file_size': 7813, 'width': 320, 'height': 170}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECl0Jqdgu8PvHktkXdlYRdfEoYfd6yuQACFhRrGxgxsVfydE7ooNfmmQEAAwIAA3gAAz0E', 'file_unique_id': 'AQADFhRrGxgxsVd9', 'file_size': 19575, 'width': 650, 'height': 346}]}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 31', 'parameters': {'retry_after': 31}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 29', 'parameters': {'retry_after': 29}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 29', 'parameters': {'retry_after': 29}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 28', 'parameters': {'retry_after': 28}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 27', 'parameters': {'retry_after': 27}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 26', 'parameters': {'retry_after': 26}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 25', 'parameters': {'retry_after': 25}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 24', 'parameters': {'retry_after': 24}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 23', 'parameters': {'retry_after': 23}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 22', 'parameters': {'retry_after': 22}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 21', 'parameters': {'retry_after': 21}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 20', 'parameters': {'retry_after': 20}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 20', 'parameters': {'retry_after': 20}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 18', 'parameters': {'retry_after': 18}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 18', 'parameters': {'retry_after': 18}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 17', 'parameters': {'retry_after': 17}}
+============================================================
+Workflow completed with status: completed
+============================================================
+[SITE] wrote index.html (16 images, 4 summaries)
+```
