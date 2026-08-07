@@ -16828,3 +16828,32 @@ Workflow completed with status: completed
 ============================================================
 [SITE] wrote index.html (16 images, 4 summaries)
 ```
+
+## 3h @ 2026-08-08 01:46:46 KST — ok (run #585)
+```
+{'ok': True, 'result': {'message_id': 169788, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1786121139, 'photo': [{'file_id': 'AgACAgUAAyEGAASPJ3n-AAEClrdqdebBxEFL0rJawuVAz2leFNGD7gACMxNrGxgxsVdMC22S9tUXzAEAAwIAA3MAAz0E', 'file_unique_id': 'AQADMxNrGxgxsVd4', 'file_size': 669, 'width': 90, 'height': 15}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEClrdqdebBxEFL0rJawuVAz2leFNGD7gACMxNrGxgxsVdMC22S9tUXzAEAAwIAA20AAz0E', 'file_unique_id': 'AQADMxNrGxgxsVdy', 'file_size': 5259, 'width': 320, 'height': 54}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEClrdqdebBxEFL0rJawuVAz2leFNGD7gACMxNrGxgxsVdMC22S9tUXzAEAAwIAA3gAAz0E', 'file_unique_id': 'AQADMxNrGxgxsVd9', 'file_size': 18129, 'width': 800, 'height': 135}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEClrdqdebBxEFL0rJawuVAz2leFNGD7gACMxNrGxgxsVdMC22S9tUXzAEAAwIAA3kAAz0E', 'file_unique_id': 'AQADMxNrGxgxsVd-', 'file_size': 31603, 'width': 1280, 'height': 216}]}}
+{'ok': True, 'result': {'message_id': 169789, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1786121140, 'text': '📊 finviz-sec-map'}}
+{'ok': True, 'result': {'message_id': 169790, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1786121143, 'photo': [{'file_id': 'AgACAgUAAyEGAASPJ3n-AAEClz5qdgu3X64drw2f_qabHOBNpPooEgACFRRrGxgxsVeXlh7TacOcLQEAAwIAA3MAAz0E', 'file_unique_id': 'AQADFRRrGxgxsVd4', 'file_size': 1326, 'width': 90, 'height': 50}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEClz5qdgu3X64drw2f_qabHOBNpPooEgACFRRrGxgxsVeXlh7TacOcLQEAAwIAA20AAz0E', 'file_unique_id': 'AQADFRRrGxgxsVdy', 'file_size': 22022, 'width': 320, 'height': 178}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEClz5qdgu3X64drw2f_qabHOBNpPooEgACFRRrGxgxsVeXlh7TacOcLQEAAwIAA3gAAz0E', 'file_unique_id': 'AQADFRRrGxgxsVd9', 'file_size': 106910, 'width': 800, 'height': 444}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEClz5qdgu3X64drw2f_qabHOBNpPooEgACFRRrGxgxsVeXlh7TacOcLQEAAwIAA3kAAz0E', 'file_unique_id': 'AQADFRRrGxgxsVd-', 'file_size': 234461, 'width': 1280, 'height': 710}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEClz5qdgu3X64drw2f_qabHOBNpPooEgACFRRrGxgxsVeXlh7TacOcLQEAAwIAA3cAAz0E', 'file_unique_id': 'AQADFRRrGxgxsVd8', 'file_size': 291634, 'width': 1508, 'height': 837}]}}
+{'ok': True, 'result': {'message_id': 169791, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1786121144, 'text': '📊 te-us-stock-market'}}
+{'ok': True, 'result': {'message_id': 169792, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1786121145, 'text': '미국 주식은 대체로 상승, S&P 500 사상 최고치 기록, 고용지표 악화로 금리 인상 위험 감소.  \n채권수익률 하락·신용주 상승, SpaceX 회복, Sandisk·WD 각각 2% 상승.  \n버크셔 해서웨이 주가 변동 없으며 내일 실적 발표 예정.'}}
+{'ok': True, 'result': {'message_id': 169793, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1786121146, 'text': '📊 cnn-fear-greed'}}
+{'ok': True, 'result': {'message_id': 169794, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1786121148, 'photo': [{'file_id': 'AgACAgUAAyEGAASPJ3n-AAECl0Jqdgu8PvHktkXdlYRdfEoYfd6yuQACFhRrGxgxsVfydE7ooNfmmQEAAwIAA3MAAz0E', 'file_unique_id': 'AQADFhRrGxgxsVd4', 'file_size': 842, 'width': 90, 'height': 48}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECl0Jqdgu8PvHktkXdlYRdfEoYfd6yuQACFhRrGxgxsVfydE7ooNfmmQEAAwIAA20AAz0E', 'file_unique_id': 'AQADFhRrGxgxsVdy', 'file_size': 7813, 'width': 320, 'height': 170}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECl0Jqdgu8PvHktkXdlYRdfEoYfd6yuQACFhRrGxgxsVfydE7ooNfmmQEAAwIAA3gAAz0E', 'file_unique_id': 'AQADFhRrGxgxsVd9', 'file_size': 19575, 'width': 650, 'height': 346}]}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 31', 'parameters': {'retry_after': 31}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 30', 'parameters': {'retry_after': 30}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 29', 'parameters': {'retry_after': 29}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 28', 'parameters': {'retry_after': 28}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 27', 'parameters': {'retry_after': 27}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 26', 'parameters': {'retry_after': 26}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 26', 'parameters': {'retry_after': 26}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 25', 'parameters': {'retry_after': 25}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 24', 'parameters': {'retry_after': 24}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 22', 'parameters': {'retry_after': 22}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 22', 'parameters': {'retry_after': 22}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 21', 'parameters': {'retry_after': 21}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 20', 'parameters': {'retry_after': 20}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 20', 'parameters': {'retry_after': 20}}
+============================================================
+Workflow completed with status: completed
+============================================================
+[SITE] wrote index.html (16 images, 4 summaries)
+```
