@@ -16596,3 +16596,32 @@ Workflow completed with status: completed
 ============================================================
 [SITE] wrote index.html (16 images, 4 summaries)
 ```
+
+## 3h @ 2026-08-07 14:31:39 KST — ok (run #577)
+```
+{'ok': True, 'result': {'message_id': 169238, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1786080629, 'photo': [{'file_id': 'AgACAgUAAyEGAASPJ3n-AAEClENqdSkxhoBzO06Esv1R6FQR-GhoMwAC6xFrG0blqVe-L5E5xwkNUQEAAwIAA3MAAz0E', 'file_unique_id': 'AQAD6xFrG0blqVd4', 'file_size': 1331, 'width': 90, 'height': 50}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEClENqdSkxhoBzO06Esv1R6FQR-GhoMwAC6xFrG0blqVe-L5E5xwkNUQEAAwIAA20AAz0E', 'file_unique_id': 'AQAD6xFrG0blqVdy', 'file_size': 22335, 'width': 320, 'height': 178}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEClENqdSkxhoBzO06Esv1R6FQR-GhoMwAC6xFrG0blqVe-L5E5xwkNUQEAAwIAA3gAAz0E', 'file_unique_id': 'AQAD6xFrG0blqVd9', 'file_size': 108098, 'width': 800, 'height': 444}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEClENqdSkxhoBzO06Esv1R6FQR-GhoMwAC6xFrG0blqVe-L5E5xwkNUQEAAwIAA3kAAz0E', 'file_unique_id': 'AQAD6xFrG0blqVd-', 'file_size': 236716, 'width': 1280, 'height': 710}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEClENqdSkxhoBzO06Esv1R6FQR-GhoMwAC6xFrG0blqVe-L5E5xwkNUQEAAwIAA3cAAz0E', 'file_unique_id': 'AQAD6xFrG0blqVd8', 'file_size': 296029, 'width': 1508, 'height': 837}]}}
+{'ok': True, 'result': {'message_id': 169239, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1786080630, 'text': '📊 te-us-stock-market'}}
+{'ok': True, 'result': {'message_id': 169240, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1786080631, 'text': '미국 주가지수 선물은 변동 없으며, 투자자들은 7월 고용보고서와 연준 정책을 주시한다.  \nAirbnb는 매출·실적 호조로 8%↑, Cloudflare는 전망 긍정으로 16%↑, DraftKings는 매출 부진으로 3%↓.  \n다우·S&P·나스닥 모두 소폭 하락, 11개 섹터 중 8개는 마이너스, 석유가 상승해 연준 금리 인상 우려가 커졌다.'}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 32', 'parameters': {'retry_after': 32}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 31', 'parameters': {'retry_after': 31}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 30', 'parameters': {'retry_after': 30}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 28', 'parameters': {'retry_after': 28}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 28', 'parameters': {'retry_after': 28}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 27', 'parameters': {'retry_after': 27}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 26', 'parameters': {'retry_after': 26}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 25', 'parameters': {'retry_after': 25}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 24', 'parameters': {'retry_after': 24}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 23', 'parameters': {'retry_after': 23}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 22', 'parameters': {'retry_after': 22}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 21', 'parameters': {'retry_after': 21}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 20', 'parameters': {'retry_after': 20}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 19', 'parameters': {'retry_after': 19}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 18', 'parameters': {'retry_after': 18}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 18', 'parameters': {'retry_after': 18}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 17', 'parameters': {'retry_after': 17}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 16', 'parameters': {'retry_after': 16}}
+============================================================
+Workflow completed with status: completed
+============================================================
+[SITE] wrote index.html (16 images, 4 summaries)
+```
