@@ -17176,3 +17176,32 @@ Workflow completed with status: completed
 ============================================================
 [SITE] wrote index.html (16 images, 4 summaries)
 ```
+
+## 3h @ 2026-08-08 22:06:19 KST — ok (run #597)
+```
+{'ok': True, 'result': {'message_id': 170722, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1786194307, 'photo': [{'file_id': 'AgACAgUAAyEGAASPJ3n-AAECmQhqdpoJ9fIPX3hOrDFnT2VHel4XjwACxxRrGxgxsVcC9q480KSUVgEAAwIAA3MAAz0E', 'file_unique_id': 'AQADxxRrGxgxsVd4', 'file_size': 1350, 'width': 90, 'height': 50}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECmQhqdpoJ9fIPX3hOrDFnT2VHel4XjwACxxRrGxgxsVcC9q480KSUVgEAAwIAA20AAz0E', 'file_unique_id': 'AQADxxRrGxgxsVdy', 'file_size': 22254, 'width': 320, 'height': 178}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECmQhqdpoJ9fIPX3hOrDFnT2VHel4XjwACxxRrGxgxsVcC9q480KSUVgEAAwIAA3gAAz0E', 'file_unique_id': 'AQADxxRrGxgxsVd9', 'file_size': 108108, 'width': 800, 'height': 444}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECmQhqdpoJ9fIPX3hOrDFnT2VHel4XjwACxxRrGxgxsVcC9q480KSUVgEAAwIAA3kAAz0E', 'file_unique_id': 'AQADxxRrGxgxsVd-', 'file_size': 237425, 'width': 1280, 'height': 710}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECmQhqdpoJ9fIPX3hOrDFnT2VHel4XjwACxxRrGxgxsVcC9q480KSUVgEAAwIAA3cAAz0E', 'file_unique_id': 'AQADxxRrGxgxsVd8', 'file_size': 295467, 'width': 1508, 'height': 837}]}}
+{'ok': True, 'result': {'message_id': 170723, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1786194308, 'text': '📊 te-us-stock-market'}}
+{'ok': True, 'result': {'message_id': 170724, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1786194309, 'text': '미국 증시가 상승했으며, 노동시장 약세가 금리 인상 기대를 낮췄다.  \nSpaceX 15.8% 급등, Palantir 10.3% 상승, 실적·전망 호조.  \nSanDisk·Western Digital·Berkshire는 각각 3~4% 하락했다.'}}
+{'ok': True, 'result': {'message_id': 170725, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1786194310, 'text': '📊 cnn-fear-greed'}}
+{'ok': True, 'result': {'message_id': 170726, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1786194311, 'photo': [{'file_id': 'AgACAgUAAyEGAASPJ3n-AAECmlxqdwOccEL8VBmXXznepCuv1UH6wQACpxZrGxgxuVfmt5zVMbuqiwEAAwIAA3MAAz0E', 'file_unique_id': 'AQADpxZrGxgxuVd4', 'file_size': 842, 'width': 90, 'height': 48}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECmlxqdwOccEL8VBmXXznepCuv1UH6wQACpxZrGxgxuVfmt5zVMbuqiwEAAwIAA20AAz0E', 'file_unique_id': 'AQADpxZrGxgxuVdy', 'file_size': 7811, 'width': 320, 'height': 170}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECmlxqdwOccEL8VBmXXznepCuv1UH6wQACpxZrGxgxuVfmt5zVMbuqiwEAAwIAA3gAAz0E', 'file_unique_id': 'AQADpxZrGxgxuVd9', 'file_size': 19596, 'width': 650, 'height': 346}]}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 38', 'parameters': {'retry_after': 38}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 36', 'parameters': {'retry_after': 36}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 36', 'parameters': {'retry_after': 36}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 35', 'parameters': {'retry_after': 35}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 34', 'parameters': {'retry_after': 34}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 33', 'parameters': {'retry_after': 33}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 32', 'parameters': {'retry_after': 32}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 32', 'parameters': {'retry_after': 32}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 31', 'parameters': {'retry_after': 31}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 30', 'parameters': {'retry_after': 30}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 29', 'parameters': {'retry_after': 29}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 29', 'parameters': {'retry_after': 29}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 28', 'parameters': {'retry_after': 28}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 27', 'parameters': {'retry_after': 27}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 27', 'parameters': {'retry_after': 27}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 26', 'parameters': {'retry_after': 26}}
+============================================================
+Workflow completed with status: completed
+============================================================
+[SITE] wrote index.html (16 images, 4 summaries)
+```
