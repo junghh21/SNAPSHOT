@@ -2,11 +2,11 @@
  "te-us-stock-market": {
   "title": "US Stock Market",
   "lines": [
-   "미국 주식 상승, S&P 500 사상 최고·고용지표 부진",
-   "채권수익률 하락·신용주 상승, SpaceX·샌디스크·WD 회복",
-   "버크셔 해서웨이, 내일 실적 발표 앞두고 변동 없음"
+   "미국 증시, 경기 고용지표 약화로 연준 금리인상 기대↓, S&P 7,758 사상 최고 기록",
+   "비농업 고용 2만3천명 감소·실업·참가율 하락, 인플레이션 우려 완화, 국채 수익률 낮아져 신용주 상승",
+   "SpaceX 15.8% 급등·Palantir 10.3% 상승, 반면 Sandisk·Western Digital·Berkshire 하락"
   ],
-  "ts": "08-07 23:07"
+  "ts": "08-08 13:48"
  },
  "te-natural-gas": {
   "title": "Natural Gas (TE)",
