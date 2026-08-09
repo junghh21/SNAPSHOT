@@ -17379,3 +17379,32 @@ Workflow completed with status: completed
 ============================================================
 [SITE] wrote index.html (16 images, 4 summaries)
 ```
+
+## 3h @ 2026-08-09 12:00:38 KST — ok (run #604)
+```
+{'ok': True, 'result': {'message_id': 171335, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1786244372, 'photo': [{'file_id': 'AgACAgUAAyEGAASPJ3n-AAECnUdqd-0TqWi4FqJGzTXukZg45kM-DQAC7hFrG0y0wVfDbaMv1_x1CgEAAwIAA3MAAz0E', 'file_unique_id': 'AQAD7hFrG0y0wVd4', 'file_size': 1350, 'width': 90, 'height': 50}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECnUdqd-0TqWi4FqJGzTXukZg45kM-DQAC7hFrG0y0wVfDbaMv1_x1CgEAAwIAA20AAz0E', 'file_unique_id': 'AQAD7hFrG0y0wVdy', 'file_size': 22254, 'width': 320, 'height': 178}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECnUdqd-0TqWi4FqJGzTXukZg45kM-DQAC7hFrG0y0wVfDbaMv1_x1CgEAAwIAA3gAAz0E', 'file_unique_id': 'AQAD7hFrG0y0wVd9', 'file_size': 108108, 'width': 800, 'height': 444}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECnUdqd-0TqWi4FqJGzTXukZg45kM-DQAC7hFrG0y0wVfDbaMv1_x1CgEAAwIAA3kAAz0E', 'file_unique_id': 'AQAD7hFrG0y0wVd-', 'file_size': 237425, 'width': 1280, 'height': 710}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECnUdqd-0TqWi4FqJGzTXukZg45kM-DQAC7hFrG0y0wVfDbaMv1_x1CgEAAwIAA3cAAz0E', 'file_unique_id': 'AQAD7hFrG0y0wVd8', 'file_size': 295467, 'width': 1508, 'height': 837}]}}
+{'ok': True, 'result': {'message_id': 171336, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1786244373, 'text': '📊 te-us-stock-market'}}
+{'ok': True, 'result': {'message_id': 171337, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1786244374, 'text': '미국 증시, 약한 고용지표로 연준 금리인상 기대↓, S&P 사상 최고 7,758 기록  \n비농업 고용 2만3천 감소·실업·참가율↓, 인플레이션 우려↓, 국채 수익률 하락으로 신용주 상승  \nSpaceX·Palantir 급등, Sandisk·WD 하락, Berkshire 약세'}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 35', 'parameters': {'retry_after': 35}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 35', 'parameters': {'retry_after': 35}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 34', 'parameters': {'retry_after': 34}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 33', 'parameters': {'retry_after': 33}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 33', 'parameters': {'retry_after': 33}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 32', 'parameters': {'retry_after': 32}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 31', 'parameters': {'retry_after': 31}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 31', 'parameters': {'retry_after': 31}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 30', 'parameters': {'retry_after': 30}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 29', 'parameters': {'retry_after': 29}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 28', 'parameters': {'retry_after': 28}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 28', 'parameters': {'retry_after': 28}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 27', 'parameters': {'retry_after': 27}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 26', 'parameters': {'retry_after': 26}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 26', 'parameters': {'retry_after': 26}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 25', 'parameters': {'retry_after': 25}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 25', 'parameters': {'retry_after': 25}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 24', 'parameters': {'retry_after': 24}}
+============================================================
+Workflow completed with status: completed
+============================================================
+[SITE] wrote index.html (16 images, 4 summaries)
+```
