@@ -17553,3 +17553,32 @@ Workflow completed with status: completed
 ============================================================
 [SITE] wrote index.html (16 images, 4 summaries)
 ```
+
+## 3h @ 2026-08-09 22:45:42 KST — ok (run #610)
+```
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 16', 'parameters': {'retry_after': 16}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 16', 'parameters': {'retry_after': 16}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 15', 'parameters': {'retry_after': 15}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 14', 'parameters': {'retry_after': 14}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 14', 'parameters': {'retry_after': 14}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 13', 'parameters': {'retry_after': 13}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 12', 'parameters': {'retry_after': 12}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 12', 'parameters': {'retry_after': 12}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 11', 'parameters': {'retry_after': 11}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 10', 'parameters': {'retry_after': 10}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 9', 'parameters': {'retry_after': 9}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 9', 'parameters': {'retry_after': 9}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 3', 'parameters': {'retry_after': 3}}
+{'ok': True, 'result': {'message_id': 171804, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1786283090, 'text': '📊 eia-grid-generation'}}
+{'ok': True, 'result': {'message_id': 171805, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1786283093, 'photo': [{'file_id': 'AgACAgUAAyEGAASPJ3n-AAECnx1qeIRVYHeT8ZYTtT04CoZbU1JpEwACOBFrG0y0yVf3w811ljoXMQEAAwIAA3MAAz0E', 'file_unique_id': 'AQADOBFrG0y0yVd4', 'file_size': 1721, 'width': 89, 'height': 90}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECnx1qeIRVYHeT8ZYTtT04CoZbU1JpEwACOBFrG0y0yVf3w811ljoXMQEAAwIAA20AAz0E', 'file_unique_id': 'AQADOBFrG0y0yVdy', 'file_size': 21703, 'width': 317, 'height': 320}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECnx1qeIRVYHeT8ZYTtT04CoZbU1JpEwACOBFrG0y0yVf3w811ljoXMQEAAwIAA3gAAz0E', 'file_unique_id': 'AQADOBFrG0y0yVd9', 'file_size': 30537, 'width': 424, 'height': 428}]}}
+{'ok': True, 'result': {'message_id': 171806, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1786283094, 'text': '📊 te-gold'}}
+{'ok': True, 'result': {'message_id': 171807, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1786283096, 'photo': [{'file_id': 'AgACAgUAAyEGAASPJ3n-AAECnx9qeIRYVEDI_xu5ShBwbHnqN-kaZwACORFrG0y0yVeCs_sk4TrkJQEAAwIAA3MAAz0E', 'file_unique_id': 'AQADORFrG0y0yVd4', 'file_size': 897, 'width': 90, 'height': 45}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECnx9qeIRYVEDI_xu5ShBwbHnqN-kaZwACORFrG0y0yVeCs_sk4TrkJQEAAwIAA20AAz0E', 'file_unique_id': 'AQADORFrG0y0yVdy', 'file_size': 9995, 'width': 320, 'height': 161}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECnx9qeIRYVEDI_xu5ShBwbHnqN-kaZwACORFrG0y0yVeCs_sk4TrkJQEAAwIAA3gAAz0E', 'file_unique_id': 'AQADORFrG0y0yVd9', 'file_size': 41017, 'width': 800, 'height': 402}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECnx9qeIRYVEDI_xu5ShBwbHnqN-kaZwACORFrG0y0yVeCs_sk4TrkJQEAAwIAA3kAAz0E', 'file_unique_id': 'AQADORFrG0y0yVd-', 'file_size': 56110, 'width': 1027, 'height': 516}]}}
+{'ok': True, 'result': {'message_id': 171808, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1786283097, 'text': '📊 te-us-bond-yield'}}
+{'ok': True, 'result': {'message_id': 171809, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1786283098, 'text': '미국 10년물 국채 수익률이 4.6%로 7bp 급락, 고용지표 약화 영향  \n비농업 고용 2만3천명 감소·총 10만3천명 수정, 실업률 4.1%로 하락  \n9월 금리인상 확률 42%↓, 워싱턴은 인플레이션에 따라 9월 인상 가능성 언급'}}
+{'ok': True, 'result': {'message_id': 171810, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1786283099, 'text': '📊 coingecko-top'}}
+{'ok': True, 'result': {'message_id': 171811, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1786283100, 'photo': [{'file_id': 'AgACAgUAAyEGAASPJ3n-AAECnyNqeIRckYZVyAYTLCBHt6wX0rBn2AACOhFrG0y0yVdq-T13W_ex4wEAAwIAA3MAAz0E', 'file_unique_id': 'AQADOhFrG0y0yVd4', 'file_size': 987, 'width': 90, 'height': 41}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECnyNqeIRckYZVyAYTLCBHt6wX0rBn2AACOhFrG0y0yVdq-T13W_ex4wEAAwIAA20AAz0E', 'file_unique_id': 'AQADOhFrG0y0yVdy', 'file_size': 10255, 'width': 320, 'height': 146}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECnyNqeIRckYZVyAYTLCBHt6wX0rBn2AACOhFrG0y0yVdq-T13W_ex4wEAAwIAA3gAAz0E', 'file_unique_id': 'AQADOhFrG0y0yVd9', 'file_size': 13505, 'width': 407, 'height': 186}]}}
+============================================================
+Workflow completed with status: completed
+============================================================
+[SITE] wrote index.html (16 images, 4 summaries)
+```
