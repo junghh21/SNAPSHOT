@@ -2,11 +2,11 @@
  "te-us-stock-market": {
   "title": "US Stock Market",
   "lines": [
-   "미국 증시가 금리 전망을 살피며 상승세 유지, 주요 지수는 변동성 적음.",
-   "7월 비농업 고용 감소와 연료비 하락에도 불구하고 연준 금리 동결 기대 확대.",
-   "메타·마이크로소프트·스페이스X 상승, 인텔·애플 각각 주가 하락."
+   "S&P·Nasdaq·Dow 소폭 하락, 금리·이란 갈등 우려가 원인.",
+   "금융·칩주가 혼조, Visa·Amex·Morgan·Stanley·Nvidia·Intel·Apple 하락.",
+   "마이크로소프트·SpaceX 등 하이퍼스케일러 상승, 클라우드 수요 강세."
   ],
-  "ts": "08-11 04:50"
+  "ts": "08-11 07:28"
  },
  "te-natural-gas": {
   "title": "Natural Gas (TE)",
