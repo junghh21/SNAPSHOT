@@ -17988,3 +17988,32 @@ Workflow completed with status: completed
 ============================================================
 [SITE] wrote index.html (16 images, 4 summaries)
 ```
+
+## 3h @ 2026-08-11 01:05:21 KST — ok (run #625)
+```
+{'ok': True, 'result': {'message_id': 172929, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1786377847, 'photo': [{'file_id': 'AgACAgUAAyEGAASPJ3n-AAECo4FqefZ2AAEfNNFTIIR5oIH9L_s_ikQAAtcTaxurLtFXalAZHq3tIwUBAAMCAANzAAM9BA', 'file_unique_id': 'AQAD1xNrG6su0Vd4', 'file_size': 1322, 'width': 90, 'height': 50}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECo4FqefZ2AAEfNNFTIIR5oIH9L_s_ikQAAtcTaxurLtFXalAZHq3tIwUBAAMCAANtAAM9BA', 'file_unique_id': 'AQAD1xNrG6su0Vdy', 'file_size': 22225, 'width': 320, 'height': 178}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECo4FqefZ2AAEfNNFTIIR5oIH9L_s_ikQAAtcTaxurLtFXalAZHq3tIwUBAAMCAAN4AAM9BA', 'file_unique_id': 'AQAD1xNrG6su0Vd9', 'file_size': 108255, 'width': 800, 'height': 444}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECo4FqefZ2AAEfNNFTIIR5oIH9L_s_ikQAAtcTaxurLtFXalAZHq3tIwUBAAMCAAN5AAM9BA', 'file_unique_id': 'AQAD1xNrG6su0Vd-', 'file_size': 237513, 'width': 1280, 'height': 710}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECo4FqefZ2AAEfNNFTIIR5oIH9L_s_ikQAAtcTaxurLtFXalAZHq3tIwUBAAMCAAN3AAM9BA', 'file_unique_id': 'AQAD1xNrG6su0Vd8', 'file_size': 296108, 'width': 1508, 'height': 837}]}}
+{'ok': True, 'result': {'message_id': 172930, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1786377848, 'text': '📊 te-us-stock-market'}}
+{'ok': True, 'result': {'message_id': 172931, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1786377849, 'text': '미국 주요 지수는 변동 없으며 연준 금리 동결 전망을 관찰 중이다.  \n7월 비농업 고용이 예상외 감소해 노동시장 견고 논란을 부추겼다.  \n클라우드 수요 기대로 메타·마이크로소프트·스페이스X 상승, 인텔·애플은 각각 주가 하락.'}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 33', 'parameters': {'retry_after': 33}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 33', 'parameters': {'retry_after': 33}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 32', 'parameters': {'retry_after': 32}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 31', 'parameters': {'retry_after': 31}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 31', 'parameters': {'retry_after': 31}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 30', 'parameters': {'retry_after': 30}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 29', 'parameters': {'retry_after': 29}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 28', 'parameters': {'retry_after': 28}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 28', 'parameters': {'retry_after': 28}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 27', 'parameters': {'retry_after': 27}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 26', 'parameters': {'retry_after': 26}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 26', 'parameters': {'retry_after': 26}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 25', 'parameters': {'retry_after': 25}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 24', 'parameters': {'retry_after': 24}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 24', 'parameters': {'retry_after': 24}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 23', 'parameters': {'retry_after': 23}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 23', 'parameters': {'retry_after': 23}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 22', 'parameters': {'retry_after': 22}}
+============================================================
+Workflow completed with status: completed
+============================================================
+[SITE] wrote index.html (16 images, 4 summaries)
+```
