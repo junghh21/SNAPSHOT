@@ -18307,3 +18307,32 @@ Workflow completed with status: completed
 ============================================================
 [SITE] wrote index.html (16 images, 4 summaries)
 ```
+
+## 3h @ 2026-08-11 16:06:13 KST — ok (run #636)
+```
+{'ok': True, 'result': {'message_id': 173678, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1786431900, 'photo': [{'file_id': 'AgACAgUAAyEGAASPJ3n-AAECpKZqekrncfmj7D1cqxNzObRPXA1z5wACfxRrG6su0VceK-2ccICGsgEAAwIAA3MAAz0E', 'file_unique_id': 'AQADfxRrG6su0Vd4', 'file_size': 1347, 'width': 90, 'height': 50}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECpKZqekrncfmj7D1cqxNzObRPXA1z5wACfxRrG6su0VceK-2ccICGsgEAAwIAA20AAz0E', 'file_unique_id': 'AQADfxRrG6su0Vdy', 'file_size': 22354, 'width': 320, 'height': 178}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECpKZqekrncfmj7D1cqxNzObRPXA1z5wACfxRrG6su0VceK-2ccICGsgEAAwIAA3gAAz0E', 'file_unique_id': 'AQADfxRrG6su0Vd9', 'file_size': 109065, 'width': 800, 'height': 444}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECpKZqekrncfmj7D1cqxNzObRPXA1z5wACfxRrG6su0VceK-2ccICGsgEAAwIAA3kAAz0E', 'file_unique_id': 'AQADfxRrG6su0Vd-', 'file_size': 239882, 'width': 1280, 'height': 710}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECpKZqekrncfmj7D1cqxNzObRPXA1z5wACfxRrG6su0VceK-2ccICGsgEAAwIAA3cAAz0E', 'file_unique_id': 'AQADfxRrG6su0Vd8', 'file_size': 299083, 'width': 1508, 'height': 837}]}}
+{'ok': True, 'result': {'message_id': 173679, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1786431901, 'text': '📊 te-us-stock-market'}}
+{'ok': True, 'result': {'message_id': 173680, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1786431902, 'text': '미국 주가지수 선물 변동 없으며, 미‑이란 협상 불확실성·통화 긴축 기대가 압박.  \n유가 급등·채권수익률 상승, 노동시장 냉각에도 연준 금리 인상 가능성 제기, 이번 주 인플레이션 데이터 기대.  \nCardinal Health·CoreWeave·Super Micro 등 오늘 실적 발표.'}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 36', 'parameters': {'retry_after': 36}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 36', 'parameters': {'retry_after': 36}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 35', 'parameters': {'retry_after': 35}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 34', 'parameters': {'retry_after': 34}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 34', 'parameters': {'retry_after': 34}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 33', 'parameters': {'retry_after': 33}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 32', 'parameters': {'retry_after': 32}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 32', 'parameters': {'retry_after': 32}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 31', 'parameters': {'retry_after': 31}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 31', 'parameters': {'retry_after': 31}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 30', 'parameters': {'retry_after': 30}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 29', 'parameters': {'retry_after': 29}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 28', 'parameters': {'retry_after': 28}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 28', 'parameters': {'retry_after': 28}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 27', 'parameters': {'retry_after': 27}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 27', 'parameters': {'retry_after': 27}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 26', 'parameters': {'retry_after': 26}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 25', 'parameters': {'retry_after': 25}}
+============================================================
+Workflow completed with status: completed
+============================================================
+[SITE] wrote index.html (16 images, 4 summaries)
+```
