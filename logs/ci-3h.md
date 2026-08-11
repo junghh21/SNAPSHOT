@@ -18539,3 +18539,32 @@ Workflow completed with status: completed
 ============================================================
 [SITE] wrote index.html (16 images, 4 summaries)
 ```
+
+## 3h @ 2026-08-12 04:58:31 KST — ok (run #644)
+```
+{'ok': True, 'result': {'message_id': 174183, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1786478235, 'photo': [{'file_id': 'AgACAgUAAyEGAASPJ3n-AAECqGdqe36b0Znp2bXPk5Em7ZTHvdzXSgACUBNrG6su2VewCyluTRrB_QEAAwIAA3MAAz0E', 'file_unique_id': 'AQADUBNrG6su2Vd4', 'file_size': 1355, 'width': 90, 'height': 50}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECqGdqe36b0Znp2bXPk5Em7ZTHvdzXSgACUBNrG6su2VewCyluTRrB_QEAAwIAA20AAz0E', 'file_unique_id': 'AQADUBNrG6su2Vdy', 'file_size': 22018, 'width': 320, 'height': 178}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECqGdqe36b0Znp2bXPk5Em7ZTHvdzXSgACUBNrG6su2VewCyluTRrB_QEAAwIAA3gAAz0E', 'file_unique_id': 'AQADUBNrG6su2Vd9', 'file_size': 106817, 'width': 800, 'height': 444}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECqGdqe36b0Znp2bXPk5Em7ZTHvdzXSgACUBNrG6su2VewCyluTRrB_QEAAwIAA3kAAz0E', 'file_unique_id': 'AQADUBNrG6su2Vd-', 'file_size': 234338, 'width': 1280, 'height': 710}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECqGdqe36b0Znp2bXPk5Em7ZTHvdzXSgACUBNrG6su2VewCyluTRrB_QEAAwIAA3cAAz0E', 'file_unique_id': 'AQADUBNrG6su2Vd8', 'file_size': 290657, 'width': 1508, 'height': 837}]}}
+{'ok': True, 'result': {'message_id': 174184, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1786478236, 'text': '📊 te-us-stock-market'}}
+{'ok': True, 'result': {'message_id': 174185, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1786478237, 'text': '미국 주요 주가지수 소폭 하락, 에너지·금리 불확실성  \n파키스탄·카타르, 미국‑이란 협상 기대감으로 유가 반등 억제  \n하이퍼스케일러 손실·인텔 추가 하락, 엔비디아 1% 상승·CPI 발표 앞\u200b'}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 33', 'parameters': {'retry_after': 33}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 32', 'parameters': {'retry_after': 32}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 31', 'parameters': {'retry_after': 31}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 30', 'parameters': {'retry_after': 30}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 30', 'parameters': {'retry_after': 30}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 29', 'parameters': {'retry_after': 29}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 28', 'parameters': {'retry_after': 28}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 28', 'parameters': {'retry_after': 28}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 27', 'parameters': {'retry_after': 27}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 26', 'parameters': {'retry_after': 26}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 25', 'parameters': {'retry_after': 25}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 24', 'parameters': {'retry_after': 24}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 23', 'parameters': {'retry_after': 23}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 22', 'parameters': {'retry_after': 22}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 22', 'parameters': {'retry_after': 22}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 21', 'parameters': {'retry_after': 21}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 21', 'parameters': {'retry_after': 21}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 20', 'parameters': {'retry_after': 20}}
+============================================================
+Workflow completed with status: completed
+============================================================
+[SITE] wrote index.html (16 images, 4 summaries)
+```
