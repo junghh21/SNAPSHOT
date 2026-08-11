@@ -2,11 +2,11 @@
  "te-us-stock-market": {
   "title": "US Stock Market",
   "lines": [
-   "S&P·Nasdaq·Dow 소폭 하락, 금리·이란 갈등 우려가 원인.",
-   "금융·칩주가 혼조, Visa·Amex·Morgan·Stanley·Nvidia·Intel·Apple 하락.",
-   "마이크로소프트·SpaceX 등 하이퍼스케일러 상승, 클라우드 수요 강세."
+   "미국 주가지수 선물 변동 없으며 월요일 주요 지수 소폭 하락",
+   "중동 갈등·미국‑이란 협상 불확실성에 유가 급등·채권 수익률 상승",
+   "투자자들은 이번 주 인플레이션 지표를 주시하며 오늘 카디널·코어웨이브·슈퍼마이크로 실적 발표 예정"
   ],
-  "ts": "08-11 07:28"
+  "ts": "08-11 10:09"
  },
  "te-natural-gas": {
   "title": "Natural Gas (TE)",
