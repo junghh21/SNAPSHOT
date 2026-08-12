@@ -18800,3 +18800,32 @@ Workflow completed with status: completed
 ============================================================
 [SITE] wrote index.html (16 images, 4 summaries)
 ```
+
+## 3h @ 2026-08-12 23:17:43 KST — ok (run #653)
+```
+{'ok': True, 'result': {'message_id': 174860, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1786544183, 'photo': [{'file_id': 'AgACAgUAAyEGAASPJ3n-AAECqwxqfIA3dmByr88HqPTFC2tTFA3XOQACLRJrGzHl6FfVPH-u30xGRgEAAwIAA3MAAz0E', 'file_unique_id': 'AQADLRJrGzHl6Fd4', 'file_size': 1348, 'width': 90, 'height': 50}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECqwxqfIA3dmByr88HqPTFC2tTFA3XOQACLRJrGzHl6FfVPH-u30xGRgEAAwIAA20AAz0E', 'file_unique_id': 'AQADLRJrGzHl6Fdy', 'file_size': 22054, 'width': 320, 'height': 178}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECqwxqfIA3dmByr88HqPTFC2tTFA3XOQACLRJrGzHl6FfVPH-u30xGRgEAAwIAA3gAAz0E', 'file_unique_id': 'AQADLRJrGzHl6Fd9', 'file_size': 107097, 'width': 800, 'height': 444}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECqwxqfIA3dmByr88HqPTFC2tTFA3XOQACLRJrGzHl6FfVPH-u30xGRgEAAwIAA3kAAz0E', 'file_unique_id': 'AQADLRJrGzHl6Fd-', 'file_size': 235280, 'width': 1280, 'height': 710}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECqwxqfIA3dmByr88HqPTFC2tTFA3XOQACLRJrGzHl6FfVPH-u30xGRgEAAwIAA3cAAz0E', 'file_unique_id': 'AQADLRJrGzHl6Fd8', 'file_size': 293093, 'width': 1508, 'height': 837}]}}
+{'ok': True, 'result': {'message_id': 174861, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1786544185, 'text': '📊 te-us-stock-market'}}
+{'ok': True, 'result': {'message_id': 174862, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1786544186, 'text': 'AI 실적·완화된 CPI에 미국 주식 상승, S&P 0.3%·Nasdaq 1%  \nCoreWeave 20%·SMCI 15% 급등, AI 주가 전반 상승  \n핵심 인플레이션 안정으로 금리 인상 압력 완화, 중동 에너지 공급 불확실성은 여전'}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 32', 'parameters': {'retry_after': 32}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 31', 'parameters': {'retry_after': 31}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 31', 'parameters': {'retry_after': 31}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 30', 'parameters': {'retry_after': 30}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 29', 'parameters': {'retry_after': 29}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 29', 'parameters': {'retry_after': 29}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 28', 'parameters': {'retry_after': 28}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 27', 'parameters': {'retry_after': 27}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 26', 'parameters': {'retry_after': 26}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 26', 'parameters': {'retry_after': 26}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 25', 'parameters': {'retry_after': 25}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 24', 'parameters': {'retry_after': 24}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 23', 'parameters': {'retry_after': 23}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 23', 'parameters': {'retry_after': 23}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 22', 'parameters': {'retry_after': 22}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 22', 'parameters': {'retry_after': 22}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 21', 'parameters': {'retry_after': 21}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 20', 'parameters': {'retry_after': 20}}
+============================================================
+Workflow completed with status: completed
+============================================================
+[SITE] wrote index.html (16 images, 4 summaries)
+```
