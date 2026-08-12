@@ -18742,3 +18742,32 @@ Workflow completed with status: completed
 ============================================================
 [SITE] wrote index.html (16 images, 4 summaries)
 ```
+
+## 3h @ 2026-08-12 19:06:39 KST — ok (run #651)
+```
+{'ok': True, 'result': {'message_id': 174702, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1786529119, 'photo': [{'file_id': 'AgACAgUAAyEGAASPJ3n-AAECqm5qfEVftwVTVqUmtXIeFFKGofhlmwACGhFrGzHl6FdoJmEdL24DQQEAAwIAA3MAAz0E', 'file_unique_id': 'AQADGhFrGzHl6Fd4', 'file_size': 1248, 'width': 90, 'height': 50}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECqm5qfEVftwVTVqUmtXIeFFKGofhlmwACGhFrGzHl6FdoJmEdL24DQQEAAwIAA20AAz0E', 'file_unique_id': 'AQADGhFrGzHl6Fdy', 'file_size': 20866, 'width': 320, 'height': 178}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECqm5qfEVftwVTVqUmtXIeFFKGofhlmwACGhFrGzHl6FdoJmEdL24DQQEAAwIAA3gAAz0E', 'file_unique_id': 'AQADGhFrGzHl6Fd9', 'file_size': 101862, 'width': 800, 'height': 444}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECqm5qfEVftwVTVqUmtXIeFFKGofhlmwACGhFrGzHl6FdoJmEdL24DQQEAAwIAA3kAAz0E', 'file_unique_id': 'AQADGhFrGzHl6Fd-', 'file_size': 223812, 'width': 1280, 'height': 710}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECqm5qfEVftwVTVqUmtXIeFFKGofhlmwACGhFrGzHl6FdoJmEdL24DQQEAAwIAA3cAAz0E', 'file_unique_id': 'AQADGhFrGzHl6Fd8', 'file_size': 279023, 'width': 1508, 'height': 837}]}}
+{'ok': True, 'result': {'message_id': 174703, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1786529121, 'text': '📊 te-us-stock-market'}}
+{'ok': True, 'result': {'message_id': 174704, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1786529122, 'text': '미국 주식선물은 변동 없이 CPI 발표 기다림.  \nAI 수요 급증에 CoreWeave 14% 급등, SuperMicro 7% 상승.  \n시스코·세레브라·엔에너지 등 오늘 실적 발표 예정.'}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 32', 'parameters': {'retry_after': 32}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 31', 'parameters': {'retry_after': 31}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 31', 'parameters': {'retry_after': 31}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 30', 'parameters': {'retry_after': 30}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 29', 'parameters': {'retry_after': 29}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 28', 'parameters': {'retry_after': 28}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 27', 'parameters': {'retry_after': 27}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 26', 'parameters': {'retry_after': 26}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 25', 'parameters': {'retry_after': 25}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 24', 'parameters': {'retry_after': 24}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 24', 'parameters': {'retry_after': 24}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 23', 'parameters': {'retry_after': 23}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 22', 'parameters': {'retry_after': 22}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 21', 'parameters': {'retry_after': 21}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 21', 'parameters': {'retry_after': 21}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 20', 'parameters': {'retry_after': 20}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 19', 'parameters': {'retry_after': 19}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 18', 'parameters': {'retry_after': 18}}
+============================================================
+Workflow completed with status: completed
+============================================================
+[SITE] wrote index.html (16 images, 4 summaries)
+```
