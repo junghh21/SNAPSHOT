@@ -2,11 +2,11 @@
  "te-us-stock-market": {
   "title": "US Stock Market",
   "lines": [
-   "미국 주식선물은 CPI 발표 전까지 변동 없으며 연준 금리 전망이 엇갈림.",
-   "CoreWeave AI 수요로 14% 급등, Super Micro는 가이던스로 7% 상승.",
-   "시장은 오늘 Cisco·Cerebras·Enersys 등 실적 발표에 주목."
+   "미국 주가지수 선물은 인플레이션 지표 발표 전 변동 없으며 연준 정책 기대가 엇갈림",
+   "CoreWeave AI 수요 급증으로 14% 상승, Super Micro도 7% 이상 상승",
+   "투자자들은 시스코·세레브라·엔에너지 등 기업 실적 발표에 주목"
   ],
-  "ts": "08-12 12:20"
+  "ts": "08-12 14:27"
  },
  "te-natural-gas": {
   "title": "Natural Gas (TE)",
