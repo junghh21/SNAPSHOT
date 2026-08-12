@@ -18626,3 +18626,32 @@ Workflow completed with status: completed
 ============================================================
 [SITE] wrote index.html (16 images, 4 summaries)
 ```
+
+## 3h @ 2026-08-12 12:22:29 KST — ok (run #647)
+```
+{'ok': True, 'result': {'message_id': 174469, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1786504874, 'photo': [{'file_id': 'AgACAgUAAyEGAASPJ3n-AAECqM9qe6NYMkT_8rpeCX53Z2_A7xTAVQACYRBrGzHl4Ffxbxnuj3cmGwEAAwIAA3MAAz0E', 'file_unique_id': 'AQADYRBrGzHl4Fd4', 'file_size': 1361, 'width': 90, 'height': 50}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECqM9qe6NYMkT_8rpeCX53Z2_A7xTAVQACYRBrGzHl4Ffxbxnuj3cmGwEAAwIAA20AAz0E', 'file_unique_id': 'AQADYRBrGzHl4Fdy', 'file_size': 22024, 'width': 320, 'height': 178}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECqM9qe6NYMkT_8rpeCX53Z2_A7xTAVQACYRBrGzHl4Ffxbxnuj3cmGwEAAwIAA3gAAz0E', 'file_unique_id': 'AQADYRBrGzHl4Fd9', 'file_size': 107031, 'width': 800, 'height': 444}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECqM9qe6NYMkT_8rpeCX53Z2_A7xTAVQACYRBrGzHl4Ffxbxnuj3cmGwEAAwIAA3kAAz0E', 'file_unique_id': 'AQADYRBrGzHl4Fd-', 'file_size': 234911, 'width': 1280, 'height': 710}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECqM9qe6NYMkT_8rpeCX53Z2_A7xTAVQACYRBrGzHl4Ffxbxnuj3cmGwEAAwIAA3cAAz0E', 'file_unique_id': 'AQADYRBrGzHl4Fd8', 'file_size': 291692, 'width': 1508, 'height': 837}]}}
+{'ok': True, 'result': {'message_id': 174470, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1786504875, 'text': '📊 te-us-stock-market'}}
+{'ok': True, 'result': {'message_id': 174471, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1786504876, 'text': '미국 주식선물은 CPI 발표 전까지 변동 없으며 연준 금리 전망이 엇갈림.  \nCoreWeave AI 수요로 14% 급등, Super Micro는 가이던스로 7% 상승.  \n시장은 오늘 Cisco·Cerebras·Enersys 등 실적 발표에 주목.'}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 35', 'parameters': {'retry_after': 35}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 34', 'parameters': {'retry_after': 34}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 34', 'parameters': {'retry_after': 34}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 33', 'parameters': {'retry_after': 33}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 32', 'parameters': {'retry_after': 32}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 32', 'parameters': {'retry_after': 32}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 30', 'parameters': {'retry_after': 30}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 30', 'parameters': {'retry_after': 30}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 29', 'parameters': {'retry_after': 29}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 29', 'parameters': {'retry_after': 29}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 28', 'parameters': {'retry_after': 28}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 27', 'parameters': {'retry_after': 27}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 26', 'parameters': {'retry_after': 26}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 26', 'parameters': {'retry_after': 26}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 26', 'parameters': {'retry_after': 26}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 25', 'parameters': {'retry_after': 25}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 25', 'parameters': {'retry_after': 25}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 24', 'parameters': {'retry_after': 24}}
+============================================================
+Workflow completed with status: completed
+============================================================
+[SITE] wrote index.html (16 images, 4 summaries)
+```
