@@ -19235,3 +19235,32 @@ Workflow completed with status: completed
 ============================================================
 [SITE] wrote index.html (16 images, 4 summaries)
 ```
+
+## 3h @ 2026-08-13 23:19:05 KST — ok (run #668)
+```
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 18', 'parameters': {'retry_after': 18}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 17', 'parameters': {'retry_after': 17}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 17', 'parameters': {'retry_after': 17}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 16', 'parameters': {'retry_after': 16}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 16', 'parameters': {'retry_after': 16}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 15', 'parameters': {'retry_after': 15}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 14', 'parameters': {'retry_after': 14}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 14', 'parameters': {'retry_after': 14}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 13', 'parameters': {'retry_after': 13}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 12', 'parameters': {'retry_after': 12}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 12', 'parameters': {'retry_after': 12}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 11', 'parameters': {'retry_after': 11}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 11', 'parameters': {'retry_after': 11}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 10', 'parameters': {'retry_after': 10}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 9', 'parameters': {'retry_after': 9}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 3', 'parameters': {'retry_after': 3}}
+{'ok': True, 'result': {'message_id': 175850, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1786630667, 'text': '금값이 온스당 4,400달러 수준, 10주 고점 유지, 인플레이션 둔화와 금리 동결 기대  \n중동 긴장이 에너지 가격 상승과 인플레이션 위험을 남기며, 석유는 주간 상승세를 보인다  \n중앙은행이 금을 대량 매입, 중국은 7월에 20톤 추가(21개월 연속), 2분기 전 세계 289톤 구매'}}
+{'ok': True, 'result': {'message_id': 175851, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1786630668, 'text': '📊 te-us-bond-yield'}}
+{'ok': True, 'result': {'message_id': 175852, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1786630669, 'text': '10년 미국채 수익률이 4.66%로 내려 4.75% 최고치에서 하락했다.  \n생산자물가 상승이 멈춰 인플레이션 완화, 연준 금리 인상 전망 감소.  \n엔화 약세와 에너지 공급 위험으로 장기 금리 하락은 제한적이다.'}}
+{'ok': True, 'result': {'message_id': 175853, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1786630670, 'text': '📊 coingecko-top'}}
+{'ok': True, 'result': {'message_id': 175854, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1786630675, 'photo': [{'file_id': 'AgACAgUAAyEGAASPJ3n-AAECru5qfdITkQzVqf5CqnIL-nxy8UowtgACMBhrG2xy8Vc0A1qabyQFWAEAAwIAA3MAAz0E', 'file_unique_id': 'AQADMBhrG2xy8Vd4', 'file_size': 966, 'width': 90, 'height': 41}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECru5qfdITkQzVqf5CqnIL-nxy8UowtgACMBhrG2xy8Vc0A1qabyQFWAEAAwIAA20AAz0E', 'file_unique_id': 'AQADMBhrG2xy8Vdy', 'file_size': 10025, 'width': 320, 'height': 146}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECru5qfdITkQzVqf5CqnIL-nxy8UowtgACMBhrG2xy8Vc0A1qabyQFWAEAAwIAA3gAAz0E', 'file_unique_id': 'AQADMBhrG2xy8Vd9', 'file_size': 13253, 'width': 407, 'height': 186}]}}
+============================================================
+Workflow completed with status: completed
+============================================================
+[SITE] wrote index.html (16 images, 4 summaries)
+```
