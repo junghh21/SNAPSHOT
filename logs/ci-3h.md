@@ -19264,3 +19264,32 @@ Workflow completed with status: completed
 ============================================================
 [SITE] wrote index.html (16 images, 4 summaries)
 ```
+
+## 3h @ 2026-08-14 01:06:41 KST — ok (run #669)
+```
+{'ok': True, 'result': {'message_id': 175920, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1786637109, 'photo': [{'file_id': 'AgACAgUAAyEGAASPJ3n-AAECrzBqfes18oYMAuwlzAVYnHD2_kSH2gACbRhrG2xy8VfQ99PQY6lDegEAAwIAA3MAAz0E', 'file_unique_id': 'AQADbRhrG2xy8Vd4', 'file_size': 1297, 'width': 90, 'height': 50}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECrzBqfes18oYMAuwlzAVYnHD2_kSH2gACbRhrG2xy8VfQ99PQY6lDegEAAwIAA20AAz0E', 'file_unique_id': 'AQADbRhrG2xy8Vdy', 'file_size': 21762, 'width': 320, 'height': 178}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECrzBqfes18oYMAuwlzAVYnHD2_kSH2gACbRhrG2xy8VfQ99PQY6lDegEAAwIAA3gAAz0E', 'file_unique_id': 'AQADbRhrG2xy8Vd9', 'file_size': 105307, 'width': 800, 'height': 444}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECrzBqfes18oYMAuwlzAVYnHD2_kSH2gACbRhrG2xy8VfQ99PQY6lDegEAAwIAA3kAAz0E', 'file_unique_id': 'AQADbRhrG2xy8Vd-', 'file_size': 232522, 'width': 1280, 'height': 710}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECrzBqfes18oYMAuwlzAVYnHD2_kSH2gACbRhrG2xy8VfQ99PQY6lDegEAAwIAA3cAAz0E', 'file_unique_id': 'AQADbRhrG2xy8Vd8', 'file_size': 288707, 'width': 1508, 'height': 837}]}}
+{'ok': True, 'result': {'message_id': 175921, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1786637110, 'text': '📊 te-us-stock-market'}}
+{'ok': True, 'result': {'message_id': 175922, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1786637111, 'text': '미국 증시 상승, S&P\u202f500 사상 최고·나스닥 0.8% 상승, 물가 완화로 금리 동결 기대  \n반도체·AI 주가 급등, 마이크론·인텔·마블·샌디스크 상승, 시스코 8% 급락  \n은행·산업주 하락, BofA·RTX 각각 1.5% 떨어져 다우 지수 평탄선 아래'}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 29', 'parameters': {'retry_after': 29}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 28', 'parameters': {'retry_after': 28}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 27', 'parameters': {'retry_after': 27}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 26', 'parameters': {'retry_after': 26}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 25', 'parameters': {'retry_after': 25}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 24', 'parameters': {'retry_after': 24}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 22', 'parameters': {'retry_after': 22}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 21', 'parameters': {'retry_after': 21}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 21', 'parameters': {'retry_after': 21}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 20', 'parameters': {'retry_after': 20}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 19', 'parameters': {'retry_after': 19}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 18', 'parameters': {'retry_after': 18}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 17', 'parameters': {'retry_after': 17}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 16', 'parameters': {'retry_after': 16}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 16', 'parameters': {'retry_after': 16}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 15', 'parameters': {'retry_after': 15}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 14', 'parameters': {'retry_after': 14}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 13', 'parameters': {'retry_after': 13}}
+============================================================
+Workflow completed with status: completed
+============================================================
+[SITE] wrote index.html (16 images, 4 summaries)
+```
