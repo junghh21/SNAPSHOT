@@ -19670,3 +19670,32 @@ Workflow completed with status: completed
 ============================================================
 [SITE] wrote index.html (16 images, 4 summaries)
 ```
+
+## 3h @ 2026-08-15 01:44:13 KST — ok (run #683)
+```
+{'ok': True, 'result': {'message_id': 176854, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1786725768, 'photo': [{'file_id': 'AgACAgUAAyEGAASPJ3n-AAECstZqf0WIOYPqfJq5HCFGjUC3M2-YlQACYR9rG2xy-Veq5KyOYNRWcAEAAwIAA3MAAz0E', 'file_unique_id': 'AQADYR9rG2xy-Vd4', 'file_size': 1308, 'width': 90, 'height': 50}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECstZqf0WIOYPqfJq5HCFGjUC3M2-YlQACYR9rG2xy-Veq5KyOYNRWcAEAAwIAA20AAz0E', 'file_unique_id': 'AQADYR9rG2xy-Vdy', 'file_size': 21822, 'width': 320, 'height': 178}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECstZqf0WIOYPqfJq5HCFGjUC3M2-YlQACYR9rG2xy-Veq5KyOYNRWcAEAAwIAA3gAAz0E', 'file_unique_id': 'AQADYR9rG2xy-Vd9', 'file_size': 105408, 'width': 800, 'height': 444}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECstZqf0WIOYPqfJq5HCFGjUC3M2-YlQACYR9rG2xy-Veq5KyOYNRWcAEAAwIAA3kAAz0E', 'file_unique_id': 'AQADYR9rG2xy-Vd-', 'file_size': 231622, 'width': 1280, 'height': 710}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECstZqf0WIOYPqfJq5HCFGjUC3M2-YlQACYR9rG2xy-Veq5KyOYNRWcAEAAwIAA3cAAz0E', 'file_unique_id': 'AQADYR9rG2xy-Vd8', 'file_size': 288006, 'width': 1508, 'height': 837}]}}
+{'ok': True, 'result': {'message_id': 176855, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1786725769, 'text': '📊 te-us-stock-market'}}
+{'ok': True, 'result': {'message_id': 176856, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1786725770, 'text': '미국 증시가 소폭 하락, S&P 0.2%·다우·나스닥 최대 0.5% 감소  \n알파벳·아마존·브로드컴·오라클 등 기술주와 Applied Materials는 하락, 반면 메모리주인 샌디스크·마이크론은 상승  \nAI 인프라 장기 포지션 확대, OpenAI·Anthropic IPO 계획 및 Anthropic의 Decart 인수 추진'}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 29', 'parameters': {'retry_after': 29}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 28', 'parameters': {'retry_after': 28}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 27', 'parameters': {'retry_after': 27}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 26', 'parameters': {'retry_after': 26}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 25', 'parameters': {'retry_after': 25}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 24', 'parameters': {'retry_after': 24}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 23', 'parameters': {'retry_after': 23}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 23', 'parameters': {'retry_after': 23}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 22', 'parameters': {'retry_after': 22}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 21', 'parameters': {'retry_after': 21}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 20', 'parameters': {'retry_after': 20}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 19', 'parameters': {'retry_after': 19}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 18', 'parameters': {'retry_after': 18}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 18', 'parameters': {'retry_after': 18}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 17', 'parameters': {'retry_after': 17}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 16', 'parameters': {'retry_after': 16}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 16', 'parameters': {'retry_after': 16}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 15', 'parameters': {'retry_after': 15}}
+============================================================
+Workflow completed with status: completed
+============================================================
+[SITE] wrote index.html (16 images, 4 summaries)
+```
