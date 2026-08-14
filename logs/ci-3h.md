@@ -19728,3 +19728,32 @@ Workflow completed with status: completed
 ============================================================
 [SITE] wrote index.html (16 images, 4 summaries)
 ```
+
+## 3h @ 2026-08-15 04:46:28 KST — ok (run #685)
+```
+{'ok': True, 'result': {'message_id': 177003, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1786736701, 'text': '📊 hull-sentiment-meter'}}
+{'ok': True, 'result': {'message_id': 177004, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1786736702, 'photo': [{'file_id': 'AgACAgUAAyEGAASPJ3n-AAECsDNqfj-WxbFnDd8ENZV1pvh1MKP6VwAC_RhrG2xy8VdlfQVcewKKEgEAAwIAA3MAAz0E', 'file_unique_id': 'AQAD_RhrG2xy8Vd4', 'file_size': 672, 'width': 90, 'height': 15}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECsDNqfj-WxbFnDd8ENZV1pvh1MKP6VwAC_RhrG2xy8VdlfQVcewKKEgEAAwIAA20AAz0E', 'file_unique_id': 'AQAD_RhrG2xy8Vdy', 'file_size': 5305, 'width': 320, 'height': 54}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECsDNqfj-WxbFnDd8ENZV1pvh1MKP6VwAC_RhrG2xy8VdlfQVcewKKEgEAAwIAA3gAAz0E', 'file_unique_id': 'AQAD_RhrG2xy8Vd9', 'file_size': 17990, 'width': 800, 'height': 135}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECsDNqfj-WxbFnDd8ENZV1pvh1MKP6VwAC_RhrG2xy8VdlfQVcewKKEgEAAwIAA3kAAz0E', 'file_unique_id': 'AQAD_RhrG2xy8Vd-', 'file_size': 31777, 'width': 1280, 'height': 216}]}}
+{'ok': True, 'result': {'message_id': 177005, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1786736703, 'text': '📊 finviz-sec-map'}}
+{'ok': True, 'result': {'message_id': 177006, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1786736706, 'photo': [{'file_id': 'AgACAgUAAyEGAASPJ3n-AAECs25qf3BBGgZIgYQdeGPJWaKGyyxbVAACxh9rG2xy-VcVtqSHYK7zFAEAAwIAA3MAAz0E', 'file_unique_id': 'AQADxh9rG2xy-Vd4', 'file_size': 1320, 'width': 90, 'height': 50}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECs25qf3BBGgZIgYQdeGPJWaKGyyxbVAACxh9rG2xy-VcVtqSHYK7zFAEAAwIAA20AAz0E', 'file_unique_id': 'AQADxh9rG2xy-Vdy', 'file_size': 21969, 'width': 320, 'height': 178}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECs25qf3BBGgZIgYQdeGPJWaKGyyxbVAACxh9rG2xy-VcVtqSHYK7zFAEAAwIAA3gAAz0E', 'file_unique_id': 'AQADxh9rG2xy-Vd9', 'file_size': 106192, 'width': 800, 'height': 444}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECs25qf3BBGgZIgYQdeGPJWaKGyyxbVAACxh9rG2xy-VcVtqSHYK7zFAEAAwIAA3kAAz0E', 'file_unique_id': 'AQADxh9rG2xy-Vd-', 'file_size': 232955, 'width': 1280, 'height': 710}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECs25qf3BBGgZIgYQdeGPJWaKGyyxbVAACxh9rG2xy-VcVtqSHYK7zFAEAAwIAA3cAAz0E', 'file_unique_id': 'AQADxh9rG2xy-Vd8', 'file_size': 290014, 'width': 1508, 'height': 837}]}}
+{'ok': True, 'result': {'message_id': 177007, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1786736707, 'text': '📊 cnn-fear-greed'}}
+{'ok': True, 'result': {'message_id': 177008, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1786736708, 'photo': [{'file_id': 'AgACAgUAAyEGAASPJ3n-AAECnXVqeAkILkxT7cDMsmXepxV4MMRePgACIxJrG0y0wVdqK7Gs2cElcQEAAwIAA3MAAz0E', 'file_unique_id': 'AQADIxJrG0y0wVd4', 'file_size': 842, 'width': 90, 'height': 48}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECnXVqeAkILkxT7cDMsmXepxV4MMRePgACIxJrG0y0wVdqK7Gs2cElcQEAAwIAA20AAz0E', 'file_unique_id': 'AQADIxJrG0y0wVdy', 'file_size': 7811, 'width': 320, 'height': 170}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECnXVqeAkILkxT7cDMsmXepxV4MMRePgACIxJrG0y0wVdqK7Gs2cElcQEAAwIAA3gAAz0E', 'file_unique_id': 'AQADIxJrG0y0wVd9', 'file_size': 19596, 'width': 650, 'height': 346}]}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 32', 'parameters': {'retry_after': 32}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 31', 'parameters': {'retry_after': 31}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 31', 'parameters': {'retry_after': 31}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 30', 'parameters': {'retry_after': 30}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 29', 'parameters': {'retry_after': 29}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 29', 'parameters': {'retry_after': 29}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 28', 'parameters': {'retry_after': 28}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 27', 'parameters': {'retry_after': 27}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 27', 'parameters': {'retry_after': 27}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 26', 'parameters': {'retry_after': 26}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 25', 'parameters': {'retry_after': 25}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 25', 'parameters': {'retry_after': 25}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 24', 'parameters': {'retry_after': 24}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 24', 'parameters': {'retry_after': 24}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 23', 'parameters': {'retry_after': 23}}
+============================================================
+Workflow completed with status: completed
+============================================================
+[SITE] wrote index.html (16 images, 4 summaries)
+```
