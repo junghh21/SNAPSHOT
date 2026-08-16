@@ -20511,3 +20511,32 @@ Workflow completed with status: completed
 ============================================================
 [SITE] wrote index.html (16 images, 4 summaries)
 ```
+
+## 3h @ 2026-08-16 22:05:44 KST — ok (run #712)
+```
+{'ok': True, 'result': {'message_id': 179273, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1786885458, 'photo': [{'file_id': 'AgACAgUAAyEGAASPJ3n-AAECtL5qf8sP3EZJUQkSGPDZgxTCNCH6GQADIGsbbHL5Vw-DDbZmhnQ3AQADAgADcwADPQQ', 'file_unique_id': 'AQAEIGsbbHL5V3g', 'file_size': 1326, 'width': 90, 'height': 50}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECtL5qf8sP3EZJUQkSGPDZgxTCNCH6GQADIGsbbHL5Vw-DDbZmhnQ3AQADAgADbQADPQQ', 'file_unique_id': 'AQAEIGsbbHL5V3I', 'file_size': 22122, 'width': 320, 'height': 178}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECtL5qf8sP3EZJUQkSGPDZgxTCNCH6GQADIGsbbHL5Vw-DDbZmhnQ3AQADAgADeAADPQQ', 'file_unique_id': 'AQAEIGsbbHL5V30', 'file_size': 106726, 'width': 800, 'height': 444}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECtL5qf8sP3EZJUQkSGPDZgxTCNCH6GQADIGsbbHL5Vw-DDbZmhnQ3AQADAgADeQADPQQ', 'file_unique_id': 'AQAEIGsbbHL5V34', 'file_size': 233987, 'width': 1280, 'height': 710}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECtL5qf8sP3EZJUQkSGPDZgxTCNCH6GQADIGsbbHL5Vw-DDbZmhnQ3AQADAgADdwADPQQ', 'file_unique_id': 'AQAEIGsbbHL5V3w', 'file_size': 291920, 'width': 1508, 'height': 837}]}}
+{'ok': True, 'result': {'message_id': 179274, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1786885459, 'text': '📊 te-us-stock-market'}}
+{'ok': True, 'result': {'message_id': 179275, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1786885460, 'text': 'US 주요 지수 하락, S&P 500 0.2%·다우 108포인트·나스닥 0.1% 감소.  \n경기 둔화 신호, 미대학 조사 51·소매판매 1년 최대 감소.  \n메타·오라클·아마존 등 하이퍼스케일러 하락, 반도체는 AMD·마이크론·샌디스크 상승.'}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 37', 'parameters': {'retry_after': 37}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 36', 'parameters': {'retry_after': 36}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 36', 'parameters': {'retry_after': 36}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 35', 'parameters': {'retry_after': 35}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 35', 'parameters': {'retry_after': 35}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 34', 'parameters': {'retry_after': 34}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 33', 'parameters': {'retry_after': 33}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 33', 'parameters': {'retry_after': 33}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 32', 'parameters': {'retry_after': 32}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 32', 'parameters': {'retry_after': 32}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 31', 'parameters': {'retry_after': 31}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 30', 'parameters': {'retry_after': 30}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 29', 'parameters': {'retry_after': 29}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 29', 'parameters': {'retry_after': 29}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 29', 'parameters': {'retry_after': 29}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 28', 'parameters': {'retry_after': 28}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 28', 'parameters': {'retry_after': 28}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 27', 'parameters': {'retry_after': 27}}
+============================================================
+Workflow completed with status: completed
+============================================================
+[SITE] wrote index.html (16 images, 4 summaries)
+```
