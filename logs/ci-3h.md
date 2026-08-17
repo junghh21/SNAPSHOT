@@ -20743,3 +20743,32 @@ Workflow completed with status: completed
 ============================================================
 [SITE] wrote index.html (16 images, 4 summaries)
 ```
+
+## 3h @ 2026-08-17 10:06:14 KST — ok (run #720)
+```
+{'ok': True, 'result': {'message_id': 180005, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1786928684, 'photo': [{'file_id': 'AgACAgUAAyEGAASPJ3n-AAECtL5qf8sP3EZJUQkSGPDZgxTCNCH6GQADIGsbbHL5Vw-DDbZmhnQ3AQADAgADcwADPQQ', 'file_unique_id': 'AQAEIGsbbHL5V3g', 'file_size': 1326, 'width': 90, 'height': 50}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECtL5qf8sP3EZJUQkSGPDZgxTCNCH6GQADIGsbbHL5Vw-DDbZmhnQ3AQADAgADbQADPQQ', 'file_unique_id': 'AQAEIGsbbHL5V3I', 'file_size': 22122, 'width': 320, 'height': 178}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECtL5qf8sP3EZJUQkSGPDZgxTCNCH6GQADIGsbbHL5Vw-DDbZmhnQ3AQADAgADeAADPQQ', 'file_unique_id': 'AQAEIGsbbHL5V30', 'file_size': 106726, 'width': 800, 'height': 444}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECtL5qf8sP3EZJUQkSGPDZgxTCNCH6GQADIGsbbHL5Vw-DDbZmhnQ3AQADAgADeQADPQQ', 'file_unique_id': 'AQAEIGsbbHL5V34', 'file_size': 233987, 'width': 1280, 'height': 710}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECtL5qf8sP3EZJUQkSGPDZgxTCNCH6GQADIGsbbHL5Vw-DDbZmhnQ3AQADAgADdwADPQQ', 'file_unique_id': 'AQAEIGsbbHL5V3w', 'file_size': 291920, 'width': 1508, 'height': 837}]}}
+{'ok': True, 'result': {'message_id': 180006, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1786928685, 'text': '📊 te-us-stock-market'}}
+{'ok': True, 'result': {'message_id': 180007, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1786928686, 'text': '주식 선물 상승, 홈디포·로우스·월마트 실적 기대  \n연준 회의록 검토, 인플레이션 둔화로 9월 금리 인상 기대↓  \nS&P·나스닥 3주 연속 상승, 기록 근접·AI·중동 우려 지속'}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 36', 'parameters': {'retry_after': 36}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 35', 'parameters': {'retry_after': 35}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 35', 'parameters': {'retry_after': 35}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 34', 'parameters': {'retry_after': 34}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 33', 'parameters': {'retry_after': 33}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 33', 'parameters': {'retry_after': 33}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 32', 'parameters': {'retry_after': 32}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 31', 'parameters': {'retry_after': 31}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 31', 'parameters': {'retry_after': 31}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 30', 'parameters': {'retry_after': 30}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 30', 'parameters': {'retry_after': 30}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 29', 'parameters': {'retry_after': 29}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 28', 'parameters': {'retry_after': 28}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 28', 'parameters': {'retry_after': 28}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 27', 'parameters': {'retry_after': 27}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 27', 'parameters': {'retry_after': 27}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 26', 'parameters': {'retry_after': 26}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 25', 'parameters': {'retry_after': 25}}
+============================================================
+Workflow completed with status: completed
+============================================================
+[SITE] wrote index.html (16 images, 4 summaries)
+```
