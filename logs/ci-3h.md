@@ -21149,3 +21149,32 @@ Workflow completed with status: completed
 ============================================================
 [SITE] wrote index.html (16 images, 4 summaries)
 ```
+
+## 3h @ 2026-08-18 07:06:09 KST — ok (run #734)
+```
+{'ok': True, 'result': {'message_id': 181099, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1787004280, 'photo': [{'file_id': 'AgACAgUAAyEGAASPJ3n-AAECw2tqg4V4d_Z2UdoIv6L1r35edDrGPgAC6BVrGz4vGVQpbhbk--R1GAEAAwIAA3MAAz0E', 'file_unique_id': 'AQAD6BVrGz4vGVR4', 'file_size': 1346, 'width': 90, 'height': 50}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECw2tqg4V4d_Z2UdoIv6L1r35edDrGPgAC6BVrGz4vGVQpbhbk--R1GAEAAwIAA20AAz0E', 'file_unique_id': 'AQAD6BVrGz4vGVRy', 'file_size': 22374, 'width': 320, 'height': 178}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECw2tqg4V4d_Z2UdoIv6L1r35edDrGPgAC6BVrGz4vGVQpbhbk--R1GAEAAwIAA3gAAz0E', 'file_unique_id': 'AQAD6BVrGz4vGVR9', 'file_size': 109391, 'width': 800, 'height': 444}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECw2tqg4V4d_Z2UdoIv6L1r35edDrGPgAC6BVrGz4vGVQpbhbk--R1GAEAAwIAA3kAAz0E', 'file_unique_id': 'AQAD6BVrGz4vGVR-', 'file_size': 242279, 'width': 1280, 'height': 710}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECw2tqg4V4d_Z2UdoIv6L1r35edDrGPgAC6BVrGz4vGVQpbhbk--R1GAEAAwIAA3cAAz0E', 'file_unique_id': 'AQAD6BVrGz4vGVR8', 'file_size': 301791, 'width': 1508, 'height': 837}]}}
+{'ok': True, 'result': {'message_id': 181100, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1787004281, 'text': '📊 te-us-stock-market'}}
+{'ok': True, 'result': {'message_id': 181101, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1787004282, 'text': '미국 주식시장 하락, 석유가격 상승 우려와 중동 전쟁 종전 기대 감소.  \n인플레이션 우려와 정부 지출 확대에 30년 국채 금리 2007년 이후 최고치.  \n금융·빅테크 주가 하락, 반도체·칩 기업은 매출 호조로 상승.'}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 31', 'parameters': {'retry_after': 31}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 30', 'parameters': {'retry_after': 30}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 29', 'parameters': {'retry_after': 29}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 28', 'parameters': {'retry_after': 28}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 28', 'parameters': {'retry_after': 28}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 27', 'parameters': {'retry_after': 27}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 26', 'parameters': {'retry_after': 26}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 25', 'parameters': {'retry_after': 25}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 24', 'parameters': {'retry_after': 24}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 24', 'parameters': {'retry_after': 24}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 23', 'parameters': {'retry_after': 23}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 22', 'parameters': {'retry_after': 22}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 21', 'parameters': {'retry_after': 21}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 20', 'parameters': {'retry_after': 20}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 20', 'parameters': {'retry_after': 20}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 19', 'parameters': {'retry_after': 19}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 18', 'parameters': {'retry_after': 18}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 18', 'parameters': {'retry_after': 18}}
+============================================================
+Workflow completed with status: completed
+============================================================
+[SITE] wrote index.html (16 images, 4 summaries)
+```
