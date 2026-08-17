@@ -21033,3 +21033,32 @@ Workflow completed with status: completed
 ============================================================
 [SITE] wrote index.html (16 images, 4 summaries)
 ```
+
+## 3h @ 2026-08-18 01:06:17 KST — ok (run #730)
+```
+{'ok': True, 'result': {'message_id': 180785, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1786982683, 'photo': [{'file_id': 'AgACAgUAAyEGAASPJ3n-AAECwjFqgzEbbVapOtWcK3teUUXfLD7EPAACSRVrGz4vGVSyDIyQCYLt2AEAAwIAA3MAAz0E', 'file_unique_id': 'AQADSRVrGz4vGVR4', 'file_size': 1335, 'width': 90, 'height': 50}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECwjFqgzEbbVapOtWcK3teUUXfLD7EPAACSRVrGz4vGVSyDIyQCYLt2AEAAwIAA20AAz0E', 'file_unique_id': 'AQADSRVrGz4vGVRy', 'file_size': 22220, 'width': 320, 'height': 178}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECwjFqgzEbbVapOtWcK3teUUXfLD7EPAACSRVrGz4vGVSyDIyQCYLt2AEAAwIAA3gAAz0E', 'file_unique_id': 'AQADSRVrGz4vGVR9', 'file_size': 108722, 'width': 800, 'height': 444}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECwjFqgzEbbVapOtWcK3teUUXfLD7EPAACSRVrGz4vGVSyDIyQCYLt2AEAAwIAA3kAAz0E', 'file_unique_id': 'AQADSRVrGz4vGVR-', 'file_size': 240242, 'width': 1280, 'height': 710}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECwjFqgzEbbVapOtWcK3teUUXfLD7EPAACSRVrGz4vGVSyDIyQCYLt2AEAAwIAA3cAAz0E', 'file_unique_id': 'AQADSRVrGz4vGVR8', 'file_size': 299574, 'width': 1508, 'height': 837}]}}
+{'ok': True, 'result': {'message_id': 180786, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1786982684, 'text': '📊 te-us-stock-market'}}
+{'ok': True, 'result': {'message_id': 180787, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1786982685, 'text': 'AI 투자 기대감이 매크로 역풍과 맞서 미국 주요 지수는 변동성 없이 보합.  \nAnthropic 2분기 매출 115억 달러, IPO 준비 중이며 AI·데이터 투자 기대.  \n메모리칩·Nvidia·Amazon 상승, 섹터는 약세, 월마트·홈디포는 실적 앞서 관망.'}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 31', 'parameters': {'retry_after': 31}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 30', 'parameters': {'retry_after': 30}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 29', 'parameters': {'retry_after': 29}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 28', 'parameters': {'retry_after': 28}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 27', 'parameters': {'retry_after': 27}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 27', 'parameters': {'retry_after': 27}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 25', 'parameters': {'retry_after': 25}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 25', 'parameters': {'retry_after': 25}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 24', 'parameters': {'retry_after': 24}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 23', 'parameters': {'retry_after': 23}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 22', 'parameters': {'retry_after': 22}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 22', 'parameters': {'retry_after': 22}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 21', 'parameters': {'retry_after': 21}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 20', 'parameters': {'retry_after': 20}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 20', 'parameters': {'retry_after': 20}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 19', 'parameters': {'retry_after': 19}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 18', 'parameters': {'retry_after': 18}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 17', 'parameters': {'retry_after': 17}}
+============================================================
+Workflow completed with status: completed
+============================================================
+[SITE] wrote index.html (16 images, 4 summaries)
+```
