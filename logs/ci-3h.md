@@ -21439,3 +21439,32 @@ Workflow completed with status: completed
 ============================================================
 [SITE] wrote index.html (16 images, 4 summaries)
 ```
+
+## 3h @ 2026-08-18 22:06:52 KST — ok (run #744)
+```
+{'ok': True, 'result': {'message_id': 181872, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1787058319, 'photo': [{'file_id': 'AgACAgUAAyEGAASPJ3n-AAECxnBqhFiOZdlCfjWo6bTFYFmqm8l9RgACDxVrG1ggIVSwKwABmLo8MREBAAMCAANzAAM9BA', 'file_unique_id': 'AQADDxVrG1ggIVR4', 'file_size': 1292, 'width': 90, 'height': 50}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECxnBqhFiOZdlCfjWo6bTFYFmqm8l9RgACDxVrG1ggIVSwKwABmLo8MREBAAMCAANtAAM9BA', 'file_unique_id': 'AQADDxVrG1ggIVRy', 'file_size': 21481, 'width': 320, 'height': 178}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECxnBqhFiOZdlCfjWo6bTFYFmqm8l9RgACDxVrG1ggIVSwKwABmLo8MREBAAMCAAN4AAM9BA', 'file_unique_id': 'AQADDxVrG1ggIVR9', 'file_size': 105662, 'width': 800, 'height': 444}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECxnBqhFiOZdlCfjWo6bTFYFmqm8l9RgACDxVrG1ggIVSwKwABmLo8MREBAAMCAAN5AAM9BA', 'file_unique_id': 'AQADDxVrG1ggIVR-', 'file_size': 233151, 'width': 1280, 'height': 710}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECxnBqhFiOZdlCfjWo6bTFYFmqm8l9RgACDxVrG1ggIVSwKwABmLo8MREBAAMCAAN3AAM9BA', 'file_unique_id': 'AQADDxVrG1ggIVR8', 'file_size': 290273, 'width': 1508, 'height': 837}]}}
+{'ok': True, 'result': {'message_id': 181873, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1787058320, 'text': '📊 te-us-stock-market'}}
+{'ok': True, 'result': {'message_id': 181874, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1787058320, 'text': 'AI 기업 지원에도 금리 상승으로 미국 주식선물 대부분 하락.  \n장기 국채 수익률 인플레이션·AI 채권 발행 증가로 다년 최고치.  \nAI·은행 주가 하락, 홈디포는 실적 호조로 1% 상승.'}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 36', 'parameters': {'retry_after': 36}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 35', 'parameters': {'retry_after': 35}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 34', 'parameters': {'retry_after': 34}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 34', 'parameters': {'retry_after': 34}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 33', 'parameters': {'retry_after': 33}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 33', 'parameters': {'retry_after': 33}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 32', 'parameters': {'retry_after': 32}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 31', 'parameters': {'retry_after': 31}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 30', 'parameters': {'retry_after': 30}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 30', 'parameters': {'retry_after': 30}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 29', 'parameters': {'retry_after': 29}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 29', 'parameters': {'retry_after': 29}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 28', 'parameters': {'retry_after': 28}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 27', 'parameters': {'retry_after': 27}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 27', 'parameters': {'retry_after': 27}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 26', 'parameters': {'retry_after': 26}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 26', 'parameters': {'retry_after': 26}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 25', 'parameters': {'retry_after': 25}}
+============================================================
+Workflow completed with status: completed
+============================================================
+[SITE] wrote index.html (16 images, 4 summaries)
+```
