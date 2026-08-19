@@ -21671,3 +21671,32 @@ Workflow completed with status: completed
 ============================================================
 [SITE] wrote index.html (16 images, 4 summaries)
 ```
+
+## 3h @ 2026-08-19 10:06:38 KST — ok (run #752)
+```
+{'ok': True, 'result': {'message_id': 182525, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1787101477, 'photo': [{'file_id': 'AgACAgUAAyEGAASPJ3n-AAECyGBqhNb1BR6QllIHhffyi_1gFV0tewACEBdrG1ggIVQTX3Rum6wNxQEAAwIAA3MAAz0E', 'file_unique_id': 'AQADEBdrG1ggIVR4', 'file_size': 1378, 'width': 90, 'height': 50}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECyGBqhNb1BR6QllIHhffyi_1gFV0tewACEBdrG1ggIVQTX3Rum6wNxQEAAwIAA20AAz0E', 'file_unique_id': 'AQADEBdrG1ggIVRy', 'file_size': 22422, 'width': 320, 'height': 178}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECyGBqhNb1BR6QllIHhffyi_1gFV0tewACEBdrG1ggIVQTX3Rum6wNxQEAAwIAA3gAAz0E', 'file_unique_id': 'AQADEBdrG1ggIVR9', 'file_size': 110157, 'width': 800, 'height': 444}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECyGBqhNb1BR6QllIHhffyi_1gFV0tewACEBdrG1ggIVQTX3Rum6wNxQEAAwIAA3kAAz0E', 'file_unique_id': 'AQADEBdrG1ggIVR-', 'file_size': 242416, 'width': 1280, 'height': 710}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECyGBqhNb1BR6QllIHhffyi_1gFV0tewACEBdrG1ggIVQTX3Rum6wNxQEAAwIAA3cAAz0E', 'file_unique_id': 'AQADEBdrG1ggIVR8', 'file_size': 301474, 'width': 1508, 'height': 837}]}}
+{'ok': True, 'result': {'message_id': 182526, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1787101478, 'text': '📊 te-us-stock-market'}}
+{'ok': True, 'result': {'message_id': 182527, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1787101479, 'text': '반도체·기술주 매도와 30년 국채 수익률 상승으로 미국 주가지수 선물 하락  \n미국과 이란이 호르무즈 해협 재개에 합의 조짐 없어 긴장 지속  \n다우·S&P·나스닥 3일 연속 하락, AI 칩 기업 손실 확대, 연준 회의록·소매실적 기대'}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 32', 'parameters': {'retry_after': 32}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 31', 'parameters': {'retry_after': 31}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 31', 'parameters': {'retry_after': 31}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 30', 'parameters': {'retry_after': 30}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 29', 'parameters': {'retry_after': 29}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 28', 'parameters': {'retry_after': 28}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 27', 'parameters': {'retry_after': 27}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 26', 'parameters': {'retry_after': 26}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 25', 'parameters': {'retry_after': 25}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 25', 'parameters': {'retry_after': 25}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 24', 'parameters': {'retry_after': 24}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 23', 'parameters': {'retry_after': 23}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 21', 'parameters': {'retry_after': 21}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 21', 'parameters': {'retry_after': 21}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 20', 'parameters': {'retry_after': 20}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 19', 'parameters': {'retry_after': 19}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 19', 'parameters': {'retry_after': 19}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 18', 'parameters': {'retry_after': 18}}
+============================================================
+Workflow completed with status: completed
+============================================================
+[SITE] wrote index.html (16 images, 4 summaries)
+```
