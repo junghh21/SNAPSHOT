@@ -21787,3 +21787,32 @@ Workflow completed with status: completed
 ============================================================
 [SITE] wrote index.html (16 images, 4 summaries)
 ```
+
+## 3h @ 2026-08-19 16:06:48 KST — ok (run #756)
+```
+{'ok': True, 'result': {'message_id': 182804, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1787123101, 'photo': [{'file_id': 'AgACAgUAAyEGAASPJ3n-AAECyGBqhNb1BR6QllIHhffyi_1gFV0tewACEBdrG1ggIVQTX3Rum6wNxQEAAwIAA3MAAz0E', 'file_unique_id': 'AQADEBdrG1ggIVR4', 'file_size': 1378, 'width': 90, 'height': 50}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECyGBqhNb1BR6QllIHhffyi_1gFV0tewACEBdrG1ggIVQTX3Rum6wNxQEAAwIAA20AAz0E', 'file_unique_id': 'AQADEBdrG1ggIVRy', 'file_size': 22422, 'width': 320, 'height': 178}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECyGBqhNb1BR6QllIHhffyi_1gFV0tewACEBdrG1ggIVQTX3Rum6wNxQEAAwIAA3gAAz0E', 'file_unique_id': 'AQADEBdrG1ggIVR9', 'file_size': 110157, 'width': 800, 'height': 444}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECyGBqhNb1BR6QllIHhffyi_1gFV0tewACEBdrG1ggIVQTX3Rum6wNxQEAAwIAA3kAAz0E', 'file_unique_id': 'AQADEBdrG1ggIVR-', 'file_size': 242416, 'width': 1280, 'height': 710}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECyGBqhNb1BR6QllIHhffyi_1gFV0tewACEBdrG1ggIVQTX3Rum6wNxQEAAwIAA3cAAz0E', 'file_unique_id': 'AQADEBdrG1ggIVR8', 'file_size': 301474, 'width': 1508, 'height': 837}]}}
+{'ok': True, 'result': {'message_id': 182805, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1787123102, 'text': '📊 te-us-stock-market'}}
+{'ok': True, 'result': {'message_id': 182806, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1787123103, 'text': '미국 주식 선물 하락, 반도체·기술주 매도와 30년 국채수익률 19년 최고  \n미국과 이란, 호르무즈 해협 재개 협상 전망 미미  \n다우·S&P·나스닥 3일 연속 하락, AI 칩주 급락, 연준 회의록·소매실적 기대'}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 34', 'parameters': {'retry_after': 34}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 33', 'parameters': {'retry_after': 33}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 33', 'parameters': {'retry_after': 33}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 32', 'parameters': {'retry_after': 32}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 31', 'parameters': {'retry_after': 31}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 30', 'parameters': {'retry_after': 30}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 29', 'parameters': {'retry_after': 29}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 29', 'parameters': {'retry_after': 29}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 28', 'parameters': {'retry_after': 28}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 27', 'parameters': {'retry_after': 27}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 26', 'parameters': {'retry_after': 26}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 26', 'parameters': {'retry_after': 26}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 25', 'parameters': {'retry_after': 25}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 24', 'parameters': {'retry_after': 24}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 24', 'parameters': {'retry_after': 24}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 23', 'parameters': {'retry_after': 23}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 23', 'parameters': {'retry_after': 23}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 22', 'parameters': {'retry_after': 22}}
+============================================================
+Workflow completed with status: completed
+============================================================
+[SITE] wrote index.html (16 images, 4 summaries)
+```
