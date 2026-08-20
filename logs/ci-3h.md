@@ -22251,3 +22251,32 @@ Workflow completed with status: completed
 ============================================================
 [SITE] wrote index.html (16 images, 4 summaries)
 ```
+
+## 3h @ 2026-08-20 16:06:33 KST — ok (run #772)
+```
+{'ok': True, 'result': {'message_id': 184078, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1787209492, 'photo': [{'file_id': 'AgACAgUAAyEGAASPJ3n-AAECzT1qhiiV9oAZXRRf7fEoqUPAtXrGTgAChxFrGzLpMVRET395kMlf5wEAAwIAA3MAAz0E', 'file_unique_id': 'AQADhxFrGzLpMVR4', 'file_size': 1395, 'width': 90, 'height': 50}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECzT1qhiiV9oAZXRRf7fEoqUPAtXrGTgAChxFrGzLpMVRET395kMlf5wEAAwIAA20AAz0E', 'file_unique_id': 'AQADhxFrGzLpMVRy', 'file_size': 22796, 'width': 320, 'height': 178}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECzT1qhiiV9oAZXRRf7fEoqUPAtXrGTgAChxFrGzLpMVRET395kMlf5wEAAwIAA3gAAz0E', 'file_unique_id': 'AQADhxFrGzLpMVR9', 'file_size': 111821, 'width': 800, 'height': 444}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECzT1qhiiV9oAZXRRf7fEoqUPAtXrGTgAChxFrGzLpMVRET395kMlf5wEAAwIAA3kAAz0E', 'file_unique_id': 'AQADhxFrGzLpMVR-', 'file_size': 246749, 'width': 1280, 'height': 710}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECzT1qhiiV9oAZXRRf7fEoqUPAtXrGTgAChxFrGzLpMVRET395kMlf5wEAAwIAA3cAAz0E', 'file_unique_id': 'AQADhxFrGzLpMVR8', 'file_size': 305563, 'width': 1508, 'height': 837}]}}
+{'ok': True, 'result': {'message_id': 184079, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1787209493, 'text': '📊 te-us-stock-market'}}
+{'ok': True, 'result': {'message_id': 184080, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1787209494, 'text': '미국 주식 선물은 전일 반등 뒤 상승세, 국채 수익률 급락으로 투자 심리 회복  \n경기소비재·원자재·소비재 섹터는 상승, 산업·기술·금융은 하락세  \n정부가 장기채 재구매 확대 발표 후 30년물 수익률 하락, 월마트 실적·실업수당 청구 주목'}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 36', 'parameters': {'retry_after': 36}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 35', 'parameters': {'retry_after': 35}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 35', 'parameters': {'retry_after': 35}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 34', 'parameters': {'retry_after': 34}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 33', 'parameters': {'retry_after': 33}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 33', 'parameters': {'retry_after': 33}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 32', 'parameters': {'retry_after': 32}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 31', 'parameters': {'retry_after': 31}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 31', 'parameters': {'retry_after': 31}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 30', 'parameters': {'retry_after': 30}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 29', 'parameters': {'retry_after': 29}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 29', 'parameters': {'retry_after': 29}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 28', 'parameters': {'retry_after': 28}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 27', 'parameters': {'retry_after': 27}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 27', 'parameters': {'retry_after': 27}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 26', 'parameters': {'retry_after': 26}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 26', 'parameters': {'retry_after': 26}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 25', 'parameters': {'retry_after': 25}}
+============================================================
+Workflow completed with status: completed
+============================================================
+[SITE] wrote index.html (16 images, 4 summaries)
+```
