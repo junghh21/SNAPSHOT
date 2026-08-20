@@ -22483,3 +22483,32 @@ Workflow completed with status: completed
 ============================================================
 [SITE] wrote index.html (16 images, 4 summaries)
 ```
+
+## 3h @ 2026-08-21 04:09:00 KST — ok (run #780)
+```
+{'ok': True, 'result': {'message_id': 184726, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1787252798, 'photo': [{'file_id': 'AgACAgUAAyEGAASPJ3n-AAEC0ZZqh1A-cxPyl51qr1fIaXu5DxpZUAAC6BdrGzLpOVS5Oj_1249XBQEAAwIAA3MAAz0E', 'file_unique_id': 'AQAD6BdrGzLpOVR4', 'file_size': 1314, 'width': 90, 'height': 50}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEC0ZZqh1A-cxPyl51qr1fIaXu5DxpZUAAC6BdrGzLpOVS5Oj_1249XBQEAAwIAA20AAz0E', 'file_unique_id': 'AQAD6BdrGzLpOVRy', 'file_size': 22278, 'width': 320, 'height': 178}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEC0ZZqh1A-cxPyl51qr1fIaXu5DxpZUAAC6BdrGzLpOVS5Oj_1249XBQEAAwIAA3gAAz0E', 'file_unique_id': 'AQAD6BdrGzLpOVR9', 'file_size': 109537, 'width': 800, 'height': 444}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEC0ZZqh1A-cxPyl51qr1fIaXu5DxpZUAAC6BdrGzLpOVS5Oj_1249XBQEAAwIAA3kAAz0E', 'file_unique_id': 'AQAD6BdrGzLpOVR-', 'file_size': 240344, 'width': 1280, 'height': 710}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEC0ZZqh1A-cxPyl51qr1fIaXu5DxpZUAAC6BdrGzLpOVS5Oj_1249XBQEAAwIAA3cAAz0E', 'file_unique_id': 'AQAD6BdrGzLpOVR8', 'file_size': 298928, 'width': 1508, 'height': 837}]}}
+{'ok': True, 'result': {'message_id': 184727, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1787252799, 'text': '📊 te-us-stock-market'}}
+{'ok': True, 'result': {'message_id': 184728, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1787252800, 'text': '미국 주식이 전일 상승을 말소하고 하락, S&P·다우·나스닥 0.5~1% 떨어짐  \n트럼프 대통령의 이란 경제전쟁 선언과 연료가격 상승으로 차입비용↑, 은행도 손실  \nAI 기업 실적 부진·월마트 매출 악화로 월마트 8% 급락, 4년 만 최악'}}
+{'ok': True, 'result': {'message_id': 184729, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1787252801, 'text': '📊 cnn-fear-greed'}}
+{'ok': True, 'result': {'message_id': 184730, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1787252803, 'photo': [{'file_id': 'AgACAgUAAyEGAASPJ3n-AAEC0Zpqh1BCr7ro7xfFytGcC9xfa9gJ6AAC6RdrGzLpOVRTbHEdeVw90QEAAwIAA3MAAz0E', 'file_unique_id': 'AQAD6RdrGzLpOVR4', 'file_size': 771, 'width': 90, 'height': 48}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEC0Zpqh1BCr7ro7xfFytGcC9xfa9gJ6AAC6RdrGzLpOVRTbHEdeVw90QEAAwIAA20AAz0E', 'file_unique_id': 'AQAD6RdrGzLpOVRy', 'file_size': 6868, 'width': 320, 'height': 170}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEC0Zpqh1BCr7ro7xfFytGcC9xfa9gJ6AAC6RdrGzLpOVRTbHEdeVw90QEAAwIAA3gAAz0E', 'file_unique_id': 'AQAD6RdrGzLpOVR9', 'file_size': 17560, 'width': 650, 'height': 346}]}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 35', 'parameters': {'retry_after': 35}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 34', 'parameters': {'retry_after': 34}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 34', 'parameters': {'retry_after': 34}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 34', 'parameters': {'retry_after': 34}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 33', 'parameters': {'retry_after': 33}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 32', 'parameters': {'retry_after': 32}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 31', 'parameters': {'retry_after': 31}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 31', 'parameters': {'retry_after': 31}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 30', 'parameters': {'retry_after': 30}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 29', 'parameters': {'retry_after': 29}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 28', 'parameters': {'retry_after': 28}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 28', 'parameters': {'retry_after': 28}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 27', 'parameters': {'retry_after': 27}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 27', 'parameters': {'retry_after': 27}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 26', 'parameters': {'retry_after': 26}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 26', 'parameters': {'retry_after': 26}}
+============================================================
+Workflow completed with status: completed
+============================================================
+[SITE] wrote index.html (16 images, 4 summaries)
+```
