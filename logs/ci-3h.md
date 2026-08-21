@@ -22889,3 +22889,32 @@ Workflow completed with status: completed
 ============================================================
 [SITE] wrote index.html (16 images, 4 summaries)
 ```
+
+## 3h @ 2026-08-22 01:08:56 KST — ok (run #794)
+```
+{'ok': True, 'result': {'message_id': 185843, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1787328403, 'photo': [{'file_id': 'AgACAgUAAyEGAASPJ3n-AAEC1fNqiHeS0N2gqeyxHnRKRSboMwbSIwAC2RhrG2PhQVSFwSk0BAWTDwEAAwIAA3MAAz0E', 'file_unique_id': 'AQAD2RhrG2PhQVR4', 'file_size': 1348, 'width': 90, 'height': 50}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEC1fNqiHeS0N2gqeyxHnRKRSboMwbSIwAC2RhrG2PhQVSFwSk0BAWTDwEAAwIAA20AAz0E', 'file_unique_id': 'AQAD2RhrG2PhQVRy', 'file_size': 21922, 'width': 320, 'height': 178}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEC1fNqiHeS0N2gqeyxHnRKRSboMwbSIwAC2RhrG2PhQVSFwSk0BAWTDwEAAwIAA3gAAz0E', 'file_unique_id': 'AQAD2RhrG2PhQVR9', 'file_size': 107057, 'width': 800, 'height': 444}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEC1fNqiHeS0N2gqeyxHnRKRSboMwbSIwAC2RhrG2PhQVSFwSk0BAWTDwEAAwIAA3kAAz0E', 'file_unique_id': 'AQAD2RhrG2PhQVR-', 'file_size': 234892, 'width': 1280, 'height': 710}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEC1fNqiHeS0N2gqeyxHnRKRSboMwbSIwAC2RhrG2PhQVSFwSk0BAWTDwEAAwIAA3cAAz0E', 'file_unique_id': 'AQAD2RhrG2PhQVR8', 'file_size': 291206, 'width': 1508, 'height': 837}]}}
+{'ok': True, 'result': {'message_id': 185844, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1787328404, 'text': '📊 te-us-stock-market'}}
+{'ok': True, 'result': {'message_id': 185845, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1787328406, 'text': '미국 주식 금요일 소폭 상승, S&P·다우 0.4%↑, 나스닥 변동없음.  \n장기 국채 금리 변동 없고 달러 약세, 인플레이션·재정 적자 우려 지속.  \n반도체·AI 기업 손실 지속, 인텔·AMD·시게이트 10%↓, 월마트 10%↓·실적 부진.'}}
+{'ok': True, 'result': {'message_id': 185846, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1787328407, 'text': '📊 cnn-fear-greed'}}
+{'ok': True, 'result': {'message_id': 185847, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1787328408, 'photo': [{'file_id': 'AgACAgUAAyEGAASPJ3n-AAECzedqhlMKg_FE6t9b0WxbzJTPJqQX2QAC0hFrGzLpMVRgbxHRN1DCYAEAAwIAA3MAAz0E', 'file_unique_id': 'AQAD0hFrGzLpMVR4', 'file_size': 863, 'width': 90, 'height': 48}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECzedqhlMKg_FE6t9b0WxbzJTPJqQX2QAC0hFrGzLpMVRgbxHRN1DCYAEAAwIAA20AAz0E', 'file_unique_id': 'AQAD0hFrGzLpMVRy', 'file_size': 7619, 'width': 320, 'height': 170}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAECzedqhlMKg_FE6t9b0WxbzJTPJqQX2QAC0hFrGzLpMVRgbxHRN1DCYAEAAwIAA3gAAz0E', 'file_unique_id': 'AQAD0hFrGzLpMVR9', 'file_size': 19060, 'width': 650, 'height': 346}]}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 25', 'parameters': {'retry_after': 25}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 22', 'parameters': {'retry_after': 22}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 22', 'parameters': {'retry_after': 22}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 21', 'parameters': {'retry_after': 21}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 19', 'parameters': {'retry_after': 19}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 18', 'parameters': {'retry_after': 18}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 17', 'parameters': {'retry_after': 17}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 16', 'parameters': {'retry_after': 16}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 14', 'parameters': {'retry_after': 14}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 13', 'parameters': {'retry_after': 13}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 10', 'parameters': {'retry_after': 10}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 10', 'parameters': {'retry_after': 10}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 9', 'parameters': {'retry_after': 9}}
+{'ok': True, 'result': {'message_id': 185848, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1787328436, 'photo': [{'file_id': 'AgACAgUAAyEGAASPJ3n-AAEC1fhqiHez1I_tI6PR1bIx5F2mwKkHoQAC2hhrG2PhQVQ-6irF4oTUUgEAAwIAA3MAAz0E', 'file_unique_id': 'AQAD2hhrG2PhQVR4', 'file_size': 945, 'width': 90, 'height': 41}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEC1fhqiHez1I_tI6PR1bIx5F2mwKkHoQAC2hhrG2PhQVQ-6irF4oTUUgEAAwIAA20AAz0E', 'file_unique_id': 'AQAD2hhrG2PhQVRy', 'file_size': 10103, 'width': 320, 'height': 146}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEC1fhqiHez1I_tI6PR1bIx5F2mwKkHoQAC2hhrG2PhQVQ-6irF4oTUUgEAAwIAA3gAAz0E', 'file_unique_id': 'AQAD2hhrG2PhQVR9', 'file_size': 13357, 'width': 407, 'height': 186}]}}
+{'ok': True, 'result': {'message_id': 185849, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1787328437, 'text': '❌ vixcentral-term: Failed to capture element with xpath: //*[@id="container1"]'}}
+{'ok': True, 'result': {'message_id': 185850, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1787328438, 'text': '❌ te-us-bond-yield: summary returned empty'}}
+============================================================
+Workflow completed with status: completed
+============================================================
+[SITE] wrote index.html (16 images, 4 summaries)
+```
