@@ -23730,3 +23730,32 @@ Workflow completed with status: completed
 ============================================================
 [SITE] wrote index.html (16 images, 4 summaries)
 ```
+
+## 3h @ 2026-08-23 22:06:40 KST — ok (run #824)
+```
+{'ok': True, 'result': {'message_id': 188321, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1787490303, 'photo': [{'file_id': 'AgACAgUAAyEGAASPJ3n-AAEC2CBqiQY4X8LLR2jqQVc09r_gYMOG6wACpBFrG2PhSVSrl9rj0egV_QEAAwIAA3MAAz0E', 'file_unique_id': 'AQADpBFrG2PhSVR4', 'file_size': 1349, 'width': 90, 'height': 50}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEC2CBqiQY4X8LLR2jqQVc09r_gYMOG6wACpBFrG2PhSVSrl9rj0egV_QEAAwIAA20AAz0E', 'file_unique_id': 'AQADpBFrG2PhSVRy', 'file_size': 22074, 'width': 320, 'height': 178}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEC2CBqiQY4X8LLR2jqQVc09r_gYMOG6wACpBFrG2PhSVSrl9rj0egV_QEAAwIAA3gAAz0E', 'file_unique_id': 'AQADpBFrG2PhSVR9', 'file_size': 107821, 'width': 800, 'height': 444}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEC2CBqiQY4X8LLR2jqQVc09r_gYMOG6wACpBFrG2PhSVSrl9rj0egV_QEAAwIAA3kAAz0E', 'file_unique_id': 'AQADpBFrG2PhSVR-', 'file_size': 236841, 'width': 1280, 'height': 710}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEC2CBqiQY4X8LLR2jqQVc09r_gYMOG6wACpBFrG2PhSVSrl9rj0egV_QEAAwIAA3cAAz0E', 'file_unique_id': 'AQADpBFrG2PhSVR8', 'file_size': 293586, 'width': 1508, 'height': 837}]}}
+{'ok': True, 'result': {'message_id': 188322, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1787490304, 'text': '📊 te-us-stock-market'}}
+{'ok': True, 'result': {'message_id': 188323, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1787490306, 'text': '미국 주요 지수 금요일 상승, 주간 하락 멈춤 (S&P+0.4%, 나스닥+0.3%, 다우+518)  \n미국 기업활동 4년 만에 최고 성장, 채권수익률 상승과 달러 약세 지속  \n알파벳·마이크로소프트·메타 등 하이퍼스케일러 상승, 월마트 주가 주간 10% 하락'}}
+{'ok': True, 'result': {'message_id': 188324, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1787490307, 'text': '📊 cnn-fear-greed'}}
+{'ok': True, 'result': {'message_id': 188325, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1787490308, 'photo': [{'file_id': 'AgACAgUAAyEGAASPJ3n-AAEC2CRqiQY8mEiW2mp_2B5IM8ZXnxejmQAC9hFrG2PhSVR_mdoq3vclVAEAAwIAA3MAAz0E', 'file_unique_id': 'AQAD9hFrG2PhSVR4', 'file_size': 780, 'width': 90, 'height': 48}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEC2CRqiQY8mEiW2mp_2B5IM8ZXnxejmQAC9hFrG2PhSVR_mdoq3vclVAEAAwIAA20AAz0E', 'file_unique_id': 'AQAD9hFrG2PhSVRy', 'file_size': 6889, 'width': 320, 'height': 170}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEC2CRqiQY8mEiW2mp_2B5IM8ZXnxejmQAC9hFrG2PhSVR_mdoq3vclVAEAAwIAA3gAAz0E', 'file_unique_id': 'AQAD9hFrG2PhSVR9', 'file_size': 17466, 'width': 650, 'height': 346}]}}
+{'ok': True, 'result': {'message_id': 188326, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1787490309, 'text': '📊 te-natural-gas'}}
+{'ok': True, 'result': {'message_id': 188327, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1787490310, 'photo': [{'file_id': 'AgACAgUAAyEGAASPJ3n-AAEC2m9qiZ6F8Tea3TIEImyPc6u-zvpf_QACWBFrG2_yUVQ1_OU51PtUrQEAAwIAA3MAAz0E', 'file_unique_id': 'AQADWBFrG2_yUVR4', 'file_size': 875, 'width': 90, 'height': 45}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEC2m9qiZ6F8Tea3TIEImyPc6u-zvpf_QACWBFrG2_yUVQ1_OU51PtUrQEAAwIAA20AAz0E', 'file_unique_id': 'AQADWBFrG2_yUVRy', 'file_size': 9450, 'width': 320, 'height': 161}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEC2m9qiZ6F8Tea3TIEImyPc6u-zvpf_QACWBFrG2_yUVQ1_OU51PtUrQEAAwIAA3gAAz0E', 'file_unique_id': 'AQADWBFrG2_yUVR9', 'file_size': 38226, 'width': 800, 'height': 402}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEC2m9qiZ6F8Tea3TIEImyPc6u-zvpf_QACWBFrG2_yUVQ1_OU51PtUrQEAAwIAA3kAAz0E', 'file_unique_id': 'AQADWBFrG2_yUVR-', 'file_size': 53382, 'width': 1027, 'height': 516}]}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 36', 'parameters': {'retry_after': 36}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 35', 'parameters': {'retry_after': 35}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 34', 'parameters': {'retry_after': 34}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 34', 'parameters': {'retry_after': 34}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 33', 'parameters': {'retry_after': 33}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 32', 'parameters': {'retry_after': 32}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 31', 'parameters': {'retry_after': 31}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 30', 'parameters': {'retry_after': 30}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 29', 'parameters': {'retry_after': 29}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 29', 'parameters': {'retry_after': 29}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 28', 'parameters': {'retry_after': 28}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 28', 'parameters': {'retry_after': 28}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 27', 'parameters': {'retry_after': 27}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 26', 'parameters': {'retry_after': 26}}
+============================================================
+Workflow completed with status: completed
+============================================================
+[SITE] wrote index.html (16 images, 4 summaries)
+```
