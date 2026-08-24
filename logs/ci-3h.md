@@ -24078,3 +24078,32 @@ Workflow completed with status: completed
 ============================================================
 [SITE] wrote index.html (16 images, 4 summaries)
 ```
+
+## 3h @ 2026-08-24 16:06:50 KST — ok (run #836)
+```
+{'ok': True, 'result': {'message_id': 189243, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1787555090, 'photo': [{'file_id': 'AgACAgUAAyEGAASPJ3n-AAEC4l5qi6p3Qj7IDP7MbY2ao1xil-WmPgACgxJrG_5eYVQSkyliSgZn8AEAAwIAA3MAAz0E', 'file_unique_id': 'AQADgxJrG_5eYVR4', 'file_size': 1349, 'width': 90, 'height': 50}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEC4l5qi6p3Qj7IDP7MbY2ao1xil-WmPgACgxJrG_5eYVQSkyliSgZn8AEAAwIAA20AAz0E', 'file_unique_id': 'AQADgxJrG_5eYVRy', 'file_size': 22074, 'width': 320, 'height': 178}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEC4l5qi6p3Qj7IDP7MbY2ao1xil-WmPgACgxJrG_5eYVQSkyliSgZn8AEAAwIAA3gAAz0E', 'file_unique_id': 'AQADgxJrG_5eYVR9', 'file_size': 107821, 'width': 800, 'height': 444}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEC4l5qi6p3Qj7IDP7MbY2ao1xil-WmPgACgxJrG_5eYVQSkyliSgZn8AEAAwIAA3kAAz0E', 'file_unique_id': 'AQADgxJrG_5eYVR-', 'file_size': 236841, 'width': 1280, 'height': 710}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEC4l5qi6p3Qj7IDP7MbY2ao1xil-WmPgACgxJrG_5eYVQSkyliSgZn8AEAAwIAA3cAAz0E', 'file_unique_id': 'AQADgxJrG_5eYVR8', 'file_size': 293586, 'width': 1508, 'height': 837}]}}
+{'ok': True, 'result': {'message_id': 189244, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1787555091, 'text': '📊 te-us-stock-market'}}
+{'ok': True, 'result': {'message_id': 189245, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1787555092, 'text': '미국 주식 선물은 금리 급등으로 하락, 다우·S&P·나스닥 모두 떨어졌다.  \n30년물 금리 5.3% 넘으며 20년 만에 최고치, 전 세계 채권도 상승.  \n이란 제재 발표·7월 PCE·연준 연설·Nvidia·Marvell 실적이 주목된다.'}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 36', 'parameters': {'retry_after': 36}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 35', 'parameters': {'retry_after': 35}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 34', 'parameters': {'retry_after': 34}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 33', 'parameters': {'retry_after': 33}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 33', 'parameters': {'retry_after': 33}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 32', 'parameters': {'retry_after': 32}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 31', 'parameters': {'retry_after': 31}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 30', 'parameters': {'retry_after': 30}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 29', 'parameters': {'retry_after': 29}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 29', 'parameters': {'retry_after': 29}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 27', 'parameters': {'retry_after': 27}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 27', 'parameters': {'retry_after': 27}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 26', 'parameters': {'retry_after': 26}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 25', 'parameters': {'retry_after': 25}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 25', 'parameters': {'retry_after': 25}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 24', 'parameters': {'retry_after': 24}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 24', 'parameters': {'retry_after': 24}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 23', 'parameters': {'retry_after': 23}}
+============================================================
+Workflow completed with status: completed
+============================================================
+[SITE] wrote index.html (16 images, 4 summaries)
+```
