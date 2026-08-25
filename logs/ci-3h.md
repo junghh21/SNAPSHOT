@@ -24687,3 +24687,32 @@ Workflow completed with status: completed
 ============================================================
 [SITE] wrote index.html (16 images, 4 summaries)
 ```
+
+## 3h @ 2026-08-26 01:08:38 KST — ok (run #857)
+```
+{'ok': True, 'result': {'message_id': 190800, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1787674005, 'photo': [{'file_id': 'AgACAgUAAyEGAASPJ3n-AAEC6VBqjb2VOXc2taEXXHCKJINIVu0SGAACzRNrG3m3cFSyOyugApdRJgEAAwIAA3MAAz0E', 'file_unique_id': 'AQADzRNrG3m3cFR4', 'file_size': 1316, 'width': 90, 'height': 50}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEC6VBqjb2VOXc2taEXXHCKJINIVu0SGAACzRNrG3m3cFSyOyugApdRJgEAAwIAA20AAz0E', 'file_unique_id': 'AQADzRNrG3m3cFRy', 'file_size': 21727, 'width': 320, 'height': 178}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEC6VBqjb2VOXc2taEXXHCKJINIVu0SGAACzRNrG3m3cFSyOyugApdRJgEAAwIAA3gAAz0E', 'file_unique_id': 'AQADzRNrG3m3cFR9', 'file_size': 105235, 'width': 800, 'height': 444}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEC6VBqjb2VOXc2taEXXHCKJINIVu0SGAACzRNrG3m3cFSyOyugApdRJgEAAwIAA3kAAz0E', 'file_unique_id': 'AQADzRNrG3m3cFR-', 'file_size': 230309, 'width': 1280, 'height': 711}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEC6VBqjb2VOXc2taEXXHCKJINIVu0SGAACzRNrG3m3cFSyOyugApdRJgEAAwIAA3cAAz0E', 'file_unique_id': 'AQADzRNrG3m3cFR8', 'file_size': 311819, 'width': 1592, 'height': 884}]}}
+{'ok': True, 'result': {'message_id': 190801, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1787674006, 'text': '📊 te-us-stock-market'}}
+{'ok': True, 'result': {'message_id': 190802, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1787674007, 'text': '미국 증시 상승, S&P·다우 0.5%·나스닥 0.6% 상승, 반도체와 채권수익률 완화 영향  \nAI 인프라 주가 급락 후 회복, 대규모 IPO와 수요 회의감 공존, 엔비디아는 실적 전 상승  \n장기 국채 반등, 재무장관 이란 제재 위협에도 에너지 가격 완화, GE Vernova·Veritiv 2% 이상 상승'}}
+{'ok': True, 'result': {'message_id': 190803, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1787674008, 'text': '📊 cnn-fear-greed'}}
+{'ok': True, 'result': {'message_id': 190804, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1787674010, 'photo': [{'file_id': 'AgACAgUAAyEGAASPJ3n-AAEC6VRqjb2aHxfq3xTqNQvrhhmCAyAb6gACzhNrG3m3cFQ83RH2aU6sRQEAAwIAA3MAAz0E', 'file_unique_id': 'AQADzhNrG3m3cFR4', 'file_size': 848, 'width': 90, 'height': 48}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEC6VRqjb2aHxfq3xTqNQvrhhmCAyAb6gACzhNrG3m3cFQ83RH2aU6sRQEAAwIAA20AAz0E', 'file_unique_id': 'AQADzhNrG3m3cFRy', 'file_size': 7734, 'width': 320, 'height': 170}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEC6VRqjb2aHxfq3xTqNQvrhhmCAyAb6gACzhNrG3m3cFQ83RH2aU6sRQEAAwIAA3gAAz0E', 'file_unique_id': 'AQADzhNrG3m3cFR9', 'file_size': 19344, 'width': 650, 'height': 346}]}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 30', 'parameters': {'retry_after': 30}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 29', 'parameters': {'retry_after': 29}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 28', 'parameters': {'retry_after': 28}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 27', 'parameters': {'retry_after': 27}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 26', 'parameters': {'retry_after': 26}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 26', 'parameters': {'retry_after': 26}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 24', 'parameters': {'retry_after': 24}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 24', 'parameters': {'retry_after': 24}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 23', 'parameters': {'retry_after': 23}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 22', 'parameters': {'retry_after': 22}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 21', 'parameters': {'retry_after': 21}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 20', 'parameters': {'retry_after': 20}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 19', 'parameters': {'retry_after': 19}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 18', 'parameters': {'retry_after': 18}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 17', 'parameters': {'retry_after': 17}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 17', 'parameters': {'retry_after': 17}}
+============================================================
+Workflow completed with status: completed
+============================================================
+[SITE] wrote index.html (16 images, 4 summaries)
+```
