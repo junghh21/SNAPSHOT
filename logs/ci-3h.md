@@ -24803,3 +24803,32 @@ Workflow completed with status: completed
 ============================================================
 [SITE] wrote index.html (16 images, 4 summaries)
 ```
+
+## 3h @ 2026-08-26 07:07:15 KST — ok (run #861)
+```
+{'ok': True, 'result': {'message_id': 191117, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1787695520, 'photo': [{'file_id': 'AgACAgUAAyEGAASPJ3n-AAEC6o1qjhGgBLIBMD5DQ5gfnBG8bw8l8wACtBRrG3m3cFQId_M63G32TwEAAwIAA3MAAz0E', 'file_unique_id': 'AQADtBRrG3m3cFR4', 'file_size': 1350, 'width': 90, 'height': 50}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEC6o1qjhGgBLIBMD5DQ5gfnBG8bw8l8wACtBRrG3m3cFQId_M63G32TwEAAwIAA20AAz0E', 'file_unique_id': 'AQADtBRrG3m3cFRy', 'file_size': 22193, 'width': 320, 'height': 178}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEC6o1qjhGgBLIBMD5DQ5gfnBG8bw8l8wACtBRrG3m3cFQId_M63G32TwEAAwIAA3gAAz0E', 'file_unique_id': 'AQADtBRrG3m3cFR9', 'file_size': 106916, 'width': 800, 'height': 444}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEC6o1qjhGgBLIBMD5DQ5gfnBG8bw8l8wACtBRrG3m3cFQId_M63G32TwEAAwIAA3kAAz0E', 'file_unique_id': 'AQADtBRrG3m3cFR-', 'file_size': 234200, 'width': 1280, 'height': 711}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEC6o1qjhGgBLIBMD5DQ5gfnBG8bw8l8wACtBRrG3m3cFQId_M63G32TwEAAwIAA3cAAz0E', 'file_unique_id': 'AQADtBRrG3m3cFR8', 'file_size': 316944, 'width': 1592, 'height': 884}]}}
+{'ok': True, 'result': {'message_id': 191118, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1787695521, 'text': '📊 te-us-stock-market'}}
+{'ok': True, 'result': {'message_id': 191119, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1787695522, 'text': '미국 증시 상승, 기술주 반등·유가 하락으로 채권수익률↓  \nAI 인프라 기업 회복, 대형 IPO 기대에 반도체·클라우드주 상승  \n채권수익률 하락·유가 저조로 신용민감 섹터 완화, 주요 은행주 상승'}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 33', 'parameters': {'retry_after': 33}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 33', 'parameters': {'retry_after': 33}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 32', 'parameters': {'retry_after': 32}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 31', 'parameters': {'retry_after': 31}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 30', 'parameters': {'retry_after': 30}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 30', 'parameters': {'retry_after': 30}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 29', 'parameters': {'retry_after': 29}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 28', 'parameters': {'retry_after': 28}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 27', 'parameters': {'retry_after': 27}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 27', 'parameters': {'retry_after': 27}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 26', 'parameters': {'retry_after': 26}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 25', 'parameters': {'retry_after': 25}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 24', 'parameters': {'retry_after': 24}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 24', 'parameters': {'retry_after': 24}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 23', 'parameters': {'retry_after': 23}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 23', 'parameters': {'retry_after': 23}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 22', 'parameters': {'retry_after': 22}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 21', 'parameters': {'retry_after': 21}}
+============================================================
+Workflow completed with status: completed
+============================================================
+[SITE] wrote index.html (16 images, 4 summaries)
+```
