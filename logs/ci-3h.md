@@ -25093,3 +25093,32 @@ Workflow completed with status: completed
 ============================================================
 [SITE] wrote index.html (16 images, 4 summaries)
 ```
+
+## 3h @ 2026-08-27 01:46:04 KST — ok (run #873)
+```
+{'ok': True, 'result': {'message_id': 191962, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1787762663, 'photo': [{'file_id': 'AgACAgUAAyEGAASPJ3n-AAEC7dpqjxfnmNkhL-GHF757NcvzIODQZAACpRZrG3m3eFQgm27jlNLcngEAAwIAA3MAAz0E', 'file_unique_id': 'AQADpRZrG3m3eFR4', 'file_size': 1291, 'width': 90, 'height': 50}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEC7dpqjxfnmNkhL-GHF757NcvzIODQZAACpRZrG3m3eFQgm27jlNLcngEAAwIAA20AAz0E', 'file_unique_id': 'AQADpRZrG3m3eFRy', 'file_size': 21600, 'width': 320, 'height': 178}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEC7dpqjxfnmNkhL-GHF757NcvzIODQZAACpRZrG3m3eFQgm27jlNLcngEAAwIAA3gAAz0E', 'file_unique_id': 'AQADpRZrG3m3eFR9', 'file_size': 105012, 'width': 800, 'height': 444}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEC7dpqjxfnmNkhL-GHF757NcvzIODQZAACpRZrG3m3eFQgm27jlNLcngEAAwIAA3kAAz0E', 'file_unique_id': 'AQADpRZrG3m3eFR-', 'file_size': 230446, 'width': 1280, 'height': 711}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEC7dpqjxfnmNkhL-GHF757NcvzIODQZAACpRZrG3m3eFQgm27jlNLcngEAAwIAA3cAAz0E', 'file_unique_id': 'AQADpRZrG3m3eFR8', 'file_size': 311162, 'width': 1592, 'height': 884}]}}
+{'ok': True, 'result': {'message_id': 191963, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1787762664, 'text': '📊 te-us-stock-market'}}
+{'ok': True, 'result': {'message_id': 191964, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1787762665, 'text': '나스닥·S&P·다우 소폭 하락, 반도체 대기업 실적 앞두고 주가 하락  \n엔비디아 실적 전 주가 변동, 마이크·테슬·알파·아마존 하락, 인튜잇 -10%, 메타 +4%·167억 합의  \n소비·소득 강세와 초과 PCE 물가 상승으로 연준 긴축 정책 전망 지속'}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 31', 'parameters': {'retry_after': 31}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 30', 'parameters': {'retry_after': 30}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 30', 'parameters': {'retry_after': 30}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 29', 'parameters': {'retry_after': 29}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 28', 'parameters': {'retry_after': 28}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 28', 'parameters': {'retry_after': 28}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 27', 'parameters': {'retry_after': 27}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 26', 'parameters': {'retry_after': 26}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 25', 'parameters': {'retry_after': 25}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 25', 'parameters': {'retry_after': 25}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 24', 'parameters': {'retry_after': 24}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 23', 'parameters': {'retry_after': 23}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 22', 'parameters': {'retry_after': 22}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 21', 'parameters': {'retry_after': 21}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 21', 'parameters': {'retry_after': 21}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 20', 'parameters': {'retry_after': 20}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 20', 'parameters': {'retry_after': 20}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 19', 'parameters': {'retry_after': 19}}
+============================================================
+Workflow completed with status: completed
+============================================================
+[SITE] wrote index.html (16 images, 4 summaries)
+```
