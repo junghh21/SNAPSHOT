@@ -25151,3 +25151,32 @@ Workflow completed with status: completed
 ============================================================
 [SITE] wrote index.html (16 images, 4 summaries)
 ```
+
+## 3h @ 2026-08-27 06:31:52 KST — ok (run #875)
+```
+{'ok': True, 'result': {'message_id': 192104, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1787779782, 'photo': [{'file_id': 'AgACAgUAAyEGAASPJ3n-AAEC7mhqj1rGVkW53GHtZkwsOWCAdUe1KQACAhdrG3m3eFR_xxqWOXwp_QEAAwIAA3MAAz0E', 'file_unique_id': 'AQADAhdrG3m3eFR4', 'file_size': 1319, 'width': 90, 'height': 50}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEC7mhqj1rGVkW53GHtZkwsOWCAdUe1KQACAhdrG3m3eFR_xxqWOXwp_QEAAwIAA20AAz0E', 'file_unique_id': 'AQADAhdrG3m3eFRy', 'file_size': 21741, 'width': 320, 'height': 178}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEC7mhqj1rGVkW53GHtZkwsOWCAdUe1KQACAhdrG3m3eFR_xxqWOXwp_QEAAwIAA3gAAz0E', 'file_unique_id': 'AQADAhdrG3m3eFR9', 'file_size': 105468, 'width': 800, 'height': 444}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEC7mhqj1rGVkW53GHtZkwsOWCAdUe1KQACAhdrG3m3eFR_xxqWOXwp_QEAAwIAA3kAAz0E', 'file_unique_id': 'AQADAhdrG3m3eFR-', 'file_size': 232242, 'width': 1280, 'height': 711}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEC7mhqj1rGVkW53GHtZkwsOWCAdUe1KQACAhdrG3m3eFR_xxqWOXwp_QEAAwIAA3cAAz0E', 'file_unique_id': 'AQADAhdrG3m3eFR8', 'file_size': 313842, 'width': 1592, 'height': 884}]}}
+{'ok': True, 'result': {'message_id': 192105, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1787779783, 'text': '📊 te-us-stock-market'}}
+{'ok': True, 'result': {'message_id': 192106, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1787779784, 'text': '나스닥 소폭 상승, S&P는 거의 변동 없고 다우는 113포인트 하락.  \nNvidia 실적 전 기술주 상승, 매출 전년 대비 거의 두 배 예상돼 2년 만 최고 성장.  \nMeta는 청소년 합의로 상승, Intuit는 전망 부진에 하락, 섹터는 경기 우려에 압박.'}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 31', 'parameters': {'retry_after': 31}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 30', 'parameters': {'retry_after': 30}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 29', 'parameters': {'retry_after': 29}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 28', 'parameters': {'retry_after': 28}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 28', 'parameters': {'retry_after': 28}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 27', 'parameters': {'retry_after': 27}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 26', 'parameters': {'retry_after': 26}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 25', 'parameters': {'retry_after': 25}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 24', 'parameters': {'retry_after': 24}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 24', 'parameters': {'retry_after': 24}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 22', 'parameters': {'retry_after': 22}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 22', 'parameters': {'retry_after': 22}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 21', 'parameters': {'retry_after': 21}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 20', 'parameters': {'retry_after': 20}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 20', 'parameters': {'retry_after': 20}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 19', 'parameters': {'retry_after': 19}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 18', 'parameters': {'retry_after': 18}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 17', 'parameters': {'retry_after': 17}}
+============================================================
+Workflow completed with status: completed
+============================================================
+[SITE] wrote index.html (16 images, 4 summaries)
+```
