@@ -24861,3 +24861,32 @@ Workflow completed with status: completed
 ============================================================
 [SITE] wrote index.html (16 images, 4 summaries)
 ```
+
+## 3h @ 2026-08-26 10:08:36 KST — ok (run #863)
+```
+{'ok': True, 'result': {'message_id': 191280, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1787706385, 'photo': [{'file_id': 'AgACAgUAAyEGAASPJ3n-AAEC6o1qjhGgBLIBMD5DQ5gfnBG8bw8l8wACtBRrG3m3cFQId_M63G32TwEAAwIAA3MAAz0E', 'file_unique_id': 'AQADtBRrG3m3cFR4', 'file_size': 1350, 'width': 90, 'height': 50}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEC6o1qjhGgBLIBMD5DQ5gfnBG8bw8l8wACtBRrG3m3cFQId_M63G32TwEAAwIAA20AAz0E', 'file_unique_id': 'AQADtBRrG3m3cFRy', 'file_size': 22193, 'width': 320, 'height': 178}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEC6o1qjhGgBLIBMD5DQ5gfnBG8bw8l8wACtBRrG3m3cFQId_M63G32TwEAAwIAA3gAAz0E', 'file_unique_id': 'AQADtBRrG3m3cFR9', 'file_size': 106916, 'width': 800, 'height': 444}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEC6o1qjhGgBLIBMD5DQ5gfnBG8bw8l8wACtBRrG3m3cFQId_M63G32TwEAAwIAA3kAAz0E', 'file_unique_id': 'AQADtBRrG3m3cFR-', 'file_size': 234200, 'width': 1280, 'height': 711}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEC6o1qjhGgBLIBMD5DQ5gfnBG8bw8l8wACtBRrG3m3cFQId_M63G32TwEAAwIAA3cAAz0E', 'file_unique_id': 'AQADtBRrG3m3cFR8', 'file_size': 316944, 'width': 1592, 'height': 884}]}}
+{'ok': True, 'result': {'message_id': 191281, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1787706386, 'text': '📊 te-us-stock-market'}}
+{'ok': True, 'result': {'message_id': 191282, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1787706387, 'text': '미국 주가지수 선물은 PCE 인플레이션 지표와 엔비디아 실적 발표를 앞두고 하락했다.  \n연준 의장 워시, 잭슨홀 심포지엄서 연설하지만 9월 정책 방향은 명확히 제시 않을 전망이다.  \n화요일 다우 0.3% 상승, S&P 0.32%, 나스닥 0.66% 상승, AI 관련 기술주가 선도했다.'}}
+{'ok': True, 'result': {'message_id': 191283, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1787706388, 'text': '📊 cnn-fear-greed'}}
+{'ok': True, 'result': {'message_id': 191284, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1787706389, 'photo': [{'file_id': 'AgACAgUAAyEGAASPJ3n-AAEC6XNqjcKb8wlZzydnSFH-8Gl8lJNTJgAC3BNrG3m3cFTAdH7jpLQ7OwEAAwIAA3MAAz0E', 'file_unique_id': 'AQAD3BNrG3m3cFR4', 'file_size': 852, 'width': 90, 'height': 48}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEC6XNqjcKb8wlZzydnSFH-8Gl8lJNTJgAC3BNrG3m3cFTAdH7jpLQ7OwEAAwIAA20AAz0E', 'file_unique_id': 'AQAD3BNrG3m3cFRy', 'file_size': 7737, 'width': 320, 'height': 170}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEC6XNqjcKb8wlZzydnSFH-8Gl8lJNTJgAC3BNrG3m3cFTAdH7jpLQ7OwEAAwIAA3gAAz0E', 'file_unique_id': 'AQAD3BNrG3m3cFR9', 'file_size': 19383, 'width': 650, 'height': 346}]}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 37', 'parameters': {'retry_after': 37}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 35', 'parameters': {'retry_after': 35}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 35', 'parameters': {'retry_after': 35}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 34', 'parameters': {'retry_after': 34}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 31', 'parameters': {'retry_after': 31}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 30', 'parameters': {'retry_after': 30}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 29', 'parameters': {'retry_after': 29}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 29', 'parameters': {'retry_after': 29}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 28', 'parameters': {'retry_after': 28}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 27', 'parameters': {'retry_after': 27}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 26', 'parameters': {'retry_after': 26}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 26', 'parameters': {'retry_after': 26}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 25', 'parameters': {'retry_after': 25}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 25', 'parameters': {'retry_after': 25}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 24', 'parameters': {'retry_after': 24}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 24', 'parameters': {'retry_after': 24}}
+============================================================
+Workflow completed with status: completed
+============================================================
+[SITE] wrote index.html (16 images, 4 summaries)
+```
