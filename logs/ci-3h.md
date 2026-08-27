@@ -25412,3 +25412,32 @@ Workflow completed with status: completed
 ============================================================
 [SITE] wrote index.html (16 images, 4 summaries)
 ```
+
+## 3h @ 2026-08-28 04:08:16 KST — ok (run #884)
+```
+{'ok': True, 'result': {'message_id': 192802, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1787857552, 'photo': [{'file_id': 'AgACAgUAAyEGAASPJ3n-AAEC8SJqkIqQ3JICx5Zar48bzyDtUr9fpAACJxFrG0lciVQfjRn7YRNiwwEAAwIAA3MAAz0E', 'file_unique_id': 'AQADJxFrG0lciVR4', 'file_size': 1320, 'width': 90, 'height': 50}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEC8SJqkIqQ3JICx5Zar48bzyDtUr9fpAACJxFrG0lciVQfjRn7YRNiwwEAAwIAA20AAz0E', 'file_unique_id': 'AQADJxFrG0lciVRy', 'file_size': 21908, 'width': 320, 'height': 178}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEC8SJqkIqQ3JICx5Zar48bzyDtUr9fpAACJxFrG0lciVQfjRn7YRNiwwEAAwIAA3gAAz0E', 'file_unique_id': 'AQADJxFrG0lciVR9', 'file_size': 107465, 'width': 800, 'height': 444}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEC8SJqkIqQ3JICx5Zar48bzyDtUr9fpAACJxFrG0lciVQfjRn7YRNiwwEAAwIAA3kAAz0E', 'file_unique_id': 'AQADJxFrG0lciVR-', 'file_size': 236488, 'width': 1280, 'height': 711}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEC8SJqkIqQ3JICx5Zar48bzyDtUr9fpAACJxFrG0lciVQfjRn7YRNiwwEAAwIAA3cAAz0E', 'file_unique_id': 'AQADJxFrG0lciVR8', 'file_size': 320522, 'width': 1592, 'height': 884}]}}
+{'ok': True, 'result': {'message_id': 192803, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1787857553, 'text': '📊 te-us-stock-market'}}
+{'ok': True, 'result': {'message_id': 192804, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1787857554, 'text': '미국 주가지수는 나비드아(Nvidia) 실적 호조로 상승, S&P·Nasdaq 1%↑, 다우 200포인트↑  \nNvidia 9% 급등, AI 수요로 내년 매출 70% 성장 전망, AI 인프라 기업도 상승  \n다른 섹터는 경기·채무·관세·에너지 인플레이션 우려로 하락, 장기채 수익률 고점 유지'}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 32', 'parameters': {'retry_after': 32}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 31', 'parameters': {'retry_after': 31}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 30', 'parameters': {'retry_after': 30}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 29', 'parameters': {'retry_after': 29}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 28', 'parameters': {'retry_after': 28}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 28', 'parameters': {'retry_after': 28}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 27', 'parameters': {'retry_after': 27}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 26', 'parameters': {'retry_after': 26}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 25', 'parameters': {'retry_after': 25}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 25', 'parameters': {'retry_after': 25}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 24', 'parameters': {'retry_after': 24}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 23', 'parameters': {'retry_after': 23}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 22', 'parameters': {'retry_after': 22}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 21', 'parameters': {'retry_after': 21}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 20', 'parameters': {'retry_after': 20}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 20', 'parameters': {'retry_after': 20}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 19', 'parameters': {'retry_after': 19}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 18', 'parameters': {'retry_after': 18}}
+============================================================
+Workflow completed with status: completed
+============================================================
+[SITE] wrote index.html (16 images, 4 summaries)
+```
