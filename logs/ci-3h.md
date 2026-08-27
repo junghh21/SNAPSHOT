@@ -25209,3 +25209,32 @@ Workflow completed with status: completed
 ============================================================
 [SITE] wrote index.html (16 images, 4 summaries)
 ```
+
+## 3h @ 2026-08-27 11:27:41 KST — ok (run #877)
+```
+{'ok': True, 'result': {'message_id': 192277, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1787797532, 'photo': [{'file_id': 'AgACAgUAAyEGAASPJ3n-AAEC7mhqj1rGVkW53GHtZkwsOWCAdUe1KQACAhdrG3m3eFR_xxqWOXwp_QEAAwIAA3MAAz0E', 'file_unique_id': 'AQADAhdrG3m3eFR4', 'file_size': 1319, 'width': 90, 'height': 50}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEC7mhqj1rGVkW53GHtZkwsOWCAdUe1KQACAhdrG3m3eFR_xxqWOXwp_QEAAwIAA20AAz0E', 'file_unique_id': 'AQADAhdrG3m3eFRy', 'file_size': 21741, 'width': 320, 'height': 178}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEC7mhqj1rGVkW53GHtZkwsOWCAdUe1KQACAhdrG3m3eFR_xxqWOXwp_QEAAwIAA3gAAz0E', 'file_unique_id': 'AQADAhdrG3m3eFR9', 'file_size': 105468, 'width': 800, 'height': 444}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEC7mhqj1rGVkW53GHtZkwsOWCAdUe1KQACAhdrG3m3eFR_xxqWOXwp_QEAAwIAA3kAAz0E', 'file_unique_id': 'AQADAhdrG3m3eFR-', 'file_size': 232242, 'width': 1280, 'height': 711}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEC7mhqj1rGVkW53GHtZkwsOWCAdUe1KQACAhdrG3m3eFR_xxqWOXwp_QEAAwIAA3cAAz0E', 'file_unique_id': 'AQADAhdrG3m3eFR8', 'file_size': 313842, 'width': 1592, 'height': 884}]}}
+{'ok': True, 'result': {'message_id': 192278, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1787797533, 'text': '📊 te-us-stock-market'}}
+{'ok': True, 'result': {'message_id': 192279, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1787797534, 'text': '엔비디아 AI 매출 전망 밝아 2028년까지 수요 지속, 선물 상승  \n엔비디아 주가 4% 급등, 세일즈포스 13%, 오크타 20% 상승, AI 수요 호조  \n투자자들 워크데이·오토데스크·몽고DB 등 실적 발표 기다림'}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 36', 'parameters': {'retry_after': 36}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 36', 'parameters': {'retry_after': 36}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 35', 'parameters': {'retry_after': 35}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 34', 'parameters': {'retry_after': 34}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 33', 'parameters': {'retry_after': 33}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 33', 'parameters': {'retry_after': 33}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 32', 'parameters': {'retry_after': 32}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 31', 'parameters': {'retry_after': 31}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 30', 'parameters': {'retry_after': 30}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 30', 'parameters': {'retry_after': 30}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 29', 'parameters': {'retry_after': 29}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 28', 'parameters': {'retry_after': 28}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 27', 'parameters': {'retry_after': 27}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 27', 'parameters': {'retry_after': 27}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 26', 'parameters': {'retry_after': 26}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 25', 'parameters': {'retry_after': 25}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 25', 'parameters': {'retry_after': 25}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 24', 'parameters': {'retry_after': 24}}
+============================================================
+Workflow completed with status: completed
+============================================================
+[SITE] wrote index.html (16 images, 4 summaries)
+```
