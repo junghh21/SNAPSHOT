@@ -25528,3 +25528,32 @@ Workflow completed with status: completed
 ============================================================
 [SITE] wrote index.html (16 images, 4 summaries)
 ```
+
+## 3h @ 2026-08-28 13:07:56 KST — ok (run #888)
+```
+{'ok': True, 'result': {'message_id': 193128, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1787889939, 'photo': [{'file_id': 'AgACAgUAAyEGAASPJ3n-AAEC8YFqkLUNDg5NWOMGxxOSpgst_vX7iQACbBFrG0lciVRs3cSdkoSqjQEAAwIAA3MAAz0E', 'file_unique_id': 'AQADbBFrG0lciVR4', 'file_size': 1328, 'width': 90, 'height': 50}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEC8YFqkLUNDg5NWOMGxxOSpgst_vX7iQACbBFrG0lciVRs3cSdkoSqjQEAAwIAA20AAz0E', 'file_unique_id': 'AQADbBFrG0lciVRy', 'file_size': 21920, 'width': 320, 'height': 178}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEC8YFqkLUNDg5NWOMGxxOSpgst_vX7iQACbBFrG0lciVRs3cSdkoSqjQEAAwIAA3gAAz0E', 'file_unique_id': 'AQADbBFrG0lciVR9', 'file_size': 107656, 'width': 800, 'height': 444}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEC8YFqkLUNDg5NWOMGxxOSpgst_vX7iQACbBFrG0lciVRs3cSdkoSqjQEAAwIAA3kAAz0E', 'file_unique_id': 'AQADbBFrG0lciVR-', 'file_size': 236534, 'width': 1280, 'height': 711}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEC8YFqkLUNDg5NWOMGxxOSpgst_vX7iQACbBFrG0lciVRs3cSdkoSqjQEAAwIAA3cAAz0E', 'file_unique_id': 'AQADbBFrG0lciVR8', 'file_size': 320708, 'width': 1592, 'height': 884}]}}
+{'ok': True, 'result': {'message_id': 193129, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1787889940, 'text': '📊 te-us-stock-market'}}
+{'ok': True, 'result': {'message_id': 193130, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1787889941, 'text': '미국 주가지수 선물은 연방준비제도 의장 워시 연설 기대감에 보합  \n갭은 올드네이비 새 CEO 발표 후 15% 급등, 마벨·오토데스크는 실적 부진으로 하락  \n나스닥 1.57% 상승, 다우·S&P 소폭 상승, 엔비디아 AI 수요로 8.7% 급등'}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 33', 'parameters': {'retry_after': 33}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 32', 'parameters': {'retry_after': 32}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 32', 'parameters': {'retry_after': 32}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 31', 'parameters': {'retry_after': 31}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 30', 'parameters': {'retry_after': 30}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 29', 'parameters': {'retry_after': 29}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 28', 'parameters': {'retry_after': 28}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 28', 'parameters': {'retry_after': 28}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 27', 'parameters': {'retry_after': 27}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 26', 'parameters': {'retry_after': 26}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 25', 'parameters': {'retry_after': 25}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 24', 'parameters': {'retry_after': 24}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 23', 'parameters': {'retry_after': 23}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 22', 'parameters': {'retry_after': 22}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 22', 'parameters': {'retry_after': 22}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 21', 'parameters': {'retry_after': 21}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 21', 'parameters': {'retry_after': 21}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 20', 'parameters': {'retry_after': 20}}
+============================================================
+Workflow completed with status: completed
+============================================================
+[SITE] wrote index.html (16 images, 4 summaries)
+```
