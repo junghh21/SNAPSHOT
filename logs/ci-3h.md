@@ -25673,3 +25673,32 @@ Workflow completed with status: completed
 ============================================================
 [SITE] wrote index.html (16 images, 4 summaries)
 ```
+
+## 3h @ 2026-08-29 01:07:22 KST — ok (run #893)
+```
+{'ok': True, 'result': {'message_id': 193508, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1787933143, 'photo': [{'file_id': 'AgACAgUAAyEGAASPJ3n-AAEC8-RqkbHXx2CL5X0DZI1l-fSXMh4ZgAACfxBrG4PikVTjGYoKg9hG-QEAAwIAA3MAAz0E', 'file_unique_id': 'AQADfxBrG4PikVR4', 'file_size': 1329, 'width': 90, 'height': 50}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEC8-RqkbHXx2CL5X0DZI1l-fSXMh4ZgAACfxBrG4PikVTjGYoKg9hG-QEAAwIAA20AAz0E', 'file_unique_id': 'AQADfxBrG4PikVRy', 'file_size': 22092, 'width': 320, 'height': 178}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEC8-RqkbHXx2CL5X0DZI1l-fSXMh4ZgAACfxBrG4PikVTjGYoKg9hG-QEAAwIAA3gAAz0E', 'file_unique_id': 'AQADfxBrG4PikVR9', 'file_size': 108012, 'width': 800, 'height': 444}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEC8-RqkbHXx2CL5X0DZI1l-fSXMh4ZgAACfxBrG4PikVTjGYoKg9hG-QEAAwIAA3kAAz0E', 'file_unique_id': 'AQADfxBrG4PikVR-', 'file_size': 236791, 'width': 1280, 'height': 711}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEC8-RqkbHXx2CL5X0DZI1l-fSXMh4ZgAACfxBrG4PikVTjGYoKg9hG-QEAAwIAA3cAAz0E', 'file_unique_id': 'AQADfxBrG4PikVR8', 'file_size': 320690, 'width': 1592, 'height': 884}]}}
+{'ok': True, 'result': {'message_id': 193509, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1787933144, 'text': '📊 te-us-stock-market'}}
+{'ok': True, 'result': {'message_id': 193510, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1787933146, 'text': '미국 주식은 금요일 하락, 기술주 상승 마감과 연준 의장의 고인플레이션 경고가 금리인상 기대를 높였다.  \nMarvell은 실적 상회와 전망 상승에도 불구하고 8% 급락했으며, Nvidia는 향후 컴퓨팅 수요 지속을 언급했다.  \n연준 의장은 인플레이션 둔화 없음을 강조하고 전일 완전고용을 언급, 산업·제약주가 1.5% 이상 하락했다.'}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 25', 'parameters': {'retry_after': 25}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 24', 'parameters': {'retry_after': 24}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 24', 'parameters': {'retry_after': 24}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 22', 'parameters': {'retry_after': 22}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 22', 'parameters': {'retry_after': 22}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 21', 'parameters': {'retry_after': 21}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 20', 'parameters': {'retry_after': 20}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 19', 'parameters': {'retry_after': 19}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 16', 'parameters': {'retry_after': 16}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 15', 'parameters': {'retry_after': 15}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 14', 'parameters': {'retry_after': 14}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 13', 'parameters': {'retry_after': 13}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 11', 'parameters': {'retry_after': 11}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 11', 'parameters': {'retry_after': 11}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 9', 'parameters': {'retry_after': 9}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 9', 'parameters': {'retry_after': 9}}
+{'ok': True, 'result': {'message_id': 193511, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1787933173, 'text': '📊 coingecko-top'}}
+{'ok': True, 'result': {'message_id': 193512, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1787933175, 'photo': [{'file_id': 'AgACAgUAAyEGAASPJ3n-AAEC8-hqkbH3gjEnDBSj9GMJ50L12PLEawACgBBrG4PikVQJCm_L5AcuMgEAAwIAA3MAAz0E', 'file_unique_id': 'AQADgBBrG4PikVR4', 'file_size': 880, 'width': 90, 'height': 41}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEC8-hqkbH3gjEnDBSj9GMJ50L12PLEawACgBBrG4PikVQJCm_L5AcuMgEAAwIAA20AAz0E', 'file_unique_id': 'AQADgBBrG4PikVRy', 'file_size': 9620, 'width': 320, 'height': 146}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEC8-hqkbH3gjEnDBSj9GMJ50L12PLEawACgBBrG4PikVQJCm_L5AcuMgEAAwIAA3gAAz0E', 'file_unique_id': 'AQADgBBrG4PikVR9', 'file_size': 12735, 'width': 407, 'height': 186}]}}
+============================================================
+Workflow completed with status: completed
+============================================================
+[SITE] wrote index.html (16 images, 4 summaries)
+```
