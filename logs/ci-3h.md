@@ -25586,3 +25586,32 @@ Workflow completed with status: completed
 ============================================================
 [SITE] wrote index.html (16 images, 4 summaries)
 ```
+
+## 3h @ 2026-08-28 19:09:01 KST — ok (run #890)
+```
+{'ok': True, 'result': {'message_id': 193309, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1787911615, 'photo': [{'file_id': 'AgACAgUAAyEGAASPJ3n-AAEC8x1qkV2_6DYDC_D6vdschi5YUhABDAACGxJrG0lckVSu_1kaGoqz5wEAAwIAA3MAAz0E', 'file_unique_id': 'AQADGxJrG0lckVR4', 'file_size': 1189, 'width': 90, 'height': 50}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEC8x1qkV2_6DYDC_D6vdschi5YUhABDAACGxJrG0lckVSu_1kaGoqz5wEAAwIAA20AAz0E', 'file_unique_id': 'AQADGxJrG0lckVRy', 'file_size': 20728, 'width': 320, 'height': 178}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEC8x1qkV2_6DYDC_D6vdschi5YUhABDAACGxJrG0lckVSu_1kaGoqz5wEAAwIAA3gAAz0E', 'file_unique_id': 'AQADGxJrG0lckVR9', 'file_size': 100926, 'width': 800, 'height': 444}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEC8x1qkV2_6DYDC_D6vdschi5YUhABDAACGxJrG0lckVSu_1kaGoqz5wEAAwIAA3kAAz0E', 'file_unique_id': 'AQADGxJrG0lckVR-', 'file_size': 220643, 'width': 1280, 'height': 711}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEC8x1qkV2_6DYDC_D6vdschi5YUhABDAACGxJrG0lckVSu_1kaGoqz5wEAAwIAA3cAAz0E', 'file_unique_id': 'AQADGxJrG0lckVR8', 'file_size': 299912, 'width': 1592, 'height': 884}]}}
+{'ok': True, 'result': {'message_id': 193310, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1787911616, 'text': '📊 te-us-stock-market'}}
+{'ok': True, 'result': {'message_id': 193311, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1787911617, 'text': '워시 연설·잭슨홀 앞에 미국 선물은 변동없음  \n갭, 올드네이비 새 CEO 발표 후 15% 급등, 마벨·오토데스크는 실적 악화로 하락  \n나스닥 1.57% 상승, 엔비디아 8.7% 급등·다음 연도 매출 70% 증가 전망'}}
+{'ok': True, 'result': {'message_id': 193312, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1787911618, 'text': '📊 cnn-fear-greed'}}
+{'ok': True, 'result': {'message_id': 193313, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1787911619, 'photo': [{'file_id': 'AgACAgUAAyEGAASPJ3n-AAEC8J9qkFAC-Dld4JdtuGdwYWxQ6Ji51AACFhJrG0lcgVTobRLYRLBc5QEAAwIAA3MAAz0E', 'file_unique_id': 'AQADFhJrG0lcgVR4', 'file_size': 848, 'width': 90, 'height': 48}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEC8J9qkFAC-Dld4JdtuGdwYWxQ6Ji51AACFhJrG0lcgVTobRLYRLBc5QEAAwIAA20AAz0E', 'file_unique_id': 'AQADFhJrG0lcgVRy', 'file_size': 7734, 'width': 320, 'height': 170}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEC8J9qkFAC-Dld4JdtuGdwYWxQ6Ji51AACFhJrG0lcgVTobRLYRLBc5QEAAwIAA3gAAz0E', 'file_unique_id': 'AQADFhJrG0lcgVR9', 'file_size': 19344, 'width': 650, 'height': 346}]}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 34', 'parameters': {'retry_after': 34}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 33', 'parameters': {'retry_after': 33}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 32', 'parameters': {'retry_after': 32}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 31', 'parameters': {'retry_after': 31}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 31', 'parameters': {'retry_after': 31}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 30', 'parameters': {'retry_after': 30}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 30', 'parameters': {'retry_after': 30}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 29', 'parameters': {'retry_after': 29}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 28', 'parameters': {'retry_after': 28}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 27', 'parameters': {'retry_after': 27}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 27', 'parameters': {'retry_after': 27}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 26', 'parameters': {'retry_after': 26}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 26', 'parameters': {'retry_after': 26}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 25', 'parameters': {'retry_after': 25}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 25', 'parameters': {'retry_after': 25}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 24', 'parameters': {'retry_after': 24}}
+============================================================
+Workflow completed with status: completed
+============================================================
+[SITE] wrote index.html (16 images, 4 summaries)
+```
