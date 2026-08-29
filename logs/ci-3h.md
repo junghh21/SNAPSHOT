@@ -25992,3 +25992,32 @@ Workflow completed with status: completed
 ============================================================
 [SITE] wrote index.html (16 images, 4 summaries)
 ```
+
+## 3h @ 2026-08-30 01:07:33 KST — ok (run #904)
+```
+{'ok': True, 'result': {'message_id': 194318, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1788019550, 'photo': [{'file_id': 'AgACAgUAAyEGAASPJ3n-AAEC9w5qkwNeD1FlR6t9zTSpMxJ_QFaf0QAC6RNrG4PimVSrbFOu_wTp8wEAAwIAA3MAAz0E', 'file_unique_id': 'AQAD6RNrG4PimVR4', 'file_size': 1344, 'width': 90, 'height': 50}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEC9w5qkwNeD1FlR6t9zTSpMxJ_QFaf0QAC6RNrG4PimVSrbFOu_wTp8wEAAwIAA20AAz0E', 'file_unique_id': 'AQAD6RNrG4PimVRy', 'file_size': 22936, 'width': 320, 'height': 178}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEC9w5qkwNeD1FlR6t9zTSpMxJ_QFaf0QAC6RNrG4PimVSrbFOu_wTp8wEAAwIAA3gAAz0E', 'file_unique_id': 'AQAD6RNrG4PimVR9', 'file_size': 107583, 'width': 800, 'height': 445}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEC9w5qkwNeD1FlR6t9zTSpMxJ_QFaf0QAC6RNrG4PimVSrbFOu_wTp8wEAAwIAA3kAAz0E', 'file_unique_id': 'AQAD6RNrG4PimVR-', 'file_size': 239802, 'width': 1280, 'height': 712}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEC9w5qkwNeD1FlR6t9zTSpMxJ_QFaf0QAC6RNrG4PimVSrbFOu_wTp8wEAAwIAA3cAAz0E', 'file_unique_id': 'AQAD6RNrG4PimVR8', 'file_size': 323095, 'width': 1592, 'height': 885}]}}
+{'ok': True, 'result': {'message_id': 194319, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1788019552, 'text': '📊 te-us-stock-market'}}
+{'ok': True, 'result': {'message_id': 194320, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1788019553, 'text': '미국 주요 지수 금요일 하락, S&P·나스닥·다우 각각 0.2·0.7% 감소  \n알파벳·마이크로소프트·아마존·메타 등 하이퍼스케일러는 상승을 유지했다  \n워시 연준 의장은 인플레이션 완화 없다고 밝혀 다음달 금리인상 기대를 높였다'}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 34', 'parameters': {'retry_after': 34}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 34', 'parameters': {'retry_after': 34}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 33', 'parameters': {'retry_after': 33}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 32', 'parameters': {'retry_after': 32}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 32', 'parameters': {'retry_after': 32}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 31', 'parameters': {'retry_after': 31}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 30', 'parameters': {'retry_after': 30}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 30', 'parameters': {'retry_after': 30}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 29', 'parameters': {'retry_after': 29}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 28', 'parameters': {'retry_after': 28}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 27', 'parameters': {'retry_after': 27}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 27', 'parameters': {'retry_after': 27}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 26', 'parameters': {'retry_after': 26}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 25', 'parameters': {'retry_after': 25}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 25', 'parameters': {'retry_after': 25}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 24', 'parameters': {'retry_after': 24}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 24', 'parameters': {'retry_after': 24}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 23', 'parameters': {'retry_after': 23}}
+============================================================
+Workflow completed with status: completed
+============================================================
+[SITE] wrote index.html (16 images, 4 summaries)
+```
