@@ -26311,3 +26311,32 @@ Workflow completed with status: completed
 ============================================================
 [SITE] wrote index.html (16 images, 4 summaries)
 ```
+
+## 3h @ 2026-08-30 21:30:01 KST — ok (run #915)
+```
+{'ok': True, 'result': {'message_id': 194964, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1788092892, 'photo': [{'file_id': 'AgACAgUAAyEGAASPJ3n-AAEC9w5qkwNeD1FlR6t9zTSpMxJ_QFaf0QAC6RNrG4PimVSrbFOu_wTp8wEAAwIAA3MAAz0E', 'file_unique_id': 'AQAD6RNrG4PimVR4', 'file_size': 1344, 'width': 90, 'height': 50}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEC9w5qkwNeD1FlR6t9zTSpMxJ_QFaf0QAC6RNrG4PimVSrbFOu_wTp8wEAAwIAA20AAz0E', 'file_unique_id': 'AQAD6RNrG4PimVRy', 'file_size': 22936, 'width': 320, 'height': 178}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEC9w5qkwNeD1FlR6t9zTSpMxJ_QFaf0QAC6RNrG4PimVSrbFOu_wTp8wEAAwIAA3gAAz0E', 'file_unique_id': 'AQAD6RNrG4PimVR9', 'file_size': 107583, 'width': 800, 'height': 445}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEC9w5qkwNeD1FlR6t9zTSpMxJ_QFaf0QAC6RNrG4PimVSrbFOu_wTp8wEAAwIAA3kAAz0E', 'file_unique_id': 'AQAD6RNrG4PimVR-', 'file_size': 239802, 'width': 1280, 'height': 712}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEC9w5qkwNeD1FlR6t9zTSpMxJ_QFaf0QAC6RNrG4PimVSrbFOu_wTp8wEAAwIAA3cAAz0E', 'file_unique_id': 'AQAD6RNrG4PimVR8', 'file_size': 323095, 'width': 1592, 'height': 885}]}}
+{'ok': True, 'result': {'message_id': 194965, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1788092893, 'text': '📊 te-us-stock-market'}}
+{'ok': True, 'result': {'message_id': 194966, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1788092894, 'text': '미국 주요 지수는 하락했으며, 반도체 주가가 전일 상승분을 줄였다.  \nMarvell은 실적 상회에도 10% 이상 급락했으며, 빅테크는 상승세를 유지했다.  \n워렌스 의장은 인플레이션 둔화 없음을 강조해 다음 달 금리 인상 기대를 높였다.'}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 36', 'parameters': {'retry_after': 36}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 36', 'parameters': {'retry_after': 36}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 35', 'parameters': {'retry_after': 35}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 34', 'parameters': {'retry_after': 34}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 34', 'parameters': {'retry_after': 34}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 33', 'parameters': {'retry_after': 33}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 32', 'parameters': {'retry_after': 32}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 31', 'parameters': {'retry_after': 31}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 31', 'parameters': {'retry_after': 31}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 30', 'parameters': {'retry_after': 30}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 29', 'parameters': {'retry_after': 29}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 29', 'parameters': {'retry_after': 29}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 27', 'parameters': {'retry_after': 27}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 27', 'parameters': {'retry_after': 27}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 26', 'parameters': {'retry_after': 26}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 26', 'parameters': {'retry_after': 26}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 25', 'parameters': {'retry_after': 25}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 24', 'parameters': {'retry_after': 24}}
+============================================================
+Workflow completed with status: completed
+============================================================
+[SITE] wrote index.html (16 images, 4 summaries)
+```
