@@ -26775,3 +26775,32 @@ Workflow completed with status: completed
 ============================================================
 [SITE] wrote index.html (16 images, 4 summaries)
 ```
+
+## 3h @ 2026-09-01 06:19:46 KST — ok (run #931)
+```
+{'ok': True, 'result': {'message_id': 195976, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1788211011, 'photo': [{'file_id': 'AgACAgUAAyEGAASPJ3n-AAEC_Yhqle9Djycf7pYDk8qGYqtP0s-4JgAC9BVrG6MwsVRVWzQ2-DQhcAEAAwIAA3MAAz0E', 'file_unique_id': 'AQAD9BVrG6MwsVR4', 'file_size': 1338, 'width': 90, 'height': 50}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEC_Yhqle9Djycf7pYDk8qGYqtP0s-4JgAC9BVrG6MwsVRVWzQ2-DQhcAEAAwIAA20AAz0E', 'file_unique_id': 'AQAD9BVrG6MwsVRy', 'file_size': 21969, 'width': 320, 'height': 178}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEC_Yhqle9Djycf7pYDk8qGYqtP0s-4JgAC9BVrG6MwsVRVWzQ2-DQhcAEAAwIAA3gAAz0E', 'file_unique_id': 'AQAD9BVrG6MwsVR9', 'file_size': 107455, 'width': 800, 'height': 444}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEC_Yhqle9Djycf7pYDk8qGYqtP0s-4JgAC9BVrG6MwsVRVWzQ2-DQhcAEAAwIAA3kAAz0E', 'file_unique_id': 'AQAD9BVrG6MwsVR-', 'file_size': 234961, 'width': 1280, 'height': 711}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEC_Yhqle9Djycf7pYDk8qGYqtP0s-4JgAC9BVrG6MwsVRVWzQ2-DQhcAEAAwIAA3cAAz0E', 'file_unique_id': 'AQAD9BVrG6MwsVR8', 'file_size': 318546, 'width': 1592, 'height': 884}]}}
+{'ok': True, 'result': {'message_id': 195977, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1788211012, 'text': '📊 te-us-stock-market'}}
+{'ok': True, 'result': {'message_id': 195978, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1788211013, 'text': '미국 주요 지수는 유가 상승과 인플레이션 우려로 하락, S&P·나스닥·다우 각각 0.3%, 0.1%↓, 다우 374포인트 감소.  \n유가 상승은 미·이란 최신 공습·페르시아만 차단 때문, 금리 상승으로 신용주와 알파벳·마이크·아마존 등 하이퍼스케일러가 하락.  \n엔비디아는 미디어텍에 35억 달러 투자 발표 후 1.4% 상승, 8월 S&P 2.6%, 나스닥100 4.2%, 다우 701포인트 상승 기록.'}}
+{'ok': True, 'result': {'message_id': 195979, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1788211014, 'text': '📊 cnn-fear-greed'}}
+{'ok': True, 'result': {'message_id': 195980, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1788211015, 'photo': [{'file_id': 'AgACAgUAAyEGAASPJ3n-AAEC_MtqlaaycSLxh5jiqOskPn_UF1lDNQACHxVrG6MwsVRzqGtJvFnw7AEAAwIAA3MAAz0E', 'file_unique_id': 'AQADHxVrG6MwsVR4', 'file_size': 761, 'width': 90, 'height': 48}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEC_MtqlaaycSLxh5jiqOskPn_UF1lDNQACHxVrG6MwsVRzqGtJvFnw7AEAAwIAA20AAz0E', 'file_unique_id': 'AQADHxVrG6MwsVRy', 'file_size': 6867, 'width': 320, 'height': 170}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEC_MtqlaaycSLxh5jiqOskPn_UF1lDNQACHxVrG6MwsVRzqGtJvFnw7AEAAwIAA3gAAz0E', 'file_unique_id': 'AQADHxVrG6MwsVR9', 'file_size': 17261, 'width': 650, 'height': 346}]}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 34', 'parameters': {'retry_after': 34}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 33', 'parameters': {'retry_after': 33}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 32', 'parameters': {'retry_after': 32}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 32', 'parameters': {'retry_after': 32}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 31', 'parameters': {'retry_after': 31}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 30', 'parameters': {'retry_after': 30}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 30', 'parameters': {'retry_after': 30}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 29', 'parameters': {'retry_after': 29}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 28', 'parameters': {'retry_after': 28}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 28', 'parameters': {'retry_after': 28}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 27', 'parameters': {'retry_after': 27}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 26', 'parameters': {'retry_after': 26}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 26', 'parameters': {'retry_after': 26}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 25', 'parameters': {'retry_after': 25}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 24', 'parameters': {'retry_after': 24}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 24', 'parameters': {'retry_after': 24}}
+============================================================
+Workflow completed with status: completed
+============================================================
+[SITE] wrote index.html (16 images, 4 summaries)
+```
