@@ -26572,3 +26572,32 @@ Workflow completed with status: completed
 ============================================================
 [SITE] wrote index.html (16 images, 4 summaries)
 ```
+
+## 3h @ 2026-08-31 15:29:04 KST — ok (run #924)
+```
+{'ok': True, 'result': {'message_id': 195491, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1788157587, 'photo': [{'file_id': 'AgACAgUAAyEGAASPJ3n-AAEC-6NqlR6TsOJEpa01OsjVgV-SUpMNTgACzhVrG5EDqVQen-2YqSLBHAEAAwIAA3MAAz0E', 'file_unique_id': 'AQADzhVrG5EDqVR4', 'file_size': 1344, 'width': 90, 'height': 50}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEC-6NqlR6TsOJEpa01OsjVgV-SUpMNTgACzhVrG5EDqVQen-2YqSLBHAEAAwIAA20AAz0E', 'file_unique_id': 'AQADzhVrG5EDqVRy', 'file_size': 22936, 'width': 320, 'height': 178}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEC-6NqlR6TsOJEpa01OsjVgV-SUpMNTgACzhVrG5EDqVQen-2YqSLBHAEAAwIAA3gAAz0E', 'file_unique_id': 'AQADzhVrG5EDqVR9', 'file_size': 107583, 'width': 800, 'height': 445}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEC-6NqlR6TsOJEpa01OsjVgV-SUpMNTgACzhVrG5EDqVQen-2YqSLBHAEAAwIAA3kAAz0E', 'file_unique_id': 'AQADzhVrG5EDqVR-', 'file_size': 239802, 'width': 1280, 'height': 712}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEC-6NqlR6TsOJEpa01OsjVgV-SUpMNTgACzhVrG5EDqVQen-2YqSLBHAEAAwIAA3cAAz0E', 'file_unique_id': 'AQADzhVrG5EDqVR8', 'file_size': 323095, 'width': 1592, 'height': 885}]}}
+{'ok': True, 'result': {'message_id': 195492, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1788157588, 'text': '📊 te-us-stock-market'}}
+{'ok': True, 'result': {'message_id': 195493, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1788157589, 'text': '미국 주가지수 선물, 이란 로켓 포격 후 유가 상승에 하락  \n연준 워시 의장, 인플레이션 억제 강조해 9월 금리인상 기대  \n다우 8월 2.05% 상승, S&P·나스닥도 상승·기업 실적·고용보고서 주목'}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 33', 'parameters': {'retry_after': 33}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 32', 'parameters': {'retry_after': 32}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 31', 'parameters': {'retry_after': 31}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 30', 'parameters': {'retry_after': 30}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 30', 'parameters': {'retry_after': 30}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 29', 'parameters': {'retry_after': 29}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 28', 'parameters': {'retry_after': 28}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 27', 'parameters': {'retry_after': 27}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 26', 'parameters': {'retry_after': 26}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 26', 'parameters': {'retry_after': 26}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 25', 'parameters': {'retry_after': 25}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 24', 'parameters': {'retry_after': 24}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 23', 'parameters': {'retry_after': 23}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 23', 'parameters': {'retry_after': 23}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 22', 'parameters': {'retry_after': 22}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 22', 'parameters': {'retry_after': 22}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 21', 'parameters': {'retry_after': 21}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 20', 'parameters': {'retry_after': 20}}
+============================================================
+Workflow completed with status: completed
+============================================================
+[SITE] wrote index.html (16 images, 4 summaries)
+```
