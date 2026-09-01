@@ -26891,3 +26891,32 @@ Workflow completed with status: completed
 ============================================================
 [SITE] wrote index.html (16 images, 4 summaries)
 ```
+
+## 3h @ 2026-09-01 13:10:04 KST — ok (run #935)
+```
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 20', 'parameters': {'retry_after': 20}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 20', 'parameters': {'retry_after': 20}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 19', 'parameters': {'retry_after': 19}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 18', 'parameters': {'retry_after': 18}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 18', 'parameters': {'retry_after': 18}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 17', 'parameters': {'retry_after': 17}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 16', 'parameters': {'retry_after': 16}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 15', 'parameters': {'retry_after': 15}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 14', 'parameters': {'retry_after': 14}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 13', 'parameters': {'retry_after': 13}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 12', 'parameters': {'retry_after': 12}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 11', 'parameters': {'retry_after': 11}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 10', 'parameters': {'retry_after': 10}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 9', 'parameters': {'retry_after': 9}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 3', 'parameters': {'retry_after': 3}}
+{'ok': True, 'result': {'message_id': 196249, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1788235631, 'text': '📊 te-us-bond-yield'}}
+{'ok': True, 'result': {'message_id': 196250, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1788235633, 'text': '미국 10년물 금리 4.78% 상승, 2025년 1월 이후 최고치.  \n연방은행은 인플레이션 2% 목표 미달 시 추가 조치 필요, 9월 금리 인상 확률 65%↑.  \n석유가격 상승은 호르무즈 해협 공격·이란 보복으로, 인플레이션 우려와 금리 긴축 기대를 강화.'}}
+{'ok': True, 'result': {'message_id': 196251, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1788235634, 'text': '📊 coingecko-top'}}
+{'ok': True, 'result': {'message_id': 196252, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1788235635, 'photo': [{'file_id': 'AgACAgUAAyEGAASPJ3n-AAEC_pxqlk9zuCP4qYLNnisy59rug0P5egACURZrG6MwuVRtmfYAAfULacIBAAMCAANzAAM9BA', 'file_unique_id': 'AQADURZrG6MwuVR4', 'file_size': 964, 'width': 90, 'height': 41}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEC_pxqlk9zuCP4qYLNnisy59rug0P5egACURZrG6MwuVRtmfYAAfULacIBAAMCAANtAAM9BA', 'file_unique_id': 'AQADURZrG6MwuVRy', 'file_size': 10315, 'width': 320, 'height': 146}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEC_pxqlk9zuCP4qYLNnisy59rug0P5egACURZrG6MwuVRtmfYAAfULacIBAAMCAAN4AAM9BA', 'file_unique_id': 'AQADURZrG6MwuVR9', 'file_size': 13593, 'width': 407, 'height': 186}]}}
+{'ok': True, 'result': {'message_id': 196253, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1788235636, 'text': "❌ vixcentral-term: Failed to capture element with xpath: //*[@id='container1']"}}
+{'ok': True, 'result': {'message_id': 196254, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1788235637, 'text': '❌ eia-grid-generation: Failed to capture element with xpath: /html/body/div[1]/div[2]/div/app-root/app-dashboard/div/div/div/div[2]/app-grid/div[2]/div/div/gridster/gridster-item[1]/div/app-visualization', 'entities': [{'offset': 78, 'length': 4, 'type': 'bot_command'}, {'offset': 131, 'length': 4, 'type': 'bot_command'}]}}
+============================================================
+Workflow completed with status: completed
+============================================================
+[SITE] wrote index.html (16 images, 4 summaries)
+```
