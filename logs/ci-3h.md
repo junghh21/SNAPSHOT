@@ -27210,3 +27210,32 @@ Workflow completed with status: completed
 ============================================================
 [SITE] wrote index.html (16 images, 4 summaries)
 ```
+
+## 3h @ 2026-09-02 08:47:35 KST — ok (run #946)
+```
+{'ok': True, 'result': {'message_id': 196969, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1788306309, 'text': '📊 finviz-sec-map'}}
+{'ok': True, 'result': {'message_id': 196970, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1788306311, 'photo': [{'file_id': 'AgACAgUAAyEGAASPJ3n-AAEDAAH2apdFMniqlAy0Mm9roplhGoo5zHAAAp4SaxujMMFUOSqyDocqqeMBAAMCAANzAAM9BA', 'file_unique_id': 'AQADnhJrG6MwwVR4', 'file_size': 1194, 'width': 90, 'height': 46}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEDAAH2apdFMniqlAy0Mm9roplhGoo5zHAAAp4SaxujMMFUOSqyDocqqeMBAAMCAANtAAM9BA', 'file_unique_id': 'AQADnhJrG6MwwVRy', 'file_size': 20778, 'width': 320, 'height': 164}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEDAAH2apdFMniqlAy0Mm9roplhGoo5zHAAAp4SaxujMMFUOSqyDocqqeMBAAMCAAN4AAM9BA', 'file_unique_id': 'AQADnhJrG6MwwVR9', 'file_size': 103436, 'width': 800, 'height': 411}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEDAAH2apdFMniqlAy0Mm9roplhGoo5zHAAAp4SaxujMMFUOSqyDocqqeMBAAMCAAN5AAM9BA', 'file_unique_id': 'AQADnhJrG6MwwVR-', 'file_size': 228287, 'width': 1280, 'height': 657}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEDAAH2apdFMniqlAy0Mm9roplhGoo5zHAAAp4SaxujMMFUOSqyDocqqeMBAAMCAAN3AAM9BA', 'file_unique_id': 'AQADnhJrG6MwwVR8', 'file_size': 339169, 'width': 1688, 'height': 866}]}}
+{'ok': True, 'result': {'message_id': 196971, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1788306312, 'text': '📊 te-us-stock-market'}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 37', 'parameters': {'retry_after': 37}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 37', 'parameters': {'retry_after': 37}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 36', 'parameters': {'retry_after': 36}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 36', 'parameters': {'retry_after': 36}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 35', 'parameters': {'retry_after': 35}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 34', 'parameters': {'retry_after': 34}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 34', 'parameters': {'retry_after': 34}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 33', 'parameters': {'retry_after': 33}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 32', 'parameters': {'retry_after': 32}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 31', 'parameters': {'retry_after': 31}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 31', 'parameters': {'retry_after': 31}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 30', 'parameters': {'retry_after': 30}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 30', 'parameters': {'retry_after': 30}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 29', 'parameters': {'retry_after': 29}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 28', 'parameters': {'retry_after': 28}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 27', 'parameters': {'retry_after': 27}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 27', 'parameters': {'retry_after': 27}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 26', 'parameters': {'retry_after': 26}}
+============================================================
+Workflow completed with status: completed
+============================================================
+[SITE] wrote index.html (16 images, 4 summaries)
+```
