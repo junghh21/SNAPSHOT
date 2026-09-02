@@ -27442,3 +27442,32 @@ Workflow completed with status: completed
 ============================================================
 [SITE] wrote index.html (16 images, 4 summaries)
 ```
+
+## 3h @ 2026-09-03 06:34:04 KST — ok (run #954)
+```
+{'ok': True, 'result': {'message_id': 197559, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1788384697, 'photo': [{'file_id': 'AgACAgUAAyEGAASPJ3n-AAEDA7dqmJW5O_rZsPZIO34K_JNx6vDUPAACzBBrGxk6yFRa5-FtxMFY_gEAAwIAA3MAAz0E', 'file_unique_id': 'AQADzBBrGxk6yFR4', 'file_size': 1187, 'width': 90, 'height': 46}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEDA7dqmJW5O_rZsPZIO34K_JNx6vDUPAACzBBrGxk6yFRa5-FtxMFY_gEAAwIAA20AAz0E', 'file_unique_id': 'AQADzBBrGxk6yFRy', 'file_size': 20587, 'width': 320, 'height': 164}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEDA7dqmJW5O_rZsPZIO34K_JNx6vDUPAACzBBrGxk6yFRa5-FtxMFY_gEAAwIAA3gAAz0E', 'file_unique_id': 'AQADzBBrGxk6yFR9', 'file_size': 100181, 'width': 800, 'height': 411}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEDA7dqmJW5O_rZsPZIO34K_JNx6vDUPAACzBBrGxk6yFRa5-FtxMFY_gEAAwIAA3kAAz0E', 'file_unique_id': 'AQADzBBrGxk6yFR-', 'file_size': 219608, 'width': 1280, 'height': 657}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEDA7dqmJW5O_rZsPZIO34K_JNx6vDUPAACzBBrGxk6yFRa5-FtxMFY_gEAAwIAA3cAAz0E', 'file_unique_id': 'AQADzBBrGxk6yFR8', 'file_size': 322706, 'width': 1688, 'height': 866}]}}
+{'ok': True, 'result': {'message_id': 197560, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1788384698, 'text': '📊 te-us-stock-market'}}
+{'ok': True, 'result': {'message_id': 197561, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1788384699, 'text': '미국 주요 지수는 상승 마감했으며, 기술주가 회복세를 주도했다.  \n알파벳·메타·오라클 상승, 알파벳은 광고 교환 판결, 엔비디아는 AI 스타트업 인수 기대감에 3% 상승.  \n델 15% 급등, 팔로알토 9% 하락, 브로드컴 0.7% 소폭 하락.'}}
+{'ok': True, 'result': {'message_id': 197562, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1788384700, 'text': '📊 cnn-fear-greed'}}
+{'ok': True, 'result': {'message_id': 197563, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1788384702, 'photo': [{'file_id': 'AgACAgUAAyEGAASPJ3n-AAEDA7tqmJW9yALXJm45CvikRuRr_Ip4FQACzRBrGxk6yFTx_U6gmHr_rgEAAwIAA3MAAz0E', 'file_unique_id': 'AQADzRBrGxk6yFR4', 'file_size': 837, 'width': 90, 'height': 48}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEDA7tqmJW9yALXJm45CvikRuRr_Ip4FQACzRBrGxk6yFTx_U6gmHr_rgEAAwIAA20AAz0E', 'file_unique_id': 'AQADzRBrGxk6yFRy', 'file_size': 8072, 'width': 320, 'height': 170}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEDA7tqmJW9yALXJm45CvikRuRr_Ip4FQACzRBrGxk6yFTx_U6gmHr_rgEAAwIAA3gAAz0E', 'file_unique_id': 'AQADzRBrGxk6yFR9', 'file_size': 20300, 'width': 650, 'height': 346}]}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 35', 'parameters': {'retry_after': 35}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 34', 'parameters': {'retry_after': 34}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 33', 'parameters': {'retry_after': 33}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 33', 'parameters': {'retry_after': 33}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 32', 'parameters': {'retry_after': 32}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 31', 'parameters': {'retry_after': 31}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 30', 'parameters': {'retry_after': 30}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 29', 'parameters': {'retry_after': 29}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 28', 'parameters': {'retry_after': 28}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 28', 'parameters': {'retry_after': 28}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 28', 'parameters': {'retry_after': 28}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 27', 'parameters': {'retry_after': 27}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 27', 'parameters': {'retry_after': 27}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 26', 'parameters': {'retry_after': 26}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 25', 'parameters': {'retry_after': 25}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 25', 'parameters': {'retry_after': 25}}
+============================================================
+Workflow completed with status: completed
+============================================================
+[SITE] wrote index.html (16 images, 4 summaries)
+```
