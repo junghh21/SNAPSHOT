@@ -27413,3 +27413,32 @@ Workflow completed with status: completed
 ============================================================
 [SITE] wrote index.html (16 images, 4 summaries)
 ```
+
+## 3h @ 2026-09-03 04:09:10 KST — ok (run #953)
+```
+{'ok': True, 'result': {'message_id': 197495, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1788375995, 'photo': [{'file_id': 'AgACAgUAAyEGAASPJ3n-AAEDA3dqmHO7dqlRvNn-qjm-TSeSAuBu_gACHxBrGxk6yFTXXa0M71LswgEAAwIAA3MAAz0E', 'file_unique_id': 'AQADHxBrGxk6yFR4', 'file_size': 1188, 'width': 90, 'height': 46}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEDA3dqmHO7dqlRvNn-qjm-TSeSAuBu_gACHxBrGxk6yFTXXa0M71LswgEAAwIAA20AAz0E', 'file_unique_id': 'AQADHxBrGxk6yFRy', 'file_size': 20682, 'width': 320, 'height': 164}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEDA3dqmHO7dqlRvNn-qjm-TSeSAuBu_gACHxBrGxk6yFTXXa0M71LswgEAAwIAA3gAAz0E', 'file_unique_id': 'AQADHxBrGxk6yFR9', 'file_size': 100539, 'width': 800, 'height': 411}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEDA3dqmHO7dqlRvNn-qjm-TSeSAuBu_gACHxBrGxk6yFTXXa0M71LswgEAAwIAA3kAAz0E', 'file_unique_id': 'AQADHxBrGxk6yFR-', 'file_size': 219912, 'width': 1280, 'height': 657}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEDA3dqmHO7dqlRvNn-qjm-TSeSAuBu_gACHxBrGxk6yFTXXa0M71LswgEAAwIAA3cAAz0E', 'file_unique_id': 'AQADHxBrGxk6yFR8', 'file_size': 323719, 'width': 1688, 'height': 866}]}}
+{'ok': True, 'result': {'message_id': 197496, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1788375996, 'text': '📊 te-us-stock-market'}}
+{'ok': True, 'result': {'message_id': 197497, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1788375997, 'text': 'S&P·다우 0.5% 상승, 나스닥은 변동 없으며 기술·은행주가 회복을 주도했다.  \n메타·웰스·엔비디아·델이 각각 2.5·3·5·10% 상승, 팔로알토는 7% 하락했다.  \n이란·미국 간 긴장으로 중동 에너지 공급 불확실성이 남아 수익률을 끌어올렸다.'}}
+{'ok': True, 'result': {'message_id': 197498, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1788375998, 'text': '📊 cnn-fear-greed'}}
+{'ok': True, 'result': {'message_id': 197499, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1788375999, 'photo': [{'file_id': 'AgACAgUAAyEGAASPJ3n-AAEDAvBqmEm0PNpNJdyV1yjjl24Q1TGqIQAC9RVrGxk6wFSWO7b3MLRL2AEAAwIAA3MAAz0E', 'file_unique_id': 'AQAD9RVrGxk6wFR4', 'file_size': 847, 'width': 90, 'height': 48}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEDAvBqmEm0PNpNJdyV1yjjl24Q1TGqIQAC9RVrGxk6wFSWO7b3MLRL2AEAAwIAA20AAz0E', 'file_unique_id': 'AQAD9RVrGxk6wFRy', 'file_size': 8050, 'width': 320, 'height': 170}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEDAvBqmEm0PNpNJdyV1yjjl24Q1TGqIQAC9RVrGxk6wFSWO7b3MLRL2AEAAwIAA3gAAz0E', 'file_unique_id': 'AQAD9RVrGxk6wFR9', 'file_size': 20207, 'width': 650, 'height': 346}]}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 36', 'parameters': {'retry_after': 36}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 35', 'parameters': {'retry_after': 35}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 34', 'parameters': {'retry_after': 34}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 34', 'parameters': {'retry_after': 34}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 33', 'parameters': {'retry_after': 33}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 33', 'parameters': {'retry_after': 33}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 32', 'parameters': {'retry_after': 32}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 31', 'parameters': {'retry_after': 31}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 30', 'parameters': {'retry_after': 30}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 30', 'parameters': {'retry_after': 30}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 29', 'parameters': {'retry_after': 29}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 29', 'parameters': {'retry_after': 29}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 28', 'parameters': {'retry_after': 28}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 28', 'parameters': {'retry_after': 28}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 27', 'parameters': {'retry_after': 27}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 27', 'parameters': {'retry_after': 27}}
+============================================================
+Workflow completed with status: completed
+============================================================
+[SITE] wrote index.html (16 images, 4 summaries)
+```
