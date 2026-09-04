@@ -27761,3 +27761,32 @@ Workflow completed with status: completed
 ============================================================
 [SITE] wrote index.html (16 images, 4 summaries)
 ```
+
+## 3h @ 2026-09-04 10:08:18 KST — ok (run #966)
+```
+{'ok': True, 'result': {'message_id': 198332, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1788483945, 'photo': [{'file_id': 'AgACAgUAAyEGAASPJ3n-AAEDBiRqme-Svi8x_2EK18Gn37kXwsIOvAACFBVrG7zfyFRyPvKaAYdLgwEAAwIAA3MAAz0E', 'file_unique_id': 'AQADFBVrG7zfyFR4', 'file_size': 1232, 'width': 90, 'height': 46}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEDBiRqme-Svi8x_2EK18Gn37kXwsIOvAACFBVrG7zfyFRyPvKaAYdLgwEAAwIAA20AAz0E', 'file_unique_id': 'AQADFBVrG7zfyFRy', 'file_size': 20608, 'width': 320, 'height': 164}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEDBiRqme-Svi8x_2EK18Gn37kXwsIOvAACFBVrG7zfyFRyPvKaAYdLgwEAAwIAA3gAAz0E', 'file_unique_id': 'AQADFBVrG7zfyFR9', 'file_size': 100536, 'width': 800, 'height': 411}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEDBiRqme-Svi8x_2EK18Gn37kXwsIOvAACFBVrG7zfyFRyPvKaAYdLgwEAAwIAA3kAAz0E', 'file_unique_id': 'AQADFBVrG7zfyFR-', 'file_size': 220862, 'width': 1280, 'height': 657}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEDBiRqme-Svi8x_2EK18Gn37kXwsIOvAACFBVrG7zfyFRyPvKaAYdLgwEAAwIAA3cAAz0E', 'file_unique_id': 'AQADFBVrG7zfyFR8', 'file_size': 325692, 'width': 1688, 'height': 866}]}}
+{'ok': True, 'result': {'message_id': 198333, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1788483946, 'text': '📊 te-us-stock-market'}}
+{'ok': True, 'result': {'message_id': 198334, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1788483947, 'text': '미국 주가지수 선물은 급여보고 전까지 변동 없었다.  \nDocuSign은 4% 상승, Lululemon은 18% 급락했다.  \n달러·채권 수익률 하락, 연준 위원은 인플레이션 완화 시 금리동결 가능 언급.'}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 36', 'parameters': {'retry_after': 36}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 36', 'parameters': {'retry_after': 36}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 35', 'parameters': {'retry_after': 35}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 34', 'parameters': {'retry_after': 34}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 34', 'parameters': {'retry_after': 34}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 33', 'parameters': {'retry_after': 33}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 32', 'parameters': {'retry_after': 32}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 32', 'parameters': {'retry_after': 32}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 31', 'parameters': {'retry_after': 31}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 30', 'parameters': {'retry_after': 30}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 29', 'parameters': {'retry_after': 29}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 29', 'parameters': {'retry_after': 29}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 28', 'parameters': {'retry_after': 28}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 27', 'parameters': {'retry_after': 27}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 27', 'parameters': {'retry_after': 27}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 26', 'parameters': {'retry_after': 26}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 26', 'parameters': {'retry_after': 26}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 25', 'parameters': {'retry_after': 25}}
+============================================================
+Workflow completed with status: completed
+============================================================
+[SITE] wrote index.html (16 images, 4 summaries)
+```
