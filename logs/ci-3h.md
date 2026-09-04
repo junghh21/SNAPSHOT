@@ -27993,3 +27993,32 @@ Workflow completed with status: completed
 ============================================================
 [SITE] wrote index.html (16 images, 4 summaries)
 ```
+
+## 3h @ 2026-09-05 04:08:19 KST — ok (run #974)
+```
+{'ok': True, 'result': {'message_id': 198905, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1788548746, 'photo': [{'file_id': 'AgACAgUAAyEGAASPJ3n-AAEDCPlqmxaK14GgM-FAAnrxA7sUfAIENQACZBJrG7zf2FSGBwlOw5CQMwEAAwIAA3MAAz0E', 'file_unique_id': 'AQADZBJrG7zf2FR4', 'file_size': 1179, 'width': 90, 'height': 46}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEDCPlqmxaK14GgM-FAAnrxA7sUfAIENQACZBJrG7zf2FSGBwlOw5CQMwEAAwIAA20AAz0E', 'file_unique_id': 'AQADZBJrG7zf2FRy', 'file_size': 20424, 'width': 320, 'height': 164}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEDCPlqmxaK14GgM-FAAnrxA7sUfAIENQACZBJrG7zf2FSGBwlOw5CQMwEAAwIAA3gAAz0E', 'file_unique_id': 'AQADZBJrG7zf2FR9', 'file_size': 100662, 'width': 800, 'height': 411}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEDCPlqmxaK14GgM-FAAnrxA7sUfAIENQACZBJrG7zf2FSGBwlOw5CQMwEAAwIAA3kAAz0E', 'file_unique_id': 'AQADZBJrG7zf2FR-', 'file_size': 220628, 'width': 1280, 'height': 657}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEDCPlqmxaK14GgM-FAAnrxA7sUfAIENQACZBJrG7zf2FSGBwlOw5CQMwEAAwIAA3cAAz0E', 'file_unique_id': 'AQADZBJrG7zf2FR8', 'file_size': 325851, 'width': 1688, 'height': 866}]}}
+{'ok': True, 'result': {'message_id': 198906, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1788548748, 'text': '📊 te-us-stock-market'}}
+{'ok': True, 'result': {'message_id': 198907, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1788548749, 'text': '미국 주식 금요일 소폭 하락, 강한 고용지표로 금리 인상 여지 확대  \n비농업 고용 16만2천 명 급증, 기대치 5만 명 초과, 완전 고용 상태  \n신용주 섹터 하락에도 반도체·AI 관련 주식은 상승세'}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 28', 'parameters': {'retry_after': 28}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 27', 'parameters': {'retry_after': 27}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 27', 'parameters': {'retry_after': 27}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 25', 'parameters': {'retry_after': 25}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 25', 'parameters': {'retry_after': 25}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 24', 'parameters': {'retry_after': 24}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 23', 'parameters': {'retry_after': 23}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 23', 'parameters': {'retry_after': 23}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 22', 'parameters': {'retry_after': 22}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 21', 'parameters': {'retry_after': 21}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 20', 'parameters': {'retry_after': 20}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 20', 'parameters': {'retry_after': 20}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 19', 'parameters': {'retry_after': 19}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 18', 'parameters': {'retry_after': 18}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 18', 'parameters': {'retry_after': 18}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 17', 'parameters': {'retry_after': 17}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 16', 'parameters': {'retry_after': 16}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 16', 'parameters': {'retry_after': 16}}
+============================================================
+Workflow completed with status: completed
+============================================================
+[SITE] wrote index.html (16 images, 4 summaries)
+```
