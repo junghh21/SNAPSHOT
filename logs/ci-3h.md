@@ -27819,3 +27819,32 @@ Workflow completed with status: completed
 ============================================================
 [SITE] wrote index.html (16 images, 4 summaries)
 ```
+
+## 3h @ 2026-09-04 14:18:09 KST — ok (run #968)
+```
+{'ok': True, 'result': {'message_id': 198462, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1788498990, 'photo': [{'file_id': 'AgACAgUAAyEGAASPJ3n-AAEDBiRqme-Svi8x_2EK18Gn37kXwsIOvAACFBVrG7zfyFRyPvKaAYdLgwEAAwIAA3MAAz0E', 'file_unique_id': 'AQADFBVrG7zfyFR4', 'file_size': 1232, 'width': 90, 'height': 46}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEDBiRqme-Svi8x_2EK18Gn37kXwsIOvAACFBVrG7zfyFRyPvKaAYdLgwEAAwIAA20AAz0E', 'file_unique_id': 'AQADFBVrG7zfyFRy', 'file_size': 20608, 'width': 320, 'height': 164}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEDBiRqme-Svi8x_2EK18Gn37kXwsIOvAACFBVrG7zfyFRyPvKaAYdLgwEAAwIAA3gAAz0E', 'file_unique_id': 'AQADFBVrG7zfyFR9', 'file_size': 100536, 'width': 800, 'height': 411}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEDBiRqme-Svi8x_2EK18Gn37kXwsIOvAACFBVrG7zfyFRyPvKaAYdLgwEAAwIAA3kAAz0E', 'file_unique_id': 'AQADFBVrG7zfyFR-', 'file_size': 220862, 'width': 1280, 'height': 657}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEDBiRqme-Svi8x_2EK18Gn37kXwsIOvAACFBVrG7zfyFRyPvKaAYdLgwEAAwIAA3cAAz0E', 'file_unique_id': 'AQADFBVrG7zfyFR8', 'file_size': 325692, 'width': 1688, 'height': 866}]}}
+{'ok': True, 'result': {'message_id': 198463, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1788498991, 'text': '📊 te-us-stock-market'}}
+{'ok': True, 'result': {'message_id': 198464, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1788498992, 'text': '투자자들은 8월 고용보고서 기다리며 미국 주식 선물은 변동 없었다.  \nDocuSign은 실적·매출 호조·가이던스 상향으로 4% 상승, Lululemon은 매출·이익 악화·예상 하회로 18% 급락.  \n다우·S&P·나스닥 모두 1% 이상 상승, 금리 인하 기대에 국채 수익률 하락.'}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 32', 'parameters': {'retry_after': 32}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 31', 'parameters': {'retry_after': 31}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 31', 'parameters': {'retry_after': 31}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 29', 'parameters': {'retry_after': 29}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 29', 'parameters': {'retry_after': 29}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 28', 'parameters': {'retry_after': 28}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 27', 'parameters': {'retry_after': 27}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 26', 'parameters': {'retry_after': 26}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 25', 'parameters': {'retry_after': 25}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 24', 'parameters': {'retry_after': 24}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 23', 'parameters': {'retry_after': 23}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 22', 'parameters': {'retry_after': 22}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 21', 'parameters': {'retry_after': 21}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 21', 'parameters': {'retry_after': 21}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 20', 'parameters': {'retry_after': 20}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 19', 'parameters': {'retry_after': 19}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 19', 'parameters': {'retry_after': 19}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 18', 'parameters': {'retry_after': 18}}
+============================================================
+Workflow completed with status: completed
+============================================================
+[SITE] wrote index.html (16 images, 4 summaries)
+```
