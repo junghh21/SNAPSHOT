@@ -28312,3 +28312,32 @@ Workflow completed with status: completed
 ============================================================
 [SITE] wrote index.html (16 images, 4 summaries)
 ```
+
+## 3h @ 2026-09-06 05:54:54 KST — ok (run #985)
+```
+{'ok': True, 'result': {'message_id': 199739, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1788641546, 'photo': [{'file_id': 'AgACAgUAAyEGAASPJ3n-AAEDCZlqm1Y4fxp0e2k4hVTvGWFaEraW0AACqhJrG7zf2FRIpjCLvEIbIQEAAwIAA3MAAz0E', 'file_unique_id': 'AQADqhJrG7zf2FR4', 'file_size': 1193, 'width': 90, 'height': 46}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEDCZlqm1Y4fxp0e2k4hVTvGWFaEraW0AACqhJrG7zf2FRIpjCLvEIbIQEAAwIAA20AAz0E', 'file_unique_id': 'AQADqhJrG7zf2FRy', 'file_size': 20518, 'width': 320, 'height': 164}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEDCZlqm1Y4fxp0e2k4hVTvGWFaEraW0AACqhJrG7zf2FRIpjCLvEIbIQEAAwIAA3gAAz0E', 'file_unique_id': 'AQADqhJrG7zf2FR9', 'file_size': 101330, 'width': 800, 'height': 411}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEDCZlqm1Y4fxp0e2k4hVTvGWFaEraW0AACqhJrG7zf2FRIpjCLvEIbIQEAAwIAA3kAAz0E', 'file_unique_id': 'AQADqhJrG7zf2FR-', 'file_size': 222086, 'width': 1280, 'height': 657}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEDCZlqm1Y4fxp0e2k4hVTvGWFaEraW0AACqhJrG7zf2FRIpjCLvEIbIQEAAwIAA3cAAz0E', 'file_unique_id': 'AQADqhJrG7zf2FR8', 'file_size': 327969, 'width': 1688, 'height': 866}]}}
+{'ok': True, 'result': {'message_id': 199740, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1788641547, 'text': '📊 te-us-stock-market'}}
+{'ok': True, 'result': {'message_id': 199741, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1788641548, 'text': '강한 고용지표로 연준 금리인상 여지 커져 미국 주식 대부분 하락.  \n신용민감주와 빅테크 하락, 반도체주 상승해 나스닥을 지지.  \n주간 다우 -0.3%, S&P +0.1%, 나스닥 +0.4%; 월요일 노동절 휴장.'}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 34', 'parameters': {'retry_after': 34}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 33', 'parameters': {'retry_after': 33}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 32', 'parameters': {'retry_after': 32}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 31', 'parameters': {'retry_after': 31}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 30', 'parameters': {'retry_after': 30}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 30', 'parameters': {'retry_after': 30}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 28', 'parameters': {'retry_after': 28}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 28', 'parameters': {'retry_after': 28}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 27', 'parameters': {'retry_after': 27}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 26', 'parameters': {'retry_after': 26}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 25', 'parameters': {'retry_after': 25}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 25', 'parameters': {'retry_after': 25}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 24', 'parameters': {'retry_after': 24}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 23', 'parameters': {'retry_after': 23}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 22', 'parameters': {'retry_after': 22}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 22', 'parameters': {'retry_after': 22}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 21', 'parameters': {'retry_after': 21}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 20', 'parameters': {'retry_after': 20}}
+============================================================
+Workflow completed with status: completed
+============================================================
+[SITE] wrote index.html (16 images, 4 summaries)
+```
