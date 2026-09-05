@@ -28167,3 +28167,32 @@ Workflow completed with status: completed
 ============================================================
 [SITE] wrote index.html (16 images, 4 summaries)
 ```
+
+## 3h @ 2026-09-05 20:08:30 KST — ok (run #980)
+```
+{'ok': True, 'result': {'message_id': 199407, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1788606354, 'text': '📊 te-us-stock-market'}}
+{'ok': True, 'result': {'message_id': 199408, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1788606355, 'text': '강한 고용지표로 연준 금리인상 여지 커져 주요 지수 하락, S&P‑500·0.4%↓, 다우·272포인트↓, 나스닥·0.2%↑  \n신용주(알파벳·마이크·테슬라·팔란티어 등) 하락, 반도체·칩주(엔비디아·마이크론·인텔·AMD 등) 상승  \n주간 다우‑0.3%↓, S&P‑0.1%↑, 나스닥‑0.4%↑, 월요일은 노동절로 휴장'}}
+{'ok': True, 'result': {'message_id': 199409, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1788606356, 'text': '📊 cnn-fear-greed'}}
+{'ok': True, 'result': {'message_id': 199410, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1788606357, 'photo': [{'file_id': 'AgACAgUAAyEGAASPJ3n-AAEDCG9qmu0Wn1jhXvKIja8L3m6ClpbgbwACWRZrG7zf0FQ2nI2FVPR_pAEAAwIAA3MAAz0E', 'file_unique_id': 'AQADWRZrG7zf0FR4', 'file_size': 841, 'width': 90, 'height': 48}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEDCG9qmu0Wn1jhXvKIja8L3m6ClpbgbwACWRZrG7zf0FQ2nI2FVPR_pAEAAwIAA20AAz0E', 'file_unique_id': 'AQADWRZrG7zf0FRy', 'file_size': 7899, 'width': 320, 'height': 170}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEDCG9qmu0Wn1jhXvKIja8L3m6ClpbgbwACWRZrG7zf0FQ2nI2FVPR_pAEAAwIAA3gAAz0E', 'file_unique_id': 'AQADWRZrG7zf0FR9', 'file_size': 19925, 'width': 650, 'height': 346}]}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 38', 'parameters': {'retry_after': 38}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 37', 'parameters': {'retry_after': 37}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 36', 'parameters': {'retry_after': 36}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 36', 'parameters': {'retry_after': 36}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 35', 'parameters': {'retry_after': 35}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 34', 'parameters': {'retry_after': 34}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 34', 'parameters': {'retry_after': 34}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 33', 'parameters': {'retry_after': 33}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 32', 'parameters': {'retry_after': 32}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 32', 'parameters': {'retry_after': 32}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 30', 'parameters': {'retry_after': 30}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 30', 'parameters': {'retry_after': 30}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 29', 'parameters': {'retry_after': 29}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 29', 'parameters': {'retry_after': 29}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 29', 'parameters': {'retry_after': 29}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 28', 'parameters': {'retry_after': 28}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 27', 'parameters': {'retry_after': 27}}
+============================================================
+Workflow completed with status: completed
+============================================================
+[SITE] wrote index.html (16 images, 4 summaries)
+```
