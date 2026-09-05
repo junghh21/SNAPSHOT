@@ -28254,3 +28254,32 @@ Workflow completed with status: completed
 ============================================================
 [SITE] wrote index.html (16 images, 4 summaries)
 ```
+
+## 3h @ 2026-09-06 02:55:14 KST — ok (run #983)
+```
+{'ok': True, 'result': {'message_id': 199642, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1788630758, 'text': '📊 te-us-stock-market'}}
+{'ok': True, 'result': {'message_id': 199643, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1788630759, 'text': '강한 고용지표로 연준 금리인상 가능성 커져 미국 주식 대부분 하락.  \nS&P500·다우·나스닥은 각각 ‑0.4%, ‑272포인트, +0.2% 변동, 주간엔 소폭 상승.  \n반도체·AI 관련 주가 상승, 나스닥을 끌어올리며 월요일은 노동절 휴장.'}}
+{'ok': True, 'result': {'message_id': 199644, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1788630760, 'text': '📊 cnn-fear-greed'}}
+{'ok': True, 'result': {'message_id': 199645, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1788630761, 'photo': [{'file_id': 'AgACAgUAAyEGAASPJ3n-AAEDCG9qmu0Wn1jhXvKIja8L3m6ClpbgbwACWRZrG7zf0FQ2nI2FVPR_pAEAAwIAA3MAAz0E', 'file_unique_id': 'AQADWRZrG7zf0FR4', 'file_size': 841, 'width': 90, 'height': 48}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEDCG9qmu0Wn1jhXvKIja8L3m6ClpbgbwACWRZrG7zf0FQ2nI2FVPR_pAEAAwIAA20AAz0E', 'file_unique_id': 'AQADWRZrG7zf0FRy', 'file_size': 7899, 'width': 320, 'height': 170}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEDCG9qmu0Wn1jhXvKIja8L3m6ClpbgbwACWRZrG7zf0FQ2nI2FVPR_pAEAAwIAA3gAAz0E', 'file_unique_id': 'AQADWRZrG7zf0FR9', 'file_size': 19925, 'width': 650, 'height': 346}]}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 34', 'parameters': {'retry_after': 34}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 32', 'parameters': {'retry_after': 32}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 32', 'parameters': {'retry_after': 32}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 31', 'parameters': {'retry_after': 31}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 30', 'parameters': {'retry_after': 30}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 30', 'parameters': {'retry_after': 30}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 29', 'parameters': {'retry_after': 29}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 28', 'parameters': {'retry_after': 28}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 27', 'parameters': {'retry_after': 27}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 26', 'parameters': {'retry_after': 26}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 25', 'parameters': {'retry_after': 25}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 25', 'parameters': {'retry_after': 25}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 24', 'parameters': {'retry_after': 24}}
+[TELEGRAM] Error sending te-us-bond-yield: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 23', 'parameters': {'retry_after': 23}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 22', 'parameters': {'retry_after': 22}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 22', 'parameters': {'retry_after': 22}}
+============================================================
+Workflow completed with status: completed
+============================================================
+[SITE] wrote index.html (16 images, 4 summaries)
+```
