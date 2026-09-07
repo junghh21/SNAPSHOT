@@ -28863,3 +28863,32 @@ Workflow completed with status: completed
 ============================================================
 [SITE] wrote index.html (16 images, 4 summaries)
 ```
+
+## 3h @ 2026-09-08 08:59:33 KST — ok (run #1005)
+```
+{'ok': True, 'result': {'message_id': 200984, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1788825408, 'photo': [{'file_id': 'AgACAgUAAyEGAASPJ3n-AAEDDv9qnjhPHwcFRIjXmxiHdhF3ZXnVUQACWRZrG1aD-FT2zrVBjXGgaAEAAwIAA3MAAz0E', 'file_unique_id': 'AQADWRZrG1aD-FR4', 'file_size': 1193, 'width': 90, 'height': 46}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEDDv9qnjhPHwcFRIjXmxiHdhF3ZXnVUQACWRZrG1aD-FT2zrVBjXGgaAEAAwIAA20AAz0E', 'file_unique_id': 'AQADWRZrG1aD-FRy', 'file_size': 20518, 'width': 320, 'height': 164}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEDDv9qnjhPHwcFRIjXmxiHdhF3ZXnVUQACWRZrG1aD-FT2zrVBjXGgaAEAAwIAA3gAAz0E', 'file_unique_id': 'AQADWRZrG1aD-FR9', 'file_size': 101330, 'width': 800, 'height': 411}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEDDv9qnjhPHwcFRIjXmxiHdhF3ZXnVUQACWRZrG1aD-FT2zrVBjXGgaAEAAwIAA3kAAz0E', 'file_unique_id': 'AQADWRZrG1aD-FR-', 'file_size': 222086, 'width': 1280, 'height': 657}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEDDv9qnjhPHwcFRIjXmxiHdhF3ZXnVUQACWRZrG1aD-FT2zrVBjXGgaAEAAwIAA3cAAz0E', 'file_unique_id': 'AQADWRZrG1aD-FR8', 'file_size': 327969, 'width': 1688, 'height': 866}]}}
+{'ok': True, 'result': {'message_id': 200985, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1788825409, 'text': '📊 te-us-stock-market'}}
+{'ok': True, 'result': {'message_id': 200986, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1788825410, 'text': '미국 주식 선물은 소폭 하락했으며, 석유 가격 상승이 인플레이션·금리 우려를 부각시켰다.\n캐나다가 약 200억 달러 규모 미국 상품에 보복 관세를 시행해 무역 긴장이 고조됐다.\n연준 금리 인상 60% 확률, 우버는 유로채 준비, 노보노디스크는 심장병 약물 시험 중단.'}}
+{'ok': True, 'result': {'message_id': 200987, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1788825411, 'text': '📊 cnn-fear-greed'}}
+{'ok': True, 'result': {'message_id': 200988, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1788825412, 'photo': [{'file_id': 'AgACAgUAAyEGAASPJ3n-AAEDDwNqnjhUf7VKyHEInoHCiz54NzwT4gACWhZrG1aD-FQBky8YNHGuJQEAAwIAA3MAAz0E', 'file_unique_id': 'AQADWhZrG1aD-FR4', 'file_size': 841, 'width': 90, 'height': 48}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEDDwNqnjhUf7VKyHEInoHCiz54NzwT4gACWhZrG1aD-FQBky8YNHGuJQEAAwIAA20AAz0E', 'file_unique_id': 'AQADWhZrG1aD-FRy', 'file_size': 7899, 'width': 320, 'height': 170}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEDDwNqnjhUf7VKyHEInoHCiz54NzwT4gACWhZrG1aD-FQBky8YNHGuJQEAAwIAA3gAAz0E', 'file_unique_id': 'AQADWhZrG1aD-FR9', 'file_size': 19925, 'width': 650, 'height': 346}]}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 38', 'parameters': {'retry_after': 38}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 37', 'parameters': {'retry_after': 37}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 36', 'parameters': {'retry_after': 36}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 36', 'parameters': {'retry_after': 36}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 35', 'parameters': {'retry_after': 35}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 34', 'parameters': {'retry_after': 34}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 33', 'parameters': {'retry_after': 33}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 33', 'parameters': {'retry_after': 33}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 32', 'parameters': {'retry_after': 32}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 32', 'parameters': {'retry_after': 32}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 31', 'parameters': {'retry_after': 31}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 31', 'parameters': {'retry_after': 31}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 30', 'parameters': {'retry_after': 30}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 29', 'parameters': {'retry_after': 29}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 29', 'parameters': {'retry_after': 29}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 28', 'parameters': {'retry_after': 28}}
+============================================================
+Workflow completed with status: completed
+============================================================
+[SITE] wrote index.html (16 images, 4 summaries)
+```
