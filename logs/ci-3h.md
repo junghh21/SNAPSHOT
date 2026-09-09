@@ -29298,3 +29298,32 @@ Workflow completed with status: completed
 ============================================================
 [SITE] wrote index.html (16 images, 4 summaries)
 ```
+
+## 3h @ 2026-09-10 07:10:24 KST — ok (run #1020)
+```
+{'ok': True, 'result': {'message_id': 202021, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1788991634, 'photo': [{'file_id': 'AgACAgUAAyEGAASPJ3n-AAEDFSVqodiS57hTt3SxjUq4BDMlNd7DKAACZxBrG0eWEFWVkLIbufmeHgEAAwIAA3MAAz0E', 'file_unique_id': 'AQADZxBrG0eWEFV4', 'file_size': 1191, 'width': 90, 'height': 46}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEDFSVqodiS57hTt3SxjUq4BDMlNd7DKAACZxBrG0eWEFWVkLIbufmeHgEAAwIAA20AAz0E', 'file_unique_id': 'AQADZxBrG0eWEFVy', 'file_size': 20498, 'width': 320, 'height': 164}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEDFSVqodiS57hTt3SxjUq4BDMlNd7DKAACZxBrG0eWEFWVkLIbufmeHgEAAwIAA3gAAz0E', 'file_unique_id': 'AQADZxBrG0eWEFV9', 'file_size': 100339, 'width': 800, 'height': 411}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEDFSVqodiS57hTt3SxjUq4BDMlNd7DKAACZxBrG0eWEFWVkLIbufmeHgEAAwIAA3kAAz0E', 'file_unique_id': 'AQADZxBrG0eWEFV-', 'file_size': 221110, 'width': 1280, 'height': 657}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEDFSVqodiS57hTt3SxjUq4BDMlNd7DKAACZxBrG0eWEFWVkLIbufmeHgEAAwIAA3cAAz0E', 'file_unique_id': 'AQADZxBrG0eWEFV8', 'file_size': 325718, 'width': 1688, 'height': 867}]}}
+{'ok': True, 'result': {'message_id': 202022, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1788991635, 'text': '📊 te-us-stock-market'}}
+{'ok': True, 'result': {'message_id': 202023, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1788991637, 'text': '미국 주요 지수는 금리 상승으로 기업 마진·소비 위축 우려에 하락.  \n미국‑이란 충돌로 유가 상승, 인플레이션 우려와 연준 회의 앞 불확실성 확대.  \n알파벳·아마존 주가 하락, 메타 AI·칩주 상승, 애플은 폴더폰 공개에도 소폭 하락.'}}
+{'ok': True, 'result': {'message_id': 202024, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1788991638, 'text': '📊 cnn-fear-greed'}}
+{'ok': True, 'result': {'message_id': 202025, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1788991639, 'photo': [{'file_id': 'AgACAgUAAyEGAASPJ3n-AAEDFP9qoc8ws4KVFXr2y1dJJUmAIXoIKAACXRBrG0eWEFXNqbGyR9iqfQEAAwIAA3MAAz0E', 'file_unique_id': 'AQADXRBrG0eWEFV4', 'file_size': 855, 'width': 90, 'height': 48}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEDFP9qoc8ws4KVFXr2y1dJJUmAIXoIKAACXRBrG0eWEFXNqbGyR9iqfQEAAwIAA20AAz0E', 'file_unique_id': 'AQADXRBrG0eWEFVy', 'file_size': 7964, 'width': 320, 'height': 170}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEDFP9qoc8ws4KVFXr2y1dJJUmAIXoIKAACXRBrG0eWEFXNqbGyR9iqfQEAAwIAA3gAAz0E', 'file_unique_id': 'AQADXRBrG0eWEFV9', 'file_size': 20135, 'width': 650, 'height': 346}]}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 31', 'parameters': {'retry_after': 31}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 30', 'parameters': {'retry_after': 30}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 29', 'parameters': {'retry_after': 29}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 28', 'parameters': {'retry_after': 28}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 27', 'parameters': {'retry_after': 27}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 26', 'parameters': {'retry_after': 26}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 25', 'parameters': {'retry_after': 25}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 24', 'parameters': {'retry_after': 24}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 23', 'parameters': {'retry_after': 23}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 23', 'parameters': {'retry_after': 23}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 22', 'parameters': {'retry_after': 22}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 21', 'parameters': {'retry_after': 21}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 21', 'parameters': {'retry_after': 21}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 20', 'parameters': {'retry_after': 20}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 19', 'parameters': {'retry_after': 19}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 19', 'parameters': {'retry_after': 19}}
+============================================================
+Workflow completed with status: completed
+============================================================
+[SITE] wrote index.html (16 images, 4 summaries)
+```
