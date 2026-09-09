@@ -29153,3 +29153,32 @@ Workflow completed with status: completed
 ============================================================
 [SITE] wrote index.html (16 images, 4 summaries)
 ```
+
+## 3h @ 2026-09-09 13:09:51 KST — ok (run #1015)
+```
+{'ok': True, 'result': {'message_id': 201588, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1788926830, 'photo': [{'file_id': 'AgACAgUAAyEGAASPJ3n-AAEDE3RqoNtuC65bQ6dQCQm1xBWSDVP8nQACmhJrG1MnAAFVj8b9TmvN_w8BAAMCAANzAAM9BA', 'file_unique_id': 'AQADmhJrG1MnAAFVeA', 'file_size': 1250, 'width': 90, 'height': 46}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEDE3RqoNtuC65bQ6dQCQm1xBWSDVP8nQACmhJrG1MnAAFVj8b9TmvN_w8BAAMCAANtAAM9BA', 'file_unique_id': 'AQADmhJrG1MnAAFVcg', 'file_size': 20920, 'width': 320, 'height': 164}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEDE3RqoNtuC65bQ6dQCQm1xBWSDVP8nQACmhJrG1MnAAFVj8b9TmvN_w8BAAMCAAN4AAM9BA', 'file_unique_id': 'AQADmhJrG1MnAAFVfQ', 'file_size': 102695, 'width': 800, 'height': 411}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEDE3RqoNtuC65bQ6dQCQm1xBWSDVP8nQACmhJrG1MnAAFVj8b9TmvN_w8BAAMCAAN5AAM9BA', 'file_unique_id': 'AQADmhJrG1MnAAFVfg', 'file_size': 225661, 'width': 1280, 'height': 657}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEDE3RqoNtuC65bQ6dQCQm1xBWSDVP8nQACmhJrG1MnAAFVj8b9TmvN_w8BAAMCAAN3AAM9BA', 'file_unique_id': 'AQADmhJrG1MnAAFVfA', 'file_size': 333710, 'width': 1688, 'height': 866}]}}
+{'ok': True, 'result': {'message_id': 201589, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1788926831, 'text': '📊 te-us-stock-market'}}
+{'ok': True, 'result': {'message_id': 201590, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1788926832, 'text': '유가 상승·인플레이션 우려로 전일 하락 후 미국 주가지수 선물 안정  \n미국, 카그 섬 인근 이란 유조선 5척 격침·전함 미사일 공격 시도 보복  \n투자자, 이번 주 인플레이션 지표와 연준 금리 정책 기대·시장 60% 확률로 0.25% 인상 전망'}}
+{'ok': True, 'result': {'message_id': 201591, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1788926833, 'text': '📊 cnn-fear-greed'}}
+{'ok': True, 'result': {'message_id': 201592, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1788926834, 'photo': [{'file_id': 'AgACAgUAAyEGAASPJ3n-AAEDE3hqoNtyb0jq1bpK9CX6TXiIsZczJgACmxJrG1MnAAFVR6ixuf59sK4BAAMCAANzAAM9BA', 'file_unique_id': 'AQADmxJrG1MnAAFVeA', 'file_size': 846, 'width': 90, 'height': 48}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEDE3hqoNtyb0jq1bpK9CX6TXiIsZczJgACmxJrG1MnAAFVR6ixuf59sK4BAAMCAANtAAM9BA', 'file_unique_id': 'AQADmxJrG1MnAAFVcg', 'file_size': 7918, 'width': 320, 'height': 170}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEDE3hqoNtyb0jq1bpK9CX6TXiIsZczJgACmxJrG1MnAAFVR6ixuf59sK4BAAMCAAN4AAM9BA', 'file_unique_id': 'AQADmxJrG1MnAAFVfQ', 'file_size': 19781, 'width': 650, 'height': 346}]}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 36', 'parameters': {'retry_after': 36}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 35', 'parameters': {'retry_after': 35}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 35', 'parameters': {'retry_after': 35}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 34', 'parameters': {'retry_after': 34}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 33', 'parameters': {'retry_after': 33}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 33', 'parameters': {'retry_after': 33}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 32', 'parameters': {'retry_after': 32}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 31', 'parameters': {'retry_after': 31}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 31', 'parameters': {'retry_after': 31}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 30', 'parameters': {'retry_after': 30}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 30', 'parameters': {'retry_after': 30}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 29', 'parameters': {'retry_after': 29}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 29', 'parameters': {'retry_after': 29}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 28', 'parameters': {'retry_after': 28}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 27', 'parameters': {'retry_after': 27}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 27', 'parameters': {'retry_after': 27}}
+============================================================
+Workflow completed with status: completed
+============================================================
+[SITE] wrote index.html (16 images, 4 summaries)
+```
