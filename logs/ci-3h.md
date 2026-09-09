@@ -29211,3 +29211,32 @@ Workflow completed with status: completed
 ============================================================
 [SITE] wrote index.html (16 images, 4 summaries)
 ```
+
+## 3h @ 2026-09-09 21:09:34 KST — ok (run #1017)
+```
+{'ok': True, 'result': {'message_id': 201787, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1788955604, 'photo': [{'file_id': 'AgACAgUAAyEGAASPJ3n-AAEDFDtqoUvUMkGbc4bCOv6Sgr1G2e7MKgACHhZrG1MnCFX4UlfiabYMHQEAAwIAA3MAAz0E', 'file_unique_id': 'AQADHhZrG1MnCFV4', 'file_size': 1114, 'width': 90, 'height': 46}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEDFDtqoUvUMkGbc4bCOv6Sgr1G2e7MKgACHhZrG1MnCFX4UlfiabYMHQEAAwIAA20AAz0E', 'file_unique_id': 'AQADHhZrG1MnCFVy', 'file_size': 19529, 'width': 320, 'height': 164}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEDFDtqoUvUMkGbc4bCOv6Sgr1G2e7MKgACHhZrG1MnCFX4UlfiabYMHQEAAwIAA3gAAz0E', 'file_unique_id': 'AQADHhZrG1MnCFV9', 'file_size': 95285, 'width': 800, 'height': 411}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEDFDtqoUvUMkGbc4bCOv6Sgr1G2e7MKgACHhZrG1MnCFX4UlfiabYMHQEAAwIAA3kAAz0E', 'file_unique_id': 'AQADHhZrG1MnCFV-', 'file_size': 207250, 'width': 1280, 'height': 657}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEDFDtqoUvUMkGbc4bCOv6Sgr1G2e7MKgACHhZrG1MnCFX4UlfiabYMHQEAAwIAA3cAAz0E', 'file_unique_id': 'AQADHhZrG1MnCFV8', 'file_size': 305960, 'width': 1688, 'height': 866}]}}
+{'ok': True, 'result': {'message_id': 201788, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1788955605, 'text': '📊 te-us-stock-market'}}
+{'ok': True, 'result': {'message_id': 201789, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1788955606, 'text': '유가 상승·인플레이션 우려와 이란 유조선 격침 후 주식선물 안정  \n투자자들은 이번 주 인플레이션 지표와 연준 금리 인상 60% 확률을 주시  \n다우‑1.18%, S&P‑0.58%, 나스닥‑0.32% 하락·마이크로소프트·팔란티어·아마존도 떨어짐'}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 33', 'parameters': {'retry_after': 33}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 32', 'parameters': {'retry_after': 32}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 32', 'parameters': {'retry_after': 32}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 31', 'parameters': {'retry_after': 31}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 30', 'parameters': {'retry_after': 30}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 30', 'parameters': {'retry_after': 30}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 28', 'parameters': {'retry_after': 28}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 28', 'parameters': {'retry_after': 28}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 27', 'parameters': {'retry_after': 27}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 26', 'parameters': {'retry_after': 26}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 26', 'parameters': {'retry_after': 26}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 25', 'parameters': {'retry_after': 25}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 24', 'parameters': {'retry_after': 24}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 24', 'parameters': {'retry_after': 24}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 23', 'parameters': {'retry_after': 23}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 22', 'parameters': {'retry_after': 22}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 22', 'parameters': {'retry_after': 22}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 21', 'parameters': {'retry_after': 21}}
+============================================================
+Workflow completed with status: completed
+============================================================
+[SITE] wrote index.html (16 images, 4 summaries)
+```
