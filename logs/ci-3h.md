@@ -29501,3 +29501,32 @@ Workflow completed with status: completed
 ============================================================
 [SITE] wrote index.html (16 images, 4 summaries)
 ```
+
+## 3h @ 2026-09-11 08:39:37 KST — ok (run #1028)
+```
+{'ok': True, 'result': {'message_id': 202494, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1789083446, 'photo': [{'file_id': 'AgACAgUAAyEGAASPJ3n-AAEDFq1qox9_7E4VownFjL9J2zleWUFaTgACmRBrG0eWGFXCZGPnmmwuUAEAAwIAA3MAAz0E', 'file_unique_id': 'AQADmRBrG0eWGFV4', 'file_size': 1168, 'width': 90, 'height': 46}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEDFq1qox9_7E4VownFjL9J2zleWUFaTgACmRBrG0eWGFXCZGPnmmwuUAEAAwIAA20AAz0E', 'file_unique_id': 'AQADmRBrG0eWGFVy', 'file_size': 20627, 'width': 320, 'height': 164}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEDFq1qox9_7E4VownFjL9J2zleWUFaTgACmRBrG0eWGFXCZGPnmmwuUAEAAwIAA3gAAz0E', 'file_unique_id': 'AQADmRBrG0eWGFV9', 'file_size': 100981, 'width': 800, 'height': 411}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEDFq1qox9_7E4VownFjL9J2zleWUFaTgACmRBrG0eWGFXCZGPnmmwuUAEAAwIAA3kAAz0E', 'file_unique_id': 'AQADmRBrG0eWGFV-', 'file_size': 220964, 'width': 1280, 'height': 657}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEDFq1qox9_7E4VownFjL9J2zleWUFaTgACmRBrG0eWGFXCZGPnmmwuUAEAAwIAA3cAAz0E', 'file_unique_id': 'AQADmRBrG0eWGFV8', 'file_size': 325892, 'width': 1688, 'height': 866}]}}
+{'ok': True, 'result': {'message_id': 202495, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1789083447, 'text': '📊 te-us-stock-market'}}
+{'ok': True, 'result': {'message_id': 202496, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1789083448, 'text': '석유·연료 가격 급등·채권 수익률 상승으로 미국 주요 지수 모두 하락.  \n반도체·테크주가 장기 차입비용 상승에 크게 떨어졌으며, 오라클·메타·팔란티어도 하락.  \n애플은 신제품 발표(폴더블 아이폰 듀오)로 3.6% 상승했다.'}}
+{'ok': True, 'result': {'message_id': 202497, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1789083449, 'text': '📊 cnn-fear-greed'}}
+{'ok': True, 'result': {'message_id': 202498, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1789083450, 'photo': [{'file_id': 'AgACAgUAAyEGAASPJ3n-AAEDFrFqox-DpJ62OwF8vgRoUhEvvtSD0QACmhBrG0eWGFX3LsYbqFJwMgEAAwIAA3MAAz0E', 'file_unique_id': 'AQADmhBrG0eWGFV4', 'file_size': 837, 'width': 90, 'height': 48}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEDFrFqox-DpJ62OwF8vgRoUhEvvtSD0QACmhBrG0eWGFX3LsYbqFJwMgEAAwIAA20AAz0E', 'file_unique_id': 'AQADmhBrG0eWGFVy', 'file_size': 8072, 'width': 320, 'height': 170}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEDFrFqox-DpJ62OwF8vgRoUhEvvtSD0QACmhBrG0eWGFX3LsYbqFJwMgEAAwIAA3gAAz0E', 'file_unique_id': 'AQADmhBrG0eWGFV9', 'file_size': 20300, 'width': 650, 'height': 346}]}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 38', 'parameters': {'retry_after': 38}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 37', 'parameters': {'retry_after': 37}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 36', 'parameters': {'retry_after': 36}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 36', 'parameters': {'retry_after': 36}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 35', 'parameters': {'retry_after': 35}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 35', 'parameters': {'retry_after': 35}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 34', 'parameters': {'retry_after': 34}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 33', 'parameters': {'retry_after': 33}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 32', 'parameters': {'retry_after': 32}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 32', 'parameters': {'retry_after': 32}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 31', 'parameters': {'retry_after': 31}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 31', 'parameters': {'retry_after': 31}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 30', 'parameters': {'retry_after': 30}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 29', 'parameters': {'retry_after': 29}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 29', 'parameters': {'retry_after': 29}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 29', 'parameters': {'retry_after': 29}}
+============================================================
+Workflow completed with status: completed
+============================================================
+[SITE] wrote index.html (16 images, 4 summaries)
+```
