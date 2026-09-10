@@ -29414,3 +29414,32 @@ Workflow completed with status: completed
 ============================================================
 [SITE] wrote index.html (16 images, 4 summaries)
 ```
+
+## 3h @ 2026-09-10 21:03:43 KST — ok (run #1025)
+```
+{'ok': True, 'result': {'message_id': 202300, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1789041653, 'photo': [{'file_id': 'AgACAgUAAyEGAASPJ3n-AAEDFjxqopv1wHut4kxVrTe9v30r-WhntQACoA9rG0eWGFXdcHdT1faX3wEAAwIAA3MAAz0E', 'file_unique_id': 'AQADoA9rG0eWGFV4', 'file_size': 1075, 'width': 90, 'height': 46}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEDFjxqopv1wHut4kxVrTe9v30r-WhntQACoA9rG0eWGFXdcHdT1faX3wEAAwIAA20AAz0E', 'file_unique_id': 'AQADoA9rG0eWGFVy', 'file_size': 19235, 'width': 320, 'height': 164}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEDFjxqopv1wHut4kxVrTe9v30r-WhntQACoA9rG0eWGFXdcHdT1faX3wEAAwIAA3gAAz0E', 'file_unique_id': 'AQADoA9rG0eWGFV9', 'file_size': 94644, 'width': 800, 'height': 411}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEDFjxqopv1wHut4kxVrTe9v30r-WhntQACoA9rG0eWGFXdcHdT1faX3wEAAwIAA3kAAz0E', 'file_unique_id': 'AQADoA9rG0eWGFV-', 'file_size': 207076, 'width': 1280, 'height': 657}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEDFjxqopv1wHut4kxVrTe9v30r-WhntQACoA9rG0eWGFXdcHdT1faX3wEAAwIAA3cAAz0E', 'file_unique_id': 'AQADoA9rG0eWGFV8', 'file_size': 305850, 'width': 1688, 'height': 866}]}}
+{'ok': True, 'result': {'message_id': 202301, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1789041654, 'text': '📊 te-us-stock-market'}}
+{'ok': True, 'result': {'message_id': 202302, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1789041655, 'text': '미국 주가지수 선물은 인플레이션 지표 발표 전까지 변동 없이 유지  \n주요 데이터는 PPI·소비자 물가와 고용·주택 판매, 기업 실적 발표 예정  \n다우는 하락, 유가 상승·전쟁 우려, 국채 매입 계획으로 수익률 상승'}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 34', 'parameters': {'retry_after': 34}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 33', 'parameters': {'retry_after': 33}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 32', 'parameters': {'retry_after': 32}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 31', 'parameters': {'retry_after': 31}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 30', 'parameters': {'retry_after': 30}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 30', 'parameters': {'retry_after': 30}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 29', 'parameters': {'retry_after': 29}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 28', 'parameters': {'retry_after': 28}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 27', 'parameters': {'retry_after': 27}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 27', 'parameters': {'retry_after': 27}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 25', 'parameters': {'retry_after': 25}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 25', 'parameters': {'retry_after': 25}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 24', 'parameters': {'retry_after': 24}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 24', 'parameters': {'retry_after': 24}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 23', 'parameters': {'retry_after': 23}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 23', 'parameters': {'retry_after': 23}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 22', 'parameters': {'retry_after': 22}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 21', 'parameters': {'retry_after': 21}}
+============================================================
+Workflow completed with status: completed
+============================================================
+[SITE] wrote index.html (16 images, 4 summaries)
+```
