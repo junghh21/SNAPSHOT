@@ -29704,3 +29704,32 @@ Workflow completed with status: completed
 ============================================================
 [SITE] wrote index.html (16 images, 4 summaries)
 ```
+
+## 3h @ 2026-09-12 06:34:36 KST — ok (run #1035)
+```
+{'ok': True, 'result': {'message_id': 202978, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1789162302, 'photo': [{'file_id': 'AgACAgUAAyEGAASPJ3n-AAEDGOJqpHM-EqGqynmYzrPtQgIQWnFQgQAC-RBrG5k5KVVO7yCukwbn9wEAAwIAA3MAAz0E', 'file_unique_id': 'AQAD-RBrG5k5KVV4', 'file_size': 1184, 'width': 90, 'height': 46}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEDGOJqpHM-EqGqynmYzrPtQgIQWnFQgQAC-RBrG5k5KVVO7yCukwbn9wEAAwIAA20AAz0E', 'file_unique_id': 'AQAD-RBrG5k5KVVy', 'file_size': 20239, 'width': 320, 'height': 164}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEDGOJqpHM-EqGqynmYzrPtQgIQWnFQgQAC-RBrG5k5KVVO7yCukwbn9wEAAwIAA3gAAz0E', 'file_unique_id': 'AQAD-RBrG5k5KVV9', 'file_size': 99639, 'width': 800, 'height': 411}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEDGOJqpHM-EqGqynmYzrPtQgIQWnFQgQAC-RBrG5k5KVVO7yCukwbn9wEAAwIAA3kAAz0E', 'file_unique_id': 'AQAD-RBrG5k5KVV-', 'file_size': 218240, 'width': 1280, 'height': 657}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEDGOJqpHM-EqGqynmYzrPtQgIQWnFQgQAC-RBrG5k5KVVO7yCukwbn9wEAAwIAA3cAAz0E', 'file_unique_id': 'AQAD-RBrG5k5KVV8', 'file_size': 322747, 'width': 1688, 'height': 866}]}}
+{'ok': True, 'result': {'message_id': 202979, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1789162303, 'text': '📊 te-us-stock-market'}}
+{'ok': True, 'result': {'message_id': 202980, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1789162304, 'text': '미국 주요 지수 금요일 상승 마감, 4일 연속 하락 멈춤.  \n원유·장기 국채 수익률 상승세 멈춰 인플레이션 우려 지속.  \n알파벳·아마존 등 대형주 상승, 델 11.9% 급등 기록.'}}
+{'ok': True, 'result': {'message_id': 202981, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1789162305, 'text': '📊 cnn-fear-greed'}}
+{'ok': True, 'result': {'message_id': 202982, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1789162307, 'photo': [{'file_id': 'AgACAgUAAyEGAASPJ3n-AAEDFrFqox-DpJ62OwF8vgRoUhEvvtSD0QACmhBrG0eWGFX3LsYbqFJwMgEAAwIAA3MAAz0E', 'file_unique_id': 'AQADmhBrG0eWGFV4', 'file_size': 837, 'width': 90, 'height': 48}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEDFrFqox-DpJ62OwF8vgRoUhEvvtSD0QACmhBrG0eWGFX3LsYbqFJwMgEAAwIAA20AAz0E', 'file_unique_id': 'AQADmhBrG0eWGFVy', 'file_size': 8072, 'width': 320, 'height': 170}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEDFrFqox-DpJ62OwF8vgRoUhEvvtSD0QACmhBrG0eWGFX3LsYbqFJwMgEAAwIAA3gAAz0E', 'file_unique_id': 'AQADmhBrG0eWGFV9', 'file_size': 20300, 'width': 650, 'height': 346}]}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 30', 'parameters': {'retry_after': 30}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 29', 'parameters': {'retry_after': 29}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 28', 'parameters': {'retry_after': 28}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 28', 'parameters': {'retry_after': 28}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 26', 'parameters': {'retry_after': 26}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 25', 'parameters': {'retry_after': 25}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 24', 'parameters': {'retry_after': 24}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 23', 'parameters': {'retry_after': 23}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 22', 'parameters': {'retry_after': 22}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 21', 'parameters': {'retry_after': 21}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 21', 'parameters': {'retry_after': 21}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 20', 'parameters': {'retry_after': 20}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 20', 'parameters': {'retry_after': 20}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 19', 'parameters': {'retry_after': 19}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 18', 'parameters': {'retry_after': 18}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 17', 'parameters': {'retry_after': 17}}
+============================================================
+Workflow completed with status: completed
+============================================================
+[SITE] wrote index.html (16 images, 4 summaries)
+```
