@@ -29588,3 +29588,32 @@ Workflow completed with status: completed
 ============================================================
 [SITE] wrote index.html (16 images, 4 summaries)
 ```
+
+## 3h @ 2026-09-11 21:02:37 KST — ok (run #1031)
+```
+{'ok': True, 'result': {'message_id': 202715, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1789127996, 'photo': [{'file_id': 'AgACAgUAAyEGAASPJ3n-AAEDF9tqo-08KHlSTPuOE447fGhT4_7lEgACpBprG5k5IVXsceqGeS9VTQEAAwIAA3MAAz0E', 'file_unique_id': 'AQADpBprG5k5IVV4', 'file_size': 1069, 'width': 90, 'height': 46}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEDF9tqo-08KHlSTPuOE447fGhT4_7lEgACpBprG5k5IVXsceqGeS9VTQEAAwIAA20AAz0E', 'file_unique_id': 'AQADpBprG5k5IVVy', 'file_size': 19015, 'width': 320, 'height': 164}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEDF9tqo-08KHlSTPuOE447fGhT4_7lEgACpBprG5k5IVXsceqGeS9VTQEAAwIAA3gAAz0E', 'file_unique_id': 'AQADpBprG5k5IVV9', 'file_size': 94649, 'width': 800, 'height': 411}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEDF9tqo-08KHlSTPuOE447fGhT4_7lEgACpBprG5k5IVXsceqGeS9VTQEAAwIAA3kAAz0E', 'file_unique_id': 'AQADpBprG5k5IVV-', 'file_size': 207550, 'width': 1280, 'height': 657}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEDF9tqo-08KHlSTPuOE447fGhT4_7lEgACpBprG5k5IVXsceqGeS9VTQEAAwIAA3cAAz0E', 'file_unique_id': 'AQADpBprG5k5IVV8', 'file_size': 306779, 'width': 1688, 'height': 866}]}}
+{'ok': True, 'result': {'message_id': 202716, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1789127997, 'text': '📊 te-us-stock-market'}}
+{'ok': True, 'result': {'message_id': 202717, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1789127998, 'text': '미국 주식 선물은 전일 하락 후 안정, 투자자들은 8월 CPI 발표 대기  \n소비자 물가 상승이 예상보다 크면 연준이 다음 주 금리 인상 가능  \n오라클은 실적 호조로 4% 상승, 어도비는 가이던스 약화로 2% 하락'}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 33', 'parameters': {'retry_after': 33}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 32', 'parameters': {'retry_after': 32}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 31', 'parameters': {'retry_after': 31}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 30', 'parameters': {'retry_after': 30}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 30', 'parameters': {'retry_after': 30}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 29', 'parameters': {'retry_after': 29}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 28', 'parameters': {'retry_after': 28}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 27', 'parameters': {'retry_after': 27}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 26', 'parameters': {'retry_after': 26}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 26', 'parameters': {'retry_after': 26}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 25', 'parameters': {'retry_after': 25}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 24', 'parameters': {'retry_after': 24}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 23', 'parameters': {'retry_after': 23}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 23', 'parameters': {'retry_after': 23}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 22', 'parameters': {'retry_after': 22}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 21', 'parameters': {'retry_after': 21}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 21', 'parameters': {'retry_after': 21}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 20', 'parameters': {'retry_after': 20}}
+============================================================
+Workflow completed with status: completed
+============================================================
+[SITE] wrote index.html (16 images, 4 summaries)
+```
