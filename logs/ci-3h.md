@@ -29675,3 +29675,32 @@ Workflow completed with status: completed
 ============================================================
 [SITE] wrote index.html (16 images, 4 summaries)
 ```
+
+## 3h @ 2026-09-12 04:08:26 KST — ok (run #1034)
+```
+{'ok': True, 'result': {'message_id': 202916, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1789153543, 'photo': [{'file_id': 'AgACAgUAAyEGAASPJ3n-AAEDGKRqpFEHp9ezej98mv2JeEvVHiALLwACvhBrG5k5KVW_w2F1Jj_G6QEAAwIAA3MAAz0E', 'file_unique_id': 'AQADvhBrG5k5KVV4', 'file_size': 1182, 'width': 90, 'height': 46}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEDGKRqpFEHp9ezej98mv2JeEvVHiALLwACvhBrG5k5KVW_w2F1Jj_G6QEAAwIAA20AAz0E', 'file_unique_id': 'AQADvhBrG5k5KVVy', 'file_size': 20233, 'width': 320, 'height': 164}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEDGKRqpFEHp9ezej98mv2JeEvVHiALLwACvhBrG5k5KVW_w2F1Jj_G6QEAAwIAA3gAAz0E', 'file_unique_id': 'AQADvhBrG5k5KVV9', 'file_size': 99825, 'width': 800, 'height': 411}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEDGKRqpFEHp9ezej98mv2JeEvVHiALLwACvhBrG5k5KVW_w2F1Jj_G6QEAAwIAA3kAAz0E', 'file_unique_id': 'AQADvhBrG5k5KVV-', 'file_size': 218885, 'width': 1280, 'height': 657}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEDGKRqpFEHp9ezej98mv2JeEvVHiALLwACvhBrG5k5KVW_w2F1Jj_G6QEAAwIAA3cAAz0E', 'file_unique_id': 'AQADvhBrG5k5KVV8', 'file_size': 323316, 'width': 1688, 'height': 866}]}}
+{'ok': True, 'result': {'message_id': 202917, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1789153544, 'text': '📊 te-us-stock-market'}}
+{'ok': True, 'result': {'message_id': 202918, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1789153545, 'text': '미국 주식 금요일 1% 이상 상승, 4일 연속 하락 멈춤  \n장기 국채 금리 하락, 8월 인플레이션 3.4% 유지, 금리 인상 기대  \n오라클 5.5% 급등, 이번 주 다우 -1.4%, S&P·나스닥 -0.6%'}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 35', 'parameters': {'retry_after': 35}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 35', 'parameters': {'retry_after': 35}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 34', 'parameters': {'retry_after': 34}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 33', 'parameters': {'retry_after': 33}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 32', 'parameters': {'retry_after': 32}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 32', 'parameters': {'retry_after': 32}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 31', 'parameters': {'retry_after': 31}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 30', 'parameters': {'retry_after': 30}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 29', 'parameters': {'retry_after': 29}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 29', 'parameters': {'retry_after': 29}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 28', 'parameters': {'retry_after': 28}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 28', 'parameters': {'retry_after': 28}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 27', 'parameters': {'retry_after': 27}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 26', 'parameters': {'retry_after': 26}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 26', 'parameters': {'retry_after': 26}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 25', 'parameters': {'retry_after': 25}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 25', 'parameters': {'retry_after': 25}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 24', 'parameters': {'retry_after': 24}}
+============================================================
+Workflow completed with status: completed
+============================================================
+[SITE] wrote index.html (16 images, 4 summaries)
+```
