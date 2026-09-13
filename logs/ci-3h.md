@@ -30197,3 +30197,32 @@ Workflow completed with status: completed
 ============================================================
 [SITE] wrote index.html (16 images, 4 summaries)
 ```
+
+## 3h @ 2026-09-14 08:53:11 KST — ok (run #1052)
+```
+{'ok': True, 'result': {'message_id': 204153, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1789343445, 'photo': [{'file_id': 'AgACAgUAAyEGAASPJ3n-AAEDGy1qpeJHyFV2V5cGVv1vwcgRZ9p3ZQACehJrG2KHMVWL-mbxZd7m3QEAAwIAA3MAAz0E', 'file_unique_id': 'AQADehJrG2KHMVV4', 'file_size': 1091, 'width': 90, 'height': 36}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEDGy1qpeJHyFV2V5cGVv1vwcgRZ9p3ZQACehJrG2KHMVWL-mbxZd7m3QEAAwIAA20AAz0E', 'file_unique_id': 'AQADehJrG2KHMVVy', 'file_size': 16885, 'width': 320, 'height': 128}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEDGy1qpeJHyFV2V5cGVv1vwcgRZ9p3ZQACehJrG2KHMVWL-mbxZd7m3QEAAwIAA3gAAz0E', 'file_unique_id': 'AQADehJrG2KHMVV9', 'file_size': 81649, 'width': 800, 'height': 319}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEDGy1qpeJHyFV2V5cGVv1vwcgRZ9p3ZQACehJrG2KHMVWL-mbxZd7m3QEAAwIAA3kAAz0E', 'file_unique_id': 'AQADehJrG2KHMVV-', 'file_size': 183428, 'width': 1280, 'height': 510}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEDGy1qpeJHyFV2V5cGVv1vwcgRZ9p3ZQACehJrG2KHMVWL-mbxZd7m3QEAAwIAA3cAAz0E', 'file_unique_id': 'AQADehJrG2KHMVV8', 'file_size': 269848, 'width': 1688, 'height': 673}]}}
+{'ok': True, 'result': {'message_id': 204154, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1789343446, 'text': '📊 te-us-stock-market'}}
+{'ok': True, 'result': {'message_id': 204155, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1789343447, 'text': 'AI 안전 우려로 미국 주식 선물 하락, 연준 정책 회의 주목  \nAnthropic은 개발 속도 늦추라, OpenAI는 올해 상장 안 함  \n에너지·유가 상승에 연준 금리 인상 86% 예상, 석유 파이프라인 폐쇄 영향'}}
+{'ok': True, 'result': {'message_id': 204156, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1789343449, 'text': '📊 cnn-fear-greed'}}
+{'ok': True, 'result': {'message_id': 204157, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1789343450, 'photo': [{'file_id': 'AgACAgUAAyEGAASPJ3n-AAEDFrFqox-DpJ62OwF8vgRoUhEvvtSD0QACmhBrG0eWGFX3LsYbqFJwMgEAAwIAA3MAAz0E', 'file_unique_id': 'AQADmhBrG0eWGFV4', 'file_size': 837, 'width': 90, 'height': 48}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEDFrFqox-DpJ62OwF8vgRoUhEvvtSD0QACmhBrG0eWGFX3LsYbqFJwMgEAAwIAA20AAz0E', 'file_unique_id': 'AQADmhBrG0eWGFVy', 'file_size': 8072, 'width': 320, 'height': 170}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEDFrFqox-DpJ62OwF8vgRoUhEvvtSD0QACmhBrG0eWGFX3LsYbqFJwMgEAAwIAA3gAAz0E', 'file_unique_id': 'AQADmhBrG0eWGFV9', 'file_size': 20300, 'width': 650, 'height': 346}]}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 33', 'parameters': {'retry_after': 33}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 31', 'parameters': {'retry_after': 31}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 31', 'parameters': {'retry_after': 31}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 30', 'parameters': {'retry_after': 30}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 28', 'parameters': {'retry_after': 28}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 27', 'parameters': {'retry_after': 27}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 26', 'parameters': {'retry_after': 26}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 26', 'parameters': {'retry_after': 26}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 25', 'parameters': {'retry_after': 25}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 24', 'parameters': {'retry_after': 24}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 23', 'parameters': {'retry_after': 23}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 23', 'parameters': {'retry_after': 23}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 22', 'parameters': {'retry_after': 22}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 21', 'parameters': {'retry_after': 21}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 20', 'parameters': {'retry_after': 20}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 20', 'parameters': {'retry_after': 20}}
+============================================================
+Workflow completed with status: completed
+============================================================
+[SITE] wrote index.html (16 images, 4 summaries)
+```
