@@ -30371,3 +30371,32 @@ Workflow completed with status: completed
 ============================================================
 [SITE] wrote index.html (16 images, 4 summaries)
 ```
+
+## 3h @ 2026-09-15 01:08:29 KST — ok (run #1058)
+```
+{'ok': True, 'result': {'message_id': 204544, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1789401963, 'photo': [{'file_id': 'AgACAgUAAyEGAASPJ3n-AAEDHwABaqgbao6WNAaqAdTrjklWX4E8ZSMAAsATaxtAjUFVAAH5m2fJZmbgAQADAgADcwADPQQ', 'file_unique_id': 'AQADwBNrG0CNQVV4', 'file_size': 1106, 'width': 90, 'height': 36}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEDHwABaqgbao6WNAaqAdTrjklWX4E8ZSMAAsATaxtAjUFVAAH5m2fJZmbgAQADAgADbQADPQQ', 'file_unique_id': 'AQADwBNrG0CNQVVy', 'file_size': 17279, 'width': 320, 'height': 128}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEDHwABaqgbao6WNAaqAdTrjklWX4E8ZSMAAsATaxtAjUFVAAH5m2fJZmbgAQADAgADeAADPQQ', 'file_unique_id': 'AQADwBNrG0CNQVV9', 'file_size': 85092, 'width': 800, 'height': 319}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEDHwABaqgbao6WNAaqAdTrjklWX4E8ZSMAAsATaxtAjUFVAAH5m2fJZmbgAQADAgADeQADPQQ', 'file_unique_id': 'AQADwBNrG0CNQVV-', 'file_size': 191309, 'width': 1280, 'height': 511}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEDHwABaqgbao6WNAaqAdTrjklWX4E8ZSMAAsATaxtAjUFVAAH5m2fJZmbgAQADAgADdwADPQQ', 'file_unique_id': 'AQADwBNrG0CNQVV8', 'file_size': 279329, 'width': 1680, 'height': 671}]}}
+{'ok': True, 'result': {'message_id': 204545, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1789401964, 'text': '📊 te-us-stock-market'}}
+{'ok': True, 'result': {'message_id': 204546, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1789401965, 'text': 'AI 안전 우려로 미국 주식·S&P·나스닥 하락  \nAI 개발 속도 완화 요구, 반도체·AI 기업 주가 급락  \n장기 금리 상승·연준 금리인상 기대, 에너지 가격 상승'}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 31', 'parameters': {'retry_after': 31}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 30', 'parameters': {'retry_after': 30}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 29', 'parameters': {'retry_after': 29}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 28', 'parameters': {'retry_after': 28}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 28', 'parameters': {'retry_after': 28}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 27', 'parameters': {'retry_after': 27}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 26', 'parameters': {'retry_after': 26}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 25', 'parameters': {'retry_after': 25}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 24', 'parameters': {'retry_after': 24}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 23', 'parameters': {'retry_after': 23}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 22', 'parameters': {'retry_after': 22}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 22', 'parameters': {'retry_after': 22}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 21', 'parameters': {'retry_after': 21}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 20', 'parameters': {'retry_after': 20}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 19', 'parameters': {'retry_after': 19}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 19', 'parameters': {'retry_after': 19}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 18', 'parameters': {'retry_after': 18}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 17', 'parameters': {'retry_after': 17}}
+============================================================
+Workflow completed with status: completed
+============================================================
+[SITE] wrote index.html (16 images, 4 summaries)
+```
