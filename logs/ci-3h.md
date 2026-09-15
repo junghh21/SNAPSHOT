@@ -30429,3 +30429,32 @@ Workflow completed with status: completed
 ============================================================
 [SITE] wrote index.html (16 images, 4 summaries)
 ```
+
+## 3h @ 2026-09-15 09:10:29 KST — ok (run #1060)
+```
+{'ok': True, 'result': {'message_id': 204702, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1789430885, 'photo': [{'file_id': 'AgACAgUAAyEGAASPJ3n-AAEDH55qqIxlteg1RU1HktX0pmr7ohou9QACpRBrG0CNSVU_pKVGIE0BVwEAAwIAA3MAAz0E', 'file_unique_id': 'AQADpRBrG0CNSVV4', 'file_size': 1103, 'width': 90, 'height': 36}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEDH55qqIxlteg1RU1HktX0pmr7ohou9QACpRBrG0CNSVU_pKVGIE0BVwEAAwIAA20AAz0E', 'file_unique_id': 'AQADpRBrG0CNSVVy', 'file_size': 17309, 'width': 320, 'height': 128}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEDH55qqIxlteg1RU1HktX0pmr7ohou9QACpRBrG0CNSVU_pKVGIE0BVwEAAwIAA3gAAz0E', 'file_unique_id': 'AQADpRBrG0CNSVV9', 'file_size': 85661, 'width': 800, 'height': 319}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEDH55qqIxlteg1RU1HktX0pmr7ohou9QACpRBrG0CNSVU_pKVGIE0BVwEAAwIAA3kAAz0E', 'file_unique_id': 'AQADpRBrG0CNSVV-', 'file_size': 192542, 'width': 1280, 'height': 511}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEDH55qqIxlteg1RU1HktX0pmr7ohou9QACpRBrG0CNSVU_pKVGIE0BVwEAAwIAA3cAAz0E', 'file_unique_id': 'AQADpRBrG0CNSVV8', 'file_size': 281568, 'width': 1680, 'height': 671}]}}
+{'ok': True, 'result': {'message_id': 204703, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1789430886, 'text': '📊 te-us-stock-market'}}
+{'ok': True, 'result': {'message_id': 204704, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1789430887, 'text': '미국 주식시장, S&P·나스닥·다우 모두 하락, 반도체 주식 매도 주도.  \nAnthropic·OpenAI·xAI 대표, AI 개발 속도 늦추자 촉구, 위험 우려.  \n10년물 금리 5% 돌파, 원유 상승·인플레이션 우려, 연준 금리인상 예상.'}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 31', 'parameters': {'retry_after': 31}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 30', 'parameters': {'retry_after': 30}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 30', 'parameters': {'retry_after': 30}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 28', 'parameters': {'retry_after': 28}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 28', 'parameters': {'retry_after': 28}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 27', 'parameters': {'retry_after': 27}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 26', 'parameters': {'retry_after': 26}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 25', 'parameters': {'retry_after': 25}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 24', 'parameters': {'retry_after': 24}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 23', 'parameters': {'retry_after': 23}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 22', 'parameters': {'retry_after': 22}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 22', 'parameters': {'retry_after': 22}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 20', 'parameters': {'retry_after': 20}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 19', 'parameters': {'retry_after': 19}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 18', 'parameters': {'retry_after': 18}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 18', 'parameters': {'retry_after': 18}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 17', 'parameters': {'retry_after': 17}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 16', 'parameters': {'retry_after': 16}}
+============================================================
+Workflow completed with status: completed
+============================================================
+[SITE] wrote index.html (16 images, 4 summaries)
+```
