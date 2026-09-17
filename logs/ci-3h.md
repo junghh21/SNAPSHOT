@@ -31009,3 +31009,32 @@ Workflow completed with status: completed
 ============================================================
 [SITE] wrote index.html (16 images, 4 summaries)
 ```
+
+## 3h @ 2026-09-17 19:09:25 KST — ok (run #1081)
+```
+{'ok': True, 'result': {'message_id': 206142, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1789639624, 'photo': [{'file_id': 'AgACAgUAAyEGAASPJ3n-AAEDJT5qq7vIIJU2wD4P4j1cOM0oceXfpQACoBJrGxm3YVWm9szirO-O8gEAAwIAA3MAAz0E', 'file_unique_id': 'AQADoBJrGxm3YVV4', 'file_size': 1018, 'width': 90, 'height': 36}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEDJT5qq7vIIJU2wD4P4j1cOM0oceXfpQACoBJrGxm3YVWm9szirO-O8gEAAwIAA20AAz0E', 'file_unique_id': 'AQADoBJrGxm3YVVy', 'file_size': 16450, 'width': 320, 'height': 128}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEDJT5qq7vIIJU2wD4P4j1cOM0oceXfpQACoBJrGxm3YVWm9szirO-O8gEAAwIAA3gAAz0E', 'file_unique_id': 'AQADoBJrGxm3YVV9', 'file_size': 80448, 'width': 800, 'height': 319}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEDJT5qq7vIIJU2wD4P4j1cOM0oceXfpQACoBJrGxm3YVWm9szirO-O8gEAAwIAA3kAAz0E', 'file_unique_id': 'AQADoBJrGxm3YVV-', 'file_size': 180053, 'width': 1280, 'height': 511}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEDJT5qq7vIIJU2wD4P4j1cOM0oceXfpQACoBJrGxm3YVWm9szirO-O8gEAAwIAA3cAAz0E', 'file_unique_id': 'AQADoBJrGxm3YVV8', 'file_size': 263192, 'width': 1680, 'height': 671}]}}
+{'ok': True, 'result': {'message_id': 206143, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1789639625, 'text': '📊 te-us-stock-market'}}
+{'ok': True, 'result': {'message_id': 206144, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1789639627, 'text': '연준이 3년 만에 금리 인상 후 미국 주식 선물 상승.  \n다우는 0.2%, S&P·나스닥 선물 각각 0.3%·0.5% 상승.  \n제너랙, 아마존 데이터센터 전력 공급 계약 후 장마감 33% 급등.'}}
+{'ok': True, 'result': {'message_id': 206145, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1789639628, 'text': '📊 cnn-fear-greed'}}
+{'ok': True, 'result': {'message_id': 206146, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1789639629, 'photo': [{'file_id': 'AgACAgUAAyEGAASPJ3n-AAEDI45qqw_J5evqERqz6oi-duQU2WKsIgAClRVrG2kRWFUIp6ET6DU0MQEAAwIAA3MAAz0E', 'file_unique_id': 'AQADlRVrG2kRWFV4', 'file_size': 838, 'width': 90, 'height': 48}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEDI45qqw_J5evqERqz6oi-duQU2WKsIgAClRVrG2kRWFUIp6ET6DU0MQEAAwIAA20AAz0E', 'file_unique_id': 'AQADlRVrG2kRWFVy', 'file_size': 7947, 'width': 320, 'height': 170}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEDI45qqw_J5evqERqz6oi-duQU2WKsIgAClRVrG2kRWFUIp6ET6DU0MQEAAwIAA3gAAz0E', 'file_unique_id': 'AQADlRVrG2kRWFV9', 'file_size': 19777, 'width': 650, 'height': 346}]}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 35', 'parameters': {'retry_after': 35}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 34', 'parameters': {'retry_after': 34}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 34', 'parameters': {'retry_after': 34}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 33', 'parameters': {'retry_after': 33}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 32', 'parameters': {'retry_after': 32}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 32', 'parameters': {'retry_after': 32}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 31', 'parameters': {'retry_after': 31}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 31', 'parameters': {'retry_after': 31}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 30', 'parameters': {'retry_after': 30}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 29', 'parameters': {'retry_after': 29}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 29', 'parameters': {'retry_after': 29}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 28', 'parameters': {'retry_after': 28}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 28', 'parameters': {'retry_after': 28}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 27', 'parameters': {'retry_after': 27}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 27', 'parameters': {'retry_after': 27}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 26', 'parameters': {'retry_after': 26}}
+============================================================
+Workflow completed with status: completed
+============================================================
+[SITE] wrote index.html (16 images, 4 summaries)
+```
