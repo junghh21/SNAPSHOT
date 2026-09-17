@@ -30980,3 +30980,32 @@ Workflow completed with status: completed
 ============================================================
 [SITE] wrote index.html (16 images, 4 summaries)
 ```
+
+## 3h @ 2026-09-17 16:08:57 KST — ok (run #1080)
+```
+{'ok': True, 'result': {'message_id': 206056, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1789628755, 'text': '📊 finviz-sec-map'}}
+{'ok': True, 'result': {'message_id': 206057, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1789628757, 'photo': [{'file_id': 'AgACAgUAAyEGAASPJ3n-AAEDI4pqqw_EEit-cZKfgHxzCS_NDH9PmAAClBVrG2kRWFUuhWaLqAob8QEAAwIAA3MAAz0E', 'file_unique_id': 'AQADlBVrG2kRWFV4', 'file_size': 1094, 'width': 90, 'height': 36}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEDI4pqqw_EEit-cZKfgHxzCS_NDH9PmAAClBVrG2kRWFUuhWaLqAob8QEAAwIAA20AAz0E', 'file_unique_id': 'AQADlBVrG2kRWFVy', 'file_size': 17223, 'width': 320, 'height': 128}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEDI4pqqw_EEit-cZKfgHxzCS_NDH9PmAAClBVrG2kRWFUuhWaLqAob8QEAAwIAA3gAAz0E', 'file_unique_id': 'AQADlBVrG2kRWFV9', 'file_size': 84039, 'width': 800, 'height': 319}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEDI4pqqw_EEit-cZKfgHxzCS_NDH9PmAAClBVrG2kRWFUuhWaLqAob8QEAAwIAA3kAAz0E', 'file_unique_id': 'AQADlBVrG2kRWFV-', 'file_size': 187105, 'width': 1280, 'height': 511}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEDI4pqqw_EEit-cZKfgHxzCS_NDH9PmAAClBVrG2kRWFUuhWaLqAob8QEAAwIAA3cAAz0E', 'file_unique_id': 'AQADlBVrG2kRWFV8', 'file_size': 273749, 'width': 1680, 'height': 671}]}}
+{'ok': True, 'result': {'message_id': 206058, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1789628758, 'text': '📊 te-us-stock-market'}}
+{'ok': True, 'result': {'message_id': 206059, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1789628760, 'text': '연준 금리 인상 후 전일 하락을 만회하며 미국 선물 상승.  \n연준은 기준금리를 25bp 인상해 3.75‑4%로 조정, 인플레이션 억제 목표.  \n아마존이 제네랙에 3억4천만 달러 규모 워런트를 발행해 주가 33% 급등.'}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 33', 'parameters': {'retry_after': 33}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 32', 'parameters': {'retry_after': 32}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 32', 'parameters': {'retry_after': 32}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 31', 'parameters': {'retry_after': 31}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 30', 'parameters': {'retry_after': 30}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 30', 'parameters': {'retry_after': 30}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 29', 'parameters': {'retry_after': 29}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 28', 'parameters': {'retry_after': 28}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 27', 'parameters': {'retry_after': 27}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 27', 'parameters': {'retry_after': 27}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 26', 'parameters': {'retry_after': 26}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 25', 'parameters': {'retry_after': 25}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 25', 'parameters': {'retry_after': 25}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 24', 'parameters': {'retry_after': 24}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 24', 'parameters': {'retry_after': 24}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 22', 'parameters': {'retry_after': 22}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 22', 'parameters': {'retry_after': 22}}
+============================================================
+Workflow completed with status: completed
+============================================================
+[SITE] wrote index.html (16 images, 4 summaries)
+```
