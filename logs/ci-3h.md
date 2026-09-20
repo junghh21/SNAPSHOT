@@ -31908,3 +31908,32 @@ Workflow completed with status: completed
 ============================================================
 [SITE] wrote index.html (16 images, 4 summaries)
 ```
+
+## 3h @ 2026-09-20 10:11:36 KST — ok (run #1112)
+```
+{'ok': True, 'result': {'message_id': 208144, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1789866511, 'text': '미국 주요 지수 혼조 마감, 10년물 금리 상승…S&P·나스닥 상승, 다우 하락  \n중동 유가 불확실성으로 에너지 가격 상승, 연준 금리 인상 압박, 은행·자산운용주 하락  \n이번 주 다우 733포인트 하락, 나스닥 2.6% 상승, S&P 0.7% 상승'}}
+{'ok': True, 'result': {'message_id': 208145, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1789866511, 'text': '📊 cnn-fear-greed'}}
+{'ok': True, 'result': {'message_id': 208146, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1789866513, 'photo': [{'file_id': 'AgACAgUAAyEGAASPJ3n-AAEDIQtqqW1ndXarjfFE4BxL1exniQHCewACwBBrG0CNUVUpkM12Gz8eewEAAwIAA3MAAz0E', 'file_unique_id': 'AQADwBBrG0CNUVV4', 'file_size': 842, 'width': 90, 'height': 48}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEDIQtqqW1ndXarjfFE4BxL1exniQHCewACwBBrG0CNUVUpkM12Gz8eewEAAwIAA20AAz0E', 'file_unique_id': 'AQADwBBrG0CNUVVy', 'file_size': 8005, 'width': 320, 'height': 170}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEDIQtqqW1ndXarjfFE4BxL1exniQHCewACwBBrG0CNUVUpkM12Gz8eewEAAwIAA3gAAz0E', 'file_unique_id': 'AQADwBBrG0CNUVV9', 'file_size': 20151, 'width': 650, 'height': 346}]}}
+{'ok': True, 'result': {'message_id': 208147, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1789866514, 'text': '📊 te-natural-gas'}}
+{'ok': True, 'result': {'message_id': 208148, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1789866515, 'photo': [{'file_id': 'AgACAgUAAyEGAASPJ3n-AAEDLN9qrx_64E9jeT7P07U-12KQckkz-QACyhBrG2t0eVUdlUuYpSYovQEAAwIAA3MAAz0E', 'file_unique_id': 'AQADyhBrG2t0eVV4', 'file_size': 856, 'width': 90, 'height': 45}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEDLN9qrx_64E9jeT7P07U-12KQckkz-QACyhBrG2t0eVUdlUuYpSYovQEAAwIAA20AAz0E', 'file_unique_id': 'AQADyhBrG2t0eVVy', 'file_size': 9491, 'width': 320, 'height': 161}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEDLN9qrx_64E9jeT7P07U-12KQckkz-QACyhBrG2t0eVUdlUuYpSYovQEAAwIAA3gAAz0E', 'file_unique_id': 'AQADyhBrG2t0eVV9', 'file_size': 37555, 'width': 800, 'height': 402}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEDLN9qrx_64E9jeT7P07U-12KQckkz-QACyhBrG2t0eVUdlUuYpSYovQEAAwIAA3kAAz0E', 'file_unique_id': 'AQADyhBrG2t0eVV-', 'file_size': 53146, 'width': 1027, 'height': 516}]}}
+{'ok': True, 'result': {'message_id': 208149, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1789866516, 'text': '고온·에어컨 수요로 가스 저장량이 감소해 천연가스 가격이 MMBtu당 $2.90까지 상승.  \n10월 초까지 비정상 고온이 이어져 발전소 가스 수요가 지속될 전망.  \n캄론 LNG 정비로 주요 LNG 수출 흐름이 3주 최저 17.5 bcfd로 감소, 미국 생산은 113.1 bcfd 기록.'}}
+{'ok': True, 'result': {'message_id': 208150, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1789866517, 'text': '📊 te-eu-natural-gas'}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 39', 'parameters': {'retry_after': 39}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 39', 'parameters': {'retry_after': 39}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 38', 'parameters': {'retry_after': 38}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 38', 'parameters': {'retry_after': 38}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 37', 'parameters': {'retry_after': 37}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 37', 'parameters': {'retry_after': 37}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 36', 'parameters': {'retry_after': 36}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 36', 'parameters': {'retry_after': 36}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 35', 'parameters': {'retry_after': 35}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 34', 'parameters': {'retry_after': 34}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 34', 'parameters': {'retry_after': 34}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 33', 'parameters': {'retry_after': 33}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 33', 'parameters': {'retry_after': 33}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 32', 'parameters': {'retry_after': 32}}
+============================================================
+Workflow completed with status: completed
+============================================================
+[SITE] wrote index.html (16 images, 4 summaries)
+```
