@@ -32401,3 +32401,32 @@ Workflow completed with status: completed
 ============================================================
 [SITE] wrote index.html (16 images, 4 summaries)
 ```
+
+## 3h @ 2026-09-21 22:36:39 KST — ok (run #1129)
+```
+{'ok': True, 'result': {'message_id': 209267, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1789997602, 'photo': [{'file_id': 'AgACAgUAAyEGAASPJ3n-AAEDMXNqsTIiy07uq7bItuyqvta7ydx5fwACrBRrGxYZiVVuzr--o5j6BwEAAwIAA3MAAz0E', 'file_unique_id': 'AQADrBRrGxYZiVV4', 'file_size': 1055, 'width': 90, 'height': 38}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEDMXNqsTIiy07uq7bItuyqvta7ydx5fwACrBRrGxYZiVVuzr--o5j6BwEAAwIAA20AAz0E', 'file_unique_id': 'AQADrBRrGxYZiVVy', 'file_size': 17325, 'width': 320, 'height': 136}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEDMXNqsTIiy07uq7bItuyqvta7ydx5fwACrBRrGxYZiVVuzr--o5j6BwEAAwIAA3gAAz0E', 'file_unique_id': 'AQADrBRrGxYZiVV9', 'file_size': 84129, 'width': 800, 'height': 339}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEDMXNqsTIiy07uq7bItuyqvta7ydx5fwACrBRrGxYZiVVuzr--o5j6BwEAAwIAA3kAAz0E', 'file_unique_id': 'AQADrBRrGxYZiVV-', 'file_size': 182900, 'width': 1280, 'height': 542}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEDMXNqsTIiy07uq7bItuyqvta7ydx5fwACrBRrGxYZiVVuzr--o5j6BwEAAwIAA3cAAz0E', 'file_unique_id': 'AQADrBRrGxYZiVV8', 'file_size': 272866, 'width': 1680, 'height': 711}]}}
+{'ok': True, 'result': {'message_id': 209268, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1789997604, 'text': '📊 te-us-stock-market'}}
+{'ok': True, 'result': {'message_id': 209269, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1789997605, 'text': '미국 주식 선물, 유가 하락으로 금리 완화돼 0.6~1% 상승.  \nGCC 외교가 테헤란 연료선 차단 완화, 원유·제품 가격 하락.  \n신용비용 감소로 AI·칩 기업 부채 발행 늘고, 메타·은행 주가 상승.'}}
+{'ok': True, 'result': {'message_id': 209270, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1789997606, 'text': '📊 cnn-fear-greed'}}
+{'ok': True, 'result': {'message_id': 209271, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1789997607, 'photo': [{'file_id': 'AgACAgUAAyEGAASPJ3n-AAEDMJNqsK19eJ-qI0HP7zI04Qfy7DUMggACLxNrGxYZiVWs5g1_QxSOygEAAwIAA3MAAz0E', 'file_unique_id': 'AQADLxNrGxYZiVV4', 'file_size': 842, 'width': 90, 'height': 48}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEDMJNqsK19eJ-qI0HP7zI04Qfy7DUMggACLxNrGxYZiVWs5g1_QxSOygEAAwIAA20AAz0E', 'file_unique_id': 'AQADLxNrGxYZiVVy', 'file_size': 8005, 'width': 320, 'height': 170}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEDMJNqsK19eJ-qI0HP7zI04Qfy7DUMggACLxNrGxYZiVWs5g1_QxSOygEAAwIAA3gAAz0E', 'file_unique_id': 'AQADLxNrGxYZiVV9', 'file_size': 20151, 'width': 650, 'height': 346}]}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 29', 'parameters': {'retry_after': 29}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 27', 'parameters': {'retry_after': 27}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 26', 'parameters': {'retry_after': 26}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 26', 'parameters': {'retry_after': 26}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 25', 'parameters': {'retry_after': 25}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 24', 'parameters': {'retry_after': 24}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 23', 'parameters': {'retry_after': 23}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 22', 'parameters': {'retry_after': 22}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 20', 'parameters': {'retry_after': 20}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 20', 'parameters': {'retry_after': 20}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 19', 'parameters': {'retry_after': 19}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 18', 'parameters': {'retry_after': 18}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 18', 'parameters': {'retry_after': 18}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 17', 'parameters': {'retry_after': 17}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 16', 'parameters': {'retry_after': 16}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 16', 'parameters': {'retry_after': 16}}
+============================================================
+Workflow completed with status: completed
+============================================================
+[SITE] wrote index.html (16 images, 4 summaries)
+```
