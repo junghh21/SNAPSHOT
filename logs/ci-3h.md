@@ -32372,3 +32372,32 @@ Workflow completed with status: completed
 ============================================================
 [SITE] wrote index.html (16 images, 4 summaries)
 ```
+
+## 3h @ 2026-09-21 16:10:16 KST — ok (run #1128)
+```
+{'ok': True, 'result': {'message_id': 209135, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1789974427, 'photo': [{'file_id': 'AgACAgUAAyEGAASPJ3n-AAEDMO9qsNebnXWsjfeEETRULDWqBQcSMAACrRNrGxYZiVWHJsKNMXhNVQEAAwIAA3MAAz0E', 'file_unique_id': 'AQADrRNrGxYZiVV4', 'file_size': 1053, 'width': 90, 'height': 36}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEDMO9qsNebnXWsjfeEETRULDWqBQcSMAACrRNrGxYZiVWHJsKNMXhNVQEAAwIAA20AAz0E', 'file_unique_id': 'AQADrRNrGxYZiVVy', 'file_size': 17141, 'width': 320, 'height': 128}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEDMO9qsNebnXWsjfeEETRULDWqBQcSMAACrRNrGxYZiVWHJsKNMXhNVQEAAwIAA3gAAz0E', 'file_unique_id': 'AQADrRNrGxYZiVV9', 'file_size': 82187, 'width': 800, 'height': 320}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEDMO9qsNebnXWsjfeEETRULDWqBQcSMAACrRNrGxYZiVWHJsKNMXhNVQEAAwIAA3kAAz0E', 'file_unique_id': 'AQADrRNrGxYZiVV-', 'file_size': 180901, 'width': 1280, 'height': 512}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEDMO9qsNebnXWsjfeEETRULDWqBQcSMAACrRNrGxYZiVWHJsKNMXhNVQEAAwIAA3cAAz0E', 'file_unique_id': 'AQADrRNrGxYZiVV8', 'file_size': 266511, 'width': 1680, 'height': 672}]}}
+{'ok': True, 'result': {'message_id': 209136, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1789974428, 'text': '📊 te-us-stock-market'}}
+{'ok': True, 'result': {'message_id': 209137, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1789974429, 'text': '미국 주식 선물은 트럼프·시진핑 정상회담 기대감에 소폭 상승.  \n트럼프는 유엔총회에서 이란 대통령과 만남을 “아마도” 열어줄 가능성 제시.  \n연준이 3년 만에 금리 인상, 유가·채권수익률 상승으로 인플레이션 우려 확대.'}}
+{'ok': True, 'result': {'message_id': 209138, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1789974430, 'text': '📊 cnn-fear-greed'}}
+{'ok': True, 'result': {'message_id': 209139, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1789974431, 'photo': [{'file_id': 'AgACAgUAAyEGAASPJ3n-AAEDMJNqsK19eJ-qI0HP7zI04Qfy7DUMggACLxNrGxYZiVWs5g1_QxSOygEAAwIAA3MAAz0E', 'file_unique_id': 'AQADLxNrGxYZiVV4', 'file_size': 842, 'width': 90, 'height': 48}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEDMJNqsK19eJ-qI0HP7zI04Qfy7DUMggACLxNrGxYZiVWs5g1_QxSOygEAAwIAA20AAz0E', 'file_unique_id': 'AQADLxNrGxYZiVVy', 'file_size': 8005, 'width': 320, 'height': 170}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEDMJNqsK19eJ-qI0HP7zI04Qfy7DUMggACLxNrGxYZiVWs5g1_QxSOygEAAwIAA3gAAz0E', 'file_unique_id': 'AQADLxNrGxYZiVV9', 'file_size': 20151, 'width': 650, 'height': 346}]}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 36', 'parameters': {'retry_after': 36}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 35', 'parameters': {'retry_after': 35}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 35', 'parameters': {'retry_after': 35}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 34', 'parameters': {'retry_after': 34}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 33', 'parameters': {'retry_after': 33}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 33', 'parameters': {'retry_after': 33}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 32', 'parameters': {'retry_after': 32}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 31', 'parameters': {'retry_after': 31}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 30', 'parameters': {'retry_after': 30}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 30', 'parameters': {'retry_after': 30}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 30', 'parameters': {'retry_after': 30}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 29', 'parameters': {'retry_after': 29}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 29', 'parameters': {'retry_after': 29}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 28', 'parameters': {'retry_after': 28}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 27', 'parameters': {'retry_after': 27}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 27', 'parameters': {'retry_after': 27}}
+============================================================
+Workflow completed with status: completed
+============================================================
+[SITE] wrote index.html (16 images, 4 summaries)
+```
