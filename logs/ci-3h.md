@@ -37795,3 +37795,32 @@ Workflow completed with status: completed
 ============================================================
 [SITE] wrote index.html (16 images, 4 summaries)
 ```
+
+## 3h @ 2026-10-10 04:11:15 KST — ok (run #1315)
+```
+{'ok': True, 'result': {'message_id': 222387, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1791572806, 'text': '📊 hull-sentiment-meter'}}
+{'ok': True, 'result': {'message_id': 222388, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1791572807, 'photo': [{'file_id': 'AgACAgUAAyEGAASPJ3n-AAEDYh9qyBP0haKqLe_BWBVrGTlgQaCEZAACNhdrG0FkQVZzCqrPiZk43AEAAwIAA3MAAz0E', 'file_unique_id': 'AQADNhdrG0FkQVZ4', 'file_size': 660, 'width': 90, 'height': 15}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEDYh9qyBP0haKqLe_BWBVrGTlgQaCEZAACNhdrG0FkQVZzCqrPiZk43AEAAwIAA20AAz0E', 'file_unique_id': 'AQADNhdrG0FkQVZy', 'file_size': 5267, 'width': 320, 'height': 54}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEDYh9qyBP0haKqLe_BWBVrGTlgQaCEZAACNhdrG0FkQVZzCqrPiZk43AEAAwIAA3gAAz0E', 'file_unique_id': 'AQADNhdrG0FkQVZ9', 'file_size': 17909, 'width': 800, 'height': 135}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEDYh9qyBP0haKqLe_BWBVrGTlgQaCEZAACNhdrG0FkQVZzCqrPiZk43AEAAwIAA3kAAz0E', 'file_unique_id': 'AQADNhdrG0FkQVZ-', 'file_size': 31735, 'width': 1280, 'height': 216}]}}
+{'ok': True, 'result': {'message_id': 222389, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1791572808, 'text': '📊 finviz-sec-map'}}
+[TELEGRAM] Error sending finviz-sec-map: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+{'ok': True, 'result': {'message_id': 222390, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1791572810, 'text': '📊 cnn-fear-greed'}}
+{'ok': True, 'result': {'message_id': 222391, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1791572812, 'photo': [{'file_id': 'AgACAgUAAyEGAASPJ3n-AAEDZLdqyTtMWuWKmWljb3w_Q6sxKTRRrAACNhhrG0FkSVa-L1oJxmIN5QEAAwIAA3MAAz0E', 'file_unique_id': 'AQADNhhrG0FkSVZ4', 'file_size': 769, 'width': 90, 'height': 48}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEDZLdqyTtMWuWKmWljb3w_Q6sxKTRRrAACNhhrG0FkSVa-L1oJxmIN5QEAAwIAA20AAz0E', 'file_unique_id': 'AQADNhhrG0FkSVZy', 'file_size': 6866, 'width': 320, 'height': 170}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEDZLdqyTtMWuWKmWljb3w_Q6sxKTRRrAACNhhrG0FkSVa-L1oJxmIN5QEAAwIAA3gAAz0E', 'file_unique_id': 'AQADNhhrG0FkSVZ9', 'file_size': 17562, 'width': 650, 'height': 346}]}}
+{'ok': True, 'result': {'message_id': 222392, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1791572813, 'text': '📊 te-natural-gas'}}
+{'ok': True, 'result': {'message_id': 222393, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1791572815, 'photo': [{'file_id': 'AgACAgUAAyEGAASPJ3n-AAEDZLlqyTtPmhEo1hXInZEevhplbhMCRQACNxhrG0FkSVaJGek7IxF2ogEAAwIAA3MAAz0E', 'file_unique_id': 'AQADNxhrG0FkSVZ4', 'file_size': 865, 'width': 90, 'height': 45}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEDZLlqyTtPmhEo1hXInZEevhplbhMCRQACNxhrG0FkSVaJGek7IxF2ogEAAwIAA20AAz0E', 'file_unique_id': 'AQADNxhrG0FkSVZy', 'file_size': 9473, 'width': 320, 'height': 161}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEDZLlqyTtPmhEo1hXInZEevhplbhMCRQACNxhrG0FkSVaJGek7IxF2ogEAAwIAA3gAAz0E', 'file_unique_id': 'AQADNxhrG0FkSVZ9', 'file_size': 38000, 'width': 800, 'height': 402}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEDZLlqyTtPmhEo1hXInZEevhplbhMCRQACNxhrG0FkSVaJGek7IxF2ogEAAwIAA3kAAz0E', 'file_unique_id': 'AQADNxhrG0FkSVZ-', 'file_size': 53860, 'width': 1027, 'height': 516}]}}
+{'ok': True, 'result': {'message_id': 222394, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1791572816, 'text': '📊 te-eu-natural-gas'}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 26', 'parameters': {'retry_after': 26}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 25', 'parameters': {'retry_after': 25}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 24', 'parameters': {'retry_after': 24}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 24', 'parameters': {'retry_after': 24}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 23', 'parameters': {'retry_after': 23}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 22', 'parameters': {'retry_after': 22}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 21', 'parameters': {'retry_after': 21}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 20', 'parameters': {'retry_after': 20}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 19', 'parameters': {'retry_after': 19}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 18', 'parameters': {'retry_after': 18}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 18', 'parameters': {'retry_after': 18}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 17', 'parameters': {'retry_after': 17}}
+============================================================
+Workflow completed with status: completed
+============================================================
+[SITE] wrote index.html (16 images, 4 summaries)
+```
