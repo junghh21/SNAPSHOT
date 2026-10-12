@@ -158963,3 +158963,32 @@ Workflow completed with status: completed
 {'ok': True, 'result': {'message_id': 54465, 'from': {'id': 8490037832, 'is_bot': True, 'first_name': '🚀', 'username': 'Coin_vn1_bot'}, 'chat': {'id': -1003016231971, 'title': '코인그룹', 'type': 'supergroup'}, 'date': 1791837164, 'text': '3VqSS:  0H/s (268401)'}}
 [SITE] wrote index.html (16 images, 4 summaries)
 ```
+
+## 30m @ 2026-10-13 06:08:35 KST — ok (run #5529)
+```
+{'ok': True, 'result': {'message_id': 224449, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1791839042, 'photo': [{'file_id': 'AgACAgUAAyEGAASPJ3n-AAEDbMFqzUtC1HPCz5yZLgyqoAlXG2isxQACURdrG7UNaFYoSvNPTYP-fQEAAwIAA3MAAz0E', 'file_unique_id': 'AQADURdrG7UNaFZ4', 'file_size': 1511, 'width': 79, 'height': 90}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEDbMFqzUtC1HPCz5yZLgyqoAlXG2isxQACURdrG7UNaFYoSvNPTYP-fQEAAwIAA20AAz0E', 'file_unique_id': 'AQADURdrG7UNaFZy', 'file_size': 21115, 'width': 281, 'height': 320}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEDbMFqzUtC1HPCz5yZLgyqoAlXG2isxQACURdrG7UNaFYoSvNPTYP-fQEAAwIAA3gAAz0E', 'file_unique_id': 'AQADURdrG7UNaFZ9', 'file_size': 26406, 'width': 337, 'height': 384}]}}
+{'ok': True, 'result': {'message_id': 224450, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1791839043, 'text': '📊 cboe-vix'}}
+{'ok': True, 'result': {'message_id': 224451, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1791839045, 'photo': [{'file_id': 'AgACAgUAAyEGAASPJ3n-AAEDbKFqzT0s1iV922yc-KjHdhN2ZaLrzgACQxdrG7UNaFbOh6DfT37UxwEAAwIAA3MAAz0E', 'file_unique_id': 'AQADQxdrG7UNaFZ4', 'file_size': 853, 'width': 90, 'height': 51}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEDbKFqzT0s1iV922yc-KjHdhN2ZaLrzgACQxdrG7UNaFbOh6DfT37UxwEAAwIAA20AAz0E', 'file_unique_id': 'AQADQxdrG7UNaFZy', 'file_size': 10369, 'width': 320, 'height': 180}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEDbKFqzT0s1iV922yc-KjHdhN2ZaLrzgACQxdrG7UNaFbOh6DfT37UxwEAAwIAA3gAAz0E', 'file_unique_id': 'AQADQxdrG7UNaFZ9', 'file_size': 44454, 'width': 776, 'height': 437}]}}
+{'ok': True, 'result': {'message_id': 224452, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1791839046, 'photo': [{'file_id': 'AgACAgUAAyEGAASPJ3n-AAEDbK1qzUIIpuqFYz3TMApaVV4blvAYaAACSRdrG7UNaFbl8V64B-o7PwEAAwIAA3MAAz0E', 'file_unique_id': 'AQADSRdrG7UNaFZ4', 'file_size': 817, 'width': 90, 'height': 51}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEDbK1qzUIIpuqFYz3TMApaVV4blvAYaAACSRdrG7UNaFbl8V64B-o7PwEAAwIAA20AAz0E', 'file_unique_id': 'AQADSRdrG7UNaFZy', 'file_size': 9875, 'width': 320, 'height': 180}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEDbK1qzUIIpuqFYz3TMApaVV4blvAYaAACSRdrG7UNaFbl8V64B-o7PwEAAwIAA3gAAz0E', 'file_unique_id': 'AQADSRdrG7UNaFZ9', 'file_size': 47353, 'width': 776, 'height': 437}]}}
+{'ok': True, 'result': {'message_id': 224453, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1791839047, 'text': '📊 tradingview-ng-futures'}}
+{'ok': True, 'result': {'message_id': 224454, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1791839050, 'photo': [{'file_id': 'AgACAgUAAyEGAASPJ3n-AAEDbMZqzUtKt0WM4tzwM12D0gdEhBkpFAACUhdrG7UNaFbkMH43RUllmgEAAwIAA3MAAz0E', 'file_unique_id': 'AQADUhdrG7UNaFZ4', 'file_size': 771, 'width': 90, 'height': 38}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEDbMZqzUtKt0WM4tzwM12D0gdEhBkpFAACUhdrG7UNaFbkMH43RUllmgEAAwIAA20AAz0E', 'file_unique_id': 'AQADUhdrG7UNaFZy', 'file_size': 8739, 'width': 320, 'height': 134}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEDbMZqzUtKt0WM4tzwM12D0gdEhBkpFAACUhdrG7UNaFbkMH43RUllmgEAAwIAA3gAAz0E', 'file_unique_id': 'AQADUhdrG7UNaFZ9', 'file_size': 35243, 'width': 800, 'height': 335}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEDbMZqzUtKt0WM4tzwM12D0gdEhBkpFAACUhdrG7UNaFbkMH43RUllmgEAAwIAA3kAAz0E', 'file_unique_id': 'AQADUhdrG7UNaFZ-', 'file_size': 71114, 'width': 1280, 'height': 536}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEDbMZqzUtKt0WM4tzwM12D0gdEhBkpFAACUhdrG7UNaFbkMH43RUllmgEAAwIAA3cAAz0E', 'file_unique_id': 'AQADUhdrG7UNaFZ8', 'file_size': 98836, 'width': 1720, 'height': 720}]}}
+{'ok': True, 'result': {'message_id': 224455, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1791839051, 'text': '❌ vixcentral-term: Failed to capture element with xpath: #container1', 'entities': [{'offset': 57, 'length': 11, 'type': 'hashtag'}]}}
+============================================================
+Workflow completed with status: completed
+============================================================
+[SITE] wrote index.html (16 images, 4 summaries)
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+  File "/__w/SNAPSHOT/SNAPSHOT/src/main.py", line 186, in job_coin
+    data = json.loads(decoded_line[6:])
+  File "/usr/local/lib/python3.10/json/__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+  File "/usr/local/lib/python3.10/json/decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/local/lib/python3.10/json/decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+{'ok': True, 'result': {'message_id': 54466, 'from': {'id': 8490037832, 'is_bot': True, 'first_name': '🚀', 'username': 'Coin_vn1_bot'}, 'chat': {'id': -1003016231971, 'title': '코인그룹', 'type': 'supergroup'}, 'date': 1791839053, 'text': 'Bitcoin: $82,971.42'}}
+{'ok': True, 'result': {'message_id': 54467, 'from': {'id': 8490037832, 'is_bot': True, 'first_name': '🚀', 'username': 'Coin_vn1_bot'}, 'chat': {'id': -1003016231971, 'title': '코인그룹', 'type': 'supergroup'}, 'date': 1791839055, 'text': 'Ethereum: $2,514.05'}}
+[SITE] wrote index.html (16 images, 4 summaries)
+```
