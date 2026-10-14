@@ -161196,3 +161196,32 @@ Workflow completed with status: completed
 {'ok': True, 'result': {'message_id': 54695, 'from': {'id': 8490037832, 'is_bot': True, 'first_name': '🚀', 'username': 'Coin_vn1_bot'}, 'chat': {'id': -1003016231971, 'title': '코인그룹', 'type': 'supergroup'}, 'date': 1791988441, 'text': '3VqSS:  0H/s (268401)'}}
 [SITE] wrote index.html (16 images, 4 summaries)
 ```
+
+## 30m @ 2026-10-15 00:08:36 KST — FAILED (run #5606)
+```
+[VALIDATE] vixcentral-term: Capture failed, needs repair
+[DECIDE] Retry 2/2 for vixcentral-term
+[REPAIR] Agent initialized with model: qwen/qwen3.6-27b
+[REPAIR] Analysis failed for vixcentral-term: Error code: 404 - {'error': {'message': 'The model `qwen/qwen3.6-27b` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}
+[REPAIR] vixcentral-term: no repair available, will plain-retry
+_shoot_xpath error: Locator.screenshot: Timeout 29993ms exceeded.
+Call log:
+  - taking element screenshot
+  - waiting for fonts to load...
+
+[CAPTURE] Failed: vixcentral-term - Failed to capture element with xpath: #container1
+[VALIDATE] vixcentral-term: Capture failed, needs repair
+[DECIDE] Max retries (2) exhausted for vixcentral-term, moving on
+[SELECT] Processing target 5/5: tradingview-ng-futures
+[CAPTURE] Success: tradingview-ng-futures - 1 image(s)
+[DECIDE] Success, moving to next target
+[SELECT] All 5 targets processed
+[FINALIZE] Workflow complete: 4/5 successful captures
+[MAIN] Critical error: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+{'ok': True, 'result': {'message_id': 225812, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1791990220, 'text': "❌ WORKFLOW FAILED: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"}}
+[SITE] wrote index.html (16 images, 4 summaries)
+{'ok': True, 'result': {'message_id': 54696, 'from': {'id': 8490037832, 'is_bot': True, 'first_name': '🚀', 'username': 'Coin_vn1_bot'}, 'chat': {'id': -1003016231971, 'title': '코인그룹', 'type': 'supergroup'}, 'date': 1791990222, 'text': 'Bitcoin: $81,756.87'}}
+{'ok': True, 'result': {'message_id': 54697, 'from': {'id': 8490037832, 'is_bot': True, 'first_name': '🚀', 'username': 'Coin_vn1_bot'}, 'chat': {'id': -1003016231971, 'title': '코인그룹', 'type': 'supergroup'}, 'date': 1791990223, 'text': 'Ethereum: $2,426.10'}}
+{'ok': True, 'result': {'message_id': 54698, 'from': {'id': 8490037832, 'is_bot': True, 'first_name': '🚀', 'username': 'Coin_vn1_bot'}, 'chat': {'id': -1003016231971, 'title': '코인그룹', 'type': 'supergroup'}, 'date': 1791990226, 'text': '3VqSS:  0H/s (268401)'}}
+[SITE] wrote index.html (16 images, 4 summaries)
+```
