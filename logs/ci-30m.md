@@ -163574,3 +163574,32 @@ Workflow completed with status: completed
 {'ok': True, 'result': {'message_id': 54941, 'from': {'id': 8490037832, 'is_bot': True, 'first_name': '🚀', 'username': 'Coin_vn1_bot'}, 'chat': {'id': -1003016231971, 'title': '코인그룹', 'type': 'supergroup'}, 'date': 1792144865, 'text': '3VqSS:  0H/s (268401)'}}
 [SITE] wrote index.html (16 images, 4 summaries)
 ```
+
+## 30m @ 2026-10-16 19:09:12 KST — ok (run #5688)
+```
+[DECIDE] Max retries (2) exhausted for vixcentral-term, moving on
+[SELECT] Processing target 5/5: tradingview-ng-futures
+[CAPTURE] Success: tradingview-ng-futures - 1 image(s)
+[DECIDE] Success, moving to next target
+[SELECT] All 5 targets processed
+[FINALIZE] Workflow complete: 4/5 successful captures
+{'ok': True, 'result': {'message_id': 227259, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1792145180, 'text': '[MARKET UPDATE] 4/5 captures successful'}}
+{'ok': True, 'result': {'message_id': 227261, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1792145181, 'text': '📊 tradingview-es-futures'}}
+{'ok': True, 'result': {'message_id': 227263, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1792145183, 'photo': [{'file_id': 'AgACAgUAAyEGAASPJ3n-AAEDd79q0fcfNI_-QV4gQcO_H3MNvwIQxgACGhJrG1PFkVZWDk-_0d5z1gEAAwIAA3MAAz0E', 'file_unique_id': 'AQADGhJrG1PFkVZ4', 'file_size': 769, 'width': 90, 'height': 38}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEDd79q0fcfNI_-QV4gQcO_H3MNvwIQxgACGhJrG1PFkVZWDk-_0d5z1gEAAwIAA20AAz0E', 'file_unique_id': 'AQADGhJrG1PFkVZy', 'file_size': 7970, 'width': 320, 'height': 134}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEDd79q0fcfNI_-QV4gQcO_H3MNvwIQxgACGhJrG1PFkVZWDk-_0d5z1gEAAwIAA3gAAz0E', 'file_unique_id': 'AQADGhJrG1PFkVZ9', 'file_size': 32399, 'width': 800, 'height': 335}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEDd79q0fcfNI_-QV4gQcO_H3MNvwIQxgACGhJrG1PFkVZWDk-_0d5z1gEAAwIAA3kAAz0E', 'file_unique_id': 'AQADGhJrG1PFkVZ-', 'file_size': 66208, 'width': 1280, 'height': 536}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEDd79q0fcfNI_-QV4gQcO_H3MNvwIQxgACGhJrG1PFkVZWDk-_0d5z1gEAAwIAA3cAAz0E', 'file_unique_id': 'AQADGhJrG1PFkVZ8', 'file_size': 91981, 'width': 1720, 'height': 720}]}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 34', 'parameters': {'retry_after': 34}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 33', 'parameters': {'retry_after': 33}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 33', 'parameters': {'retry_after': 33}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 32', 'parameters': {'retry_after': 32}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 31', 'parameters': {'retry_after': 31}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 30', 'parameters': {'retry_after': 30}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 29', 'parameters': {'retry_after': 29}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 29', 'parameters': {'retry_after': 29}}
+============================================================
+Workflow completed with status: completed
+============================================================
+[SITE] wrote index.html (16 images, 4 summaries)
+{'ok': True, 'result': {'message_id': 54942, 'from': {'id': 8490037832, 'is_bot': True, 'first_name': '🚀', 'username': 'Coin_vn1_bot'}, 'chat': {'id': -1003016231971, 'title': '코인그룹', 'type': 'supergroup'}, 'date': 1792145190, 'text': 'Bitcoin: $81,837.65'}}
+{'ok': True, 'result': {'message_id': 54943, 'from': {'id': 8490037832, 'is_bot': True, 'first_name': '🚀', 'username': 'Coin_vn1_bot'}, 'chat': {'id': -1003016231971, 'title': '코인그룹', 'type': 'supergroup'}, 'date': 1792145192, 'text': 'Ethereum: $2,445.98'}}
+{'ok': True, 'result': {'message_id': 54944, 'from': {'id': 8490037832, 'is_bot': True, 'first_name': '🚀', 'username': 'Coin_vn1_bot'}, 'chat': {'id': -1003016231971, 'title': '코인그룹', 'type': 'supergroup'}, 'date': 1792145193, 'text': '3VqSS:  0H/s (268401)'}}
+[SITE] wrote index.html (16 images, 4 summaries)
+```
