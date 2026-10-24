@@ -42609,3 +42609,32 @@ Workflow completed with status: completed
 ============================================================
 [SITE] wrote index.html (16 images, 4 summaries)
 ```
+
+## 3h @ 2026-10-24 22:11:20 KST — ok (run #1481)
+```
+{'ok': True, 'result': {'message_id': 234333, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1792847167, 'text': '📊 hull-sentiment-meter'}}
+{'ok': True, 'result': {'message_id': 234334, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1792847168, 'photo': [{'file_id': 'AgACAgUAAyEGAASPJ3n-AAEDkQlq29Zo2dJFEFUqnmFoQzXSmI9J-wACQhNrG18n4FYNbPkWWfGOjgEAAwIAA3MAAz0E', 'file_unique_id': 'AQADQhNrG18n4FZ4', 'file_size': 672, 'width': 90, 'height': 15}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEDkQlq29Zo2dJFEFUqnmFoQzXSmI9J-wACQhNrG18n4FYNbPkWWfGOjgEAAwIAA20AAz0E', 'file_unique_id': 'AQADQhNrG18n4FZy', 'file_size': 5337, 'width': 320, 'height': 54}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEDkQlq29Zo2dJFEFUqnmFoQzXSmI9J-wACQhNrG18n4FYNbPkWWfGOjgEAAwIAA3gAAz0E', 'file_unique_id': 'AQADQhNrG18n4FZ9', 'file_size': 18223, 'width': 800, 'height': 135}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEDkQlq29Zo2dJFEFUqnmFoQzXSmI9J-wACQhNrG18n4FYNbPkWWfGOjgEAAwIAA3kAAz0E', 'file_unique_id': 'AQADQhNrG18n4FZ-', 'file_size': 31787, 'width': 1280, 'height': 216}]}}
+{'ok': True, 'result': {'message_id': 234335, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1792847169, 'text': '📊 finviz-sec-map'}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 24', 'parameters': {'retry_after': 24}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 23', 'parameters': {'retry_after': 23}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 22', 'parameters': {'retry_after': 22}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 22', 'parameters': {'retry_after': 22}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 21', 'parameters': {'retry_after': 21}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 21', 'parameters': {'retry_after': 21}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 20', 'parameters': {'retry_after': 20}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 19', 'parameters': {'retry_after': 19}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 19', 'parameters': {'retry_after': 19}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 18', 'parameters': {'retry_after': 18}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 17', 'parameters': {'retry_after': 17}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 17', 'parameters': {'retry_after': 17}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 16', 'parameters': {'retry_after': 16}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 15', 'parameters': {'retry_after': 15}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 14', 'parameters': {'retry_after': 14}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 14', 'parameters': {'retry_after': 14}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 14', 'parameters': {'retry_after': 14}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 13', 'parameters': {'retry_after': 13}}
+============================================================
+Workflow completed with status: completed
+============================================================
+[SITE] wrote index.html (16 images, 4 summaries)
+```
