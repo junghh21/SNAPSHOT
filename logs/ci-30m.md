@@ -181293,3 +181293,32 @@ Workflow completed with status: completed
 {'ok': True, 'result': {'message_id': 56781, 'from': {'id': 8490037832, 'is_bot': True, 'first_name': '🚀', 'username': 'Coin_vn1_bot'}, 'chat': {'id': -1003016231971, 'title': '코인그룹', 'type': 'supergroup'}, 'date': 1793392352, 'text': '3VqSS:  0H/s (268401)'}}
 [SITE] wrote index.html (16 images, 4 summaries)
 ```
+
+## 30m @ 2026-10-31 06:13:00 KST — ok (run #6304)
+```
+[SELECT] Processing target 5/5: tradingview-ng-futures
+[CAPTURE] Success: tradingview-ng-futures - 1 image(s)
+[DECIDE] Success, moving to next target
+[SELECT] All 5 targets processed
+[FINALIZE] Workflow complete: 5/5 successful captures
+{'ok': True, 'result': {'message_id': 237631, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1793394130, 'text': '[MARKET UPDATE] 5/5 captures successful'}}
+{'ok': True, 'result': {'message_id': 237632, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1793394131, 'text': '📊 tradingview-es-futures'}}
+{'ok': False, 'error_code': 504, 'description': 'Gateway Timeout'}
+{'ok': False, 'error_code': 502, 'description': 'Bad Gateway'}
+{'ok': False, 'error_code': 502, 'description': 'Bad Gateway'}
+{'ok': False, 'error_code': 502, 'description': 'Bad Gateway'}
+{'ok': False, 'error_code': 502, 'description': 'Bad Gateway'}
+{'ok': False, 'error_code': 502, 'description': 'Bad Gateway'}
+{'ok': False, 'error_code': 502, 'description': 'Bad Gateway'}
+{'ok': False, 'error_code': 502, 'description': 'Bad Gateway'}
+{'ok': False, 'error_code': 502, 'description': 'Bad Gateway'}
+{'ok': False, 'error_code': 502, 'description': 'Bad Gateway'}
+============================================================
+Workflow completed with status: completed
+============================================================
+[SITE] wrote index.html (16 images, 4 summaries)
+{'ok': True, 'result': {'message_id': 56782, 'from': {'id': 8490037832, 'is_bot': True, 'first_name': '🚀', 'username': 'Coin_vn1_bot'}, 'chat': {'id': -1003016231971, 'title': '코인그룹', 'type': 'supergroup'}, 'date': 1793394395, 'text': 'Bitcoin: $76,838.10'}}
+{'ok': True, 'result': {'message_id': 56783, 'from': {'id': 8490037832, 'is_bot': True, 'first_name': '🚀', 'username': 'Coin_vn1_bot'}, 'chat': {'id': -1003016231971, 'title': '코인그룹', 'type': 'supergroup'}, 'date': 1793394396, 'text': 'Ethereum: $2,239.50'}}
+{'ok': True, 'result': {'message_id': 56784, 'from': {'id': 8490037832, 'is_bot': True, 'first_name': '🚀', 'username': 'Coin_vn1_bot'}, 'chat': {'id': -1003016231971, 'title': '코인그룹', 'type': 'supergroup'}, 'date': 1793394398, 'text': '3VqSS:  0H/s (268401)'}}
+[SITE] wrote index.html (16 images, 4 summaries)
+```
