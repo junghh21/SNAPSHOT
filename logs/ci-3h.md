@@ -44987,3 +44987,32 @@ Workflow completed with status: completed
 ============================================================
 [SITE] wrote index.html (16 images, 4 summaries)
 ```
+
+## 3h @ 2026-11-03 01:09:10 KST — FAILED (run #1563)
+```
+[DECIDE] Success, moving to next target
+[SELECT] Processing target 15/17: te-gold
+  Groq summary error: Error code: 404 - {'error': {'message': 'The model `groq/compound-mini` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}
+[CAPTURE] Success: te-gold - 1 image(s)
+[DECIDE] Success, moving to next target
+[SELECT] Processing target 16/17: te-us-bond-yield
+  Groq summary error: Error code: 404 - {'error': {'message': 'The model `groq/compound-mini` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}
+[CAPTURE] Summary failed: te-us-bond-yield
+[VALIDATE] te-us-bond-yield: summary missing, needs repair
+[DECIDE] Retry 2/2 for te-us-bond-yield
+[REPAIR] Agent initialized with model: qwen/qwen3.6-27b
+[REPAIR] Analysis failed for te-us-bond-yield: Error code: 404 - {'error': {'message': 'The model `qwen/qwen3.6-27b` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}
+[REPAIR] te-us-bond-yield: no repair available, will plain-retry
+  Groq summary error: Error code: 404 - {'error': {'message': 'The model `groq/compound-mini` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}
+[CAPTURE] Summary failed: te-us-bond-yield
+[VALIDATE] te-us-bond-yield: summary missing, needs repair
+[DECIDE] Max retries (2) exhausted for te-us-bond-yield, moving on
+[SELECT] Processing target 17/17: coingecko-top
+[CAPTURE] Success: coingecko-top - 1 image(s)
+[DECIDE] Success, moving to next target
+[SELECT] All 17 targets processed
+[FINALIZE] Workflow complete: 14/17 successful captures
+[MAIN] Critical error: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+{'ok': True, 'result': {'message_id': 239913, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1793635519, 'text': "❌ WORKFLOW FAILED: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"}}
+[SITE] wrote index.html (16 images, 4 summaries)
+```
