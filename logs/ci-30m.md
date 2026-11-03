@@ -187064,3 +187064,32 @@ Workflow completed with status: completed
 {'ok': True, 'result': {'message_id': 57377, 'from': {'id': 8490037832, 'is_bot': True, 'first_name': '🚀', 'username': 'Coin_vn1_bot'}, 'chat': {'id': -1003016231971, 'title': '코인그룹', 'type': 'supergroup'}, 'date': 1793720002, 'text': '3VqSS:  0H/s (268401)'}}
 [SITE] wrote index.html (16 images, 4 summaries)
 ```
+
+## 30m @ 2026-11-04 01:14:34 KST — FAILED (run #6503)
+```
+  File "/__w/SNAPSHOT/SNAPSHOT/src/__LANGGRAPH/runner.py", line 200, in main
+    send_results_to_telegram(state)
+  File "/__w/SNAPSHOT/SNAPSHOT/src/__LANGGRAPH/runner.py", line 143, in send_results_to_telegram
+    telegram_send_message(error_msg)
+  File "/__w/SNAPSHOT/SNAPSHOT/src/__COMMON/telegram_req.py", line 33, in telegram_send_message
+    response = requests.post(url, data={'chat_id': c_id, 'text': message})
+  File "/usr/local/lib/python3.10/site-packages/requests/api.py", line 134, in post
+    return request("post", url, data=data, json=json, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/requests/api.py", line 71, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/requests/sessions.py", line 651, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/usr/local/lib/python3.10/site-packages/requests/sessions.py", line 784, in send
+    r = adapter.send(request, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/requests/adapters.py", line 711, in send
+    raise ConnectionError(err, request=request)
+requests.exceptions.ConnectionError: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+{'ok': True, 'result': {'message_id': 240722, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1793721835, 'photo': [{'file_id': 'AgACAgUAAyEGAASPJ3n-AAEDrFJq6gXrh3SMKKY-KNsft5_Lecbr1gACLhVrG6CAUFdS-RWI5zOiCQEAAwIAA3MAAz0E', 'file_unique_id': 'AQADLhVrG6CAUFd4', 'file_size': 719, 'width': 90, 'height': 38}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEDrFJq6gXrh3SMKKY-KNsft5_Lecbr1gACLhVrG6CAUFdS-RWI5zOiCQEAAwIAA20AAz0E', 'file_unique_id': 'AQADLhVrG6CAUFdy', 'file_size': 7683, 'width': 320, 'height': 134}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEDrFJq6gXrh3SMKKY-KNsft5_Lecbr1gACLhVrG6CAUFdS-RWI5zOiCQEAAwIAA3gAAz0E', 'file_unique_id': 'AQADLhVrG6CAUFd9', 'file_size': 30534, 'width': 800, 'height': 335}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEDrFJq6gXrh3SMKKY-KNsft5_Lecbr1gACLhVrG6CAUFdS-RWI5zOiCQEAAwIAA3kAAz0E', 'file_unique_id': 'AQADLhVrG6CAUFd-', 'file_size': 63275, 'width': 1280, 'height': 536}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEDrFJq6gXrh3SMKKY-KNsft5_Lecbr1gACLhVrG6CAUFdS-RWI5zOiCQEAAwIAA3cAAz0E', 'file_unique_id': 'AQADLhVrG6CAUFd8', 'file_size': 86093, 'width': 1720, 'height': 720}]}}
+[MAIN] Critical error: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+{'ok': True, 'result': {'message_id': 240723, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1793721837, 'text': "❌ WORKFLOW FAILED: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"}}
+[SITE] wrote index.html (16 images, 4 summaries)
+{'ok': True, 'result': {'message_id': 57378, 'from': {'id': 8490037832, 'is_bot': True, 'first_name': '🚀', 'username': 'Coin_vn1_bot'}, 'chat': {'id': -1003016231971, 'title': '코인그룹', 'type': 'supergroup'}, 'date': 1793721839, 'text': 'Bitcoin: XAU19.71'}}
+{'ok': True, 'result': {'message_id': 57379, 'from': {'id': 8490037832, 'is_bot': True, 'first_name': '🚀', 'username': 'Coin_vn1_bot'}, 'chat': {'id': -1003016231971, 'title': '코인그룹', 'type': 'supergroup'}, 'date': 1793721841, 'text': 'Ethereum: $2,295.95'}}
+{'ok': True, 'result': {'message_id': 57380, 'from': {'id': 8490037832, 'is_bot': True, 'first_name': '🚀', 'username': 'Coin_vn1_bot'}, 'chat': {'id': -1003016231971, 'title': '코인그룹', 'type': 'supergroup'}, 'date': 1793721842, 'text': '3VqSS:  0H/s (268401)'}}
+[SITE] wrote index.html (16 images, 4 summaries)
+```
