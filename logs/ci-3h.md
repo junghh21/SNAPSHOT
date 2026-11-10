@@ -47394,3 +47394,32 @@ Workflow completed with status: completed
 ============================================================
 [SITE] wrote index.html (16 images, 4 summaries)
 ```
+
+## 3h @ 2026-11-11 01:14:45 KST — ok (run #1649)
+```
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 26', 'parameters': {'retry_after': 26}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 24', 'parameters': {'retry_after': 24}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 23', 'parameters': {'retry_after': 23}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 22', 'parameters': {'retry_after': 22}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 21', 'parameters': {'retry_after': 21}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 20', 'parameters': {'retry_after': 20}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 19', 'parameters': {'retry_after': 19}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 18', 'parameters': {'retry_after': 18}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 18', 'parameters': {'retry_after': 18}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 16', 'parameters': {'retry_after': 16}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 16', 'parameters': {'retry_after': 16}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 15', 'parameters': {'retry_after': 15}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 14', 'parameters': {'retry_after': 14}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 13', 'parameters': {'retry_after': 13}}
+[TELEGRAM] Error sending te-gold: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+{'ok': True, 'result': {'message_id': 246185, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1794326803, 'text': '📊 coingecko-top'}}
+{'ok': True, 'result': {'message_id': 246186, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1794326805, 'photo': [{'file_id': 'AgACAgUAAyEGAASPJ3n-AAEDwapq80EVmE0N16_ahICGsl5X1WffRQACWRVrG6wRmVf5MI7kpStJegEAAwIAA3MAAz0E', 'file_unique_id': 'AQADWRVrG6wRmVd4', 'file_size': 946, 'width': 90, 'height': 38}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEDwapq80EVmE0N16_ahICGsl5X1WffRQACWRVrG6wRmVf5MI7kpStJegEAAwIAA20AAz0E', 'file_unique_id': 'AQADWRVrG6wRmVdy', 'file_size': 9287, 'width': 320, 'height': 134}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEDwapq80EVmE0N16_ahICGsl5X1WffRQACWRVrG6wRmVf5MI7kpStJegEAAwIAA3gAAz0E', 'file_unique_id': 'AQADWRVrG6wRmVd9', 'file_size': 12765, 'width': 407, 'height': 170}]}}
+{'ok': True, 'result': {'message_id': 246187, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1794326806, 'text': '❌ vixcentral-term: Failed to capture element with xpath: #container1', 'entities': [{'offset': 57, 'length': 11, 'type': 'hashtag'}]}}
+{'ok': True, 'result': {'message_id': 246188, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1794326807, 'text': '❌ hull-sentiment-meter: Failed to capture element with xpath: .progress-bar'}}
+{'ok': True, 'result': {'message_id': 246189, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1794326808, 'text': '❌ te-us-stock-market: summary returned empty'}}
+{'ok': True, 'result': {'message_id': 246190, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1794326809, 'text': '❌ te-us-bond-yield: summary returned empty'}}
+============================================================
+Workflow completed with status: completed
+============================================================
+[SITE] wrote index.html (16 images, 4 summaries)
+```
