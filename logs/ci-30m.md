@@ -202463,3 +202463,32 @@ Workflow completed with status: completed
 {'ok': True, 'result': {'message_id': 58632, 'from': {'id': 8490037832, 'is_bot': True, 'first_name': '🚀', 'username': 'Coin_vn1_bot'}, 'chat': {'id': -1003016231971, 'title': '코인그룹', 'type': 'supergroup'}, 'date': 1794684720, 'text': '3VqSS:  0H/s (268401)'}}
 [SITE] wrote index.html (16 images, 4 summaries)
 ```
+
+## 30m @ 2026-11-15 05:10:37 KST — ok (run #7045)
+```
+    self._sslobj.do_handshake()
+urllib3.exceptions.ProtocolError: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+  File "/__w/SNAPSHOT/SNAPSHOT/src/main.py", line 196, in job_coin
+    telegram_send_message (f"{W[-5:]}:  {hr}H/s ({paid:.0f})", coin_bot_token, coin_chat_id)
+  File "/__w/SNAPSHOT/SNAPSHOT/src/__COMMON/telegram_req.py", line 33, in telegram_send_message
+    response = requests.post(url, data={'chat_id': c_id, 'text': message})
+  File "/usr/local/lib/python3.10/site-packages/requests/api.py", line 134, in post
+    return request("post", url, data=data, json=json, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/requests/api.py", line 71, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/requests/sessions.py", line 651, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/usr/local/lib/python3.10/site-packages/requests/sessions.py", line 784, in send
+    r = adapter.send(request, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/requests/adapters.py", line 711, in send
+    raise ConnectionError(err, request=request)
+requests.exceptions.ConnectionError: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+{'ok': True, 'result': {'message_id': 58633, 'from': {'id': 8490037832, 'is_bot': True, 'first_name': '🚀', 'username': 'Coin_vn1_bot'}, 'chat': {'id': -1003016231971, 'title': '코인그룹', 'type': 'supergroup'}, 'date': 1794686535, 'text': 'Bitcoin: $65,773.56'}}
+{'ok': True, 'result': {'message_id': 58634, 'from': {'id': 8490037832, 'is_bot': True, 'first_name': '🚀', 'username': 'Coin_vn1_bot'}, 'chat': {'id': -1003016231971, 'title': '코인그룹', 'type': 'supergroup'}, 'date': 1794686536, 'text': 'Ethereum: $1,836.55'}}
+[SITE] wrote index.html (16 images, 4 summaries)
+```
