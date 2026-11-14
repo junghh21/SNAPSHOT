@@ -17,7 +17,7 @@ permissions:
   packages: read
 
 concurrency:
-  group: snap-30m
+  group: snap-capture
   cancel-in-progress: false
 
 jobs:
@@ -78,8 +78,14 @@ jobs:
           touch .nojekyll
           git add -A
           git commit -qm "dashboard(30m): ${ts}" || { echo "no dashboard change"; exit 0; }
-          git pull --rebase origin gh-pages || true
-          git push origin gh-pages
+          n=0
+          until [ "$n" -ge 5 ]; do
+            git pull --rebase -X theirs origin gh-pages && git push origin gh-pages && break
+            git rebase --abort 2>/dev/null || true
+            n=$((n+1))
+            sleep $((n*5))
+          done
+          [ "$n" -lt 5 ]
 
       - name: Record CI log on main
         if: always()
@@ -100,5 +106,11 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add logs/ci-30m.md
           git commit -m "ci(30m): ${ts} ${status} [skip ci]" || exit 0
-          git pull --rebase --autostash origin main || true
-          git push
+          n=0
+          until [ "$n" -ge 5 ]; do
+            git pull --rebase -X theirs origin main && git push origin main && break
+            git rebase --abort 2>/dev/null || true
+            n=$((n+1))
+            sleep $((n*5))
+          done
+          [ "$n" -lt 5 ]
