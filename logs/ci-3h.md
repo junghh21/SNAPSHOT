@@ -48960,3 +48960,32 @@ Workflow completed with status: completed
 ============================================================
 [SITE] wrote index.html (16 images, 4 summaries)
 ```
+
+## 3h @ 2026-11-16 01:21:03 KST — FAILED (run #1707)
+```
+    return session.request(method=method, url=url, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/requests/sessions.py", line 651, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/usr/local/lib/python3.10/site-packages/requests/sessions.py", line 784, in send
+    r = adapter.send(request, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/requests/adapters.py", line 711, in send
+    raise ConnectionError(err, request=request)
+requests.exceptions.ConnectionError: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+{'ok': True, 'result': {'message_id': 250106, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1794759258, 'text': '📊 finviz-sec-map'}}
+{'ok': True, 'result': {'message_id': 250107, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1794759260, 'photo': [{'file_id': 'AgACAgUAAyEGAASPJ3n-AAEDy6Vq94rPL7dMVn6zOYjxV7OdHAcxOQACfRJrG7UtwFfLwnVpnJW8iwEAAwIAA3MAAz0E', 'file_unique_id': 'AQADfRJrG7UtwFd4', 'file_size': 1067, 'width': 90, 'height': 40}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEDy6Vq94rPL7dMVn6zOYjxV7OdHAcxOQACfRJrG7UtwFfLwnVpnJW8iwEAAwIAA20AAz0E', 'file_unique_id': 'AQADfRJrG7UtwFdy', 'file_size': 18856, 'width': 320, 'height': 143}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEDy6Vq94rPL7dMVn6zOYjxV7OdHAcxOQACfRJrG7UtwFfLwnVpnJW8iwEAAwIAA3gAAz0E', 'file_unique_id': 'AQADfRJrG7UtwFd9', 'file_size': 91106, 'width': 800, 'height': 357}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEDy6Vq94rPL7dMVn6zOYjxV7OdHAcxOQACfRJrG7UtwFfLwnVpnJW8iwEAAwIAA3kAAz0E', 'file_unique_id': 'AQADfRJrG7UtwFd-', 'file_size': 196400, 'width': 1280, 'height': 571}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEDy6Vq94rPL7dMVn6zOYjxV7OdHAcxOQACfRJrG7UtwFfLwnVpnJW8iwEAAwIAA3cAAz0E', 'file_unique_id': 'AQADfRJrG7UtwFd8', 'file_size': 295218, 'width': 1680, 'height': 750}]}}
+{'ok': True, 'result': {'message_id': 250108, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1794759261, 'text': '📊 te-us-stock-market'}}
+{'ok': True, 'result': {'message_id': 250109, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1794759263, 'text': '미국 증시가 금요일 반도체 주식 매도세에 S&P‑500·나스닥 하락, 다우는 소폭 상승했다.  \n엔비디아 CEO 사임·규제 조사 등 위기로 주가 급락, 브로드컴·AMD·마이크론도 동반 하락.  \nPPI 상승으로 에너지 가격·공장비용 상승, 연준 금리 인상 기대가 커졌다.'}}
+{'ok': True, 'result': {'message_id': 250110, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1794759267, 'text': '📊 cnn-fear-greed'}}
+{'ok': True, 'result': {'message_id': 250111, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1794759269, 'photo': [{'file_id': 'AgACAgUAAyEGAASPJ3n-AAEDyg9q9uIu4RhXgRg1UCrP3KjVpT5aeQACKxVrG7UtuFcBIr5aaKykoQEAAwIAA3MAAz0E', 'file_unique_id': 'AQADKxVrG7UtuFd4', 'file_size': 855, 'width': 90, 'height': 48}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEDyg9q9uIu4RhXgRg1UCrP3KjVpT5aeQACKxVrG7UtuFcBIr5aaKykoQEAAwIAA20AAz0E', 'file_unique_id': 'AQADKxVrG7UtuFdy', 'file_size': 7964, 'width': 320, 'height': 170}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEDyg9q9uIu4RhXgRg1UCrP3KjVpT5aeQACKxVrG7UtuFcBIr5aaKykoQEAAwIAA3gAAz0E', 'file_unique_id': 'AQADKxVrG7UtuFd9', 'file_size': 20135, 'width': 650, 'height': 346}]}}
+{'ok': True, 'result': {'message_id': 250112, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1794759270, 'text': '📊 natgasweather-temp'}}
+{'ok': True, 'result': {'message_id': 250113, 'from': {'id': 6615365735, 'is_bot': True, 'first_name': '__GET', 'username': 'Noti_log1_bot'}, 'chat': {'id': -1002401729022, 'title': '노티그룹', 'type': 'supergroup'}, 'date': 1794759271, 'photo': [{'file_id': 'AgACAgUAAyEGAASPJ3n-AAEDxJ9q9Kgv0YI7JPDo7S9OwjA7mq5nNgACVxdrG2UxoFdSH5LVhLBxPQEAAwIAA3MAAz0E', 'file_unique_id': 'AQADVxdrG2UxoFd4', 'file_size': 1295, 'width': 90, 'height': 50}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEDxJ9q9Kgv0YI7JPDo7S9OwjA7mq5nNgACVxdrG2UxoFdSH5LVhLBxPQEAAwIAA20AAz0E', 'file_unique_id': 'AQADVxdrG2UxoFdy', 'file_size': 11634, 'width': 320, 'height': 179}, {'file_id': 'AgACAgUAAyEGAASPJ3n-AAEDxJ9q9Kgv0YI7JPDo7S9OwjA7mq5nNgACVxdrG2UxoFdSH5LVhLBxPQEAAwIAA3gAAz0E', 'file_unique_id': 'AQADVxdrG2UxoFd9', 'file_size': 12364, 'width': 346, 'height': 194}]}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 23', 'parameters': {'retry_after': 23}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 22', 'parameters': {'retry_after': 22}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 21', 'parameters': {'retry_after': 21}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 21', 'parameters': {'retry_after': 21}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 20', 'parameters': {'retry_after': 20}}
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 19', 'parameters': {'retry_after': 19}}
+[MAIN] Critical error: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+{'ok': False, 'error_code': 429, 'description': 'Too Many Requests: retry after 16', 'parameters': {'retry_after': 16}}
+[SITE] wrote index.html (16 images, 4 summaries)
+```
