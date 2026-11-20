@@ -209568,3 +209568,32 @@ Workflow completed with status: completed
 {'ok': True, 'result': {'message_id': 59366, 'from': {'id': 8490037832, 'is_bot': True, 'first_name': '🚀', 'username': 'Coin_vn1_bot'}, 'chat': {'id': -1003016231971, 'title': '코인그룹', 'type': 'supergroup'}, 'date': 1795137594, 'text': '3VqSS:  0H/s (268401)'}}
 [SITE] wrote index.html (16 images, 4 summaries)
 ```
+
+## 30m @ 2026-11-20 10:46:11 KST — ok (run #7291)
+```
+[SELECT] Processing target 5/5: tradingview-ng-futures
+[CAPTURE] Success: tradingview-ng-futures - 1 image(s)
+[DECIDE] Success, moving to next target
+[SELECT] All 5 targets processed
+[FINALIZE] Workflow complete: 5/5 successful captures
+{'ok': False, 'error_code': 502, 'description': 'Bad Gateway'}
+{'ok': False, 'error_code': 502, 'description': 'Bad Gateway'}
+{'ok': False, 'error_code': 502, 'description': 'Bad Gateway'}
+{'ok': False, 'error_code': 502, 'description': 'Bad Gateway'}
+{'ok': False, 'error_code': 502, 'description': 'Bad Gateway'}
+{'ok': False, 'error_code': 502, 'description': 'Bad Gateway'}
+{'ok': False, 'error_code': 502, 'description': 'Bad Gateway'}
+{'ok': False, 'error_code': 502, 'description': 'Bad Gateway'}
+{'ok': False, 'error_code': 502, 'description': 'Bad Gateway'}
+{'ok': False, 'error_code': 502, 'description': 'Bad Gateway'}
+{'ok': False, 'error_code': 502, 'description': 'Bad Gateway'}
+{'ok': False, 'error_code': 504, 'description': 'Gateway Timeout'}
+============================================================
+Workflow completed with status: completed
+============================================================
+[SITE] wrote index.html (16 images, 4 summaries)
+{'ok': True, 'result': {'message_id': 59367, 'from': {'id': 8490037832, 'is_bot': True, 'first_name': '🚀', 'username': 'Coin_vn1_bot'}, 'chat': {'id': -1003016231971, 'title': '코인그룹', 'type': 'supergroup'}, 'date': 1795138617, 'text': 'Bitcoin: $62,284.60'}}
+{'ok': True, 'result': {'message_id': 59368, 'from': {'id': 8490037832, 'is_bot': True, 'first_name': '🚀', 'username': 'Coin_vn1_bot'}, 'chat': {'id': -1003016231971, 'title': '코인그룹', 'type': 'supergroup'}, 'date': 1795138618, 'text': 'Ethereum: $1,759.27'}}
+{'ok': True, 'result': {'message_id': 59369, 'from': {'id': 8490037832, 'is_bot': True, 'first_name': '🚀', 'username': 'Coin_vn1_bot'}, 'chat': {'id': -1003016231971, 'title': '코인그룹', 'type': 'supergroup'}, 'date': 1795138619, 'text': '3VqSS:  0H/s (268401)'}}
+[SITE] wrote index.html (16 images, 4 summaries)
+```
